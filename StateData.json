@@ -1,0 +1,206 @@
+[
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21
+        ],
+        "ForbiddenAbility": [],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            7
+        ],
+        "ForbiddenAbility": [],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            9
+        ],
+        "ForbiddenAbility": [],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            11
+        ],
+        "ForbiddenAbility": [],
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            13
+        ],
+        "ForbiddenAbility": [],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            15
+        ],
+        "ForbiddenAbility": [],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            17
+        ],
+        "ForbiddenAbility": [],
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [
+            1
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            19
+        ],
+        "ForbiddenAbility": [],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            21
+        ],
+        "ForbiddenAbility": [],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "StateExclusion": [
+            24
+        ],
+        "ForbiddenAbility": [],
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 999,
+        "Name": null
+    }
+]

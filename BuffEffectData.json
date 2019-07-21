@@ -1,0 +1,1604 @@
+[
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 99999999,
+                        "damageReduceRatio": 0.0,
+                        "defenceType": 0,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_A11-L纸盾",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007,
+                        10004
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000020,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 0,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 0,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_A11-L纸盾",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007,
+                        10004
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000021,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 375,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 0,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_惠特妮盾开",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_惠特妮盾",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 550001601
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_惠特妮盾关",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000160,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "childActions": [
+                        {
+                            "equips": [
+                                1
+                            ],
+                            "animationName": "xuanyun1",
+                            "loop": false,
+                            "loopTime": 1,
+                            "lifeTime": 0.0,
+                            "mix": 0.0,
+                            "stopMove": false,
+                            "stopControl": false,
+                            "idleWhenEnd": false,
+                            "finishImmediately": false,
+                            "autoAim": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        },
+                        {
+                            "childActions": [
+                                {
+                                    "time": 1.0,
+                                    "instanceID": 0,
+                                    "currentStatus": 0
+                                },
+                                {
+                                    "equips": [
+                                        1
+                                    ],
+                                    "animationName": "xuanyun2",
+                                    "loop": true,
+                                    "loopTime": 10,
+                                    "lifeTime": 0.0,
+                                    "mix": 0.0,
+                                    "stopMove": false,
+                                    "stopControl": false,
+                                    "idleWhenEnd": false,
+                                    "finishImmediately": false,
+                                    "autoAim": false,
+                                    "instanceID": 0,
+                                    "currentStatus": 0
+                                }
+                            ],
+                            "CanRunParallelChildren": false,
+                            "canExecute": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        },
+                        {
+                            "equips": [
+                                1
+                            ],
+                            "animationName": "xuanyun3",
+                            "loop": false,
+                            "loopTime": 1,
+                            "lifeTime": 0.0,
+                            "mix": 0.0,
+                            "stopMove": false,
+                            "stopControl": false,
+                            "idleWhenEnd": true,
+                            "finishImmediately": false,
+                            "autoAim": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        }
+                    ],
+                    "CanRunParallelChildren": false,
+                    "canExecute": false,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10008,
+                        10001
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000240,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 1,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 1,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_圆盾",
+                                    "scale": 0.8
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 550002501
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000250,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_音乐",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000500,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_音乐",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000501,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/01其他_魔法球护盾",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": false,
+                        "extraSortingOrder": 10
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 2,
+                    "useTargetZPosition": false,
+                    "positionType": 2,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": {
+                        "delayTime": 0.0,
+                        "delayStopTime": 0.0,
+                        "removeWhenAnimationEnd": true,
+                        "soundID": 550006402
+                    },
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000640,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 375,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 0,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "00其他_琳戈尔盾",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "jiku",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000870,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续回血",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010001,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续火烧",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010002,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续腐蚀",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010003,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续冰霜",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010004,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续眩晕",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "head",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "childActions": [
+                        {
+                            "equips": [
+                                9
+                            ],
+                            "animationName": "xuanyun1",
+                            "loop": false,
+                            "loopTime": 1,
+                            "lifeTime": 0.0,
+                            "mix": 0.0,
+                            "stopMove": true,
+                            "stopControl": true,
+                            "idleWhenEnd": false,
+                            "finishImmediately": false,
+                            "autoAim": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        },
+                        {
+                            "equips": [
+                                9
+                            ],
+                            "animationName": "xuanyun2",
+                            "loop": true,
+                            "loopTime": 0,
+                            "lifeTime": 0.0,
+                            "mix": 0.0,
+                            "stopMove": true,
+                            "stopControl": true,
+                            "idleWhenEnd": false,
+                            "finishImmediately": false,
+                            "autoAim": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        },
+                        {
+                            "equips": [
+                                9
+                            ],
+                            "animationName": "xuanyun3",
+                            "loop": false,
+                            "loopTime": 1,
+                            "lifeTime": 0.0,
+                            "mix": 0.0,
+                            "stopMove": true,
+                            "stopControl": true,
+                            "idleWhenEnd": true,
+                            "finishImmediately": false,
+                            "autoAim": false,
+                            "instanceID": 0,
+                            "currentStatus": 0
+                        }
+                    ],
+                    "CanRunParallelChildren": false,
+                    "canExecute": false,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010005,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续麻痹",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010006,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续混乱",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "head",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010007,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续被嘲讽",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "addon",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010008,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续束缚",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "addon",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010009,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续辐射",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "addon",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010010,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_磁场护盾",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010011,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_瞬发治疗",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010012,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "Common/Buff_Boss狂暴",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": false,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010013,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 0,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 0,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_屏障精英护盾",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 7,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36020001,
+        "Name": null
+    }
+]

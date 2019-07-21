@@ -1,0 +1,314 @@
+[
+    {
+        "EnumerateName": "壁垒武器",
+        "ChineseShow": "重型盾牌",
+        "ID": 1,
+        "Name": "EquipSubType0"
+    },
+    {
+        "EnumerateName": "片手武器",
+        "ChineseShow": "轻型盾牌",
+        "ID": 2,
+        "Name": "EquipSubType1"
+    },
+    {
+        "EnumerateName": "突击武器",
+        "ChineseShow": "轻型近战",
+        "ID": 3,
+        "Name": "EquipSubType2"
+    },
+    {
+        "EnumerateName": "强袭武器",
+        "ChineseShow": "重型近战",
+        "ID": 4,
+        "Name": "EquipSubType3"
+    },
+    {
+        "EnumerateName": "机枪武器",
+        "ChineseShow": "重型枪械",
+        "ID": 5,
+        "Name": "EquipSubType4"
+    },
+    {
+        "EnumerateName": "冲锋武器",
+        "ChineseShow": "轻型枪械",
+        "ID": 6,
+        "Name": "EquipSubType5"
+    },
+    {
+        "EnumerateName": "狙击武器",
+        "ChineseShow": "狙击武器",
+        "ID": 7,
+        "Name": "EquipSubType6"
+    },
+    {
+        "EnumerateName": "火炮武器",
+        "ChineseShow": "火炮武器",
+        "ID": 8,
+        "Name": "EquipSubType7"
+    },
+    {
+        "EnumerateName": "投射武器",
+        "ChineseShow": "投射武器",
+        "ID": 9,
+        "Name": "EquipSubType8"
+    },
+    {
+        "EnumerateName": "轻型输出胸甲",
+        "ChineseShow": "轻型胸甲",
+        "ID": 10,
+        "Name": "EquipSubType9"
+    },
+    {
+        "EnumerateName": "中型输出胸甲",
+        "ChineseShow": "中型胸甲",
+        "ID": 11,
+        "Name": "EquipSubType10"
+    },
+    {
+        "EnumerateName": "重型输出胸甲",
+        "ChineseShow": "重型胸甲",
+        "ID": 12,
+        "Name": "EquipSubType11"
+    },
+    {
+        "EnumerateName": "中型生存胸甲",
+        "ChineseShow": "中型胸甲",
+        "ID": 13,
+        "Name": "EquipSubType12"
+    },
+    {
+        "EnumerateName": "重型生存胸甲",
+        "ChineseShow": "重型胸甲",
+        "ID": 14,
+        "Name": "EquipSubType13"
+    },
+    {
+        "EnumerateName": "轻型输出腿甲",
+        "ChineseShow": "轻型腿甲",
+        "ID": 15,
+        "Name": "EquipSubType14"
+    },
+    {
+        "EnumerateName": "中型输出腿甲",
+        "ChineseShow": "中型腿甲",
+        "ID": 16,
+        "Name": "EquipSubType15"
+    },
+    {
+        "EnumerateName": "重型输出腿甲",
+        "ChineseShow": "重型腿甲",
+        "ID": 17,
+        "Name": "EquipSubType16"
+    },
+    {
+        "EnumerateName": "中型生存腿甲",
+        "ChineseShow": "中型腿甲",
+        "ID": 18,
+        "Name": "EquipSubType17"
+    },
+    {
+        "EnumerateName": "重型生存腿甲",
+        "ChineseShow": "重型腿甲",
+        "ID": 19,
+        "Name": "EquipSubType18"
+    },
+    {
+        "EnumerateName": "轻型输出挂载",
+        "ChineseShow": "轻型挂载",
+        "ID": 20,
+        "Name": "EquipSubType19"
+    },
+    {
+        "EnumerateName": "中型输出挂载",
+        "ChineseShow": "中型挂载",
+        "ID": 21,
+        "Name": "EquipSubType20"
+    },
+    {
+        "EnumerateName": "重型输出挂载",
+        "ChineseShow": "重型挂载",
+        "ID": 22,
+        "Name": "EquipSubType21"
+    },
+    {
+        "EnumerateName": "中型生存挂载",
+        "ChineseShow": "中型挂载",
+        "ID": 23,
+        "Name": "EquipSubType22"
+    },
+    {
+        "EnumerateName": "重型生存挂载",
+        "ChineseShow": "重型挂载",
+        "ID": 24,
+        "Name": "EquipSubType23"
+    },
+    {
+        "EnumerateName": "生存配件",
+        "ChineseShow": "生存芯片",
+        "ID": 25,
+        "Name": "EquipSubType24"
+    },
+    {
+        "EnumerateName": "输出配件",
+        "ChineseShow": "输出芯片",
+        "ID": 26,
+        "Name": "EquipSubType25"
+    },
+    {
+        "EnumerateName": "守护",
+        "ChineseShow": "守护",
+        "ID": 27,
+        "Name": "ProfessionType0"
+    },
+    {
+        "EnumerateName": "格斗",
+        "ChineseShow": "格斗",
+        "ID": 28,
+        "Name": "ProfessionType1"
+    },
+    {
+        "EnumerateName": "射击",
+        "ChineseShow": "射击",
+        "ID": 29,
+        "Name": "ProfessionType2"
+    },
+    {
+        "EnumerateName": "爆破",
+        "ChineseShow": "爆破",
+        "ID": 30,
+        "Name": "ProfessionType3"
+    },
+    {
+        "EnumerateName": "狙击",
+        "ChineseShow": "狙击",
+        "ID": 31,
+        "Name": "ProfessionType4"
+    },
+    {
+        "EnumerateName": "轰炸",
+        "ChineseShow": "轰炸",
+        "ID": 32,
+        "Name": "ProfessionType5"
+    },
+    {
+        "EnumerateName": "武器",
+        "ChineseShow": "武器",
+        "ID": 33,
+        "Name": "EquipType0"
+    },
+    {
+        "EnumerateName": "胸甲",
+        "ChineseShow": "胸甲",
+        "ID": 34,
+        "Name": "EquipType1"
+    },
+    {
+        "EnumerateName": "腿甲",
+        "ChineseShow": "腿甲",
+        "ID": 35,
+        "Name": "EquipType2"
+    },
+    {
+        "EnumerateName": "挂载",
+        "ChineseShow": "挂载",
+        "ID": 36,
+        "Name": "EquipType3"
+    },
+    {
+        "EnumerateName": "配件",
+        "ChineseShow": "芯片",
+        "ID": 37,
+        "Name": "EquipType4"
+    },
+    {
+        "EnumerateName": "Blacark",
+        "ChineseShow": "神秘阵营",
+        "ID": 38,
+        "Name": "GirlCamp0"
+    },
+    {
+        "EnumerateName": "Paranoid",
+        "ChineseShow": "帕拉诺伊德",
+        "ID": 39,
+        "Name": "GirlCamp1"
+    },
+    {
+        "EnumerateName": "HHED",
+        "ChineseShow": "健康快乐每一天",
+        "ID": 40,
+        "Name": "GirlCamp2"
+    },
+    {
+        "EnumerateName": "Haxel",
+        "ChineseShow": "海克塞尔",
+        "ID": 41,
+        "Name": "GirlCamp3"
+    },
+    {
+        "EnumerateName": "Arita",
+        "ChineseShow": "爱蕾塔",
+        "ID": 42,
+        "Name": "GirlCamp4"
+    },
+    {
+        "EnumerateName": "Kegha",
+        "ChineseShow": "克格亚",
+        "ID": 43,
+        "Name": "GirlCamp5"
+    },
+    {
+        "EnumerateName": "NoGenera",
+        "ChineseShow": "无所属",
+        "ID": 44,
+        "Name": "GirlCamp6"
+    },
+    {
+        "EnumerateName": "Normal",
+        "ChineseShow": "芯片",
+        "ID": 45,
+        "Name": "WidgetCamp1"
+    },
+    {
+        "EnumerateName": "Blacark",
+        "ChineseShow": "神秘阵营",
+        "ID": 46,
+        "Name": "WidgetCamp2"
+    },
+    {
+        "EnumerateName": "Paranoid",
+        "ChineseShow": "帕拉诺伊德",
+        "ID": 47,
+        "Name": "WidgetCamp3"
+    },
+    {
+        "EnumerateName": "HHED",
+        "ChineseShow": "健康快乐每一天",
+        "ID": 48,
+        "Name": "WidgetCamp4"
+    },
+    {
+        "EnumerateName": "Haxel",
+        "ChineseShow": "海克塞尔",
+        "ID": 49,
+        "Name": "WidgetCamp5"
+    },
+    {
+        "EnumerateName": "Arita",
+        "ChineseShow": "爱蕾塔",
+        "ID": 50,
+        "Name": "WidgetCamp6"
+    },
+    {
+        "EnumerateName": "Kegha",
+        "ChineseShow": "克格亚",
+        "ID": 51,
+        "Name": "WidgetCamp7"
+    },
+    {
+        "EnumerateName": "NoGenera",
+        "ChineseShow": "无所属",
+        "ID": 52,
+        "Name": "WidgetCamp8"
+    }
+]

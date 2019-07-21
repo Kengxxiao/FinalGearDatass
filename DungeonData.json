@@ -1,0 +1,87 @@
+[
+    {
+        "DungeonStageGroup": [
+            8004001,
+            8004002,
+            8004003,
+            8004004
+        ],
+        "Title": "副本",
+        "DungeonName": "不要停下来",
+        "Disc": "一定有人好奇艾达究竟是如何成为强盗团长的。",
+        "DungeonShopID": 1004,
+        "UnlockStageID": 10202,
+        "BossID": 4,
+        "SuitsResID": "Armor_000040",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "DungeonStageGroup": [
+            8008001,
+            8008002,
+            8008003,
+            8008004
+        ],
+        "Title": "副本",
+        "DungeonName": "狭路相逢",
+        "Disc": "这是个海克塞尔内战时期的故事。",
+        "DungeonShopID": 1008,
+        "UnlockStageID": 10201,
+        "BossID": 8,
+        "SuitsResID": "Armor_000090",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "DungeonStageGroup": [
+            8013001,
+            8013002,
+            8013003,
+            8013004
+        ],
+        "Title": "副本",
+        "DungeonName": "领主的烦恼",
+        "Disc": "艾丝梅拉达可不会放任其他人在自己的领土内胡闹。",
+        "DungeonShopID": 1013,
+        "UnlockStageID": 20201,
+        "BossID": 13,
+        "SuitsResID": "Armor_000050",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "DungeonStageGroup": [
+            8031001,
+            8031002,
+            8031003,
+            8031004
+        ],
+        "Title": "副本",
+        "DungeonName": "天才的要求",
+        "Disc": "天晓得如果伊芙琳拒绝了爱塔的测试要求后会发生什么事情。",
+        "DungeonShopID": 1031,
+        "UnlockStageID": 30201,
+        "BossID": 31,
+        "SuitsResID": "Armor_000060",
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "DungeonStageGroup": [
+            8055001,
+            8055002,
+            8055003,
+            8055004
+        ],
+        "Title": "副本",
+        "DungeonName": "初次测试",
+        "Disc": "从改造手术中恢复过来的薇欧蕾特，第一时间提出了机体测试要求。",
+        "DungeonShopID": 1055,
+        "UnlockStageID": 40201,
+        "BossID": 55,
+        "SuitsResID": "Armor_000100",
+        "ID": 55,
+        "Name": null
+    }
+]

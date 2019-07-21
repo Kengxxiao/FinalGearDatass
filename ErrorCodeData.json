@@ -1,0 +1,1118 @@
+[
+    {
+        "Disc": "操作成功",
+        "Title": "系统提示",
+        "IsShow": false,
+        "ParaName": "OK",
+        "Memo": "",
+        "ID": 0,
+        "Name": null
+    },
+    {
+        "Disc": "服务器不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NoSuchServer",
+        "Memo": "",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Disc": "你的账号在另一地点登录，已被迫下线",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "DupLogin",
+        "Memo": "账号在其他地方登录",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Disc": "登录渠道不合法",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NoSuchRetailType",
+        "Memo": "",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Disc": "激活码无效",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "InvaildActivationCode",
+        "Memo": "",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Disc": "账户已被冻结",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "AccountIsFrozen",
+        "Memo": "",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Disc": "Session过期",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SessionExpires",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Disc": "登录失败",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "LoginFail",
+        "Memo": "获取UserId出错",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Disc": "服务器维护中",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ServerMaintenance",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Disc": "服务器爆满",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ServerFull",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Disc": "非法用户",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "IllegalUser",
+        "Memo": "",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Disc": "请求非法",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TokenVerifyError",
+        "Memo": "需要把玩家踢到主界面(token验证失败)",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Disc": "未知错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "Unknown",
+        "Memo": "请为网关预留[1,255]这些位的异常码",
+        "ID": 255,
+        "Name": null
+    },
+    {
+        "Disc": "服务器内部错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ServerError",
+        "Memo": "",
+        "ID": 500,
+        "Name": null
+    },
+    {
+        "Disc": "对象数据不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotExists",
+        "Memo": "",
+        "ID": 501,
+        "Name": null
+    },
+    {
+        "Disc": "参数错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ParamError",
+        "Memo": "",
+        "ID": 502,
+        "Name": null
+    },
+    {
+        "Disc": "配置错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ConfigError",
+        "Memo": "",
+        "ID": 503,
+        "Name": null
+    },
+    {
+        "Disc": "晶石不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CrystalNotEnough",
+        "Memo": "",
+        "ID": 511,
+        "Name": null
+    },
+    {
+        "Disc": "金币不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CoinsNotEnough",
+        "Memo": "",
+        "ID": 512,
+        "Name": null
+    },
+    {
+        "Disc": "超出上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "OverTheLimit",
+        "Memo": "",
+        "ID": 520,
+        "Name": null
+    },
+    {
+        "Disc": "部件素材不能被穿着",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetMaterialNotDressed",
+        "Memo": "",
+        "ID": 601,
+        "Name": null
+    },
+    {
+        "Disc": "强化等级上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "IntensifyLevelLimit",
+        "Memo": "",
+        "ID": 602,
+        "Name": null
+    },
+    {
+        "Disc": "最后一个机娘不能下阵",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "LastGirlNotDown",
+        "Memo": "",
+        "ID": 603,
+        "Name": null
+    },
+    {
+        "Disc": "物品数量不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemNumNotEnough",
+        "Memo": "",
+        "ID": 604,
+        "Name": null
+    },
+    {
+        "Disc": "道具类型错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemTypeError",
+        "Memo": "",
+        "ID": 605,
+        "Name": null
+    },
+    {
+        "Disc": "道具未找到",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemNotFound",
+        "Memo": "",
+        "ID": 606,
+        "Name": null
+    },
+    {
+        "Disc": "星级上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "StarLevelLimit",
+        "Memo": "",
+        "ID": 607,
+        "Name": null
+    },
+    {
+        "Disc": "突破等级不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BrekthoughLevelNotEnough",
+        "Memo": "",
+        "ID": 608,
+        "Name": null
+    },
+    {
+        "Disc": "背包不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PackageNotEnough",
+        "Memo": "",
+        "ID": 609,
+        "Name": null
+    },
+    {
+        "Disc": "未在战斗中",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotInBattle",
+        "Memo": "",
+        "ID": 610,
+        "Name": null
+    },
+    {
+        "Disc": "当前小队正在战斗中无法进行配置",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BattleGroupInFighting",
+        "Memo": "",
+        "ID": 611,
+        "Name": null
+    },
+    {
+        "Disc": "关卡战斗中",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "StageFighting",
+        "Memo": "",
+        "ID": 612,
+        "Name": null
+    },
+    {
+        "Disc": "任务未开放",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MissionNotOpen",
+        "Memo": "",
+        "ID": 613,
+        "Name": null
+    },
+    {
+        "Disc": "前置关卡未完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PreStageNotComplete",
+        "Memo": "",
+        "ID": 614,
+        "Name": null
+    },
+    {
+        "Disc": "电量不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PowerNotEnough",
+        "Memo": "",
+        "ID": 615,
+        "Name": null
+    },
+    {
+        "Disc": "碎片不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "FragmentNumNotEnough",
+        "Memo": "",
+        "ID": 616,
+        "Name": null
+    },
+    {
+        "Disc": "接取任务等级限制",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MissionLevelLimit",
+        "Memo": "",
+        "ID": 617,
+        "Name": null
+    },
+    {
+        "Disc": "该道具不可出售",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemNotSell",
+        "Memo": "",
+        "ID": 618,
+        "Name": null
+    },
+    {
+        "Disc": "该道具不可使用",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemNotUse",
+        "Memo": "",
+        "ID": 619,
+        "Name": null
+    },
+    {
+        "Disc": "该邮件已领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MailGeted",
+        "Memo": "",
+        "ID": 620,
+        "Name": null
+    },
+    {
+        "Disc": "装备组不可以激活",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetGroupNotActivate",
+        "Memo": "",
+        "ID": 621,
+        "Name": null
+    },
+    {
+        "Disc": "装备不能分解",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetNotResolve",
+        "Memo": "",
+        "ID": 622,
+        "Name": null
+    },
+    {
+        "Disc": "目标角色电量不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TargetGirlPowerNotEnough",
+        "Memo": "",
+        "ID": 623,
+        "Name": null
+    },
+    {
+        "Disc": "招募队列已达上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RecruitQueueLimit",
+        "Memo": "",
+        "ID": 624,
+        "Name": null
+    },
+    {
+        "Disc": "建造队列已达上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BuildQueueLimit",
+        "Memo": "",
+        "ID": 625,
+        "Name": null
+    },
+    {
+        "Disc": "购买碎片时没有此机师",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGirl",
+        "Memo": "",
+        "ID": 626,
+        "Name": null
+    },
+    {
+        "Disc": "性别输入错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SexInputError",
+        "Memo": "",
+        "ID": 627,
+        "Name": null
+    },
+    {
+        "Disc": "不能装备相同的配件",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotEquipedSamePart",
+        "Memo": "",
+        "ID": 628,
+        "Name": null
+    },
+    {
+        "Disc": "装备类型错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetTypeError",
+        "Memo": "",
+        "ID": 629,
+        "Name": null
+    },
+    {
+        "Disc": "长度非法",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "IllegalLength",
+        "Memo": "",
+        "ID": 630,
+        "Name": null
+    },
+    {
+        "Disc": "昵称已存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NickNameExists",
+        "Memo": "",
+        "ID": 631,
+        "Name": null
+    },
+    {
+        "Disc": "非法字符",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "IllegalCharacter",
+        "Memo": "",
+        "ID": 632,
+        "Name": null
+    },
+    {
+        "Disc": "生日格式错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BirthdayError",
+        "Memo": "",
+        "ID": 633,
+        "Name": null
+    },
+    {
+        "Disc": "生日不能修改",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BirthdayNotModify",
+        "Memo": "",
+        "ID": 634,
+        "Name": null
+    },
+    {
+        "Disc": "没有可以加速的队列",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotNeedQuick",
+        "Memo": "",
+        "ID": 635,
+        "Name": null
+    },
+    {
+        "Disc": "计时未结束",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TimeNotOver",
+        "Memo": "",
+        "ID": 636,
+        "Name": null
+    },
+    {
+        "Disc": "不能高于佣兵团等级",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotMorePlayerLevel",
+        "Memo": "",
+        "ID": 637,
+        "Name": null
+    },
+    {
+        "Disc": "已经在小队中",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "InBattleGroup",
+        "Memo": "",
+        "ID": 638,
+        "Name": null
+    },
+    {
+        "Disc": "未拥有该皮肤",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotSkin",
+        "Memo": "",
+        "ID": 639,
+        "Name": null
+    },
+    {
+        "Disc": "当前成就未达成奖励不可领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetAchiReward",
+        "Memo": "",
+        "ID": 640,
+        "Name": null
+    },
+    {
+        "Disc": "登录天数未达成奖励不可领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetSevenLoginReward",
+        "Memo": "",
+        "ID": 641,
+        "Name": null
+    },
+    {
+        "Disc": "该商品已达购买次数限制",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ShopItemBuyLimit",
+        "Memo": "",
+        "ID": 642,
+        "Name": null
+    },
+    {
+        "Disc": "技能等级已达上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlSkillLevelLimit",
+        "Memo": "",
+        "ID": 643,
+        "Name": null
+    },
+    {
+        "Disc": "装备已锁定",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetLocked",
+        "Memo": "",
+        "ID": 644,
+        "Name": null
+    },
+    {
+        "Disc": "克尔贝洛活动的点数不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CorberoPointNotEnough",
+        "Memo": "",
+        "ID": 645,
+        "Name": null
+    },
+    {
+        "Disc": "克尔贝洛活动的奖励已领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CorberoPointRewardGeted",
+        "Memo": "",
+        "ID": 646,
+        "Name": null
+    },
+    {
+        "Disc": "当前区域未开启",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "AreaNotOpen",
+        "Memo": "",
+        "ID": 647,
+        "Name": null
+    },
+    {
+        "Disc": "奖池未空前不可重置",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ActivityRewardPoolNotEmpty",
+        "Memo": "",
+        "ID": 648,
+        "Name": null
+    },
+    {
+        "Disc": "没有可兑换的道具",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotExchangeableItem",
+        "Memo": "",
+        "ID": 649,
+        "Name": null
+    },
+    {
+        "Disc": "所有奖励已领完",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "AllRewardGeted",
+        "Memo": "",
+        "ID": 650,
+        "Name": null
+    },
+    {
+        "Disc": "不可领取活动日常奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetActivityDailyReward",
+        "Memo": "",
+        "ID": 651,
+        "Name": null
+    },
+    {
+        "Disc": "不可领取活动成就奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetActivityAchiReward",
+        "Memo": "",
+        "ID": 652,
+        "Name": null
+    },
+    {
+        "Disc": "远征任务队列已达到上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionLimit",
+        "Memo": "",
+        "ID": 653,
+        "Name": null
+    },
+    {
+        "Disc": "当前出征人数不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionRoleNumNotEnough",
+        "Memo": "",
+        "ID": 654,
+        "Name": null
+    },
+    {
+        "Disc": "出征队员职业不符合条件",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionProfessionError",
+        "Memo": "",
+        "ID": 655,
+        "Name": null
+    },
+    {
+        "Disc": "远征任务回复类型错误",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionResponseTypeError",
+        "Memo": "",
+        "ID": 656,
+        "Name": null
+    },
+    {
+        "Disc": "活动未开放",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ActivityNotOpen",
+        "Memo": "",
+        "ID": 657,
+        "Name": null
+    },
+    {
+        "Disc": "每日奖励尚不可领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetDailyReward",
+        "Memo": "",
+        "ID": 658,
+        "Name": null
+    },
+    {
+        "Disc": "每周奖励尚不可领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotGetWeeklyReward",
+        "Memo": "",
+        "ID": 659,
+        "Name": null
+    },
+    {
+        "Disc": "远征任务已经接受",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionAlreadyAccept",
+        "Memo": "",
+        "ID": 660,
+        "Name": null
+    },
+    {
+        "Disc": "所属章节未开启",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ChapterNotOpen",
+        "Memo": "",
+        "ID": 661,
+        "Name": null
+    },
+    {
+        "Disc": "佣兵团等级限制",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PlayerLevelLimit",
+        "Memo": "",
+        "ID": 662,
+        "Name": null
+    },
+    {
+        "Disc": "远征中不可更换",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "Expeditioning",
+        "Memo": "",
+        "ID": 663,
+        "Name": null
+    },
+    {
+        "Disc": "未拥有此称号",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotTitle",
+        "Memo": "",
+        "ID": 664,
+        "Name": null
+    },
+    {
+        "Disc": "挑战关卡限制",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ChallengeStageLimit",
+        "Memo": "",
+        "ID": 665,
+        "Name": null
+    },
+    {
+        "Disc": "机师等级上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlLevelLimit",
+        "Memo": "",
+        "ID": 666,
+        "Name": null
+    },
+    {
+        "Disc": "订单未找到",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "OrderNotFound",
+        "Memo": "",
+        "ID": 667,
+        "Name": null
+    },
+    {
+        "Disc": "今日已经领取过累充奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TodayGetedTotalRechargeReward",
+        "Memo": "",
+        "ID": 668,
+        "Name": null
+    },
+    {
+        "Disc": "今日已经领取过月卡奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TodayGetedMonthCardReward",
+        "Memo": "",
+        "ID": 669,
+        "Name": null
+    },
+    {
+        "Disc": "月卡已过期",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MonthCardTimeout",
+        "Memo": "",
+        "ID": 670,
+        "Name": null
+    },
+    {
+        "Disc": "贸易券不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TicketNotEnough",
+        "Memo": "",
+        "ID": 671,
+        "Name": null
+    },
+    {
+        "Disc": "自动布阵阵型不能为空",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "AutoDeployNotNull",
+        "Memo": "",
+        "ID": 672,
+        "Name": null
+    },
+    {
+        "Disc": "角色列传关卡未开放",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RoleStageNotOpen",
+        "Memo": "",
+        "ID": 673,
+        "Name": null
+    },
+    {
+        "Disc": "角色列传挑战次数上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PersonalStoryDailyCountLimit",
+        "Memo": "",
+        "ID": 674,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码无效",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeInvalid",
+        "Memo": "",
+        "ID": 675,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码已被使用",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeUsed",
+        "Memo": "",
+        "ID": 676,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码未到领取时间",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeTimeNotStart",
+        "Memo": "",
+        "ID": 677,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码已过期",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeExpire",
+        "Memo": "",
+        "ID": 678,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码重复领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeAgainGet",
+        "Memo": "",
+        "ID": 679,
+        "Name": null
+    },
+    {
+        "Disc": "礼包码领取失败",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CodeGetFail",
+        "Memo": "",
+        "ID": 680,
+        "Name": null
+    },
+    {
+        "Disc": "远征任务未完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionNotComplete",
+        "Memo": "",
+        "ID": 681,
+        "Name": null
+    },
+    {
+        "Disc": "远征任务未接受",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionNotAccept",
+        "Memo": "",
+        "ID": 682,
+        "Name": null
+    },
+    {
+        "Disc": "赏金值不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BountyPointNotEnough",
+        "Memo": "",
+        "ID": 683,
+        "Name": null
+    },
+    {
+        "Disc": "冷却CD中",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "Coolingdown",
+        "Memo": "",
+        "ID": 684,
+        "Name": null
+    },
+    {
+        "Disc": "挑战币不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ChanllengeCoinNotEnough",
+        "Memo": "",
+        "ID": 685,
+        "Name": null
+    },
+    {
+        "Disc": "通用技能升级道具不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CommonSkillItemNotEnough",
+        "Memo": "",
+        "ID": 686,
+        "Name": null
+    },
+    {
+        "Disc": "关卡未完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "StageNotComplete",
+        "Memo": "",
+        "ID": 687,
+        "Name": null
+    },
+    {
+        "Disc": "奖励已领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RewardGeted",
+        "Memo": "",
+        "ID": 688,
+        "Name": null
+    },
+    {
+        "Disc": "新手任务不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotExistsRookieTask",
+        "Memo": "",
+        "ID": 689,
+        "Name": null
+    },
+    {
+        "Disc": "新手任务未完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RookieRewardNotComplete",
+        "Memo": "",
+        "ID": 690,
+        "Name": null
+    },
+    {
+        "Disc": "版本奖励不可领取",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RookieTaskIdNotComplete",
+        "Memo": "",
+        "ID": 691,
+        "Name": null
+    },
+    {
+        "Disc": "任务不能接受",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CanNotAcceptRookieTask",
+        "Memo": "",
+        "ID": 692,
+        "Name": null
+    },
+    {
+        "Disc": "任务已经全部完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "AllRookieTaskDone",
+        "Memo": "",
+        "ID": 693,
+        "Name": null
+    },
+    {
+        "Disc": "不能重复点赞商店物品",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CanNotRepeatLikeShopItem",
+        "Memo": "",
+        "ID": 694,
+        "Name": null
+    },
+    {
+        "Disc": "已强化到最高等级",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "WidgetStrengMax",
+        "Memo": "",
+        "ID": 695,
+        "Name": null
+    },
+    {
+        "Disc": "不在活动时间范围内",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NotInActivityTime",
+        "Memo": "",
+        "ID": 696,
+        "Name": null
+    },
+    {
+        "Disc": "可购买次数上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MaxBuyTimesLimit",
+        "Memo": "",
+        "ID": 697,
+        "Name": null
+    },
+    {
+        "Disc": "服务器不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100000",
+        "Memo": "",
+        "ID": 100000,
+        "Name": null
+    },
+    {
+        "Disc": "账号在其他地方登录",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100001",
+        "Memo": "",
+        "ID": 100001,
+        "Name": null
+    },
+    {
+        "Disc": "登录渠道不合法",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100002",
+        "Memo": "",
+        "ID": 100002,
+        "Name": null
+    },
+    {
+        "Disc": "服务器无法登录",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100003",
+        "Memo": "",
+        "ID": 100003,
+        "Name": null
+    },
+    {
+        "Disc": "未知消息",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100004",
+        "Memo": "",
+        "ID": 100004,
+        "Name": null
+    },
+    {
+        "Disc": "消息格式不匹配",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100005",
+        "Memo": "",
+        "ID": 100005,
+        "Name": null
+    },
+    {
+        "Disc": "数据处理异常",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "E_100006",
+        "Memo": "",
+        "ID": 100006,
+        "Name": null
+    }
+]

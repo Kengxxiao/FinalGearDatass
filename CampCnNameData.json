@@ -1,0 +1,93 @@
+[
+    {
+        "GirlCamp": 0,
+        "WidgetCamp": 2,
+        "WidgetCampCn": "黑色方舟",
+        "IfScreenWidget": true,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 4,
+        "SuitArray": 4,
+        "GirlArray": 1,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "GirlCamp": 1,
+        "WidgetCamp": 3,
+        "WidgetCampCn": "帕拉诺伊德",
+        "IfScreenWidget": false,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 6,
+        "SuitArray": 6,
+        "GirlArray": 6,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "GirlCamp": 2,
+        "WidgetCamp": 4,
+        "WidgetCampCn": "健康快乐每一天",
+        "IfScreenWidget": false,
+        "IfScreenSuit": false,
+        "IfScreenGirl": true,
+        "WidgetArray": 5,
+        "SuitArray": 5,
+        "GirlArray": 5,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "GirlCamp": 3,
+        "WidgetCamp": 5,
+        "WidgetCampCn": "海克塞尔",
+        "IfScreenWidget": true,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 1,
+        "SuitArray": 1,
+        "GirlArray": 2,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "GirlCamp": 4,
+        "WidgetCamp": 6,
+        "WidgetCampCn": "爱蕾塔",
+        "IfScreenWidget": true,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 2,
+        "SuitArray": 2,
+        "GirlArray": 3,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "GirlCamp": 5,
+        "WidgetCamp": 7,
+        "WidgetCampCn": "克格亚",
+        "IfScreenWidget": true,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 3,
+        "SuitArray": 3,
+        "GirlArray": 4,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "GirlCamp": 6,
+        "WidgetCamp": 8,
+        "WidgetCampCn": "无所属",
+        "IfScreenWidget": true,
+        "IfScreenSuit": true,
+        "IfScreenGirl": true,
+        "WidgetArray": 7,
+        "SuitArray": 7,
+        "GirlArray": 7,
+        "ID": 7,
+        "Name": null
+    }
+]

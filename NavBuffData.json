@@ -1,0 +1,161 @@
+[
+    {
+        "Description": "每隔一段时间，停止移动几秒",
+        "SameBuffType": 1,
+        "NavBuffType": 0,
+        "ConsistTime": 0,
+        "Params": [
+            5.0,
+            3.0
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Description": "增加小队移动速度",
+        "SameBuffType": 1,
+        "NavBuffType": 1,
+        "ConsistTime": 0,
+        "Params": [
+            3.0
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Description": "增加耐久属性",
+        "SameBuffType": 1,
+        "NavBuffType": 2,
+        "ConsistTime": 0,
+        "Params": [
+            1.1
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Description": "增加攻击属性",
+        "SameBuffType": 1,
+        "NavBuffType": 2,
+        "ConsistTime": 0,
+        "Params": [
+            1.1
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Description": "增加防御属性",
+        "SameBuffType": 1,
+        "NavBuffType": 2,
+        "ConsistTime": 0,
+        "Params": [
+            1.1
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Description": "增加闪避属性",
+        "SameBuffType": 1,
+        "NavBuffType": 2,
+        "ConsistTime": 0,
+        "Params": [
+            1.1
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Description": "增加暴击属性",
+        "SameBuffType": 1,
+        "NavBuffType": 2,
+        "ConsistTime": 0,
+        "Params": [
+            1.1
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Description": "使用光学迷彩，防止被敌人发现",
+        "SameBuffType": 1,
+        "NavBuffType": 3,
+        "ConsistTime": 0,
+        "Params": [
+            0.0
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Description": "",
+        "SameBuffType": 1,
+        "NavBuffType": 5,
+        "ConsistTime": 2,
+        "Params": [
+            1.0,
+            0.1
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Description": "",
+        "SameBuffType": 2,
+        "NavBuffType": 1,
+        "ConsistTime": 5,
+        "Params": [
+            0.8
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Description": "",
+        "SameBuffType": 2,
+        "NavBuffType": 0,
+        "ConsistTime": 2,
+        "Params": [
+            2.0,
+            2.0
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Description": "(进入电厂)每隔一段时间，停止移动几秒",
+        "SameBuffType": 1,
+        "NavBuffType": 0,
+        "ConsistTime": 0,
+        "Params": [
+            5.0,
+            3.0
+        ],
+        "ID": 101,
+        "Name": null
+    },
+    {
+        "Description": "(退出电厂)每隔一段时间，停止移动几秒",
+        "SameBuffType": 1,
+        "NavBuffType": 0,
+        "ConsistTime": 3,
+        "Params": [
+            5.0,
+            3.0
+        ],
+        "ID": 102,
+        "Name": null
+    },
+    {
+        "Description": "(进入运输站)增加小队移动速度",
+        "SameBuffType": 1,
+        "NavBuffType": 1,
+        "ConsistTime": 0,
+        "Params": [
+            3.0
+        ],
+        "ID": 111,
+        "Name": null
+    }
+]

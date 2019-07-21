@@ -1,0 +1,1584 @@
+[
+    {
+        "Key": "EliteChapterOpenSceneId",
+        "Value": "1001",
+        "Desc": "精英章节开启的关卡ID",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Key": "EliteChapterOpenLevel",
+        "Value": "1",
+        "Desc": "精英章节开启的等级",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Key": "FirstGuideStageID",
+        "Value": "1001",
+        "Desc": "新手初始引导关卡ID",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Key": "FirstEliteChapterId",
+        "Value": "1001",
+        "Desc": "第一章精英章节Id",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Key": "ItemBagBaseContent",
+        "Value": "500",
+        "Desc": "初始道具背包数量",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Key": "WidgetBagBaseContent",
+        "Value": "500",
+        "Desc": "初始部件背包数量",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Key": "ChipBagBaseContent",
+        "Value": "1000",
+        "Desc": "初始芯片背包数量",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Key": "ItemBagBuyPrice",
+        "Value": "100",
+        "Desc": "道具背包购买价格",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Key": "ItemBagOpenContent",
+        "Value": "10",
+        "Desc": "道具背包每次购买数量",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Key": "ItemBagMaxOpenContent",
+        "Value": "1000",
+        "Desc": "道具背包扩充上限",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Key": "WidgetBagBuyPrice",
+        "Value": "100",
+        "Desc": "部件背包购买价格",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Key": "WidgetBagOpenContent",
+        "Value": "10",
+        "Desc": "部件背包每次购买数量",
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "Key": "WidgetBagMaxOpenContent",
+        "Value": "1000",
+        "Desc": "部件背包扩充上限",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "Key": "ChipBagBuyPrice",
+        "Value": "100",
+        "Desc": "芯片背包购买价格",
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "Key": "ChipBagOpenContent",
+        "Value": "10",
+        "Desc": "芯片背包每次购买数量",
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "Key": "ChipBagMaxOpenContent",
+        "Value": "1000",
+        "Desc": "芯片背包扩充上限",
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "Key": "ChipOpenLevel",
+        "Value": "\"1|20|35|50\"",
+        "Desc": "芯片孔开启等级",
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "Key": "PlayerNameMaxLength",
+        "Value": "10",
+        "Desc": "角色起名长度限制",
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "Key": "GearNameMaxLength",
+        "Value": "20",
+        "Desc": "机甲起名长度限制",
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "Key": "ChatLength",
+        "Value": "255",
+        "Desc": "聊天长度限制",
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "Key": "ChatCD",
+        "Value": "30",
+        "Desc": "聊天发送文字CD",
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "Key": "ChatSystemTimeCD",
+        "Value": "300",
+        "Desc": "聊天时间戳显示CD",
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "Key": "MaxFriendNum",
+        "Value": "40",
+        "Desc": "玩家好友上限数",
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "Key": "MaxFriendEnergyTimes",
+        "Value": "20",
+        "Desc": "玩家每日可领取好友体力次数",
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "Key": "FriendEnergyValue",
+        "Value": "\"100007000|3\"",
+        "Desc": "单次好友赠送体力",
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverTime1",
+        "Value": "\"11;14\"",
+        "Desc": "第一次领体力时间",
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverTime2",
+        "Value": "\"17;20\"",
+        "Desc": "第二次领体力时间",
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverTime3",
+        "Value": "\"21;24\"",
+        "Desc": "第三次领体力时间",
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverValue1",
+        "Value": "50",
+        "Desc": "第一次领体力值",
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverValue2",
+        "Value": "50",
+        "Desc": "第二次领体力值",
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "Key": "EnergyRecoverValue3",
+        "Value": "50",
+        "Desc": "第三次领体力值",
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "Key": "MaxEquipStarLevel",
+        "Value": "7",
+        "Desc": "装备升星最大星级",
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "Key": "NewbieMaxNumber",
+        "Value": "9999",
+        "Desc": "新手引导结束点",
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "Key": "GrowPlanVipLimit",
+        "Value": "3",
+        "Desc": "成长计划VIP限制",
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "Key": "GrowPlanCost",
+        "Value": "1000",
+        "Desc": "成长计划水晶消耗",
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "Key": "FirstRechargeAward",
+        "Value": "\"110000000|10;190000011|1;100001000|10000\"",
+        "Desc": "首充奖励；爱塔*10，S武器宝箱*1，金币*10000",
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "Key": "FirstRechargeMailID",
+        "Value": "100000",
+        "Desc": "首充奖励",
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "Key": "OldPlayerReturnAward",
+        "Value": "\"100007000|3;100006000|3;100005000|3;100004000|3\"",
+        "Desc": "老玩家回归礼包",
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "Key": "OldPlayerReturnMailID",
+        "Value": "100001",
+        "Desc": "老玩家回归邮件",
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "Key": "OldPlayerReturnDays",
+        "Value": "30",
+        "Desc": "老玩家回归间隔天数",
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "Key": "InitGirlId",
+        "Value": "1",
+        "Desc": "新手初始角色",
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "Key": "StageCountRefreshItem",
+        "Value": "100020000",
+        "Desc": "重置关卡次数道具",
+        "ID": 42,
+        "Name": null
+    },
+    {
+        "Key": "ReviveItem",
+        "Value": "100020001",
+        "Desc": "死亡复活道具",
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "Key": "RefreshItem",
+        "Value": "100020002",
+        "Desc": "重置商店购买道具",
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "Key": "ReviveCost",
+        "Value": "100",
+        "Desc": "死亡复活钻石消耗",
+        "ID": 45,
+        "Name": null
+    },
+    {
+        "Key": "ShopRefreshItem",
+        "Value": "100020002",
+        "Desc": "商店刷新道具",
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "Key": "NestRefreshPrice",
+        "Value": "100",
+        "Desc": "巢穴重置价格",
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "Key": "NestChapterId",
+        "Value": "100000",
+        "Desc": "巢穴章节ID",
+        "ID": 48,
+        "Name": null
+    },
+    {
+        "Key": "TowerChapterId",
+        "Value": "100001",
+        "Desc": "爬塔章节ID",
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "Key": "TowerTicketRecoverWeekend",
+        "Value": "2",
+        "Desc": "爬塔周末门票倍率",
+        "ID": 50,
+        "Name": null
+    },
+    {
+        "Key": "TowerTicketRecoverNormal",
+        "Value": "1",
+        "Desc": "爬塔平日门票倍率",
+        "ID": 51,
+        "Name": null
+    },
+    {
+        "Key": "TowerTicketBuyPrice",
+        "Value": "50",
+        "Desc": "爬塔门票单次购买价格",
+        "ID": 52,
+        "Name": null
+    },
+    {
+        "Key": "TowerTicketBuyCount",
+        "Value": "5",
+        "Desc": "爬塔门票单次购买数量",
+        "ID": 53,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossChapterID",
+        "Value": "100002",
+        "Desc": "世界boss章节ID",
+        "ID": 54,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossStageID",
+        "Value": "10200001",
+        "Desc": "世界boss关卡ID",
+        "ID": 55,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossPreShowTime",
+        "Value": "\"00:05:00\"",
+        "Desc": "世界boss预开启时间",
+        "ID": 56,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossOpenTime",
+        "Value": "\"00:10:00\"",
+        "Desc": "世界boss开启时间",
+        "ID": 57,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossCloseTime",
+        "Value": "\"23:45:00\"",
+        "Desc": "世界boss停止进入时间",
+        "ID": 58,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossAwardTime",
+        "Value": "\"23:50:00\"",
+        "Desc": "世界boss结算时间",
+        "ID": 59,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossEncourageBuffID",
+        "Value": "100000",
+        "Desc": "世界boss鼓舞BuffID",
+        "ID": 60,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossEncourageCost",
+        "Value": "50",
+        "Desc": "世界boss鼓舞价格",
+        "ID": 61,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossEncourageMax",
+        "Value": "10",
+        "Desc": "世界boss鼓舞最大层数",
+        "ID": 62,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossChanllegeCD",
+        "Value": "60",
+        "Desc": "世界boss挑战CD",
+        "ID": 63,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossRankId",
+        "Value": "5",
+        "Desc": "世界boss排行榜ID",
+        "ID": 64,
+        "Name": null
+    },
+    {
+        "Key": "MaxVipLevel",
+        "Value": "12",
+        "Desc": "VIP最大等级",
+        "ID": 65,
+        "Name": null
+    },
+    {
+        "Key": "MonthCardAward",
+        "Value": "\"10400010,30;10400000,5000\"",
+        "Desc": "月卡每日领取",
+        "ID": 66,
+        "Name": null
+    },
+    {
+        "Key": "SeasonCardAward",
+        "Value": "\"10400010,30;10400000,5000\"",
+        "Desc": "季卡每日领取",
+        "ID": 67,
+        "Name": null
+    },
+    {
+        "Key": "PlayerNameMinLength",
+        "Value": "1",
+        "Desc": "角色起名最小长度",
+        "ID": 68,
+        "Name": null
+    },
+    {
+        "Key": "GearNameMinLength",
+        "Value": "3",
+        "Desc": "机甲起名最小长度",
+        "ID": 69,
+        "Name": null
+    },
+    {
+        "Key": "GuildNameMinLength",
+        "Value": "3",
+        "Desc": "公会起名最小长度",
+        "ID": 70,
+        "Name": null
+    },
+    {
+        "Key": "SaveChatMaxLength",
+        "Value": "100",
+        "Desc": "保存的最大聊天数",
+        "ID": 71,
+        "Name": null
+    },
+    {
+        "Key": "DefaultGuildNotice",
+        "Value": "\"这个会长很怠惰，还没有编辑公告。\"",
+        "Desc": "默认公会公告",
+        "ID": 72,
+        "Name": null
+    },
+    {
+        "Key": "DefaultGuildWatchword",
+        "Value": "\"加入公会\"",
+        "Desc": "默认公会口号",
+        "ID": 73,
+        "Name": null
+    },
+    {
+        "Key": "GuildNoticeLengthMin",
+        "Value": "0",
+        "Desc": "公会公告长度限制最小值",
+        "ID": 74,
+        "Name": null
+    },
+    {
+        "Key": "GuildWatchwordLengthMin",
+        "Value": "0",
+        "Desc": "公会公告长度限制最小值",
+        "ID": 75,
+        "Name": null
+    },
+    {
+        "Key": "UnionRequestLimit",
+        "Value": "30",
+        "Desc": "公会接收申请上限数",
+        "ID": 76,
+        "Name": null
+    },
+    {
+        "Key": "GuildLogCount",
+        "Value": "30",
+        "Desc": "公会日志条数",
+        "ID": 77,
+        "Name": null
+    },
+    {
+        "Key": "GuildAutoInMin",
+        "Value": "1",
+        "Desc": "自动入会等级最小值",
+        "ID": 78,
+        "Name": null
+    },
+    {
+        "Key": "GuildAutoInMax",
+        "Value": "99",
+        "Desc": "自动入会等级最大值",
+        "ID": 79,
+        "Name": null
+    },
+    {
+        "Key": "GuildRejoinCD",
+        "Value": "24",
+        "Desc": "退出后再次加入公会冷却时间",
+        "ID": 80,
+        "Name": null
+    },
+    {
+        "Key": "PVPBuyTimesCost",
+        "Value": "50",
+        "Desc": "PVP购买挑战次数价格",
+        "ID": 81,
+        "Name": null
+    },
+    {
+        "Key": "PVPClearCDCost",
+        "Value": "20",
+        "Desc": "PVP清CD价格",
+        "ID": 82,
+        "Name": null
+    },
+    {
+        "Key": "PVPLogCount",
+        "Value": "10",
+        "Desc": "PVP信息显示条数上限",
+        "ID": 83,
+        "Name": null
+    },
+    {
+        "Key": "PVPCDTime",
+        "Value": "30",
+        "Desc": "PVPCD时间",
+        "ID": 84,
+        "Name": null
+    },
+    {
+        "Key": "DailyMaterialOpenLevel",
+        "Value": "10",
+        "Desc": "日常产出副本开启等级",
+        "ID": 85,
+        "Name": null
+    },
+    {
+        "Key": "CreateGuildCost",
+        "Value": "100",
+        "Desc": "创建公会价格",
+        "ID": 86,
+        "Name": null
+    },
+    {
+        "Key": "GuildNameMaxLength",
+        "Value": "20",
+        "Desc": "公会起名长度限制",
+        "ID": 87,
+        "Name": null
+    },
+    {
+        "Key": "GuildNoticeLength",
+        "Value": "512",
+        "Desc": "公会公告长度限制",
+        "ID": 88,
+        "Name": null
+    },
+    {
+        "Key": "GuildBoardLength",
+        "Value": "60",
+        "Desc": "公会招募信息长度限制",
+        "ID": 89,
+        "Name": null
+    },
+    {
+        "Key": "GuildManagerNumber",
+        "Value": "3",
+        "Desc": "公会管理数量",
+        "ID": 90,
+        "Name": null
+    },
+    {
+        "Key": "GuildLevelLimit",
+        "Value": "10",
+        "Desc": "公会开放等级",
+        "ID": 91,
+        "Name": null
+    },
+    {
+        "Key": "GuildBossBattleTimes",
+        "Value": "2",
+        "Desc": "公会boss每日挑战次数",
+        "ID": 92,
+        "Name": null
+    },
+    {
+        "Key": "GuildBossBuyPrice",
+        "Value": "50",
+        "Desc": "公会boss购买次数消耗",
+        "ID": 93,
+        "Name": null
+    },
+    {
+        "Key": "GirlStageLimit",
+        "Value": "1001",
+        "Desc": "角色开放所需关卡",
+        "ID": 94,
+        "Name": null
+    },
+    {
+        "Key": "MissionStageLimit",
+        "Value": "1001",
+        "Desc": "任务开放所需关卡",
+        "ID": 95,
+        "Name": null
+    },
+    {
+        "Key": "DevelopStageLimit",
+        "Value": "1001",
+        "Desc": "开发开放所需关卡",
+        "ID": 96,
+        "Name": null
+    },
+    {
+        "Key": "RechargeStageLimit",
+        "Value": "1001",
+        "Desc": "充值开放所需关卡",
+        "ID": 97,
+        "Name": null
+    },
+    {
+        "Key": "DaliyActivityOpenLevel",
+        "Value": "1",
+        "Desc": "日常活动开放等级",
+        "ID": 98,
+        "Name": null
+    },
+    {
+        "Key": "TowerOpenLevel",
+        "Value": "1",
+        "Desc": "爬塔开启等级",
+        "ID": 99,
+        "Name": null
+    },
+    {
+        "Key": "NestOpenLevel",
+        "Value": "1",
+        "Desc": "巢穴开启等级",
+        "ID": 100,
+        "Name": null
+    },
+    {
+        "Key": "FriendOpenLevel",
+        "Value": "7",
+        "Desc": "好友开启等级",
+        "ID": 101,
+        "Name": null
+    },
+    {
+        "Key": "GuildOpenLevel",
+        "Value": "10",
+        "Desc": "公会功能开启等级",
+        "ID": 102,
+        "Name": null
+    },
+    {
+        "Key": "PVPOpenLevel",
+        "Value": "1",
+        "Desc": "PVP开启等级",
+        "ID": 103,
+        "Name": null
+    },
+    {
+        "Key": "DaliyActivityStageLimit",
+        "Value": "1001",
+        "Desc": "日常开放关卡",
+        "ID": 104,
+        "Name": null
+    },
+    {
+        "Key": "TowerStageLimit",
+        "Value": "1001",
+        "Desc": "爬塔开放关卡",
+        "ID": 105,
+        "Name": null
+    },
+    {
+        "Key": "NestStageLimit",
+        "Value": "4004",
+        "Desc": "巢穴开放关卡",
+        "ID": 106,
+        "Name": null
+    },
+    {
+        "Key": "ShopOpenLevel",
+        "Value": "7",
+        "Desc": "商店开启等级",
+        "ID": 107,
+        "Name": null
+    },
+    {
+        "Key": "NameSetStage",
+        "Value": "2002",
+        "Desc": "起名关卡",
+        "ID": 108,
+        "Name": null
+    },
+    {
+        "Key": "PVPWinCoins",
+        "Value": "10",
+        "Desc": "PVP胜利获得货币",
+        "ID": 109,
+        "Name": null
+    },
+    {
+        "Key": "PVPLooseCoins",
+        "Value": "6",
+        "Desc": "PVP失败获得货币",
+        "ID": 110,
+        "Name": null
+    },
+    {
+        "Key": "PVPRefreshEnemyCost",
+        "Value": "50",
+        "Desc": "PVP刷新对手消耗水晶",
+        "ID": 111,
+        "Name": null
+    },
+    {
+        "Key": "EquipLevelupOpenLevel",
+        "Value": "1",
+        "Desc": "部件升星开放等级",
+        "ID": 112,
+        "Name": null
+    },
+    {
+        "Key": "RenameCost",
+        "Value": "0",
+        "Desc": "改名消耗钻石",
+        "ID": 113,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossLevelUpRateByKill",
+        "Value": "1",
+        "Desc": "世界boss击杀等级提升系数",
+        "ID": 114,
+        "Name": null
+    },
+    {
+        "Key": "WorldBossLevelUpRateByDay",
+        "Value": "1",
+        "Desc": "世界boss开服世界等级提升系数",
+        "ID": 115,
+        "Name": null
+    },
+    {
+        "Key": "RefreshStageTimesCost",
+        "Value": "50",
+        "Desc": "重置关卡挑战次数价格",
+        "ID": 116,
+        "Name": null
+    },
+    {
+        "Key": "QuickClearLevelLimit",
+        "Value": "1",
+        "Desc": "扫荡解锁等级限制",
+        "ID": 117,
+        "Name": null
+    },
+    {
+        "Key": "QuickClearVipLevelLimit",
+        "Value": "0",
+        "Desc": "扫荡解锁VIP限制",
+        "ID": 118,
+        "Name": null
+    },
+    {
+        "Key": "GuideEnd",
+        "Value": "9999",
+        "Desc": "第一阶段引导结束节点",
+        "ID": 119,
+        "Name": null
+    },
+    {
+        "Key": "ChipLock",
+        "Value": "3003",
+        "Desc": "机库-芯片功能解锁关卡",
+        "ID": 120,
+        "Name": null
+    },
+    {
+        "Key": "ChipDevelopLock",
+        "Value": "3003",
+        "Desc": "芯片抽卡解锁关卡",
+        "ID": 121,
+        "Name": null
+    },
+    {
+        "Key": "EliteChapterOpenStage",
+        "Value": "1001",
+        "Desc": "精英章节开启关卡",
+        "ID": 122,
+        "Name": null
+    },
+    {
+        "Key": "PvpOpenStage",
+        "Value": "2006",
+        "Desc": "PVP开启关卡",
+        "ID": 123,
+        "Name": null
+    },
+    {
+        "Key": "StayTimeLimit",
+        "Value": "1",
+        "Desc": "待机停留时间",
+        "ID": 124,
+        "Name": null
+    },
+    {
+        "Key": "SignRepair",
+        "Value": "300",
+        "Desc": "补签需要钻石",
+        "ID": 125,
+        "Name": null
+    },
+    {
+        "Key": "RollNeedVip",
+        "Value": "4",
+        "Desc": "开启战力碾压所需VIP等级",
+        "ID": 126,
+        "Name": null
+    },
+    {
+        "Key": "ActivityStageOpen1",
+        "Value": "\"2017/4/5;2019/4/5\"",
+        "Desc": "活动1开启",
+        "ID": 127,
+        "Name": null
+    },
+    {
+        "Key": "ActivityStageOpen2",
+        "Value": "\"2017/4/5;2019/4/5\"",
+        "Desc": "活动2开启",
+        "ID": 128,
+        "Name": null
+    },
+    {
+        "Key": "ActivityChapterId",
+        "Value": "40000",
+        "Desc": "活动1章节ID",
+        "ID": 129,
+        "Name": null
+    },
+    {
+        "Key": "ActivityTimes",
+        "Value": "170000004",
+        "Desc": "回复活动出战次数道具",
+        "ID": 130,
+        "Name": null
+    },
+    {
+        "Key": "ActivityQuickWin",
+        "Value": "170000005",
+        "Desc": "活动扫荡道具",
+        "ID": 131,
+        "Name": null
+    },
+    {
+        "Key": "ActivityRefreshPrice",
+        "Value": "300",
+        "Desc": "活动重置次数价格",
+        "ID": 132,
+        "Name": null
+    },
+    {
+        "Key": "ActivityRefreshtimes",
+        "Value": "5",
+        "Desc": "活动每次重置多少个次数",
+        "ID": 133,
+        "Name": null
+    },
+    {
+        "Key": "ActivityOpenLevel",
+        "Value": "25",
+        "Desc": "活动功能开启等级",
+        "ID": 134,
+        "Name": null
+    },
+    {
+        "Key": "GetMoneyOpen",
+        "Value": "4002",
+        "Desc": "补给线解锁关卡",
+        "ID": 135,
+        "Name": null
+    },
+    {
+        "Key": "ResourceVersion",
+        "Value": "10000",
+        "Desc": "资源版本",
+        "ID": 136,
+        "Name": null
+    },
+    {
+        "Key": "SupportOpen1",
+        "Value": "30",
+        "Desc": "支援位置1开启等级",
+        "ID": 137,
+        "Name": null
+    },
+    {
+        "Key": "SupportOpen2",
+        "Value": "50",
+        "Desc": "支援位置2开启等级",
+        "ID": 138,
+        "Name": null
+    },
+    {
+        "Key": "MaxLevel",
+        "Value": "100",
+        "Desc": "战队最高等级",
+        "ID": 139,
+        "Name": null
+    },
+    {
+        "Key": "Activity2OpenLevel",
+        "Value": "20",
+        "Desc": "维度临界点开启等级",
+        "ID": 140,
+        "Name": null
+    },
+    {
+        "Key": "Activity2ChapterId",
+        "Value": "50000",
+        "Desc": "维度临界点章节ID",
+        "ID": 141,
+        "Name": null
+    },
+    {
+        "Key": "ChatInterval",
+        "Value": "5",
+        "Desc": "聊天间隔时间（秒）",
+        "ID": 142,
+        "Name": null
+    },
+    {
+        "Key": "SkipActivityTime",
+        "Value": "600",
+        "Desc": "扫荡维度临界点所需时间",
+        "ID": 143,
+        "Name": null
+    },
+    {
+        "Key": "SkipActivityItem",
+        "Value": "170000006",
+        "Desc": "扫荡维度临界点所需道具",
+        "ID": 144,
+        "Name": null
+    },
+    {
+        "Key": "StarCoinsID",
+        "Value": "100009000",
+        "Desc": "沙匪巢穴星星币ID",
+        "ID": 145,
+        "Name": null
+    },
+    {
+        "Key": "CapsCoinsID",
+        "Value": "100004000",
+        "Desc": "瓶盖ID",
+        "ID": 146,
+        "Name": null
+    },
+    {
+        "Key": "ActivityStage2StageId",
+        "Value": "20100004|20100005|20100006",
+        "Desc": "特斯拉",
+        "ID": 147,
+        "Name": null
+    },
+    {
+        "Key": "ResolveOpen",
+        "Value": "2003",
+        "Desc": "转换重置开启",
+        "ID": 148,
+        "Name": null
+    },
+    {
+        "Key": "DefaultBackpack",
+        "Value": "210050007",
+        "Desc": "初始化仓库内物品",
+        "ID": 149,
+        "Name": null
+    },
+    {
+        "Key": "MailOpen",
+        "Value": "2006",
+        "Desc": "邮件开启关卡",
+        "ID": 150,
+        "Name": null
+    },
+    {
+        "Key": "FuliOpen",
+        "Value": "2005",
+        "Desc": "福利开启关卡",
+        "ID": 151,
+        "Name": null
+    },
+    {
+        "Key": "SkipActivityEnergy",
+        "Value": "20",
+        "Desc": "扫荡维度临界点所需体力",
+        "ID": 152,
+        "Name": null
+    },
+    {
+        "Key": "ServerOpenTime",
+        "Value": "\"2017/4/5\"",
+        "Desc": "开服时间",
+        "ID": 153,
+        "Name": null
+    },
+    {
+        "Key": "RandomSWeaponBox",
+        "Value": "210020007;220050104;210050005;220060005;210010001;220050105;210050012;220060010",
+        "Desc": "S礼包",
+        "ID": 154,
+        "Name": null
+    },
+    {
+        "Key": "初始机娘",
+        "Value": "1",
+        "Desc": "填写格式：机娘id;机娘id",
+        "ID": 155,
+        "Name": null
+    },
+    {
+        "Key": "初始道具",
+        "Value": "10400000,10000;10900001,5;10900002,5;11300001,10;11300002,10;11300003,10;11300004,10;11300005,10;11300006,10;10800003,1;10800001,3",
+        "Desc": "填写格式：道具id,道具数量；道具id,道具数量",
+        "ID": 156,
+        "Name": null
+    },
+    {
+        "Key": "属性来源",
+        "Value": "Girl|GirlChangePara;Girllevel|GirlProperty;GirlStar|GirlStarProperty;WidgetMainProperty|WidgetBasicProperty;WidgetIntensify|IntensifyProperty;PanelSkillEffect|PassivePropertyAdd;TrunkSkill|TrunkSkillPower;Suit|Suit2Add,Suit4Add,Suit5Add",
+        "Desc": "",
+        "ID": 157,
+        "Name": null
+    },
+    {
+        "Key": "机师升级道具ID",
+        "Value": "10200001,10200002,10200003,10200004,10200005",
+        "Desc": "",
+        "ID": 158,
+        "Name": null
+    },
+    {
+        "Key": "金币ID",
+        "Value": "10100001",
+        "Desc": "",
+        "ID": 159,
+        "Name": null
+    },
+    {
+        "Key": "钻石ID",
+        "Value": "10100002",
+        "Desc": "",
+        "ID": 160,
+        "Name": null
+    },
+    {
+        "Key": "通用碎片ID",
+        "Value": "10600000",
+        "Desc": "",
+        "ID": 161,
+        "Name": null
+    },
+    {
+        "Key": "技能升级道具ID",
+        "Value": "10300001,10300002,10300003,10300004,10300005",
+        "Desc": "",
+        "ID": 162,
+        "Name": null
+    },
+    {
+        "Key": "紧急任务正常限制次数",
+        "Value": "10",
+        "Desc": "",
+        "ID": 163,
+        "Name": null
+    },
+    {
+        "Key": "紧急任务最终限制次数",
+        "Value": "50",
+        "Desc": "",
+        "ID": 164,
+        "Name": null
+    },
+    {
+        "Key": "章节任务手动刷新消耗",
+        "Value": "10900003,1",
+        "Desc": "",
+        "ID": 165,
+        "Name": null
+    },
+    {
+        "Key": "初始部件",
+        "Value": "",
+        "Desc": "",
+        "ID": 166,
+        "Name": null
+    },
+    {
+        "Key": "FivedimensionMax",
+        "Value": "45000|6600|5000|5000|10000",
+        "Desc": "",
+        "ID": 167,
+        "Name": null
+    },
+    {
+        "Key": "招募点数总上限",
+        "Value": "20",
+        "Desc": "",
+        "ID": 168,
+        "Name": null
+    },
+    {
+        "Key": "普通建造点数上限",
+        "Value": "30",
+        "Desc": "",
+        "ID": 169,
+        "Name": null
+    },
+    {
+        "Key": "初始上阵机师ID",
+        "Value": "1",
+        "Desc": "",
+        "ID": 170,
+        "Name": null
+    },
+    {
+        "Key": "限定建造点数上限",
+        "Value": "30",
+        "Desc": "",
+        "ID": 171,
+        "Name": null
+    },
+    {
+        "Key": "当前最大等级",
+        "Value": "60",
+        "Desc": "",
+        "ID": 172,
+        "Name": null
+    },
+    {
+        "Key": "初始背景机娘",
+        "Value": "1",
+        "Desc": "",
+        "ID": 173,
+        "Name": null
+    },
+    {
+        "Key": "区域上限",
+        "Value": "4",
+        "Desc": "",
+        "ID": 174,
+        "Name": null
+    },
+    {
+        "Key": "部件数量上限",
+        "Value": "328",
+        "Desc": "",
+        "ID": 175,
+        "Name": null
+    },
+    {
+        "Key": "机师数量上限",
+        "Value": "63",
+        "Desc": "",
+        "ID": 176,
+        "Name": null
+    },
+    {
+        "Key": "克尔贝洛之影活动点数",
+        "Value": "10100003",
+        "Desc": "",
+        "ID": 177,
+        "Name": null
+    },
+    {
+        "Key": "克尔贝洛之影活动道具",
+        "Value": "11400001",
+        "Desc": "",
+        "ID": 178,
+        "Name": null
+    },
+    {
+        "Key": "远征接取任务上限",
+        "Value": "4",
+        "Desc": "",
+        "ID": 179,
+        "Name": null
+    },
+    {
+        "Key": "区域最大帖子数量",
+        "Value": "20",
+        "Desc": "",
+        "ID": 180,
+        "Name": null
+    },
+    {
+        "Key": "角色招募广播",
+        "Value": "$3于今日与佣兵团$1签订了正式的契约！",
+        "Desc": "",
+        "ID": 181,
+        "Name": null
+    },
+    {
+        "Key": "开发部件广播",
+        "Value": "$1在开发中获得部件$3!",
+        "Desc": "",
+        "ID": 182,
+        "Name": null
+    },
+    {
+        "Key": "角色满星广播",
+        "Value": "$3通过严格训练，最终成为了$1佣兵团的中坚力量",
+        "Desc": "",
+        "ID": 183,
+        "Name": null
+    },
+    {
+        "Key": "成就点数",
+        "Value": "10100004",
+        "Desc": "",
+        "ID": 184,
+        "Name": null
+    },
+    {
+        "Key": "赏金点数",
+        "Value": "10100005",
+        "Desc": "",
+        "ID": 185,
+        "Name": null
+    },
+    {
+        "Key": "奖池装备等级",
+        "Value": "40,40",
+        "Desc": "选择获得奖池装备时的装备等级，前面是装备等级，后面是穿戴等级",
+        "ID": 186,
+        "Name": null
+    },
+    {
+        "Key": "机师满级",
+        "Value": "60",
+        "Desc": "",
+        "ID": 187,
+        "Name": null
+    },
+    {
+        "Key": "机师满星",
+        "Value": "6",
+        "Desc": "",
+        "ID": 188,
+        "Name": null
+    },
+    {
+        "Key": "佣兵团满级",
+        "Value": "60",
+        "Desc": "",
+        "ID": 189,
+        "Name": null
+    },
+    {
+        "Key": "机师技能满级",
+        "Value": "5",
+        "Desc": "",
+        "ID": 190,
+        "Name": null
+    },
+    {
+        "Key": "贸易券ID",
+        "Value": "10100006",
+        "Desc": "",
+        "ID": 191,
+        "Name": null
+    },
+    {
+        "Key": "紧急任务刷新概率",
+        "Value": "0",
+        "Desc": "",
+        "ID": 192,
+        "Name": null
+    },
+    {
+        "Key": "紧急刷新系数",
+        "Value": "0.2",
+        "Desc": "",
+        "ID": 193,
+        "Name": null
+    },
+    {
+        "Key": "紧急任务每日限定次数",
+        "Value": "5",
+        "Desc": "",
+        "ID": 194,
+        "Name": null
+    },
+    {
+        "Key": "超过限定后刷新概率",
+        "Value": "0",
+        "Desc": "",
+        "ID": 195,
+        "Name": null
+    },
+    {
+        "Key": "每日角色列传次数",
+        "Value": "3",
+        "Desc": "",
+        "ID": 196,
+        "Name": null
+    },
+    {
+        "Key": "金币快捷购买",
+        "Value": "20001",
+        "Desc": "",
+        "ID": 197,
+        "Name": null
+    },
+    {
+        "Key": "推荐信快捷购买",
+        "Value": "20007",
+        "Desc": "",
+        "ID": 198,
+        "Name": null
+    },
+    {
+        "Key": "零件快捷购买",
+        "Value": "20010",
+        "Desc": "",
+        "ID": 199,
+        "Name": null
+    },
+    {
+        "Key": "谜之加速装置",
+        "Value": "20008",
+        "Desc": "",
+        "ID": 200,
+        "Name": null
+    },
+    {
+        "Key": "神秘加速装置",
+        "Value": "20009",
+        "Desc": "",
+        "ID": 201,
+        "Name": null
+    },
+    {
+        "Key": "精英推荐信",
+        "Value": "20016",
+        "Desc": "",
+        "ID": 202,
+        "Name": null
+    },
+    {
+        "Key": "精致机械零件",
+        "Value": "20017",
+        "Desc": "",
+        "ID": 203,
+        "Name": null
+    },
+    {
+        "Key": "佣兵团经验上限",
+        "Value": "75000",
+        "Desc": "",
+        "ID": 204,
+        "Name": null
+    },
+    {
+        "Key": "佣兵经验衰减系数",
+        "Value": "0",
+        "Desc": "",
+        "ID": 205,
+        "Name": null
+    },
+    {
+        "Key": "金币获得上限",
+        "Value": "250000",
+        "Desc": "",
+        "ID": 206,
+        "Name": null
+    },
+    {
+        "Key": "金币衰减系数",
+        "Value": "0",
+        "Desc": "",
+        "ID": 207,
+        "Name": null
+    },
+    {
+        "Key": "个人副本每日限制次数",
+        "Value": "5",
+        "Desc": "",
+        "ID": 208,
+        "Name": null
+    },
+    {
+        "Key": "个人副本重置花费钻石数量min",
+        "Value": "10",
+        "Desc": "",
+        "ID": 209,
+        "Name": null
+    },
+    {
+        "Key": "个人副本重置花费钻石数量max",
+        "Value": "100",
+        "Desc": "",
+        "ID": 210,
+        "Name": null
+    },
+    {
+        "Key": "副本帮助信息",
+        "Value": "1.通过前一模式才可解锁后一模式的关卡。\\n2.地狱模式在被攻克后，会进入重置状态。当日将无法进入。每日零点恢复副本状态。\\n3.可花费一定数量的晶石，立刻重置副本。\\n4.简单、普通、困难模式不会进入重置状态。\\n5.每日首次通过地狱模式，可获得挑战币1枚。\\n6.挑战币可在勇气军需官处兑换奖励。",
+        "Desc": "",
+        "ID": 211,
+        "Name": null
+    },
+    {
+        "Key": "挑战币ID",
+        "Value": "10100007",
+        "Desc": "",
+        "ID": 212,
+        "Name": null
+    },
+    {
+        "Key": "每日首通地狱副本",
+        "Value": "10100007,5",
+        "Desc": "",
+        "ID": 213,
+        "Name": null
+    },
+    {
+        "Key": "通用技能道具ID",
+        "Value": "11300000",
+        "Desc": "",
+        "ID": 214,
+        "Name": null
+    },
+    {
+        "Key": "首次招募ID",
+        "Value": "1",
+        "Desc": "",
+        "ID": 215,
+        "Name": null
+    },
+    {
+        "Key": "单次购买上限",
+        "Value": "99",
+        "Desc": "",
+        "ID": 216,
+        "Name": null
+    },
+    {
+        "Key": "日常任务刷新次数",
+        "Value": "3",
+        "Desc": "",
+        "ID": 217,
+        "Name": null
+    },
+    {
+        "Key": "初始背景ID",
+        "Value": "10001",
+        "Desc": "",
+        "ID": 218,
+        "Name": null
+    },
+    {
+        "Key": "角色列传重置花费钻石数量min",
+        "Value": "10",
+        "Desc": "",
+        "ID": 219,
+        "Name": null
+    },
+    {
+        "Key": "角色列传重置花费钻石数量max",
+        "Value": "100",
+        "Desc": "",
+        "ID": 220,
+        "Name": null
+    },
+    {
+        "Key": "角色列传每日最大重置次数",
+        "Value": "15",
+        "Desc": "",
+        "ID": 221,
+        "Name": null
+    },
+    {
+        "Key": "区域最大任务数",
+        "Value": "4",
+        "Desc": "",
+        "ID": 222,
+        "Name": null
+    },
+    {
+        "Key": "十连招募奖励最大回数",
+        "Value": "8",
+        "Desc": "",
+        "ID": 223,
+        "Name": null
+    },
+    {
+        "Key": "battletime",
+        "Value": "15",
+        "Desc": "",
+        "ID": 224,
+        "Name": null
+    },
+    {
+        "Key": "stagetime",
+        "Value": "120",
+        "Desc": "",
+        "ID": 225,
+        "Name": null
+    },
+    {
+        "Key": "BattleIDWhiteList",
+        "Value": "12000001,12000002,12000003,12000004,12000005,12000006",
+        "Desc": "",
+        "ID": 226,
+        "Name": null
+    }
+]

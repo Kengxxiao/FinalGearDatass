@@ -1,0 +1,88 @@
+[
+    {
+        "bossFrantic": {
+            "bossFranticStartTime": 120.0,
+            "damageRatio": 1.0,
+            "damageIncreaceInterval": 5.0,
+            "franticSceneTypes": [
+                14,
+                1,
+                2,
+                12
+            ]
+        },
+        "powerConfig": {
+            "increasePerHit": 200.0,
+            "increasePerHurt": 0.0,
+            "getOnKillEnemy": 0.0
+        },
+        "lifeRegenInterval": 2.0,
+        "playerSpeedRatioX": 1.0,
+        "playerSpeedRatioZ": 1.5,
+        "defaultQuality": 0,
+        "shakeRatio": 30.0,
+        "reviveDisplayEffect": {
+            "asset": "HitSpark/05受击_实弹爆炸（大）",
+            "scale": 1.0
+        },
+        "switchRoleDisplayEffect": {
+            "asset": "actioneffect/01其他_瞬闪",
+            "scale": 1.0
+        },
+        "explodeScarEffect": {
+            "asset": null,
+            "scale": 1.0
+        },
+        "enduranceData": {
+            "armorBreakDisplayEffect": null,
+            "armorBreakHitBackData": {
+                "BackSpeed": {
+                    "x": 40.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "Damping": 500,
+                "confuseTime": 0.0,
+                "bombMode": false,
+                "dragMode": false,
+                "freezingDurationSelf": 0.0,
+                "freezingDurationEnemy": 0.0
+            },
+            "armorEnduranceDataPlayer": {
+                "shieldRecoverRate": 0.2
+            }
+        },
+        "boxDisplayData": {
+            "goldBoxEffect": {
+                "asset": null,
+                "scale": 1.0
+            },
+            "silverBoxEffect": {
+                "asset": null,
+                "scale": 1.0
+            },
+            "getBoxEffect": {
+                "asset": "actioneffect/01其他_拾取特效",
+                "scale": 1.0
+            }
+        },
+        "displayEffectConfigData": {
+            "maxHitSparkNum": 2,
+            "deadExplodeIntervalTime": 0.5
+        },
+        "buffEffectConfigData": {
+            "stunEffect": {
+                "positionBone": "head",
+                "extraSotingOrder": 20,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "resourceIDs": [
+                    null
+                ],
+                "soundIDs": null
+            }
+        },
+        "ID": 1,
+        "Name": null
+    }
+]

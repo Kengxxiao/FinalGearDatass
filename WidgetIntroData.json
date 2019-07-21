@@ -1,0 +1,3458 @@
+[
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "反抗者-突击步枪",
+        "SuitWeaponID": [
+            2100116
+        ],
+        "SuitChestID": [
+            2100121
+        ],
+        "SuitLegID": [
+            2100131
+        ],
+        "SuitBackpackID": [
+            2100141
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 4,
+        "AtkRate": 4,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 4,
+        "ID": 100000,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 2,
+        "JuniorGroupName": "侦查",
+        "SuitName": "反抗者-狙击枪",
+        "SuitWeaponID": [
+            2100117
+        ],
+        "SuitChestID": [
+            2100121
+        ],
+        "SuitLegID": [
+            2100131
+        ],
+        "SuitBackpackID": [
+            2100141
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 4,
+        "AtkRate": 3,
+        "DodgeRate": 6,
+        "HitRate": 5,
+        "ArmorRate": 4,
+        "ID": 100001,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "反抗者-拳钉",
+        "SuitWeaponID": [
+            2100113
+        ],
+        "SuitChestID": [
+            2100121
+        ],
+        "SuitLegID": [
+            2100131
+        ],
+        "SuitBackpackID": [
+            2100141
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 4,
+        "AtkRate": 3,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 4,
+        "ID": 100002,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "反抗者-加农炮",
+        "SuitWeaponID": [
+            2100118
+        ],
+        "SuitChestID": [
+            2100122
+        ],
+        "SuitLegID": [
+            2100132
+        ],
+        "SuitBackpackID": [
+            2100142
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 5,
+        "ID": 100003,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "反抗者-片手剑",
+        "SuitWeaponID": [
+            2100112
+        ],
+        "SuitChestID": [
+            2100122
+        ],
+        "SuitLegID": [
+            2100132
+        ],
+        "SuitBackpackID": [
+            2100142
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 3,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100004,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "反抗者-重机枪",
+        "SuitWeaponID": [
+            2100115
+        ],
+        "SuitChestID": [
+            2100122
+        ],
+        "SuitLegID": [
+            2100132
+        ],
+        "SuitBackpackID": [
+            2100142
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 5,
+        "ID": 100005,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "反抗者-冲击锤",
+        "SuitWeaponID": [
+            2100114
+        ],
+        "SuitChestID": [
+            2100123
+        ],
+        "SuitLegID": [
+            2100133
+        ],
+        "SuitBackpackID": [
+            2100143
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 3,
+        "DodgeRate": 4,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100006,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "反抗者-动力长矛",
+        "SuitWeaponID": [
+            2100111
+        ],
+        "SuitChestID": [
+            2100123
+        ],
+        "SuitLegID": [
+            2100133
+        ],
+        "SuitBackpackID": [
+            2100143
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 3,
+        "DodgeRate": 4,
+        "HitRate": 6,
+        "ArmorRate": 6,
+        "ID": 100007,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 2,
+        "WidgetSeries": 0,
+        "SeriesName": "反抗者",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "反抗者-投射炮",
+        "SuitWeaponID": [
+            2100119
+        ],
+        "SuitChestID": [
+            2100123
+        ],
+        "SuitLegID": [
+            2100133
+        ],
+        "SuitBackpackID": [
+            2100143
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "黑色方舟",
+        "SuitDesc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 4,
+        "HitRate": 4,
+        "ArmorRate": 5,
+        "ID": 100008,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 1,
+        "SeriesName": "AX试作型",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "AX-重机枪",
+        "SuitWeaponID": [
+            2100615
+        ],
+        "SuitChestID": [
+            2100623
+        ],
+        "SuitLegID": [
+            2100633
+        ],
+        "SuitBackpackID": [
+            2100643
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国侵略战争后期所制作的临时试验机体，\n由于制作成本问题所以没能够进行量产。\n在技术升级的现在才得以再一次问世。",
+        "HpRate": 7,
+        "AtkRate": 6,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 7,
+        "ID": 100009,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 1,
+        "SeriesName": "AX试作型",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "AX-散弹枪",
+        "SuitWeaponID": [
+            2100611
+        ],
+        "SuitChestID": [
+            2100623
+        ],
+        "SuitLegID": [
+            2100633
+        ],
+        "SuitBackpackID": [
+            2100643
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国侵略战争后期所制作的临时试验机体，\n由于制作成本问题所以没能够进行量产。\n在技术升级的现在才得以再一次问世。",
+        "HpRate": 7,
+        "AtkRate": 6,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 7,
+        "ID": 100010,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 2,
+        "SeriesName": "RN试验型",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "RN-环形光刃",
+        "SuitWeaponID": [
+            2100613
+        ],
+        "SuitChestID": [
+            2100622
+        ],
+        "SuitLegID": [
+            2100632
+        ],
+        "SuitBackpackID": [
+            2100642
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "出自林贝儿的设计，代表了帝国尖端工业的\n实验作品之一，因此属于RN编号体系之内。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100011,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 2,
+        "SeriesName": "RN试验型",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 2,
+        "JuniorGroupName": "侦查",
+        "SuitName": "RN-狙击枪",
+        "SuitWeaponID": [
+            2100617
+        ],
+        "SuitChestID": [
+            2100622
+        ],
+        "SuitLegID": [
+            2100632
+        ],
+        "SuitBackpackID": [
+            2100642
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "出自林贝儿的设计，代表了帝国尖端工业的\n实验作品之一，因此属于RN编号体系之内。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100012,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 2,
+        "SeriesName": "RN试验型",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "RN-光剑",
+        "SuitWeaponID": [
+            2100612
+        ],
+        "SuitChestID": [
+            2100622
+        ],
+        "SuitLegID": [
+            2100632
+        ],
+        "SuitBackpackID": [
+            2100642
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "出自林贝儿的设计，代表了帝国尖端工业的\n实验作品之一，因此属于RN编号体系之内。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100013,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 3,
+        "SeriesName": "长牙狮",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "长牙狮-冲锋枪配置",
+        "SuitWeaponID": [
+            2100616
+        ],
+        "SuitChestID": [
+            2100621
+        ],
+        "SuitLegID": [
+            2100631
+        ],
+        "SuitBackpackID": [
+            2100641
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "于新历57年在帝国某处遗迹中所发现的神秘\n机体。其外形酷似一头凶猛的野兽。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100014,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 3,
+        "SeriesName": "长牙狮",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "长牙狮-能量刃配置",
+        "SuitWeaponID": [
+            2100614
+        ],
+        "SuitChestID": [
+            2100621
+        ],
+        "SuitLegID": [
+            2100631
+        ],
+        "SuitBackpackID": [
+            2100641
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "于新历57年在帝国某处遗迹中所发现的神秘\n机体。其外形酷似一头凶猛的野兽。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100015,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 3,
+        "SeriesName": "长牙狮",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 2,
+        "JuniorGroupName": "支援",
+        "SuitName": "长牙狮-发射器配置",
+        "SuitWeaponID": [
+            2100619
+        ],
+        "SuitChestID": [
+            2100621
+        ],
+        "SuitLegID": [
+            2100631
+        ],
+        "SuitBackpackID": [
+            2100641
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "于新历57年在帝国某处遗迹中所发现的神秘\n机体。其外形酷似一头凶猛的野兽。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100016,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 4,
+        "SeriesName": "月光",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "月光",
+        "SuitWeaponID": [
+            2100618
+        ],
+        "SuitChestID": [
+            2100005
+        ],
+        "SuitLegID": [
+            2100008
+        ],
+        "SuitBackpackID": [
+            2100011
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "这是由林贝儿派出的探索队所回收的谜之武\n器。其刀身散发着暗淡的蓝色光芒，不知为\n何使用过的人都会变得萎靡不振。",
+        "HpRate": 7,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 100017,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 5,
+        "SeriesName": "冰鸟",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "冰鸟-双刃",
+        "SuitWeaponID": [
+            2100813
+        ],
+        "SuitChestID": [
+            2100822
+        ],
+        "SuitLegID": [
+            2100832
+        ],
+        "SuitBackpackID": [
+            2100842
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "维拉米尔工业",
+        "SuitDesc": "第二次帝国侵略战争时期的功臣，是原帝国\n将领格蕾芙用帝国研究所偷来的设计图而制\n作的机体。目前已经得到了量产。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 100018,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 5,
+        "SeriesName": "冰鸟",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 2,
+        "JuniorGroupName": "警戒",
+        "SuitName": "冰鸟-双枪",
+        "SuitWeaponID": [
+            2100816
+        ],
+        "SuitChestID": [
+            2100822
+        ],
+        "SuitLegID": [
+            2100832
+        ],
+        "SuitBackpackID": [
+            2100842
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "维拉米尔工业",
+        "SuitDesc": "第二次帝国侵略战争时期的功臣，是原帝国\n将领格蕾芙用帝国研究所偷来的设计图而制\n作的机体。目前已经得到了量产。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 100019,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 5,
+        "SeriesName": "冰鸟",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "冰鸟-片手",
+        "SuitWeaponID": [
+            2100812
+        ],
+        "SuitChestID": [
+            2100822
+        ],
+        "SuitLegID": [
+            2100832
+        ],
+        "SuitBackpackID": [
+            2100842
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "维拉米尔工业",
+        "SuitDesc": "第二次帝国侵略战争时期的功臣，是原帝国\n将领格蕾芙用帝国研究所偷来的设计图而制\n作的机体。目前已经得到了量产。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 100020,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "强盗团-拳装",
+        "SuitWeaponID": [
+            2100913
+        ],
+        "SuitChestID": [
+            2100921
+        ],
+        "SuitLegID": [
+            2100931
+        ],
+        "SuitBackpackID": [
+            2100941
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 4,
+        "AtkRate": 4,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 4,
+        "ID": 100021,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 2,
+        "JuniorGroupName": "警戒",
+        "SuitName": "强盗团-冲锋装",
+        "SuitWeaponID": [
+            2100916
+        ],
+        "SuitChestID": [
+            2100921
+        ],
+        "SuitLegID": [
+            2100931
+        ],
+        "SuitBackpackID": [
+            2100941
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 4,
+        "AtkRate": 3,
+        "DodgeRate": 6,
+        "HitRate": 5,
+        "ArmorRate": 4,
+        "ID": 100022,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "强盗团-狙击装",
+        "SuitWeaponID": [
+            2100917
+        ],
+        "SuitChestID": [
+            2100921
+        ],
+        "SuitLegID": [
+            2100931
+        ],
+        "SuitBackpackID": [
+            2100941
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 4,
+        "AtkRate": 3,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 4,
+        "ID": 100023,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "强盗团-加农装",
+        "SuitWeaponID": [
+            2100918
+        ],
+        "SuitChestID": [
+            2100922
+        ],
+        "SuitLegID": [
+            2100932
+        ],
+        "SuitBackpackID": [
+            2100942
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 5,
+        "ID": 100024,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "强盗团-刀装",
+        "SuitWeaponID": [
+            2100912
+        ],
+        "SuitChestID": [
+            2100922
+        ],
+        "SuitLegID": [
+            2100932
+        ],
+        "SuitBackpackID": [
+            2100942
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 5,
+        "AtkRate": 3,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100025,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "强盗团-重机装",
+        "SuitWeaponID": [
+            2100915
+        ],
+        "SuitChestID": [
+            2100922
+        ],
+        "SuitLegID": [
+            2100932
+        ],
+        "SuitBackpackID": [
+            2100942
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 5,
+        "ID": 100026,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "强盗团-打桩机",
+        "SuitWeaponID": [
+            2100914
+        ],
+        "SuitChestID": [
+            2100923
+        ],
+        "SuitLegID": [
+            2100933
+        ],
+        "SuitBackpackID": [
+            2100943
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 5,
+        "AtkRate": 3,
+        "DodgeRate": 4,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 100027,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "强盗团-散弹装",
+        "SuitWeaponID": [
+            2100911
+        ],
+        "SuitChestID": [
+            2100923
+        ],
+        "SuitLegID": [
+            2100933
+        ],
+        "SuitBackpackID": [
+            2100943
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 6,
+        "AtkRate": 3,
+        "DodgeRate": 4,
+        "HitRate": 6,
+        "ArmorRate": 6,
+        "ID": 100028,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 6,
+        "SeriesName": "强盗团",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "强盗团-投射装",
+        "SuitWeaponID": [
+            2100919
+        ],
+        "SuitChestID": [
+            2100923
+        ],
+        "SuitLegID": [
+            2100933
+        ],
+        "SuitBackpackID": [
+            2100943
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "民间自制",
+        "SuitDesc": "艾达强盗团成员所使用的制式装备，似乎是\n民间自制的。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 4,
+        "HitRate": 4,
+        "ArmorRate": 5,
+        "ID": 100029,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 7,
+        "SeriesName": "宇宙人",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "宇宙人原型机",
+        "SuitWeaponID": [
+            2101018
+        ],
+        "SuitChestID": [
+            2101022
+        ],
+        "SuitLegID": [
+            2101032
+        ],
+        "SuitBackpackID": [
+            2101042
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "哼，肮脏的烟火。",
+        "HpRate": 7,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 5,
+        "ID": 100030,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 8,
+        "SeriesName": "和平使者",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "和平使者-冲锋型",
+        "SuitWeaponID": [
+            2101116
+        ],
+        "SuitChestID": [
+            2101121
+        ],
+        "SuitLegID": [
+            2101131
+        ],
+        "SuitBackpackID": [
+            2101141
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "海克塞尔人总喜欢捣弄一些奇怪的设计，这\n架护士配色的装甲就是其中一项。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100032,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 8,
+        "SeriesName": "和平使者",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "和平使者-重机装",
+        "SuitWeaponID": [
+            2101115
+        ],
+        "SuitChestID": [
+            2100005
+        ],
+        "SuitLegID": [
+            2100008
+        ],
+        "SuitBackpackID": [
+            2100011
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "海克塞尔人总喜欢捣弄一些奇怪的设计，这\n架护士配色的装甲就是其中一项。",
+        "HpRate": 6,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100033,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 8,
+        "SeriesName": "和平使者",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "和平使者-刀装",
+        "SuitWeaponID": [
+            2101111
+        ],
+        "SuitChestID": [
+            2100006
+        ],
+        "SuitLegID": [
+            2100009
+        ],
+        "SuitBackpackID": [
+            2100012
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "海克塞尔人总喜欢捣弄一些奇怪的设计，这\n架护士配色的装甲就是其中一项。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 100034,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 9,
+        "SeriesName": "沙漠切割者",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "沙漠切割者原型机",
+        "SuitWeaponID": [
+            2101112
+        ],
+        "SuitChestID": [
+            2101122
+        ],
+        "SuitLegID": [
+            2101132
+        ],
+        "SuitBackpackID": [
+            2101142
+        ],
+        "Designer": "辛西娅",
+        "Manufacturer": "执刑者家族",
+        "SuitDesc": "生长在沙漠的人类带着对蝎子的敬畏之情制作\n了这架装甲，最终成为了军队的一份子。",
+        "HpRate": 6,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 100035,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 10,
+        "SeriesName": "物理学",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "物理学圣剑",
+        "SuitWeaponID": [
+            2101113
+        ],
+        "SuitChestID": [
+            2100004
+        ],
+        "SuitLegID": [
+            2100007
+        ],
+        "SuitBackpackID": [
+            2100010
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "对“朋友”使用物理学圣剑，“朋友”晕了过\n去，“调查员”成功逃走了！",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 5,
+        "HitRate": 10,
+        "ArmorRate": 5,
+        "ID": 100036,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 11,
+        "SeriesName": "绿蟹",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "绿蟹原型机",
+        "SuitWeaponID": [
+            2101114
+        ],
+        "SuitChestID": [
+            2100006
+        ],
+        "SuitLegID": [
+            2100009
+        ],
+        "SuitBackpackID": [
+            2100012
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "只存在于传说中的，可以净化某些特殊事物的\n武器。",
+        "HpRate": 5,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 5,
+        "ArmorRate": 8,
+        "ID": 100037,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 12,
+        "SeriesName": "狂躁之王",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "狂躁之王-鱼叉枪",
+        "SuitWeaponID": [
+            2101117
+        ],
+        "SuitChestID": [
+            2100004
+        ],
+        "SuitLegID": [
+            2100007
+        ],
+        "SuitBackpackID": [
+            2100010
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "据说是在第二次帝国侵略战争时期，统治着沙\n漠一角的不法之徒所使用的装备。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 100038,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 12,
+        "SeriesName": "狂躁之王",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "狂躁之王-加农炮",
+        "SuitWeaponID": [
+            2101118
+        ],
+        "SuitChestID": [
+            2100005
+        ],
+        "SuitLegID": [
+            2100008
+        ],
+        "SuitBackpackID": [
+            2100011
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "据说是在第二次帝国侵略战争时期，统治着沙\n漠一角的不法之徒所使用的装备。",
+        "HpRate": 7,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 100039,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 13,
+        "SeriesName": "壳之守卫",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "壳之守卫原型机",
+        "SuitWeaponID": [
+            2101119
+        ],
+        "SuitChestID": [
+            2101123
+        ],
+        "SuitLegID": [
+            2101133
+        ],
+        "SuitBackpackID": [
+            2101143
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "这是一台在海克塞尔内战时期备受好评的制式\n机甲，其稳定性在当时众多机体中名列前茅。",
+        "HpRate": 8,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 100040,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 6,
+        "WeightDesc": "四级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "苍鹰-手枪装",
+        "SuitWeaponID": [
+            2100416
+        ],
+        "SuitChestID": [
+            2100421
+        ],
+        "SuitLegID": [
+            2100431
+        ],
+        "SuitBackpackID": [
+            2100441
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 200000,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 6,
+        "WeightDesc": "四级装甲",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "苍鹰-短刀装",
+        "SuitWeaponID": [
+            2100413
+        ],
+        "SuitChestID": [
+            2100421
+        ],
+        "SuitLegID": [
+            2100431
+        ],
+        "SuitBackpackID": [
+            2100441
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 4,
+        "DodgeRate": 7,
+        "HitRate": 6,
+        "ArmorRate": 5,
+        "ID": 200001,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 6,
+        "WeightDesc": "四级装甲",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "苍鹰-狙击装",
+        "SuitWeaponID": [
+            2100417
+        ],
+        "SuitChestID": [
+            2100421
+        ],
+        "SuitLegID": [
+            2100431
+        ],
+        "SuitBackpackID": [
+            2100441
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 5,
+        "AtkRate": 4,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 200002,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 7,
+        "WeightDesc": "三级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "苍鹰-加农装",
+        "SuitWeaponID": [
+            2100418
+        ],
+        "SuitChestID": [
+            2100422
+        ],
+        "SuitLegID": [
+            2100432
+        ],
+        "SuitBackpackID": [
+            2100442
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 6,
+        "ID": 200003,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 7,
+        "WeightDesc": "三级装甲",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "苍鹰-片手装",
+        "SuitWeaponID": [
+            2100412
+        ],
+        "SuitChestID": [
+            2100422
+        ],
+        "SuitLegID": [
+            2100432
+        ],
+        "SuitBackpackID": [
+            2100442
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 4,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 200004,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 7,
+        "WeightDesc": "三级装甲",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "苍鹰-重机装",
+        "SuitWeaponID": [
+            2100415
+        ],
+        "SuitChestID": [
+            2100422
+        ],
+        "SuitLegID": [
+            2100432
+        ],
+        "SuitBackpackID": [
+            2100442
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 6,
+        "ID": 200005,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "苍鹰-电锯装",
+        "SuitWeaponID": [
+            2100414
+        ],
+        "SuitChestID": [
+            2100423
+        ],
+        "SuitLegID": [
+            2100433
+        ],
+        "SuitBackpackID": [
+            2100443
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 4,
+        "DodgeRate": 5,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 200006,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "苍鹰-长矛装",
+        "SuitWeaponID": [
+            2100411
+        ],
+        "SuitChestID": [
+            2100423
+        ],
+        "SuitLegID": [
+            2100433
+        ],
+        "SuitBackpackID": [
+            2100443
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 4,
+        "DodgeRate": 5,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 200007,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 14,
+        "SeriesName": "苍鹰",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "苍鹰-投射装",
+        "SuitWeaponID": [
+            2100419
+        ],
+        "SuitChestID": [
+            2100423
+        ],
+        "SuitLegID": [
+            2100433
+        ],
+        "SuitBackpackID": [
+            2100443
+        ],
+        "Designer": "爱塔",
+        "Manufacturer": "德克瑞工业",
+        "SuitDesc": "根据战时爱塔所制造的民用装甲所改造的军用\n制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 5,
+        "HitRate": 5,
+        "ArmorRate": 6,
+        "ID": 200008,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 15,
+        "SeriesName": "虎鲨",
+        "WeightSeries": 6,
+        "WeightDesc": "四级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "虎鲨-狙击装",
+        "SuitWeaponID": [
+            2100817
+        ],
+        "SuitChestID": [
+            2100821
+        ],
+        "SuitLegID": [
+            2100831
+        ],
+        "SuitBackpackID": [
+            2100841
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 200009,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 15,
+        "SeriesName": "虎鲨",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "虎鲨-电锯装",
+        "SuitWeaponID": [
+            2100814
+        ],
+        "SuitChestID": [
+            2100006
+        ],
+        "SuitLegID": [
+            2100009
+        ],
+        "SuitBackpackID": [
+            2100012
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 200010,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 15,
+        "SeriesName": "虎鲨",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "虎鲨-长矛装",
+        "SuitWeaponID": [
+            2100811
+        ],
+        "SuitChestID": [
+            2100006
+        ],
+        "SuitLegID": [
+            2100009
+        ],
+        "SuitBackpackID": [
+            2100012
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 200011,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 16,
+        "SeriesName": "锤头鲨",
+        "WeightSeries": 7,
+        "WeightDesc": "三级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "锤头鲨-重机装",
+        "SuitWeaponID": [
+            2100815
+        ],
+        "SuitChestID": [
+            2100823
+        ],
+        "SuitLegID": [
+            2100833
+        ],
+        "SuitBackpackID": [
+            2100843
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 200012,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 16,
+        "SeriesName": "锤头鲨",
+        "WeightSeries": 7,
+        "WeightDesc": "三级装甲",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "锤头鲨-火炮装",
+        "SuitWeaponID": [
+            2100818
+        ],
+        "SuitChestID": [
+            2100823
+        ],
+        "SuitLegID": [
+            2100833
+        ],
+        "SuitBackpackID": [
+            2100843
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 200013,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 6,
+        "WidgetSeries": 16,
+        "SeriesName": "锤头鲨",
+        "WeightSeries": 8,
+        "WeightDesc": "二级装甲",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "锤头鲨-投射装",
+        "SuitWeaponID": [
+            2100819
+        ],
+        "SuitChestID": [
+            2100823
+        ],
+        "SuitLegID": [
+            2100833
+        ],
+        "SuitBackpackID": [
+            2100843
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "黑色方舟掀起帝国内乱时所驾驶的制式装甲，\n设计者的资料目前已不可考证。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 200014,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "先驱者-机械臂",
+        "SuitWeaponID": [
+            2100313
+        ],
+        "SuitChestID": [
+            2100321
+        ],
+        "SuitLegID": [
+            2100331
+        ],
+        "SuitBackpackID": [
+            2100341
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300000,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "先驱者-冲锋装",
+        "SuitWeaponID": [
+            2100316
+        ],
+        "SuitChestID": [
+            2100321
+        ],
+        "SuitLegID": [
+            2100331
+        ],
+        "SuitBackpackID": [
+            2100341
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 300001,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "先驱者-狙击装",
+        "SuitWeaponID": [
+            2100317
+        ],
+        "SuitChestID": [
+            2100321
+        ],
+        "SuitLegID": [
+            2100331
+        ],
+        "SuitBackpackID": [
+            2100341
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300002,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "先驱者-加农装",
+        "SuitWeaponID": [
+            2100318
+        ],
+        "SuitChestID": [
+            2100322
+        ],
+        "SuitLegID": [
+            2100332
+        ],
+        "SuitBackpackID": [
+            2100342
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300003,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "先驱者-警棍装",
+        "SuitWeaponID": [
+            2100312
+        ],
+        "SuitChestID": [
+            2100322
+        ],
+        "SuitLegID": [
+            2100332
+        ],
+        "SuitBackpackID": [
+            2100342
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300004,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "先驱者-能量重机",
+        "SuitWeaponID": [
+            2100315
+        ],
+        "SuitChestID": [
+            2100322
+        ],
+        "SuitLegID": [
+            2100332
+        ],
+        "SuitBackpackID": [
+            2100342
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300005,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "先驱者-能量切割",
+        "SuitWeaponID": [
+            2100314
+        ],
+        "SuitChestID": [
+            2100323
+        ],
+        "SuitLegID": [
+            2100333
+        ],
+        "SuitBackpackID": [
+            2100343
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300006,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "先驱者-长柄锤装",
+        "SuitWeaponID": [
+            2100311
+        ],
+        "SuitChestID": [
+            2100323
+        ],
+        "SuitLegID": [
+            2100333
+        ],
+        "SuitBackpackID": [
+            2100343
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 8,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 300007,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 17,
+        "SeriesName": "先驱者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "先驱者-投射装",
+        "SuitWeaponID": [
+            2100319
+        ],
+        "SuitChestID": [
+            2100323
+        ],
+        "SuitLegID": [
+            2100333
+        ],
+        "SuitBackpackID": [
+            2100343
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "基于林贝儿所提供的技术简化并量产而成的兵\n器，出自奥斯菲尔德工会之手。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 300008,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "审判者-长剑装",
+        "SuitWeaponID": [
+            2100713
+        ],
+        "SuitChestID": [
+            2100721
+        ],
+        "SuitLegID": [
+            2100731
+        ],
+        "SuitBackpackID": [
+            2100741
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300009,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "审判者-光刃装",
+        "SuitWeaponID": [
+            2100716
+        ],
+        "SuitChestID": [
+            2100721
+        ],
+        "SuitLegID": [
+            2100731
+        ],
+        "SuitBackpackID": [
+            2100741
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 300010,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "审判者-弓装",
+        "SuitWeaponID": [
+            2100717
+        ],
+        "SuitChestID": [
+            2100721
+        ],
+        "SuitLegID": [
+            2100731
+        ],
+        "SuitBackpackID": [
+            2100741
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300011,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "审判者-飞斧装",
+        "SuitWeaponID": [
+            2100718
+        ],
+        "SuitChestID": [
+            2100722
+        ],
+        "SuitLegID": [
+            2100732
+        ],
+        "SuitBackpackID": [
+            2100742
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300012,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "审判者-链枷装",
+        "SuitWeaponID": [
+            2100712
+        ],
+        "SuitChestID": [
+            2100722
+        ],
+        "SuitLegID": [
+            2100732
+        ],
+        "SuitBackpackID": [
+            2100742
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300013,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "审判者-弩枪装",
+        "SuitWeaponID": [
+            2100715
+        ],
+        "SuitChestID": [
+            2100722
+        ],
+        "SuitLegID": [
+            2100732
+        ],
+        "SuitBackpackID": [
+            2100742
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300014,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "审判者-长矛装",
+        "SuitWeaponID": [
+            2100714
+        ],
+        "SuitChestID": [
+            2100723
+        ],
+        "SuitLegID": [
+            2100733
+        ],
+        "SuitBackpackID": [
+            2100743
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300015,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "审判者-骑枪装",
+        "SuitWeaponID": [
+            2100711
+        ],
+        "SuitChestID": [
+            2100723
+        ],
+        "SuitLegID": [
+            2100733
+        ],
+        "SuitBackpackID": [
+            2100743
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 8,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 300016,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 18,
+        "SeriesName": "审判者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "审判者-弩炮装",
+        "SuitWeaponID": [
+            2100719
+        ],
+        "SuitChestID": [
+            2100723
+        ],
+        "SuitLegID": [
+            2100733
+        ],
+        "SuitBackpackID": [
+            2100743
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "于帝国侵略战争时期，帝国骑士团所驾驶的量\n产型机体，经过林贝儿一定程度的改造之后重\n返战场。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 300017,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 19,
+        "SeriesName": "惩罚者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "惩罚者-飞刃装",
+        "SuitWeaponID": [
+            2101016
+        ],
+        "SuitChestID": [
+            2101021
+        ],
+        "SuitLegID": [
+            2101031
+        ],
+        "SuitBackpackID": [
+            2101041
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国精锐骑士才有资格驾驶的制式装甲，无论\n是性能与外观都是骑士系列的顶尖。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 300018,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 19,
+        "SeriesName": "惩罚者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 2,
+        "JuniorGroupName": "警戒",
+        "SuitName": "惩罚者-十字刃装",
+        "SuitWeaponID": [
+            2101013
+        ],
+        "SuitChestID": [
+            2101021
+        ],
+        "SuitLegID": [
+            2101031
+        ],
+        "SuitBackpackID": [
+            2101041
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国精锐骑士才有资格驾驶的制式装甲，无论\n是性能与外观都是骑士系列的顶尖。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 5,
+        "ID": 300019,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 19,
+        "SeriesName": "惩罚者",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "惩罚者-长弓装",
+        "SuitWeaponID": [
+            2101017
+        ],
+        "SuitChestID": [
+            2101021
+        ],
+        "SuitLegID": [
+            2101031
+        ],
+        "SuitBackpackID": [
+            2101041
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国精锐骑士才有资格驾驶的制式装甲，无论\n是性能与外观都是骑士系列的顶尖。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 300020,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 19,
+        "SeriesName": "惩罚者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "惩罚者-动力矛装",
+        "SuitWeaponID": [
+            2101011
+        ],
+        "SuitChestID": [
+            2100006
+        ],
+        "SuitLegID": [
+            2100009
+        ],
+        "SuitBackpackID": [
+            2100012
+        ],
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "帝国精锐骑士才有资格驾驶的制式装甲，无论\n是性能与外观都是骑士系列的顶尖。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 5,
+        "ID": 300021,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 20,
+        "SeriesName": "镇压者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "镇压者-振荡器装",
+        "SuitWeaponID": [
+            2101012
+        ],
+        "SuitChestID": [
+            2101023
+        ],
+        "SuitLegID": [
+            2101033
+        ],
+        "SuitBackpackID": [
+            2101043
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "虽然是出自奥斯菲尔德工会之手，但其设计者\n已经遭到除名，并且没人知道真相。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 8,
+        "ID": 300022,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 20,
+        "SeriesName": "镇压者",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "镇压者-重机装",
+        "SuitWeaponID": [
+            2101015
+        ],
+        "SuitChestID": [
+            2101023
+        ],
+        "SuitLegID": [
+            2101033
+        ],
+        "SuitBackpackID": [
+            2101043
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "虽然是出自奥斯菲尔德工会之手，但其设计者\n已经遭到除名，并且没人知道真相。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 8,
+        "ID": 300023,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 20,
+        "SeriesName": "镇压者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "镇压者-打桩机",
+        "SuitWeaponID": [
+            2101014
+        ],
+        "SuitChestID": [
+            2101023
+        ],
+        "SuitLegID": [
+            2101033
+        ],
+        "SuitBackpackID": [
+            2101043
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "虽然是出自奥斯菲尔德工会之手，但其设计者\n已经遭到除名，并且没人知道真相。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 8,
+        "ID": 300024,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 7,
+        "WidgetSeries": 20,
+        "SeriesName": "镇压者",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 2,
+        "JuniorGroupName": "支援",
+        "SuitName": "镇压者-电弧装",
+        "SuitWeaponID": [
+            2101019
+        ],
+        "SuitChestID": [
+            2101023
+        ],
+        "SuitLegID": [
+            2101033
+        ],
+        "SuitBackpackID": [
+            2101043
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "奥斯菲尔德工会",
+        "SuitDesc": "虽然是出自奥斯菲尔德工会之手，但其设计者\n已经遭到除名，并且没人知道真相。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 5,
+        "HitRate": 6,
+        "ArmorRate": 8,
+        "ID": 300025,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "暗夜·短杖形态",
+        "SuitWeaponID": [
+            2101216
+        ],
+        "SuitChestID": [
+            2101221
+        ],
+        "SuitLegID": [
+            2101231
+        ],
+        "SuitBackpackID": [
+            2101241
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300026,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "暗夜·腕刃形态",
+        "SuitWeaponID": [
+            2101213
+        ],
+        "SuitChestID": [
+            2101221
+        ],
+        "SuitLegID": [
+            2101231
+        ],
+        "SuitBackpackID": [
+            2101241
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 300027,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 0,
+        "WeightDesc": "精英",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "暗夜·狙击形态",
+        "SuitWeaponID": [
+            2101217
+        ],
+        "SuitChestID": [
+            2101221
+        ],
+        "SuitLegID": [
+            2101231
+        ],
+        "SuitBackpackID": [
+            2101241
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 300028,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "暗夜·爆破形态",
+        "SuitWeaponID": [
+            2101218
+        ],
+        "SuitChestID": [
+            2101222
+        ],
+        "SuitLegID": [
+            2101232
+        ],
+        "SuitBackpackID": [
+            2101242
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300029,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "暗夜·动力斧形态",
+        "SuitWeaponID": [
+            2101212
+        ],
+        "SuitChestID": [
+            2101222
+        ],
+        "SuitLegID": [
+            2101232
+        ],
+        "SuitBackpackID": [
+            2101242
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300030,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 1,
+        "WeightDesc": "骑士",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "暗夜·长杖形态",
+        "SuitWeaponID": [
+            2101215
+        ],
+        "SuitChestID": [
+            2101222
+        ],
+        "SuitLegID": [
+            2101232
+        ],
+        "SuitBackpackID": [
+            2101242
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300031,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "暗夜·光鞭形态",
+        "SuitWeaponID": [
+            2101214
+        ],
+        "SuitChestID": [
+            2101223
+        ],
+        "SuitLegID": [
+            2101233
+        ],
+        "SuitBackpackID": [
+            2101243
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 300032,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "暗夜·动力矛形态",
+        "SuitWeaponID": [
+            2101211
+        ],
+        "SuitChestID": [
+            2101223
+        ],
+        "SuitLegID": [
+            2101233
+        ],
+        "SuitBackpackID": [
+            2101243
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 8,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 300033,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 21,
+        "SeriesName": "暗夜",
+        "WeightSeries": 2,
+        "WeightDesc": "主教",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "暗夜·轰炸形态",
+        "SuitWeaponID": [
+            2101219
+        ],
+        "SuitChestID": [
+            2101223
+        ],
+        "SuitLegID": [
+            2101233
+        ],
+        "SuitBackpackID": [
+            2101243
+        ],
+        "Designer": "奇莉诺",
+        "Manufacturer": "魔女家族",
+        "SuitDesc": "魔女家族的人在信仰太阳的同时，也追求着与\n黑暗的共存关系。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 300034,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "沙漠风暴-冲锋装",
+        "SuitWeaponID": [
+            2100216
+        ],
+        "SuitChestID": [
+            2100221
+        ],
+        "SuitLegID": [
+            2100231
+        ],
+        "SuitBackpackID": [
+            2100241
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 400000,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "沙漠风暴-双锯装",
+        "SuitWeaponID": [
+            2100213
+        ],
+        "SuitChestID": [
+            2100221
+        ],
+        "SuitLegID": [
+            2100231
+        ],
+        "SuitBackpackID": [
+            2100241
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 400001,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "沙漠风暴-狙击装",
+        "SuitWeaponID": [
+            2100217
+        ],
+        "SuitChestID": [
+            2100221
+        ],
+        "SuitLegID": [
+            2100231
+        ],
+        "SuitBackpackID": [
+            2100241
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 400002,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "沙漠风暴-加农装",
+        "SuitWeaponID": [
+            2100218
+        ],
+        "SuitChestID": [
+            2100222
+        ],
+        "SuitLegID": [
+            2100232
+        ],
+        "SuitBackpackID": [
+            2100242
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 400003,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "沙漠风暴-锤装",
+        "SuitWeaponID": [
+            2100212
+        ],
+        "SuitChestID": [
+            2100222
+        ],
+        "SuitLegID": [
+            2100232
+        ],
+        "SuitBackpackID": [
+            2100242
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 400004,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "沙漠风暴-机枪装",
+        "SuitWeaponID": [
+            2100215
+        ],
+        "SuitChestID": [
+            2100222
+        ],
+        "SuitLegID": [
+            2100232
+        ],
+        "SuitBackpackID": [
+            2100242
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 400005,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "沙漠风暴-拳装",
+        "SuitWeaponID": [
+            2100214
+        ],
+        "SuitChestID": [
+            2100223
+        ],
+        "SuitLegID": [
+            2100233
+        ],
+        "SuitBackpackID": [
+            2100243
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 400006,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "沙漠风暴-长柄装",
+        "SuitWeaponID": [
+            2100211
+        ],
+        "SuitChestID": [
+            2100223
+        ],
+        "SuitLegID": [
+            2100233
+        ],
+        "SuitBackpackID": [
+            2100243
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 8,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 400007,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 22,
+        "SeriesName": "沙漠风暴",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "沙漠风暴-投射装",
+        "SuitWeaponID": [
+            2100219
+        ],
+        "SuitChestID": [
+            2100223
+        ],
+        "SuitLegID": [
+            2100233
+        ],
+        "SuitBackpackID": [
+            2100243
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "由执作者家族全权负责的第一世代海克塞尔侦\n察队制式兵器。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 400008,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "怪雨-机械臂",
+        "SuitWeaponID": [
+            2100513
+        ],
+        "SuitChestID": [
+            2100521
+        ],
+        "SuitLegID": [
+            2100531
+        ],
+        "SuitBackpackID": [
+            2100541
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 400009,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "怪雨-冲锋装",
+        "SuitWeaponID": [
+            2100516
+        ],
+        "SuitChestID": [
+            2100521
+        ],
+        "SuitLegID": [
+            2100531
+        ],
+        "SuitBackpackID": [
+            2100541
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 400010,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 12,
+        "WeightDesc": "水流",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "怪雨-狙击装",
+        "SuitWeaponID": [
+            2100517
+        ],
+        "SuitChestID": [
+            2100521
+        ],
+        "SuitLegID": [
+            2100531
+        ],
+        "SuitBackpackID": [
+            2100541
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 6,
+        "AtkRate": 5,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 6,
+        "ID": 400011,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "怪雨-火箭炮",
+        "SuitWeaponID": [
+            2100518
+        ],
+        "SuitChestID": [
+            2100522
+        ],
+        "SuitLegID": [
+            2100532
+        ],
+        "SuitBackpackID": [
+            2100542
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 400012,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "怪雨-拳装",
+        "SuitWeaponID": [
+            2100512
+        ],
+        "SuitChestID": [
+            2100522
+        ],
+        "SuitLegID": [
+            2100532
+        ],
+        "SuitBackpackID": [
+            2100542
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 400013,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 13,
+        "WeightDesc": "沼泽",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "怪雨-重机装",
+        "SuitWeaponID": [
+            2100515
+        ],
+        "SuitChestID": [
+            2100522
+        ],
+        "SuitLegID": [
+            2100532
+        ],
+        "SuitBackpackID": [
+            2100542
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 400014,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "怪雨-霰弹装",
+        "SuitWeaponID": [
+            2100514
+        ],
+        "SuitChestID": [
+            2100523
+        ],
+        "SuitLegID": [
+            2100533
+        ],
+        "SuitBackpackID": [
+            2100543
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 7,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 400015,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "怪雨-动力矛",
+        "SuitWeaponID": [
+            2100511
+        ],
+        "SuitChestID": [
+            2100523
+        ],
+        "SuitLegID": [
+            2100533
+        ],
+        "SuitBackpackID": [
+            2100543
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 8,
+        "AtkRate": 5,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 400016,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 5,
+        "WidgetSeries": 23,
+        "SeriesName": "怪雨",
+        "WeightSeries": 14,
+        "WeightDesc": "风暴",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "怪雨-投射装",
+        "SuitWeaponID": [
+            2100519
+        ],
+        "SuitChestID": [
+            2100523
+        ],
+        "SuitLegID": [
+            2100533
+        ],
+        "SuitBackpackID": [
+            2100543
+        ],
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "SuitDesc": "为执作者家族专门订做的兵器，传说设计图是\n由奇莉诺提供的。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 400017,
+        "Name": null
+    }
+]

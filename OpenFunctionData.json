@@ -1,0 +1,296 @@
+[
+    {
+        "Remarks": "主页",
+        "OpenCondition": 1,
+        "Value": 1,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Remarks": "出战",
+        "OpenCondition": 1,
+        "Value": 1,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Remarks": "活动任务",
+        "OpenCondition": 2,
+        "Value": 30104,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Remarks": "个人委托",
+        "OpenCondition": 0,
+        "Value": 0,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Remarks": "单人故事",
+        "OpenCondition": 2,
+        "Value": 20103,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Remarks": "章节任务",
+        "OpenCondition": 1,
+        "Value": 1,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Remarks": "基地",
+        "OpenCondition": 2,
+        "Value": 40104,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Remarks": "机体",
+        "OpenCondition": 1,
+        "Value": 1,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Remarks": "第二小队",
+        "OpenCondition": 2,
+        "Value": 20102,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Remarks": "第三小队",
+        "OpenCondition": 2,
+        "Value": 40101,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Remarks": "第四小队",
+        "OpenCondition": 2,
+        "Value": 40104,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Remarks": "装备强化",
+        "OpenCondition": 2,
+        "Value": 20102,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "Remarks": "装备自动更换",
+        "OpenCondition": 2,
+        "Value": 20102,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "Remarks": "机师",
+        "OpenCondition": 2,
+        "Value": 10102,
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "Remarks": "机师强化",
+        "OpenCondition": 2,
+        "Value": 10102,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "Remarks": "机师改造",
+        "OpenCondition": 2,
+        "Value": 20101,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "Remarks": "机师技能",
+        "OpenCondition": 2,
+        "Value": 20101,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "Remarks": "机师好感",
+        "OpenCondition": 0,
+        "Value": 0,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "Remarks": "机师羁绊",
+        "OpenCondition": 0,
+        "Value": 0,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "Remarks": "招募",
+        "OpenCondition": 2,
+        "Value": 10107,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "Remarks": "开发",
+        "OpenCondition": 2,
+        "Value": 10106,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "Remarks": "机甲分解",
+        "OpenCondition": 2,
+        "Value": 10106,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "Remarks": "仓库",
+        "OpenCondition": 2,
+        "Value": 10106,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "Remarks": "公告",
+        "OpenCondition": 2,
+        "Value": 10104,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "Remarks": "好友",
+        "OpenCondition": 0,
+        "Value": 0,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "Remarks": "排行榜",
+        "OpenCondition": 2,
+        "Value": 30201,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "Remarks": "设置",
+        "OpenCondition": 1,
+        "Value": 1,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "Remarks": "邮件",
+        "OpenCondition": 2,
+        "Value": 10104,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "Remarks": "自动战斗",
+        "OpenCondition": 2,
+        "Value": 10103,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "Remarks": "小队自动配置",
+        "OpenCondition": 2,
+        "Value": 30102,
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "Remarks": "克尔贝洛活动",
+        "OpenCondition": 2,
+        "Value": 30104,
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "Remarks": "远征",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "Remarks": "商城",
+        "OpenCondition": 2,
+        "Value": 10106,
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "Remarks": "成就",
+        "OpenCondition": 2,
+        "Value": 10104,
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "Remarks": "七日奖励",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "Remarks": "雷达扫描",
+        "OpenCondition": 2,
+        "Value": 20101,
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "Remarks": "图鉴",
+        "OpenCondition": 2,
+        "Value": 40201,
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "Remarks": "贸易契约",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "Remarks": "特殊开发",
+        "OpenCondition": 2,
+        "Value": 20103,
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "Remarks": "每日委托",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "Remarks": "特惠皮肤",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "Remarks": "特殊协议",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 42,
+        "Name": null
+    }
+]

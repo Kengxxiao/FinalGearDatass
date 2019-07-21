@@ -1,0 +1,86 @@
+[
+    {
+        "SkillName": "炮击",
+        "SkillDescribe": "炮击：2S后对范围内所有敌人造成最大生命值10%的伤害",
+        "SkillIcon": "轰炸",
+        "SkillBeforTime": 2,
+        "SkillKeepTime": 0,
+        "SkillEffect": 10,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "SkillName": "加速",
+        "SkillDescribe": "加速：对范围内的所有我方单位增加50%移动速度，持续5秒",
+        "SkillIcon": "急速",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "SkillName": "隐身",
+        "SkillDescribe": "隐身：使范围内友方单位隐身，不会被敌人的扫描检测到，持续5秒",
+        "SkillIcon": "潜行",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 0,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "SkillName": "烟雾弹",
+        "SkillDescribe": "烟雾弹：在一定范围内产生烟雾，使烟雾内单位的视野降低50%，持续5秒",
+        "SkillIcon": "烟幕",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "SkillName": "干扰弹",
+        "SkillDescribe": "干扰弹：向指定位置发射干扰弹，使范围内的敌方单位暂时停止移动，持续5秒",
+        "SkillIcon": "电磁手雷",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 0,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "SkillName": "投放补给",
+        "SkillDescribe": "投放补给：向指定位置投放补给，范围内的我放单位回复1点战斗次数",
+        "SkillIcon": "补给",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 0,
+        "SkillEffect": 1,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "SkillName": "机械修理",
+        "SkillDescribe": "机械修理：向指定的地点投放修理机器人，范围内我方单位回复50%的生命值",
+        "SkillIcon": "医疗补给",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 0,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 7,
+        "Name": null
+    }
+]

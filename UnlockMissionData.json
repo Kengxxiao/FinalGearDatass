@@ -1,0 +1,1857 @@
+[
+    {
+        "UnlockLevel": 7,
+        "StageID": 10303,
+        "AreaName": "三角-第1区",
+        "AreaBlckID": 1001,
+        "AreaID": 1,
+        "LockAreaBlock": [
+            [
+                0
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                0
+            ]
+        ],
+        "BelongBlockID": 101,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            0
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 7,
+        "StageID": 10303,
+        "AreaName": "三角-第2区",
+        "AreaBlckID": 1002,
+        "AreaID": 1,
+        "LockAreaBlock": [
+            [
+                0
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                0
+            ]
+        ],
+        "BelongBlockID": 102,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            0
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 10,
+        "StageID": 20101,
+        "AreaName": "帝国-第1区",
+        "AreaBlckID": 2001,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                1002,
+                7
+            ],
+            [
+                1001,
+                7
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                102,
+                7
+            ],
+            [
+                101,
+                7
+            ]
+        ],
+        "BelongBlockID": 201,
+        "CountBlock1": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            102,
+            101
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 13,
+        "StageID": 30201,
+        "AreaName": "联邦-第2区",
+        "AreaBlckID": 3002,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                2001,
+                10
+            ],
+            [
+                1002,
+                7
+            ],
+            [
+                1001,
+                7
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                201,
+                10
+            ],
+            [
+                102,
+                7
+            ],
+            [
+                101,
+                7
+            ]
+        ],
+        "BelongBlockID": 302,
+        "CountBlock1": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            201,
+            102,
+            101
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 15,
+        "StageID": 40201,
+        "AreaName": "魔女-第2区",
+        "AreaBlckID": 4002,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                3002,
+                13
+            ],
+            [
+                2001,
+                10
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                302,
+                13
+            ],
+            [
+                201,
+                10
+            ]
+        ],
+        "BelongBlockID": 402,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            302,
+            201
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 18,
+        "StageID": 20201,
+        "AreaName": "帝国-第2区",
+        "AreaBlckID": 2002,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                4002,
+                15
+            ],
+            [
+                3002,
+                13
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                402,
+                15
+            ],
+            [
+                302,
+                13
+            ]
+        ],
+        "BelongBlockID": 202,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            402,
+            302
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 20,
+        "StageID": 30101,
+        "AreaName": "联邦-第1区",
+        "AreaBlckID": 3001,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                2002,
+                18
+            ],
+            [
+                4002,
+                15
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                202,
+                18
+            ],
+            [
+                402,
+                15
+            ]
+        ],
+        "BelongBlockID": 301,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            202,
+            402
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 23,
+        "StageID": 10201,
+        "AreaName": "三角-第3区",
+        "AreaBlckID": 1003,
+        "AreaID": 1,
+        "LockAreaBlock": [
+            [
+                3001,
+                20
+            ],
+            [
+                2002,
+                18
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                301,
+                20
+            ],
+            [
+                202,
+                18
+            ]
+        ],
+        "BelongBlockID": 103,
+        "CountBlock1": [
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            301,
+            202
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 25,
+        "StageID": 20202,
+        "AreaName": "帝国-第3区",
+        "AreaBlckID": 2003,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                1003,
+                23
+            ],
+            [
+                3001,
+                20
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                103,
+                23
+            ],
+            [
+                301,
+                20
+            ]
+        ],
+        "BelongBlockID": 203,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            103,
+            301
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 28,
+        "StageID": 40202,
+        "AreaName": "魔女-第3区",
+        "AreaBlckID": 4003,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                2003,
+                25
+            ],
+            [
+                1003,
+                23
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                203,
+                25
+            ],
+            [
+                103,
+                23
+            ]
+        ],
+        "BelongBlockID": 403,
+        "CountBlock1": [
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            203,
+            103
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 30,
+        "StageID": 30202,
+        "AreaName": "联邦-第3区",
+        "AreaBlckID": 3003,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                4003,
+                28
+            ],
+            [
+                2003,
+                25
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                403,
+                28
+            ],
+            [
+                203,
+                25
+            ]
+        ],
+        "BelongBlockID": 303,
+        "CountBlock1": [
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            403,
+            203
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 33,
+        "StageID": 20203,
+        "AreaName": "帝国-第4区",
+        "AreaBlckID": 2004,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                3003,
+                30
+            ],
+            [
+                4003,
+                28
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                303,
+                30
+            ],
+            [
+                403,
+                28
+            ]
+        ],
+        "BelongBlockID": 204,
+        "CountBlock1": [
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            303,
+            403
+        ],
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 35,
+        "StageID": 10202,
+        "AreaName": "三角-第4区",
+        "AreaBlckID": 1004,
+        "AreaID": 1,
+        "LockAreaBlock": [
+            [
+                2004,
+                33
+            ],
+            [
+                3003,
+                30
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                204,
+                33
+            ],
+            [
+                303,
+                30
+            ]
+        ],
+        "BelongBlockID": 104,
+        "CountBlock1": [
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            204,
+            303
+        ],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 38,
+        "StageID": 30203,
+        "AreaName": "联邦-第4区",
+        "AreaBlckID": 3004,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                1004,
+                35
+            ],
+            [
+                2004,
+                33
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                104,
+                35
+            ],
+            [
+                204,
+                33
+            ]
+        ],
+        "BelongBlockID": 304,
+        "CountBlock1": [
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            104,
+            204
+        ],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 40,
+        "StageID": 40101,
+        "AreaName": "魔女-第1区",
+        "AreaBlckID": 4001,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                3004,
+                38
+            ],
+            [
+                1004,
+                35
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                304,
+                38
+            ],
+            [
+                104,
+                35
+            ]
+        ],
+        "BelongBlockID": 401,
+        "CountBlock1": [
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            304,
+            104
+        ],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 42,
+        "StageID": 20204,
+        "AreaName": "帝国-第5区",
+        "AreaBlckID": 2005,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                4001,
+                40
+            ],
+            [
+                3004,
+                38
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                401,
+                40
+            ],
+            [
+                304,
+                38
+            ]
+        ],
+        "BelongBlockID": 205,
+        "CountBlock1": [
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            401,
+            304
+        ],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 44,
+        "StageID": 10203,
+        "AreaName": "三角-第5区",
+        "AreaBlckID": 1005,
+        "AreaID": 1,
+        "LockAreaBlock": [
+            [
+                2005,
+                42
+            ],
+            [
+                4001,
+                40
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                205,
+                42
+            ],
+            [
+                401,
+                40
+            ]
+        ],
+        "BelongBlockID": 105,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            205,
+            401
+        ],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 46,
+        "StageID": 30204,
+        "AreaName": "联邦-第5区",
+        "AreaBlckID": 3005,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                1005,
+                44
+            ],
+            [
+                2005,
+                42
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                105,
+                44
+            ],
+            [
+                205,
+                42
+            ]
+        ],
+        "BelongBlockID": 305,
+        "CountBlock1": [
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            305,
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            105,
+            205
+        ],
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 48,
+        "StageID": 40203,
+        "AreaName": "魔女-第4区",
+        "AreaBlckID": 4004,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                3005,
+                46
+            ],
+            [
+                1005,
+                44
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                305,
+                46
+            ],
+            [
+                105,
+                44
+            ]
+        ],
+        "BelongBlockID": 404,
+        "CountBlock1": [
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            404,
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            305,
+            105
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 50,
+        "StageID": 20205,
+        "AreaName": "帝国-第6区",
+        "AreaBlckID": 2006,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                4004,
+                48
+            ],
+            [
+                3005,
+                46
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                404,
+                48
+            ],
+            [
+                305,
+                46
+            ]
+        ],
+        "BelongBlockID": 206,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            206,
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            404,
+            305
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 52,
+        "StageID": 30205,
+        "AreaName": "联邦-第6区",
+        "AreaBlckID": 3006,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                2006,
+                50
+            ],
+            [
+                4004,
+                48
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                206,
+                50
+            ],
+            [
+                404,
+                48
+            ]
+        ],
+        "BelongBlockID": 306,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            306,
+            305,
+            304,
+            303,
+            302,
+            301,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            206,
+            404
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 54,
+        "StageID": 40204,
+        "AreaName": "魔女-第5区",
+        "AreaBlckID": 4005,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                3006,
+                52
+            ],
+            [
+                2006,
+                50
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                306,
+                52
+            ],
+            [
+                206,
+                50
+            ]
+        ],
+        "BelongBlockID": 405,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            305,
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            405,
+            404,
+            403,
+            402,
+            401,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            306,
+            206
+        ],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 56,
+        "StageID": 40105,
+        "AreaName": "帝国-第7区",
+        "AreaBlckID": 2007,
+        "AreaID": 2,
+        "LockAreaBlock": [
+            [
+                4005,
+                54
+            ],
+            [
+                3006,
+                52
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                405,
+                54
+            ],
+            [
+                306,
+                52
+            ]
+        ],
+        "BelongBlockID": 207,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            207,
+            206,
+            205,
+            204,
+            203,
+            202,
+            201,
+            0
+        ],
+        "CountBlock3": [
+            305,
+            304,
+            303,
+            302,
+            301,
+            0,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            404,
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            405,
+            306
+        ],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 58,
+        "StageID": 40109,
+        "AreaName": "联邦-第7区",
+        "AreaBlckID": 3007,
+        "AreaID": 3,
+        "LockAreaBlock": [
+            [
+                2007,
+                56
+            ],
+            [
+                4005,
+                54
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                207,
+                56
+            ],
+            [
+                405,
+                54
+            ]
+        ],
+        "BelongBlockID": 307,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            101,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            206,
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            307,
+            306,
+            305,
+            304,
+            303,
+            302,
+            301,
+            0
+        ],
+        "CountBlock4": [
+            404,
+            403,
+            402,
+            401,
+            0,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            207,
+            405
+        ],
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "UnlockLevel": 60,
+        "StageID": 40205,
+        "AreaName": "魔女-第6区",
+        "AreaBlckID": 4006,
+        "AreaID": 4,
+        "LockAreaBlock": [
+            [
+                3007,
+                58
+            ],
+            [
+                2007,
+                56
+            ],
+            [
+                4001,
+                58
+            ],
+            [
+                1001,
+                58
+            ]
+        ],
+        "LockBelongBlock": [
+            [
+                307,
+                58
+            ],
+            [
+                207,
+                56
+            ],
+            [
+                401,
+                58
+            ],
+            [
+                101,
+                58
+            ]
+        ],
+        "BelongBlockID": 406,
+        "CountBlock1": [
+            105,
+            104,
+            103,
+            102,
+            0,
+            0,
+            0,
+            0
+        ],
+        "CountBlock2": [
+            206,
+            205,
+            204,
+            203,
+            202,
+            201,
+            0,
+            0
+        ],
+        "CountBlock3": [
+            306,
+            305,
+            304,
+            303,
+            302,
+            301,
+            0,
+            0
+        ],
+        "CountBlock4": [
+            406,
+            405,
+            404,
+            403,
+            402,
+            0,
+            0,
+            0
+        ],
+        "NoCountBlock": [
+            307,
+            207,
+            401,
+            101
+        ],
+        "ID": 25,
+        "Name": null
+    }
+]

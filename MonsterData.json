@@ -1,0 +1,3637 @@
+[
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41001030,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3003110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 10,
+        "ID": 1101,
+        "Name": "海克塞尔侦察队-电锯手"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41001040,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3005110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 10,
+        "ID": 1102,
+        "Name": "海克塞尔侦察队-突击兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型守护",
+        "ModelID": 41001010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3001110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1201,
+        "Name": "海克塞尔侦察队-重击者"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型射击",
+        "ModelID": 41001100,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3008110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1202,
+        "Name": "海克塞尔侦察队-移动机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型轰炸",
+        "ModelID": 41001050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3010110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1203,
+        "Name": "海克塞尔侦察队-榴弹兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型爆破",
+        "ModelID": 41001090,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3011110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 30,
+        "ID": 1204,
+        "Name": "海克塞尔侦察队-火箭骑手"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41001060,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3006110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1301,
+        "Name": "海克塞尔侦察队-突击队长"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英狙击",
+        "ModelID": 41001020,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3002110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1302,
+        "Name": "海克塞尔侦察队-狙击队长"
+    },
+    {
+        "Icon": "B_Head_Pilot_000080",
+        "Disc": "BOSS",
+        "ModelID": 42000000,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3009110,
+            3009210,
+            3009310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 30,
+        "ID": 1401,
+        "Name": "海克塞尔侦察队长-埃伊菲"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41001061,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3024110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1402,
+        "Name": "海克塞尔-精英突击队长"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英狙击",
+        "ModelID": 41001021,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3023110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1403,
+        "Name": "海克塞尔-精英狙击队长"
+    },
+    {
+        "Icon": "B_Head_Pilot_000200",
+        "Disc": "BOSS",
+        "ModelID": 44000020,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3027110,
+            3027210,
+            3027310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1404,
+        "Name": "教团的看门人-贝尔娜黛特"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41001031,
+        "MonsterType": 5,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3004110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 10,
+        "ID": 1501,
+        "Name": "海克塞尔侦察队-电锯手（特殊开场）"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41001031,
+        "MonsterType": 5,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3007110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 海克塞尔侦察队",
+        "BodySize": 20,
+        "ID": 1502,
+        "Name": "海克塞尔侦察队-骑手胖子"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型爆破",
+        "ModelID": 41002010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3012110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 10,
+        "ID": 2101,
+        "Name": "艾达强盗团-炮兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型自爆",
+        "ModelID": 41002050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                119800.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3014110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2205,
+        "Name": "艾达强盗团-自爆"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41002020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10700.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3020110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 10,
+        "ID": 2103,
+        "Name": "艾达强盗团-打桩机兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41002030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                11400.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3013110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2201,
+        "Name": "艾达强盗团-机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "提升防御",
+        "ModelID": 41002070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3016110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2202,
+        "Name": "艾达强盗团-buff防御"
+    },
+    {
+        "Icon": "",
+        "Disc": "特种格斗",
+        "ModelID": 41002060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10400.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3015110,
+            3015210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2203,
+        "Name": "艾达强盗团-双持"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型狙击",
+        "ModelID": 41002040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                8300.0,
+                10600.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3021110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2204,
+        "Name": "艾达强盗团-狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英自爆",
+        "ModelID": 41002100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                33300.0,
+                90000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3019110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2304,
+        "Name": "艾达强盗团-自爆精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41002080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                15000.0,
+                20000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3017110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2301,
+        "Name": "艾达强盗团-屏障精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型守护",
+        "ModelID": 41002081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                15000.0,
+                20000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3018110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2302,
+        "Name": "艾达强盗团-屏障精英二形态（特殊开场）"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41002090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                22500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3022110,
+            3022210,
+            3022310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2303,
+        "Name": "艾达强盗团-突击精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41002082,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                40000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3025110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2401,
+        "Name": "艾达强盗团-超级屏障精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41002091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                40000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3026110,
+            3026210,
+            3026310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2402,
+        "Name": "艾达强盗团-超级突击精英"
+    },
+    {
+        "Icon": "B_Head_Pilot_000040",
+        "Disc": "中型爆破",
+        "ModelID": 44000040,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3030110,
+            3030210,
+            3030310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 30,
+        "ID": 2403,
+        "Name": "艾达强盗团团长-艾达"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000022,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3029110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 99101,
+        "Name": "Boss-人核（火柱怪）"
+    },
+    {
+        "Icon": "B_Head_Pilot_100001",
+        "Disc": "BOSS",
+        "ModelID": 42000021,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                840000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3028110,
+            3028210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 40,
+        "ID": 99401,
+        "Name": "人核"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型格斗",
+        "ModelID": 41003010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                15100.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3031110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 10,
+        "ID": 3101,
+        "Name": "帝国地方军-装甲士兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41003020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                5800.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3032110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 10,
+        "ID": 3102,
+        "Name": "帝国地方军-巡逻队机器人"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型狙击",
+        "ModelID": 41003030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                6700.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3033110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3201,
+        "Name": "帝国地方军-狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型守护",
+        "ModelID": 41003040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                6700.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3034110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3202,
+        "Name": "帝国地方军-屏障"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41003050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3035110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3203,
+        "Name": "帝国地方军-机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41003060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3036110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3204,
+        "Name": "帝国地方军-突击"
+    },
+    {
+        "Icon": "",
+        "Disc": "群体修复",
+        "ModelID": 41003070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                40000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3037110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3205,
+        "Name": "帝国地方军-执旗者"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41003080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                24300.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3038110,
+            3038210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3301,
+        "Name": "帝国地方军-骑士"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英射击",
+        "ModelID": 41003090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3039110,
+            3039210,
+            3039310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3302,
+        "Name": "帝国地方军-射手"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41003100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                23700.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3040110,
+            3040210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3303,
+        "Name": "帝国地方军-领主近卫"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41003081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3038110,
+            3038210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3401,
+        "Name": "帝国地方军-精英骑士"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英射击",
+        "ModelID": 41003091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3039110,
+            3039210,
+            3039310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3402,
+        "Name": "帝国地方军-精英射手"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41003101,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3040110,
+            3040210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3403,
+        "Name": "帝国地方军-领主近卫"
+    },
+    {
+        "Icon": "B_Head_Pilot_000130",
+        "Disc": "BOSS",
+        "ModelID": 44000050,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3041110,
+            3041210,
+            3041310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3404,
+        "Name": "帝国地方军领主-艾丝梅拉达"
+    },
+    {
+        "Icon": "",
+        "Disc": "电磁陷阱",
+        "ModelID": 41004010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                12500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3042110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4201,
+        "Name": "联邦军-电磁陷阱"
+    },
+    {
+        "Icon": "",
+        "Disc": "电磁浮游器",
+        "ModelID": 41004020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3043110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 10,
+        "ID": 4202,
+        "Name": "联邦军-浮游器"
+    },
+    {
+        "Icon": "",
+        "Disc": "机枪炮台",
+        "ModelID": 41004030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3044110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4203,
+        "Name": "联邦军-重机枪炮台"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型爆破",
+        "ModelID": 41004040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3045110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4204,
+        "Name": "联邦军-暴走电磁兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41004050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3046110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4205,
+        "Name": "联邦军-暴走刺客"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型格斗",
+        "ModelID": 41004060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3047110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4206,
+        "Name": "联邦军-暴走电锯兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型守护",
+        "ModelID": 41004070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3048110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4207,
+        "Name": "联邦军-暴走重盾"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型轰炸",
+        "ModelID": 41004080,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3049110,
+            3049210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4208,
+        "Name": "联邦军-重炮手"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41004090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3050110,
+            3050210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4301,
+        "Name": "联邦军-精英格斗兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英轰炸",
+        "ModelID": 41004081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3049110,
+            3049210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4401,
+        "Name": "联邦军-精英重炮队长"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41004091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3050110,
+            3050210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4402,
+        "Name": "联邦军-精英格斗兵长"
+    },
+    {
+        "Icon": "B_Head_Pilot_000310",
+        "Disc": "BOSS",
+        "ModelID": 44000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3051110,
+            3051210,
+            3051310,
+            3051410,
+            3051510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军",
+        "BodySize": 20,
+        "ID": 4403,
+        "Name": "爱塔市市长-爱塔"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000001,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3052110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9901,
+        "Name": "召唤-诺娃"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000002,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3053110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9902,
+        "Name": "召唤-雷贝利卡箱子"
+    },
+    {
+        "Icon": "B_Head_Pilot_000290",
+        "Disc": "BOSS",
+        "ModelID": 44000070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                120000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3054110,
+            3054210,
+            3054310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 4404,
+        "Name": "漆黑之翼-伊莉希斯"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 41000010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3055110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 9903,
+        "Name": "核心"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 41000020,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3056110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 9904,
+        "Name": "金币吞噬生命体"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41005010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3057110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 10,
+        "ID": 5101,
+        "Name": "执作者-手榴兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型投射",
+        "ModelID": 41005020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3058110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 10,
+        "ID": 5102,
+        "Name": "执作者-投射兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型格斗",
+        "ModelID": 41005030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3059110,
+            3059210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5201,
+        "Name": "执作者-格斗"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型狙击",
+        "ModelID": 41005040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3060110,
+            3060210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5202,
+        "Name": "执作者-狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型火炮",
+        "ModelID": 41005050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3061110,
+            3061210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5203,
+        "Name": "执作者-火炮"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41005060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3062110,
+            3062210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5204,
+        "Name": "执作者-射击"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型守护",
+        "ModelID": 41005070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3063110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5205,
+        "Name": "执作者-守护"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英狙击",
+        "ModelID": 41005080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3064110,
+            3064210,
+            3064310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5301,
+        "Name": "执作者-狙击精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "轰炸炮台",
+        "ModelID": 41005090,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3065110,
+            3065210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5206,
+        "Name": "执作者-轰炸精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41005100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3066110,
+            3066210,
+            3066310,
+            3066410,
+            3066510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 20,
+        "ID": 5302,
+        "Name": "执作者-格斗精英"
+    },
+    {
+        "Icon": "B_Head_Pilot_000550",
+        "Disc": "BOSS",
+        "ModelID": 44000100,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3067110,
+            3067210,
+            3067310,
+            3067410,
+            3067510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 执作者",
+        "BodySize": 30,
+        "ID": 5402,
+        "Name": "黑陨石实验体-薇欧蕾特"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000003,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3068110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9905,
+        "Name": "召唤-艾莉克萨自爆火头"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型爆破",
+        "ModelID": 41101010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3069110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 10,
+        "ID": 6101,
+        "Name": "伊芙琳章节-炮兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41101020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3070110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 10,
+        "ID": 6102,
+        "Name": "伊芙琳章节-打桩机兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型机枪",
+        "ModelID": 41101030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3071110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6201,
+        "Name": "伊芙琳章节-机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型狙击",
+        "ModelID": 41101040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3072110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6202,
+        "Name": "伊芙琳章节-狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型自爆",
+        "ModelID": 41101050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                119800.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3073110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6204,
+        "Name": "伊芙琳章节-自爆"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型守护",
+        "ModelID": 41101060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3074110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6203,
+        "Name": "伊芙琳章节-近战"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英自爆",
+        "ModelID": 41101070,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                33300.0,
+                90000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3075110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6303,
+        "Name": "伊芙琳章节-自爆精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英战士",
+        "ModelID": 41101080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3076110,
+            3076210,
+            3076310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6301,
+        "Name": "伊芙琳章节-近战精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41101090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3077110,
+            3077210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6302,
+        "Name": "伊芙琳章节-突击精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000001,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3078110,
+            3078210,
+            3078310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 30,
+        "ID": 6401,
+        "Name": "麦克队长"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41102020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3079110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 10,
+        "ID": 7101,
+        "Name": "伊芙琳章节2-士兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41102021,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3080110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 10,
+        "ID": 7102,
+        "Name": "伊芙琳章节2-冲刺拳"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41102030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3081110,
+            3081210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7201,
+        "Name": "伊芙琳章节2-机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41102040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3082110,
+            3082210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7202,
+        "Name": "伊芙琳章节2-近战"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型守护",
+        "ModelID": 41102050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3083110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7203,
+        "Name": "伊芙琳章节2-守护"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型狙击",
+        "ModelID": 41102060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3084110,
+            3084210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7204,
+        "Name": "伊芙琳章节2-狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41102070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3085110,
+            3085210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7205,
+        "Name": "伊芙琳章节2-投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41102080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3086110,
+            3086210,
+            3086310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7301,
+        "Name": "伊芙琳章节2-格斗精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英爆破",
+        "ModelID": 41102090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3087110,
+            3087210,
+            3087310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7302,
+        "Name": "伊芙琳章节2-爆破精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000002,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3088110,
+            3088210,
+            3088310,
+            3088410,
+            3088510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 30,
+        "ID": 7401,
+        "Name": "邦妮&克菜德"
+    },
+    {
+        "Icon": "",
+        "Disc": "地雷自爆",
+        "ModelID": 41103010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3089110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 10,
+        "ID": 8201,
+        "Name": "伊芙琳章节3-地雷"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型近战",
+        "ModelID": 41103020,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3090110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8202,
+        "Name": "伊芙琳章节3-近战"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型投射",
+        "ModelID": 41103030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3091110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8203,
+        "Name": "伊芙琳章节3-投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型机枪",
+        "ModelID": 41103040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3092110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8204,
+        "Name": "伊芙琳章节3-机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "群体护盾",
+        "ModelID": 41103050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3093110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8205,
+        "Name": "伊芙琳章节3-护盾"
+    },
+    {
+        "Icon": "",
+        "Disc": "减益BUFF",
+        "ModelID": 41103070,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3094110,
+            3094210,
+            3094310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 30,
+        "ID": 8301,
+        "Name": "伊芙琳章节3-格斗精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型召唤",
+        "ModelID": 41103080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3095110,
+            3095210,
+            3095310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 30,
+        "ID": 8302,
+        "Name": "伊芙琳章节3-守护精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型机枪",
+        "ModelID": 41103090,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3096110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8501,
+        "Name": "伊芙琳章节3-机枪（召唤）"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型近战",
+        "ModelID": 41103100,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3097110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 20,
+        "ID": 8502,
+        "Name": "伊芙琳章节3-近战（召唤）"
+    },
+    {
+        "Icon": "",
+        "Disc": "地雷自爆",
+        "ModelID": 41103110,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3098110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 10,
+        "ID": 8503,
+        "Name": "伊芙琳章节3-地雷（召唤）"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000003,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3099110,
+            3099210,
+            3099310,
+            3099410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 伊芙琳章（电子信徒）",
+        "BodySize": 30,
+        "ID": 8401,
+        "Name": "比克曼博士"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41002120,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3100110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团",
+        "BodySize": 20,
+        "ID": 2206,
+        "Name": "艾达强盗团-投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41003110,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3101110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军",
+        "BodySize": 20,
+        "ID": 3206,
+        "Name": "帝国地方军-投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41101100,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3102110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 伊芙琳章",
+        "BodySize": 20,
+        "ID": 6205,
+        "Name": "伊芙琳章节-投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000004,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3103110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9906,
+        "Name": "召唤_姬拉机器怪"
+    }
+]

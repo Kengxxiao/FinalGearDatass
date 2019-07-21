@@ -1,0 +1,99 @@
+[
+    {
+        "Desc": "奈布拉区域",
+        "RegionMap": "AERA_001",
+        "BlockID": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005
+        ],
+        "OpenNeedStage": 0,
+        "PreRegion": 0,
+        "NextRegion": 2,
+        "ExpeditionQueue": 1,
+        "BlockNum": 5,
+        "ChapterScene": "Cab10_1高原",
+        "CampIcon": "中立",
+        "ID": 1,
+        "Name": "奈布拉区域"
+    },
+    {
+        "Desc": "克格亚区域",
+        "RegionMap": "AERA_002",
+        "BlockID": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011
+        ],
+        "OpenNeedStage": 10108,
+        "PreRegion": 1,
+        "NextRegion": 3,
+        "ExpeditionQueue": 2,
+        "BlockNum": 11,
+        "ChapterScene": "Cab2_1平原农场",
+        "CampIcon": "帝国",
+        "ID": 2,
+        "Name": "克格亚区域"
+    },
+    {
+        "Desc": "爱蕾塔区域",
+        "RegionMap": "AERA_003",
+        "BlockID": [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005,
+            3006,
+            3007,
+            3008,
+            3009
+        ],
+        "OpenNeedStage": 20104,
+        "PreRegion": 2,
+        "NextRegion": 4,
+        "ExpeditionQueue": 3,
+        "BlockNum": 9,
+        "ChapterScene": "Cab3_2丛林",
+        "CampIcon": "共和国",
+        "ID": 3,
+        "Name": "爱蕾塔区域"
+    },
+    {
+        "Desc": "海克塞尔区域",
+        "RegionMap": "AERA_004",
+        "BlockID": [
+            4001,
+            4002,
+            4003,
+            4004,
+            4005,
+            4006,
+            4007,
+            4008,
+            4009,
+            4010,
+            4011,
+            4012
+        ],
+        "OpenNeedStage": 30104,
+        "PreRegion": 3,
+        "NextRegion": 0,
+        "ExpeditionQueue": 4,
+        "BlockNum": 12,
+        "ChapterScene": "Cab3_1沙漠",
+        "CampIcon": "自由联邦",
+        "ID": 4,
+        "Name": "海克塞尔区域"
+    }
+]

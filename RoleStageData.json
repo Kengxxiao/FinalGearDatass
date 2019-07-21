@@ -1,0 +1,472 @@
+[
+    {
+        "RoleStageOpenTime": "2019/7/1 00:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 1,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 20103,
+        "RoleStageLevel": 20,
+        "RoleStageType": 1,
+        "RoleStageID": 900101,
+        "StageID": [
+            900151,
+            900101,
+            900150,
+            900152
+        ],
+        "SaveTeamID": [
+            0,
+            900101,
+            900150,
+            0
+        ],
+        "StarStageID": 900150,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600109,
+            12600113,
+            12600117
+        ],
+        "RoleStageTitleNum": "第一章",
+        "RoleStageTitle": "自我",
+        "RoleStageAddGirl": [
+            [
+                900101,
+                1,
+                20
+            ],
+            [
+                900101,
+                2,
+                20
+            ]
+        ],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 1,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/7/1 00:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 1,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900150,
+        "RoleStageLevel": 20,
+        "RoleStageType": 2,
+        "RoleStageID": 900102,
+        "StageID": [
+            900102
+        ],
+        "SaveTeamID": [
+            900102
+        ],
+        "StarStageID": 900102,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600109,
+            12600113,
+            12600117
+        ],
+        "RoleStageTitleNum": "第一章",
+        "RoleStageTitle": "线索收集 第一阶段",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 1,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/7/23 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 2,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900150,
+        "RoleStageLevel": 30,
+        "RoleStageType": 1,
+        "RoleStageID": 900103,
+        "StageID": [
+            900153,
+            900103,
+            900154
+        ],
+        "SaveTeamID": [
+            900103
+        ],
+        "StarStageID": 900103,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600110,
+            12600114,
+            12600118
+        ],
+        "RoleStageTitleNum": "第二章",
+        "RoleStageTitle": "遗失的书页",
+        "RoleStageAddGirl": [
+            [
+                900103,
+                1,
+                0
+            ]
+        ],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 2,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/7/23 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 2,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900103,
+        "RoleStageLevel": 30,
+        "RoleStageType": 2,
+        "RoleStageID": 900104,
+        "StageID": [
+            900104
+        ],
+        "SaveTeamID": [
+            900104
+        ],
+        "StarStageID": 900104,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600109,
+            12600110,
+            12600113,
+            12600114,
+            12600117,
+            12600118
+        ],
+        "RoleStageTitleNum": "第二章",
+        "RoleStageTitle": "线索收集 第二阶段",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 2,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/7/30 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 3,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900103,
+        "RoleStageLevel": 40,
+        "RoleStageType": 1,
+        "RoleStageID": 900105,
+        "StageID": [
+            900105
+        ],
+        "SaveTeamID": [
+            900105
+        ],
+        "StarStageID": 900105,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600110,
+            12600114,
+            12600118
+        ],
+        "RoleStageTitleNum": "第三章",
+        "RoleStageTitle": "超我",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/7/30 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 3,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900105,
+        "RoleStageLevel": 40,
+        "RoleStageType": 2,
+        "RoleStageID": 900106,
+        "StageID": [
+            900106
+        ],
+        "SaveTeamID": [
+            900106
+        ],
+        "StarStageID": 900106,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600110,
+            12600111,
+            12600114,
+            12600115,
+            12600118,
+            12600119
+        ],
+        "RoleStageTitleNum": "第三章",
+        "RoleStageTitle": "逃生剧",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/6 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 4,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900105,
+        "RoleStageLevel": 50,
+        "RoleStageType": 1,
+        "RoleStageID": 900107,
+        "StageID": [
+            900107
+        ],
+        "SaveTeamID": [
+            900107
+        ],
+        "StarStageID": 900107,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600111,
+            12600115,
+            12600119
+        ],
+        "RoleStageTitleNum": "第四章",
+        "RoleStageTitle": "回忆的书架",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 2,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/6 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 4,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900107,
+        "RoleStageLevel": 50,
+        "RoleStageType": 2,
+        "RoleStageID": 900108,
+        "StageID": [
+            900108
+        ],
+        "SaveTeamID": [
+            900108
+        ],
+        "StarStageID": 900108,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600111,
+            12600112,
+            12600115,
+            12600116,
+            12600119,
+            12600120
+        ],
+        "RoleStageTitleNum": "第四章",
+        "RoleStageTitle": "线索收集 第三阶段",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_01",
+        "TargetIndex": 2,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/13 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 5,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900107,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 900109,
+        "StageID": [
+            900109
+        ],
+        "SaveTeamID": [
+            900109
+        ],
+        "StarStageID": 900109,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600112
+        ],
+        "RoleStageTitleNum": "第五章",
+        "RoleStageTitle": "本我（上）",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 3,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/13 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 5,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900109,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 900110,
+        "StageID": [
+            900110
+        ],
+        "SaveTeamID": [
+            900110
+        ],
+        "StarStageID": 900110,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600112
+        ],
+        "RoleStageTitleNum": "第五章",
+        "RoleStageTitle": "碎片收集 第一阶段",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 3,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/20 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 6,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900109,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 900111,
+        "StageID": [
+            900111
+        ],
+        "SaveTeamID": [
+            900111
+        ],
+        "StarStageID": 900111,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600116
+        ],
+        "RoleStageTitleNum": "第六章",
+        "RoleStageTitle": "本我（下）",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/20 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 6,
+        "RoleStageArea": "电子世界",
+        "RoleStageUnlock": 900111,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 900112,
+        "StageID": [
+            900112
+        ],
+        "SaveTeamID": [
+            900112
+        ],
+        "StarStageID": 900112,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600116
+        ],
+        "RoleStageTitleNum": "第六章",
+        "RoleStageTitle": "碎片收集 第二阶段",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/27 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 7,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900111,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 900113,
+        "StageID": [
+            900113
+        ],
+        "SaveTeamID": [
+            900113
+        ],
+        "StarStageID": 900113,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600120
+        ],
+        "RoleStageTitleNum": "第七章",
+        "RoleStageTitle": "历史的书签",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/8/27 04:00:00",
+        "RoleStageGirlID": 1,
+        "RoleStageSubID": 7,
+        "RoleStageArea": "爱蕾塔区域",
+        "RoleStageUnlock": 900113,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 900114,
+        "StageID": [
+            900114
+        ],
+        "SaveTeamID": [
+            900114
+        ],
+        "StarStageID": 900114,
+        "RoleStageAwardProview": [
+            12600101,
+            12600105,
+            12600120
+        ],
+        "RoleStageTitleNum": "第七章",
+        "RoleStageTitle": "收尾战",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_02",
+        "TargetIndex": 1,
+        "ID": 14,
+        "Name": null
+    }
+]

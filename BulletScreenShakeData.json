@@ -1,0 +1,812 @@
+[
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.5,
+            "duration": 0.3,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 56000001,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.1,
+            "duration": 0.15,
+            "interval": 0.07,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 57000001,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.5,
+            "duration": 0.3,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 57000002,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 0,
+            "strength": 0.0,
+            "duration": 0.0,
+            "interval": 0.0,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720100000,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.1,
+            "duration": 0.1,
+            "interval": 0.05,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100001,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.12,
+            "duration": 0.12,
+            "interval": 0.02,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100002,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.1,
+            "duration": 0.16,
+            "interval": 0.02,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100003,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.3,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100004,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100005,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100006,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.5,
+            "duration": 0.3,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100007,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720100008,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.5,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720100009,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.2,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100010,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100011,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100012,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 1.0,
+            "duration": 0.3,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720100013,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.2,
+            "duration": 0.1,
+            "interval": 0.05,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100014,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100015,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.2,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100016,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.15,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100017,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 5,
+            "strength": 0.3,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720100018,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720100019,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.1,
+            "duration": 0.1,
+            "interval": 0.05,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.05
+        },
+        "ID": 720110000,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 5,
+            "strength": 0.75,
+            "duration": 0.5,
+            "interval": 0.05,
+            "damping": 0.5,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110001,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 5,
+            "strength": 1.5,
+            "duration": 0.5,
+            "interval": 0.05,
+            "damping": 0.5,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110002,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.2,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110003,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110004,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110005,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.2,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110006,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.3,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110007,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.4,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110008,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.3,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110009,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.5,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110010,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 1.0,
+            "duration": 0.2,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110011,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.2,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110012,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.3,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110013,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.1,
+            "duration": 0.1,
+            "interval": 0.1,
+            "damping": 0.0,
+            "blur": false,
+            "onlyOnControl": true,
+            "randomStrength": 0.0
+        },
+        "ID": 720110014,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.4,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.1
+        },
+        "ID": 720110015,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.2,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110016,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.6,
+            "duration": 0.3,
+            "interval": 0.3,
+            "damping": 0.477,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110017,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110018,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 3,
+            "strength": 20.0,
+            "duration": 0.3,
+            "interval": 0.6,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110019,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110020,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.6,
+            "duration": 0.6,
+            "interval": 0.2,
+            "damping": 0.477,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110021,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.15,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110022,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.4,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.1
+        },
+        "ID": 720110023,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 1,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110024,
+        "Name": null
+    },
+    {
+        "type": 1,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": true,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110025,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110026,
+        "Name": null
+    },
+    {
+        "type": 2,
+        "shakeData": {
+            "type": 2,
+            "strength": 0.8,
+            "duration": 0.2,
+            "interval": 0.2,
+            "damping": 1.0,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.2
+        },
+        "ID": 720110027,
+        "Name": null
+    },
+    {
+        "type": 2,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.6,
+            "duration": 0.6,
+            "interval": 0.2,
+            "damping": 0.477,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110028,
+        "Name": null
+    },
+    {
+        "type": 0,
+        "shakeData": {
+            "type": 4,
+            "strength": 0.6,
+            "duration": 0.3,
+            "interval": 0.3,
+            "damping": 0.477,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110029,
+        "Name": null
+    },
+    {
+        "type": 2,
+        "shakeData": {
+            "type": 4,
+            "strength": 1.0,
+            "duration": 0.8,
+            "interval": 0.2,
+            "damping": 0.5,
+            "blur": false,
+            "onlyOnControl": false,
+            "randomStrength": 0.0
+        },
+        "ID": 720110030,
+        "Name": null
+    }
+]

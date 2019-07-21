@@ -1,0 +1,920 @@
+[
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 1,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100116,
+            1
+        ],
+        "BaseEquip2": [
+            2100121,
+            1
+        ],
+        "BaseEquip3": [
+            2100131,
+            1
+        ],
+        "BaseEquip4": [
+            2100141,
+            1
+        ],
+        "RecommendAbility": 1000,
+        "NPCType": 0,
+        "ID": 9001,
+        "Name": null
+    },
+    {
+        "GirlName": "维洛妮卡",
+        "GirlID": 12,
+        "GirlLevel": 1,
+        "GirlSkin": 1201,
+        "StarLevel": 2,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100117,
+            1
+        ],
+        "BaseEquip2": [
+            2100121,
+            1
+        ],
+        "BaseEquip3": [
+            2100131,
+            1
+        ],
+        "BaseEquip4": [
+            2100141,
+            1
+        ],
+        "RecommendAbility": 2000,
+        "NPCType": 1,
+        "ID": 9012,
+        "Name": null
+    },
+    {
+        "GirlName": "克里斯蒂娜",
+        "GirlID": 28,
+        "GirlLevel": 1,
+        "GirlSkin": 2801,
+        "StarLevel": 2,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100119,
+            1
+        ],
+        "BaseEquip2": [
+            2100123,
+            1
+        ],
+        "BaseEquip3": [
+            2100133,
+            1
+        ],
+        "BaseEquip4": [
+            2100143,
+            1
+        ],
+        "RecommendAbility": 3000,
+        "NPCType": 1,
+        "ID": 9028,
+        "Name": null
+    },
+    {
+        "GirlName": "PN26伊莉希斯",
+        "GirlID": 29,
+        "GirlLevel": 1,
+        "GirlSkin": 2901,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 302901,
+        "BaseEquip1": [
+            2302918,
+            1
+        ],
+        "BaseEquip2": [
+            2302922,
+            1
+        ],
+        "BaseEquip3": [
+            2302932,
+            1
+        ],
+        "BaseEquip4": [
+            2302942,
+            1
+        ],
+        "RecommendAbility": 4000,
+        "NPCType": 0,
+        "ID": 9029,
+        "Name": null
+    },
+    {
+        "GirlName": "蕾贝莉卡",
+        "GirlID": 30,
+        "GirlLevel": 1,
+        "GirlSkin": 3001,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100111,
+            1
+        ],
+        "BaseEquip2": [
+            2100123,
+            1
+        ],
+        "BaseEquip3": [
+            2100133,
+            1
+        ],
+        "BaseEquip4": [
+            2100143,
+            1
+        ],
+        "RecommendAbility": 5000,
+        "NPCType": 1,
+        "ID": 9030,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 300101,
+        "BaseEquip1": [
+            230011301,
+            10
+        ],
+        "BaseEquip2": [
+            230012101,
+            10
+        ],
+        "BaseEquip3": [
+            230013101,
+            10
+        ],
+        "BaseEquip4": [
+            230014101,
+            10
+        ],
+        "RecommendAbility": 2045,
+        "NPCType": 0,
+        "ID": 8001,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 300101,
+        "BaseEquip1": [
+            230011301,
+            10
+        ],
+        "BaseEquip2": [
+            230012101,
+            10
+        ],
+        "BaseEquip3": [
+            230013101,
+            10
+        ],
+        "BaseEquip4": [
+            230014101,
+            10
+        ],
+        "RecommendAbility": 2045,
+        "NPCType": 0,
+        "ID": 8002,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131601,
+            10
+        ],
+        "BaseEquip2": [
+            210132101,
+            10
+        ],
+        "BaseEquip3": [
+            210133101,
+            10
+        ],
+        "BaseEquip4": [
+            210134101,
+            10
+        ],
+        "RecommendAbility": 2045,
+        "NPCType": 0,
+        "ID": 8003,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131701,
+            10
+        ],
+        "BaseEquip2": [
+            210132101,
+            10
+        ],
+        "BaseEquip3": [
+            210133101,
+            10
+        ],
+        "BaseEquip4": [
+            210134101,
+            10
+        ],
+        "RecommendAbility": 2045,
+        "NPCType": 0,
+        "ID": 8004,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131901,
+            10
+        ],
+        "BaseEquip2": [
+            210132101,
+            10
+        ],
+        "BaseEquip3": [
+            210133101,
+            10
+        ],
+        "BaseEquip4": [
+            210134101,
+            10
+        ],
+        "RecommendAbility": 2045,
+        "NPCType": 0,
+        "ID": 8005,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011601,
+            10
+        ],
+        "BaseEquip2": [
+            210012101,
+            10
+        ],
+        "BaseEquip3": [
+            210013101,
+            10
+        ],
+        "BaseEquip4": [
+            210014101,
+            10
+        ],
+        "RecommendAbility": 3829,
+        "NPCType": 0,
+        "ID": 90010101,
+        "Name": null
+    },
+    {
+        "GirlName": "维洛妮卡",
+        "GirlID": 12,
+        "GirlLevel": 10,
+        "GirlSkin": 1201,
+        "StarLevel": 2,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011701,
+            10
+        ],
+        "BaseEquip2": [
+            210012101,
+            10
+        ],
+        "BaseEquip3": [
+            210013101,
+            10
+        ],
+        "BaseEquip4": [
+            210014101,
+            10
+        ],
+        "RecommendAbility": 3829,
+        "NPCType": 0,
+        "ID": 90010102,
+        "Name": null
+    },
+    {
+        "GirlName": "蕾贝莉卡",
+        "GirlID": 30,
+        "GirlLevel": 10,
+        "GirlSkin": 3001,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011101,
+            10
+        ],
+        "BaseEquip2": [
+            210012301,
+            10
+        ],
+        "BaseEquip3": [
+            210013301,
+            10
+        ],
+        "BaseEquip4": [
+            210014301,
+            10
+        ],
+        "RecommendAbility": 3829,
+        "NPCType": 0,
+        "ID": 90010103,
+        "Name": null
+    },
+    {
+        "GirlName": "米丽娜",
+        "GirlID": 44,
+        "GirlLevel": 10,
+        "GirlSkin": 4401,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011301,
+            10
+        ],
+        "BaseEquip2": [
+            210012101,
+            10
+        ],
+        "BaseEquip3": [
+            210013101,
+            10
+        ],
+        "BaseEquip4": [
+            210014101,
+            10
+        ],
+        "RecommendAbility": 3829,
+        "NPCType": 0,
+        "ID": 90010104,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳",
+        "GirlID": 1,
+        "GirlLevel": 10,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "SuitID": 300101,
+        "BaseEquip1": [
+            230011301,
+            10
+        ],
+        "BaseEquip2": [
+            230012101,
+            10
+        ],
+        "BaseEquip3": [
+            230013101,
+            10
+        ],
+        "BaseEquip4": [
+            230014101,
+            10
+        ],
+        "RecommendAbility": 1208,
+        "NPCType": 0,
+        "ID": 90010105,
+        "Name": null
+    },
+    {
+        "GirlName": "维洛妮卡",
+        "GirlID": 12,
+        "GirlLevel": 30,
+        "GirlSkin": 1201,
+        "StarLevel": 2,
+        "SkillsLevel": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011703,
+            30
+        ],
+        "BaseEquip2": [
+            210012103,
+            30
+        ],
+        "BaseEquip3": [
+            210013103,
+            30
+        ],
+        "BaseEquip4": [
+            210014103,
+            30
+        ],
+        "RecommendAbility": 14682,
+        "NPCType": 0,
+        "ID": 90010301,
+        "Name": null
+    },
+    {
+        "GirlName": "蕾贝莉卡",
+        "GirlID": 30,
+        "GirlLevel": 30,
+        "GirlSkin": 3001,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011103,
+            30
+        ],
+        "BaseEquip2": [
+            210012303,
+            30
+        ],
+        "BaseEquip3": [
+            210013303,
+            30
+        ],
+        "BaseEquip4": [
+            210014303,
+            30
+        ],
+        "RecommendAbility": 14682,
+        "NPCType": 0,
+        "ID": 90010302,
+        "Name": null
+    },
+    {
+        "GirlName": "米丽娜",
+        "GirlID": 44,
+        "GirlLevel": 30,
+        "GirlSkin": 4401,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011303,
+            30
+        ],
+        "BaseEquip2": [
+            210012103,
+            30
+        ],
+        "BaseEquip3": [
+            210013103,
+            30
+        ],
+        "BaseEquip4": [
+            210014103,
+            30
+        ],
+        "RecommendAbility": 14682,
+        "NPCType": 0,
+        "ID": 90010303,
+        "Name": null
+    },
+    {
+        "GirlName": "婕西",
+        "GirlID": 22,
+        "GirlLevel": 30,
+        "GirlSkin": 2201,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210011603,
+            30
+        ],
+        "BaseEquip2": [
+            210012103,
+            30
+        ],
+        "BaseEquip3": [
+            210013103,
+            30
+        ],
+        "BaseEquip4": [
+            210014103,
+            30
+        ],
+        "RecommendAbility": 14682,
+        "NPCType": 0,
+        "ID": 90010304,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳01",
+        "GirlID": 1,
+        "GirlLevel": 40,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "SuitID": 300101,
+        "BaseEquip1": [
+            230011304,
+            40
+        ],
+        "BaseEquip2": [
+            230012104,
+            40
+        ],
+        "BaseEquip3": [
+            230013104,
+            40
+        ],
+        "BaseEquip4": [
+            230014104,
+            40
+        ],
+        "RecommendAbility": 29530,
+        "NPCType": 0,
+        "ID": 90010501,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳2156",
+        "GirlID": 1,
+        "GirlLevel": 40,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131604,
+            40
+        ],
+        "BaseEquip2": [
+            210132104,
+            40
+        ],
+        "BaseEquip3": [
+            210133104,
+            40
+        ],
+        "BaseEquip4": [
+            210134104,
+            40
+        ],
+        "RecommendAbility": 29530,
+        "NPCType": 0,
+        "ID": 90010502,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳0736",
+        "GirlID": 1,
+        "GirlLevel": 40,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131704,
+            40
+        ],
+        "BaseEquip2": [
+            210132104,
+            40
+        ],
+        "BaseEquip3": [
+            210133104,
+            40
+        ],
+        "BaseEquip4": [
+            210134104,
+            40
+        ],
+        "RecommendAbility": 29530,
+        "NPCType": 0,
+        "ID": 90010503,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳6371",
+        "GirlID": 1,
+        "GirlLevel": 40,
+        "GirlSkin": 101,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            210131904,
+            40
+        ],
+        "BaseEquip2": [
+            210132104,
+            40
+        ],
+        "BaseEquip3": [
+            210133104,
+            40
+        ],
+        "BaseEquip4": [
+            210134104,
+            40
+        ],
+        "RecommendAbility": 29530,
+        "NPCType": 0,
+        "ID": 90010504,
+        "Name": null
+    },
+    {
+        "GirlName": "维洛妮卡",
+        "GirlID": 12,
+        "GirlLevel": 50,
+        "GirlSkin": 1201,
+        "StarLevel": 2,
+        "SkillsLevel": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100117,
+            50
+        ],
+        "BaseEquip2": [
+            2100121,
+            50
+        ],
+        "BaseEquip3": [
+            2100131,
+            50
+        ],
+        "BaseEquip4": [
+            2100141,
+            50
+        ],
+        "RecommendAbility": 32691,
+        "NPCType": 0,
+        "ID": 90010701,
+        "Name": null
+    },
+    {
+        "GirlName": "蕾贝莉卡",
+        "GirlID": 30,
+        "GirlLevel": 50,
+        "GirlSkin": 3001,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100111,
+            50
+        ],
+        "BaseEquip2": [
+            2100123,
+            50
+        ],
+        "BaseEquip3": [
+            2100133,
+            50
+        ],
+        "BaseEquip4": [
+            2100143,
+            50
+        ],
+        "RecommendAbility": 32691,
+        "NPCType": 0,
+        "ID": 90010702,
+        "Name": null
+    },
+    {
+        "GirlName": "米丽娜",
+        "GirlID": 44,
+        "GirlLevel": 50,
+        "GirlSkin": 4401,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100113,
+            50
+        ],
+        "BaseEquip2": [
+            2100121,
+            50
+        ],
+        "BaseEquip3": [
+            2100131,
+            50
+        ],
+        "BaseEquip4": [
+            2100141,
+            50
+        ],
+        "RecommendAbility": 32691,
+        "NPCType": 0,
+        "ID": 90010703,
+        "Name": null
+    },
+    {
+        "GirlName": "婕西",
+        "GirlID": 22,
+        "GirlLevel": 30,
+        "GirlSkin": 2201,
+        "StarLevel": 3,
+        "SkillsLevel": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100116,
+            50
+        ],
+        "BaseEquip2": [
+            2100121,
+            50
+        ],
+        "BaseEquip3": [
+            2100131,
+            50
+        ],
+        "BaseEquip4": [
+            2100141,
+            50
+        ],
+        "RecommendAbility": 32691,
+        "NPCType": 0,
+        "ID": 90010704,
+        "Name": null
+    }
+]

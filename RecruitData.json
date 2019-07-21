@@ -1,0 +1,406 @@
+[
+    {
+        "RecruitType": 0,
+        "RecruitSubType": 0,
+        "RecruitOrder": 1,
+        "RecruitName": "奈布拉区域",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800001,
+                1
+            ],
+            [
+                10100001,
+                1000
+            ]
+        ],
+        "NormalRandom": 10101,
+        "FullValueRandom": 910101,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [
+            2,
+            38
+        ],
+        "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
+        "GirlList": "2,35,36,37,43,55,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "2,0.71%",
+        "ID": 10001,
+        "Name": null
+    },
+    {
+        "RecruitType": 0,
+        "RecruitSubType": 0,
+        "RecruitOrder": 2,
+        "RecruitName": "克格亚区域",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800001,
+                1
+            ],
+            [
+                10100001,
+                1000
+            ]
+        ],
+        "NormalRandom": 10102,
+        "FullValueRandom": 910102,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [
+            37,
+            32
+        ],
+        "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
+        "GirlList": "2,35,36,37,43,55,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "37,0.71%",
+        "ID": 10002,
+        "Name": null
+    },
+    {
+        "RecruitType": 0,
+        "RecruitSubType": 0,
+        "RecruitOrder": 3,
+        "RecruitName": "限定UP招募区域",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800001,
+                2
+            ],
+            [
+                10100001,
+                2000
+            ]
+        ],
+        "NormalRandom": 10105,
+        "FullValueRandom": 910103,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [
+            59,
+            39
+        ],
+        "ProbabilityPrew": "SSR机师,5%;SR机师,10%;R机师,47.5%;N机师,37.5%",
+        "GirlList": "2,35,36,37,43,55,59,70,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "59,1.11%;39,0.83%",
+        "ID": 10003,
+        "Name": null
+    },
+    {
+        "RecruitType": 0,
+        "RecruitSubType": 0,
+        "RecruitOrder": 4,
+        "RecruitName": "爱蕾塔区域",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800001,
+                1
+            ],
+            [
+                10100001,
+                1000
+            ]
+        ],
+        "NormalRandom": 10104,
+        "FullValueRandom": 910104,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [
+            36,
+            17
+        ],
+        "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
+        "GirlList": "2,35,36,37,43,55,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "36,0.71%",
+        "ID": 10004,
+        "Name": null
+    },
+    {
+        "RecruitType": 0,
+        "RecruitSubType": 0,
+        "RecruitOrder": 5,
+        "RecruitName": "海克塞尔区域",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800001,
+                1
+            ],
+            [
+                10100001,
+                1000
+            ]
+        ],
+        "NormalRandom": 10103,
+        "FullValueRandom": 910105,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [
+            43,
+            3
+        ],
+        "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
+        "GirlList": "2,35,36,37,43,55,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "43,0.71%",
+        "ID": 10005,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 2,
+        "RecruitName": "掉落部件的建造",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20100,
+        "FullValueRandom": 920100,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20001,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 3,
+        "RecruitName": "掉落部件的建造-武器",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10800003,
+                1
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20101,
+        "FullValueRandom": 920101,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20002,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 4,
+        "RecruitName": "掉落部件的建造-胸甲",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10800004,
+                1
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20102,
+        "FullValueRandom": 920102,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20003,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 5,
+        "RecruitName": "掉落部件的建造-腿甲",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10800005,
+                1
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20103,
+        "FullValueRandom": 920103,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20004,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 6,
+        "RecruitName": "掉落部件的建造-挂载",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10800006,
+                1
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20104,
+        "FullValueRandom": 920104,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20005,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 3,
+        "RecruitOrder": 1,
+        "RecruitName": "限定开发-PN26伊莉希斯",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                20
+            ],
+            [
+                10100001,
+                1000
+            ]
+        ],
+        "NormalRandom": 20201,
+        "FullValueRandom": 920201,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:97.5%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)\n\n一体机部件产出概率:2.5%。\n(<color=#D100FF>SR</color>:100%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 20007,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "限时开发-PN26伊莉希斯",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20202,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2302918,
+            2302922,
+            2302932,
+            2302942
+        ],
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%<color=#FFFFFF00>111111</color></size><size=15>一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%<color=#FFFFFF00>1111111率率率</color></size>",
+        "GirlList": "302901,305501,301301",
+        "UpGirl": "302901,305501,301301",
+        "ID": 20008,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "限时开发-α-16",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20203,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2303916,
+            2303921,
+            2303931,
+            2303941
+        ],
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%<color=#FFFFFF00>111111</color></size><size=15>一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%<color=#FFFFFF00>1111111率率率</color></size>",
+        "GirlList": "303901,305501,301301",
+        "UpGirl": "303901,305501,301301",
+        "ID": 20009,
+        "Name": null
+    }
+]

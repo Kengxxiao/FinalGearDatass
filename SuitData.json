@@ -1,0 +1,728 @@
+[
+    {
+        "SuitName": "通用一体机",
+        "SuitType": 2,
+        "SuitWeaponID": [],
+        "SuitChestID": [],
+        "SuitLegID": [],
+        "SuitBackpackID": [],
+        "SuitGirlID": [],
+        "Suit2Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit2Desc": "",
+        "Suit4Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit4Desc": "",
+        "Suit5Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit5Desc": "",
+        "MachineArmorID": 10000,
+        "WidgetCamp": 0,
+        "Designer": "",
+        "Manufacturer": "",
+        "Disc": "",
+        "HpRate": 0,
+        "AtkRate": 0,
+        "DodgeRate": 0,
+        "HitRate": 0,
+        "ArmorRate": 0,
+        "ID": 10000,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "白鸦",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            230011302,
+            2300113
+        ],
+        "SuitChestID": [
+            230012102,
+            2300121
+        ],
+        "SuitLegID": [
+            230013102,
+            2300131
+        ],
+        "SuitBackpackID": [
+            230014102,
+            2300141
+        ],
+        "SuitGirlID": [
+            1
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲暴击几率提高5%",
+        "Suit4Add": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲闪避几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 101,
+        "WidgetCamp": 2,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "专门为伊芙琳所打造的机体，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 300101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "大头目",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2300418
+        ],
+        "SuitChestID": [
+            2300422
+        ],
+        "SuitLegID": [
+            2300432
+        ],
+        "SuitBackpackID": [
+            2300442
+        ],
+        "SuitGirlID": [
+            4
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 401,
+        "WidgetCamp": 8,
+        "Designer": "布兰彻特",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "艾达从原帝国远征军处抢来的大型装甲，虽然对机体不是很了解，但她相信大一点总是好的。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 300401,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "北军之怒",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2301119
+        ],
+        "SuitChestID": [
+            2301123
+        ],
+        "SuitLegID": [
+            2301133
+        ],
+        "SuitBackpackID": [
+            2301143
+        ],
+        "SuitGirlID": [
+            11
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 1101,
+        "WidgetCamp": 6,
+        "Designer": "卡德琳",
+        "Manufacturer": "北军工业",
+        "Disc": "帝国侵略战争时期娜塔莎所驾驶的四足机甲，攻击方式以电磁为主。\n时过境迁，目前这台机体的驾驶舱对她来说似乎有点小了。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 301101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "刻耳柏洛斯",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2402018,
+            2302018
+        ],
+        "SuitChestID": [
+            2402022,
+            2302022
+        ],
+        "SuitLegID": [
+            2402032,
+            2302032
+        ],
+        "SuitBackpackID": [
+            2402042,
+            2302042
+        ],
+        "SuitGirlID": [
+            20
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 2001,
+        "WidgetCamp": 7,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "爱洛依丝声称贝尔娜黛特才有能力驾驭这架机体，于是便当做战利品奖励给了她。",
+        "HpRate": 9,
+        "AtkRate": 10,
+        "DodgeRate": 8,
+        "HitRate": 9,
+        "ArmorRate": 9,
+        "ID": 302001,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "流浪武士",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2402414,
+            2302414
+        ],
+        "SuitChestID": [
+            2402423,
+            2302423
+        ],
+        "SuitLegID": [
+            2402433,
+            2302433
+        ],
+        "SuitBackpackID": [
+            2402443,
+            2302443
+        ],
+        "SuitGirlID": [
+            24
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲耐久提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 2401,
+        "WidgetCamp": 7,
+        "Designer": "布兰彻特",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "这是奥斯菲尔德首席机械师布兰彻特根据九条绫的印象特意为她制作的机甲。",
+        "HpRate": 9,
+        "AtkRate": 10,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 8,
+        "ID": 302401,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "漆黑之华",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2402918,
+            2302918
+        ],
+        "SuitChestID": [
+            2402922,
+            2302922
+        ],
+        "SuitLegID": [
+            2402932,
+            2302932
+        ],
+        "SuitBackpackID": [
+            2402942,
+            2302942
+        ],
+        "SuitGirlID": [
+            29
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 2901,
+        "WidgetCamp": 3,
+        "Designer": "艾格尼丝",
+        "Manufacturer": "？？？",
+        "Disc": "为了伊莉希斯能够顺利完成实验，某个人专门为她设计了这台机器。",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 8,
+        "HitRate": 9,
+        "ArmorRate": 8,
+        "ID": 302901,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "沙漠之星",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2300819
+        ],
+        "SuitChestID": [
+            2300823
+        ],
+        "SuitLegID": [
+            2300833
+        ],
+        "SuitBackpackID": [
+            2300843
+        ],
+        "SuitGirlID": [
+            8
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 801,
+        "WidgetCamp": 5,
+        "Designer": "埃伊菲",
+        "Manufacturer": "？？？",
+        "Disc": "这台机车原本是埃伊菲用来参加沙漠越野赛而使用的，后经过奇莉诺改造变成了现在这个样子。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 300801,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "喵喵",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2301312
+        ],
+        "SuitChestID": [
+            2301322
+        ],
+        "SuitLegID": [
+            2301332
+        ],
+        "SuitBackpackID": [
+            2301342
+        ],
+        "SuitGirlID": [
+            13
+        ],
+        "Suit2Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲耐久提高5%",
+        "Suit4Add": {
+            "keys": [
+                31
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲护甲提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 1301,
+        "WidgetCamp": 7,
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "这台机器是艾丝梅拉达动用私人权力所制作的，因此盾牌才会有这猫咪的外型。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 301301,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "雨燕",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2303118
+        ],
+        "SuitChestID": [
+            2303122
+        ],
+        "SuitLegID": [
+            2303132
+        ],
+        "SuitBackpackID": [
+            2303142
+        ],
+        "SuitGirlID": [
+            31
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 3101,
+        "WidgetCamp": 6,
+        "Designer": "爱塔",
+        "Manufacturer": "爱塔机械制造",
+        "Disc": "作为反抗第二次帝国侵略战争的功臣，雨燕在战后成为了爱蕾塔的标志性机甲之一。",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 303101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "麦西奥拉",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2305515
+        ],
+        "SuitChestID": [
+            2305522
+        ],
+        "SuitLegID": [
+            2305532
+        ],
+        "SuitBackpackID": [
+            2305542
+        ],
+        "SuitGirlID": [
+            55
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲暴击几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 5501,
+        "WidgetCamp": 5,
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "Disc": "麦西奥拉的部分动力来源于薇欧蕾特的手脚，这是只有娜可朵莉丝才能做到的技术。",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 10,
+        "ArmorRate": 9,
+        "ID": 305501,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "α-16",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2303916
+        ],
+        "SuitChestID": [
+            2303921
+        ],
+        "SuitLegID": [
+            2303931
+        ],
+        "SuitBackpackID": [
+            2303941
+        ],
+        "SuitGirlID": [
+            39
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲暴击几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "MachineArmorID": 3901,
+        "WidgetCamp": 5,
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者家族",
+        "Disc": "麦西奥拉的部分动力来源于薇欧蕾特的手脚，这是只有娜可朵莉丝才能做到的技术。",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 10,
+        "ArmorRate": 9,
+        "ID": 303901,
+        "Name": "套装数据"
+    }
+]

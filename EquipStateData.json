@@ -1,0 +1,370 @@
+[
+    {
+        "stateName": "出场1",
+        "priority": 100.0,
+        "animationNames": [
+            "start"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": false,
+        "stateType": 0,
+        "ID": 820100001,
+        "Name": null
+    },
+    {
+        "stateName": "出场2",
+        "priority": 100.0,
+        "animationNames": [
+            "start"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": false,
+        "stateType": 0,
+        "ID": 820100002,
+        "Name": null
+    },
+    {
+        "stateName": "待机",
+        "priority": 0.0,
+        "animationNames": [
+            "idle"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100003,
+        "Name": null
+    },
+    {
+        "stateName": "前进",
+        "priority": 0.0,
+        "animationNames": [
+            "move"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100004,
+        "Name": null
+    },
+    {
+        "stateName": "后退",
+        "priority": 0.0,
+        "animationNames": [
+            "moveback"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100005,
+        "Name": null
+    },
+    {
+        "stateName": "跑步",
+        "priority": 1.0,
+        "animationNames": [
+            "run"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100006,
+        "Name": null
+    },
+    {
+        "stateName": "射击前摇",
+        "priority": 10.0,
+        "animationNames": [
+            "attack1"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100007,
+        "Name": null
+    },
+    {
+        "stateName": "射击蓄力",
+        "priority": 10.0,
+        "animationNames": [
+            "attack2"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100008,
+        "Name": null
+    },
+    {
+        "stateName": "射击开火",
+        "priority": 10.0,
+        "animationNames": [
+            "attack3"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100009,
+        "Name": null
+    },
+    {
+        "stateName": "射击待机",
+        "priority": 10.0,
+        "animationNames": [
+            "attack8"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100010,
+        "Name": null
+    },
+    {
+        "stateName": "射击后摇",
+        "priority": 10.0,
+        "animationNames": [
+            "attack9"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100011,
+        "Name": null
+    },
+    {
+        "stateName": "受伤",
+        "priority": 100.0,
+        "animationNames": [
+            "hit"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100012,
+        "Name": null
+    },
+    {
+        "stateName": "死亡",
+        "priority": 1000.0,
+        "animationNames": [
+            "dead"
+        ],
+        "attackable": false,
+        "moveable": false,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": false,
+        "controllable": false,
+        "stateType": 0,
+        "ID": 820100013,
+        "Name": null
+    },
+    {
+        "stateName": "武器哑火",
+        "priority": 10.0,
+        "animationNames": [
+            "misfiring"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100016,
+        "Name": null
+    },
+    {
+        "stateName": "上弹夹",
+        "priority": 10.0,
+        "animationNames": [
+            "reloading"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100017,
+        "Name": null
+    },
+    {
+        "stateName": "怪物攻击",
+        "priority": 10.0,
+        "animationNames": [
+            "attack3"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100018,
+        "Name": null
+    },
+    {
+        "stateName": "卸弹夹",
+        "priority": 10.0,
+        "animationNames": [
+            "unloading"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100019,
+        "Name": null
+    },
+    {
+        "stateName": "技能",
+        "priority": 100.0,
+        "animationNames": [
+            "idle"
+        ],
+        "attackable": false,
+        "moveable": false,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": false,
+        "controllable": false,
+        "stateType": 0,
+        "ID": 820100021,
+        "Name": null
+    },
+    {
+        "stateName": "射击前进",
+        "priority": 0.0,
+        "animationNames": [
+            "move"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100022,
+        "Name": null
+    },
+    {
+        "stateName": "射击后退",
+        "priority": 0.0,
+        "animationNames": [
+            "moveback"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": false,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100023,
+        "Name": null
+    },
+    {
+        "stateName": "攻击表情",
+        "priority": 0.0,
+        "animationNames": [
+            "空"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100024,
+        "Name": null
+    },
+    {
+        "stateName": "攻击表情_轻",
+        "priority": 0.0,
+        "animationNames": [
+            "attack"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100025,
+        "Name": null
+    },
+    {
+        "stateName": "攻击表情_重",
+        "priority": 0.0,
+        "animationNames": [
+            "attack"
+        ],
+        "attackable": true,
+        "moveable": true,
+        "turnable": true,
+        "turnableWhenChangeAnim": true,
+        "skillble": true,
+        "controllable": true,
+        "stateType": 0,
+        "ID": 820100026,
+        "Name": null
+    }
+]

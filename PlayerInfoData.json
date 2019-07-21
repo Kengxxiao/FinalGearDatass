@@ -1,0 +1,322 @@
+[
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 1,
+        "DisplayName": "任务完成总数量",
+        "DisplayType": 1,
+        "IsShow": 1,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 2,
+        "DisplayName": "普通任务完成数量",
+        "DisplayType": 2,
+        "IsShow": 1,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 3,
+        "DisplayName": "紧急任务完成数量",
+        "DisplayType": 3,
+        "IsShow": 1,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 4,
+        "DisplayName": "杀敌总数量",
+        "DisplayType": 4,
+        "IsShow": 1,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 5,
+        "DisplayName": "战斗最高伤害",
+        "DisplayType": 5,
+        "IsShow": 1,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 6,
+        "DisplayName": "战役最高伤害",
+        "DisplayType": 6,
+        "IsShow": 1,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 1,
+        "DisplayOrder": 7,
+        "DisplayName": "技能释放总次数",
+        "DisplayType": 7,
+        "IsShow": 1,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 1,
+        "DisplayName": "SSR机师数量",
+        "DisplayType": 8,
+        "IsShow": 1,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 2,
+        "DisplayName": "SR机师数量",
+        "DisplayType": 9,
+        "IsShow": 1,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 3,
+        "DisplayName": "R机师数量",
+        "DisplayType": 10,
+        "IsShow": 1,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 4,
+        "DisplayName": "N机师数量",
+        "DisplayType": 11,
+        "IsShow": 1,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 5,
+        "DisplayName": "壁垒武器收集数量",
+        "DisplayType": 12,
+        "IsShow": 1,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 6,
+        "DisplayName": "片手武器收集数量",
+        "DisplayType": 13,
+        "IsShow": 1,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 7,
+        "DisplayName": "强袭武器收集数量",
+        "DisplayType": 14,
+        "IsShow": 1,
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 8,
+        "DisplayName": "突击武器收集数量",
+        "DisplayType": 15,
+        "IsShow": 1,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 9,
+        "DisplayName": "机枪武器收集数量",
+        "DisplayType": 16,
+        "IsShow": 1,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 10,
+        "DisplayName": "冲锋武器收集数量",
+        "DisplayType": 17,
+        "IsShow": 1,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 11,
+        "DisplayName": "火炮武器收集数量",
+        "DisplayType": 18,
+        "IsShow": 1,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 12,
+        "DisplayName": "狙击武器收集数量",
+        "DisplayType": 19,
+        "IsShow": 1,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 13,
+        "DisplayName": "投射武器收集数量",
+        "DisplayType": 20,
+        "IsShow": 1,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 14,
+        "DisplayName": "胸甲收集数量",
+        "DisplayType": 21,
+        "IsShow": 1,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 15,
+        "DisplayName": "腿甲收集数量",
+        "DisplayType": 22,
+        "IsShow": 1,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 16,
+        "DisplayName": "挂载收集数量",
+        "DisplayType": 23,
+        "IsShow": 1,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 2,
+        "DisplayOrder": 17,
+        "DisplayName": "配件收集数量",
+        "DisplayType": 24,
+        "IsShow": 1,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 3,
+        "DisplayOrder": 1,
+        "DisplayName": "满级成员数量",
+        "DisplayType": 25,
+        "IsShow": 1,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 3,
+        "DisplayOrder": 2,
+        "DisplayName": "满星成员数量",
+        "DisplayType": 26,
+        "IsShow": 1,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 1,
+        "PlayerInfoSubType": 3,
+        "DisplayOrder": 3,
+        "DisplayName": "满级技能数量",
+        "DisplayType": 27,
+        "IsShow": 1,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 2,
+        "PlayerInfoSubType": 4,
+        "DisplayOrder": 1,
+        "DisplayName": "参与战斗次数",
+        "DisplayType": 28,
+        "IsShow": 0,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 2,
+        "PlayerInfoSubType": 4,
+        "DisplayOrder": 2,
+        "DisplayName": "胜利次数",
+        "DisplayType": 29,
+        "IsShow": 0,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 2,
+        "PlayerInfoSubType": 4,
+        "DisplayOrder": 3,
+        "DisplayName": "失败次数",
+        "DisplayType": 30,
+        "IsShow": 0,
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 3,
+        "PlayerInfoSubType": 5,
+        "DisplayOrder": 1,
+        "DisplayName": "结交好友数量",
+        "DisplayType": 31,
+        "IsShow": 0,
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "PlayerInfoType": 3,
+        "PlayerInfoSubType": 6,
+        "DisplayOrder": 2,
+        "DisplayName": "公会签到次数",
+        "DisplayType": 32,
+        "IsShow": 0,
+        "ID": 32,
+        "Name": null
+    }
+]

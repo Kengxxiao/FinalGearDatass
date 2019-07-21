@@ -1,0 +1,62 @@
+[
+    {
+        "TeamName": "战力最高",
+        "Description": "挑选战力最高的机甲上阵",
+        "Suggestion1": 0,
+        "Suggestion2": 0,
+        "Suggestion3": 0,
+        "Suggestion4": 0,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "TeamName": "单体输出",
+        "Description": "单体爆发为主，适合怪物数量不多，但偏精英化的战斗",
+        "Suggestion1": 1,
+        "Suggestion2": 2,
+        "Suggestion3": 4,
+        "Suggestion4": 6,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "TeamName": "群体输出",
+        "Description": "群体爆发为主，适合怪物数量较多的战斗",
+        "Suggestion1": 1,
+        "Suggestion2": 3,
+        "Suggestion3": 7,
+        "Suggestion4": 8,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "TeamName": "攻守平衡",
+        "Description": "同时具备一定的进攻和防守能力，适合大部分战斗",
+        "Suggestion1": 0,
+        "Suggestion2": 2,
+        "Suggestion3": 7,
+        "Suggestion4": 8,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "TeamName": "防守消耗",
+        "Description": "依靠较强的防守和消耗能力，通过厚积薄发，逆转战局",
+        "Suggestion1": 0,
+        "Suggestion2": 3,
+        "Suggestion3": 5,
+        "Suggestion4": 8,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "TeamName": "远程拉锯",
+        "Description": "较强的远程输出能力，适合近战输出环境较差的战斗",
+        "Suggestion1": 0,
+        "Suggestion2": 5,
+        "Suggestion3": 4,
+        "Suggestion4": 6,
+        "ID": 6,
+        "Name": null
+    }
+]
