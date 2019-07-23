@@ -4,14 +4,14 @@
         "DailyMissionArray": 1,
         "DailyMissionType": 1,
         "DailyMissionPara": "进攻,防守,护送,紧急",
-        "DailyMissionValue": 5,
+        "DailyMissionValue": 3,
         "DailyMissionRole": "",
         "Weight": 1,
         "DailyMissionName": "赏金任务",
         "DailyMissionDesc": "完成{0}次赏金任务",
         "DailyMissionReward": [
             10800001,
-            1
+            5
         ],
         "ID": 10,
         "Name": null
@@ -42,7 +42,7 @@
         "DailyMissionRole": "",
         "Weight": 1,
         "DailyMissionName": "副本任务",
-        "DailyMissionDesc": "完成{0}次任意难度副本",
+        "DailyMissionDesc": "完成{0}次任意专用机副本",
         "DailyMissionReward": [
             10100007,
             5
