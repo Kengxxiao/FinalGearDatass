@@ -2,12 +2,12 @@
     {
         "ActivityID": 1,
         "CorberoDailyMissionType": 1,
-        "DailyMissionPara": "10",
-        "DailyMissionName": "通关任意难度副本10次",
-        "DailyMissionDesc": "通关任意难度副本10次",
+        "DailyMissionPara": "20",
+        "DailyMissionName": "通关任意难度关卡20次",
+        "DailyMissionDesc": "通关任意难度关卡20次",
         "ItemReward": [
             11400001,
-            150
+            450
         ],
         "ID": 1,
         "Name": null
@@ -15,12 +15,12 @@
     {
         "ActivityID": 1,
         "CorberoDailyMissionType": 2,
-        "DailyMissionPara": "11003,5",
-        "DailyMissionName": "通关困难难度副本5次",
-        "DailyMissionDesc": "通关困难难度副本5次",
+        "DailyMissionPara": "11001,5",
+        "DailyMissionName": "通关简单难度关卡5次",
+        "DailyMissionDesc": "通关简单难度关卡5次",
         "ItemReward": [
-            10100003,
-            150
+            11400001,
+            200
         ],
         "ID": 2,
         "Name": null
@@ -28,12 +28,12 @@
     {
         "ActivityID": 1,
         "CorberoDailyMissionType": 3,
-        "DailyMissionPara": "30",
-        "DailyMissionName": "通过关卡获得30点活动点数",
-        "DailyMissionDesc": "通过关卡获得30点活动点数",
+        "DailyMissionPara": "100",
+        "DailyMissionName": "通过关卡获得100点活动点数",
+        "DailyMissionDesc": "通过关卡获得100点活动点数",
         "ItemReward": [
             11400001,
-            50
+            250
         ],
         "ID": 3,
         "Name": null
@@ -41,12 +41,12 @@
     {
         "ActivityID": 1,
         "CorberoDailyMissionType": 4,
-        "DailyMissionPara": "20",
-        "DailyMissionName": "通过关卡获得20个傀儡碎片",
-        "DailyMissionDesc": "通过关卡获得20个傀儡碎片",
+        "DailyMissionPara": "50",
+        "DailyMissionName": "通过关卡获得50个傀儡碎片",
+        "DailyMissionDesc": "通过关卡获得50个傀儡碎片",
         "ItemReward": [
-            10100003,
-            50
+            11400001,
+            300
         ],
         "ID": 4,
         "Name": null

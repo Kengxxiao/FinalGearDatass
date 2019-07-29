@@ -13,8 +13,8 @@
         "CorberoAchieveDesc": "完成1-1偶遇",
         "ItemReward": [
             [
-                10100003,
-                10
+                10100001,
+                10000
             ],
             [
                 11400001,
@@ -38,8 +38,8 @@
         "CorberoAchieveDesc": "完成1-2深入",
         "ItemReward": [
             [
-                10100003,
-                10
+                10800002,
+                50
             ],
             [
                 11400001,
@@ -63,8 +63,8 @@
         "CorberoAchieveDesc": "完成1-3复仇",
         "ItemReward": [
             [
-                10100003,
-                10
+                10800005,
+                3
             ],
             [
                 11400001,
@@ -88,12 +88,12 @@
         "CorberoAchieveDesc": "完成1-4人核",
         "ItemReward": [
             [
-                10100003,
-                20
+                10800004,
+                3
             ],
             [
                 11400001,
-                20
+                10
             ]
         ],
         "ID": 4,
@@ -113,12 +113,12 @@
         "CorberoAchieveDesc": "3星完成1-1偶遇",
         "ItemReward": [
             [
-                10100003,
-                20
+                10900002,
+                5
             ],
             [
                 11400001,
-                20
+                10
             ]
         ],
         "ID": 5,
@@ -138,12 +138,12 @@
         "CorberoAchieveDesc": "3星完成1-2深入",
         "ItemReward": [
             [
-                10100003,
-                20
+                10800001,
+                3
             ],
             [
                 11400001,
-                20
+                10
             ]
         ],
         "ID": 6,
@@ -163,12 +163,12 @@
         "CorberoAchieveDesc": "3星完成1-3复仇",
         "ItemReward": [
             [
-                10100003,
-                20
+                10900001,
+                5
             ],
             [
                 11400001,
-                20
+                10
             ]
         ],
         "ID": 7,
@@ -188,12 +188,12 @@
         "CorberoAchieveDesc": "3星完成1-4人核",
         "ItemReward": [
             [
-                10100003,
-                40
+                11300000,
+                10
             ],
             [
                 11400001,
-                40
+                10
             ]
         ],
         "ID": 8,
@@ -213,12 +213,12 @@
         "CorberoAchieveDesc": "完成精英挑战（简单）",
         "ItemReward": [
             [
-                10100003,
-                40
+                10800003,
+                3
             ],
             [
                 11400001,
-                40
+                10
             ]
         ],
         "ID": 9,
@@ -238,12 +238,12 @@
         "CorberoAchieveDesc": "完成精英挑战（普通）",
         "ItemReward": [
             [
-                10100003,
-                40
+                10800006,
+                3
             ],
             [
                 11400001,
-                40
+                10
             ]
         ],
         "ID": 10,
@@ -263,12 +263,12 @@
         "CorberoAchieveDesc": "完成精英挑战（困难）",
         "ItemReward": [
             [
-                10100003,
-                40
+                10800001,
+                5
             ],
             [
                 11400001,
-                40
+                10
             ]
         ],
         "ID": 11,
@@ -288,12 +288,12 @@
         "CorberoAchieveDesc": "3星完成精英挑战（简单）",
         "ItemReward": [
             [
-                10100003,
-                60
+                10810002,
+                3
             ],
             [
                 11400001,
-                60
+                10
             ]
         ],
         "ID": 12,
@@ -313,12 +313,12 @@
         "CorberoAchieveDesc": "3星完成精英挑战（普通）",
         "ItemReward": [
             [
-                10100003,
-                60
+                10810001,
+                2
             ],
             [
                 11400001,
-                60
+                10
             ]
         ],
         "ID": 13,
@@ -338,12 +338,12 @@
         "CorberoAchieveDesc": "3星完成精英挑战（困难）",
         "ItemReward": [
             [
-                10100003,
-                60
+                11300007,
+                1
             ],
             [
                 11400001,
-                60
+                10
             ]
         ],
         "ID": 14,
@@ -363,12 +363,12 @@
         "CorberoAchieveDesc": "5分钟内完成精英挑战（困难）",
         "ItemReward": [
             [
-                10100003,
-                120
+                11200004,
+                5
             ],
             [
                 11400001,
-                120
+                10
             ]
         ],
         "ID": 15,
@@ -382,18 +382,18 @@
         "AchieveArray": 1,
         "PreAchievementID": 0,
         "NextAchievementID": 17,
-        "CorberoAchievePara": "100",
-        "CorberoCompleteCount": 100,
-        "CorberoAchieveName": "活动奖池抽取100次",
-        "CorberoAchieveDesc": "在活动奖池中，获得100次奖励",
+        "CorberoAchievePara": "1000",
+        "CorberoCompleteCount": 1000,
+        "CorberoAchieveName": "活动奖池抽取1000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得1000次奖励",
         "ItemReward": [
             [
-                10100003,
-                20
+                10800002,
+                125
             ],
             [
                 11400001,
-                20
+                10
             ]
         ],
         "ID": 16,
@@ -407,18 +407,18 @@
         "AchieveArray": 2,
         "PreAchievementID": 16,
         "NextAchievementID": 18,
-        "CorberoAchievePara": "200",
-        "CorberoCompleteCount": 200,
-        "CorberoAchieveName": "活动奖池抽取250次",
-        "CorberoAchieveDesc": "在活动奖池中，获得250次奖励",
+        "CorberoAchievePara": "2500",
+        "CorberoCompleteCount": 2500,
+        "CorberoAchieveName": "活动奖池抽取2500次",
+        "CorberoAchieveDesc": "在活动奖池中，获得2500次奖励",
         "ItemReward": [
             [
-                10100003,
-                30
+                10900002,
+                10
             ],
             [
                 11400001,
-                30
+                10
             ]
         ],
         "ID": 17,
@@ -432,18 +432,18 @@
         "AchieveArray": 3,
         "PreAchievementID": 17,
         "NextAchievementID": 19,
-        "CorberoAchievePara": "300",
-        "CorberoCompleteCount": 300,
-        "CorberoAchieveName": "活动奖池抽取500次",
-        "CorberoAchieveDesc": "在活动奖池中，获得500次奖励",
+        "CorberoAchievePara": "5000",
+        "CorberoCompleteCount": 5000,
+        "CorberoAchieveName": "活动奖池抽取5000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得5000次奖励",
         "ItemReward": [
             [
-                10100003,
-                40
+                10900001,
+                10
             ],
             [
                 11400001,
-                40
+                10
             ]
         ],
         "ID": 18,
@@ -457,18 +457,18 @@
         "AchieveArray": 4,
         "PreAchievementID": 18,
         "NextAchievementID": 20,
-        "CorberoAchievePara": "400",
-        "CorberoCompleteCount": 400,
-        "CorberoAchieveName": "活动奖池抽取1000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得1000次奖励",
+        "CorberoAchievePara": "10000",
+        "CorberoCompleteCount": 10000,
+        "CorberoAchieveName": "活动奖池抽取10000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得10000次奖励",
         "ItemReward": [
             [
-                10100003,
-                50
+                10810002,
+                5
             ],
             [
                 11400001,
-                50
+                10
             ]
         ],
         "ID": 19,
@@ -482,18 +482,18 @@
         "AchieveArray": 5,
         "PreAchievementID": 19,
         "NextAchievementID": 0,
-        "CorberoAchievePara": "500",
-        "CorberoCompleteCount": 500,
-        "CorberoAchieveName": "活动奖池抽取2000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得2000次奖励",
+        "CorberoAchievePara": "13000",
+        "CorberoCompleteCount": 13000,
+        "CorberoAchieveName": "活动奖池抽取13000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得13000次奖励",
         "ItemReward": [
             [
-                10100003,
-                100
+                11100024,
+                1
             ],
             [
                 11400001,
-                120
+                10
             ]
         ],
         "ID": 20,

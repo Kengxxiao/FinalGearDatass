@@ -11,7 +11,7 @@
         "WeaponSpeed": 3.24,
         "Trigger": 0.31,
         "AnimationCycleType": 2,
-        "BulletlAggRatio": 0.18,
+        "BulletlAggRatio": 0.25,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [
@@ -123,7 +123,7 @@
         "WeaponSpeed": 2.0,
         "Trigger": 0.5,
         "AnimationCycleType": 1,
-        "BulletlAggRatio": 0.26,
+        "BulletlAggRatio": 0.32,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [
@@ -151,7 +151,7 @@
         "WeaponSpeed": 1.0,
         "Trigger": 1.0,
         "AnimationCycleType": 1,
-        "BulletlAggRatio": 0.2,
+        "BulletlAggRatio": 0.23,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [
@@ -179,7 +179,7 @@
         "WeaponSpeed": 4.5,
         "Trigger": 0.22,
         "AnimationCycleType": 1,
-        "BulletlAggRatio": 0.15,
+        "BulletlAggRatio": 0.17,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [
@@ -288,7 +288,7 @@
         "AccumulatingTime": 0,
         "ShootInterval": 0,
         "AttackSpeed": 1.0,
-        "WeaponSpeed": 4.87,
+        "WeaponSpeed": 8.23,
         "Trigger": 0.21,
         "AnimationCycleType": 2,
         "BulletlAggRatio": 0.14,

@@ -2217,7 +2217,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.31,
         "Trigger": 3.23,
-        "BulletlAggRatio": 1.18,
+        "BulletlAggRatio": 1.39,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -4377,7 +4377,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.25,
         "Trigger": 4.0,
-        "BulletlAggRatio": 1.48,
+        "BulletlAggRatio": 1.67,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -9417,7 +9417,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.27,
         "Trigger": 3.7,
-        "BulletlAggRatio": 1.38,
+        "BulletlAggRatio": 1.62,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -10337,7 +10337,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.67,
         "Trigger": 1.49,
-        "BulletlAggRatio": 0.83,
+        "BulletlAggRatio": 1.09,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -11455,7 +11455,7 @@
         "AccumulatingTime": 0,
         "ShootInterval": 0,
         "AttackSpeed": 1.0,
-        "WeaponSpeed": 4.87,
+        "WeaponSpeed": 4.2,
         "Trigger": 0.21,
         "BulletlAggRatio": 0.26,
         "BulletAggValue": 0,
@@ -11617,7 +11617,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.67,
         "Trigger": 1.49,
-        "BulletlAggRatio": 0.83,
+        "BulletlAggRatio": 1.09,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -11815,6 +11815,206 @@
         "WidgetSN": "私人订制",
         "WidgetCamp": 1,
         "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001701,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "一种可以有效提升装甲强度的芯片。",
+        "Model": 0,
+        "Icon": "81000095",
+        "Icon_Large": "81000095",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400151,
+        "Name": "能量护盾芯片"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001731,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "有着可以在机体周围生成能量护盾力场的功能性配件。",
+        "Model": 0,
+        "Icon": "81000094",
+        "Icon_Large": "81000094",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400251,
+        "Name": "能量护盾力场"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 25,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001741,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "该芯片可以将擦肩而过的能量吸收并转化为自身所用。",
+        "Model": 0,
+        "Icon": "81000092",
+        "Icon_Large": "81000092",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400352,
+        "Name": "反击芯片"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001781,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "为了防止机体失控时所搭载的紧急制动系统，可以在关键时刻保住性命。",
+        "Model": 0,
+        "Icon": "81000099",
+        "Icon_Large": "81000099",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400451,
+        "Name": "紧急修复系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 25,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001831,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "能够提升武器的命中率的一种辅助瞄准功能。",
+        "Model": 0,
+        "Icon": "81000099",
+        "Icon_Large": "81000099",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400552,
+        "Name": "辅助瞄准系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
         "EquipSubType": 25,
         "SuitID": 0,
         "WeightType": 0,
@@ -11845,24 +12045,77 @@
             0
         ],
         "PropertyType": 2,
-        "PropertyPara1": "40,1,SR",
+        "PropertyPara1": "40,1,R",
         "PropertyPara2": [
             [
                 28.0,
-                240.0
+                200.0
             ],
             [
                 44.0,
-                280.0
+                240.0
             ],
             [
                 50.0,
-                0.1
+                0.05
             ]
         ],
-        "SuitType": 4,
+        "SuitType": 1,
         "ID": 2701552,
         "Name": "辅助瞄准系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001701,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "一种可以有效提升装甲强度的芯片。",
+        "Model": 0,
+        "Icon": "81000095",
+        "Icon_Large": "81000095",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,1,R",
+        "PropertyPara2": [
+            [
+                24.0,
+                1200.0
+            ],
+            [
+                32.0,
+                240.0
+            ],
+            [
+                52.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 2700151,
+        "Name": "能量护盾芯片"
     },
     {
         "WidgetSN": "ILTH-W",
@@ -16145,5 +16398,429 @@
         "SuitType": 3,
         "ID": 230014102,
         "Name": "白鸦-挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 302401,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.53,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "应九条绫本人的要求，流浪武士的武器被设计成为了太刀的样式。",
+        "Model": 21000100,
+        "Icon": "Parts_Arm_000100",
+        "Icon_Large": "L_Arm_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,30,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                320.0
+            ],
+            [
+                36.0,
+                380.0
+            ],
+            [
+                27.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230241401,
+        "Name": "流浪武士·打刀"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "流浪武士的驾驶舱，这是奥斯菲尔德首席机械师布兰彻特根据九条绫的印象特意为她制作的机甲。",
+        "Model": 24000100,
+        "Icon": "Parts_Body_000100",
+        "Icon_Large": "L_Body_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,30,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                1800.0
+            ],
+            [
+                32.0,
+                380.0
+            ],
+            [
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230242301,
+        "Name": "流浪武士·座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "沉重而稳定的机械足，美观又不失厚重感的设计让人叹为观止。",
+        "Model": 23000100,
+        "Icon": "Parts_Leg_000100",
+        "Icon_Large": "L_Leg_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,30,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                1800.0
+            ],
+            [
+                32.0,
+                380.0
+            ],
+            [
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230243301,
+        "Name": "流浪武士·机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "以大海另一端名为武士的铠甲原型所设计的背部装甲，想必设计师本人是个充满了情怀的人物。",
+        "Model": 22000100,
+        "Icon": "Parts_Bag_000100",
+        "Icon_Large": "L_Bag_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,30,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                320.0
+            ],
+            [
+                36.0,
+                380.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230244301,
+        "Name": "流浪武士·挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 302401,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.53,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "应九条绫本人的要求，流浪武士的武器被设计成为了太刀的样式。",
+        "Model": 21000100,
+        "Icon": "Parts_Arm_000100",
+        "Icon_Large": "L_Arm_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,50,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                480.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                27.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230241402,
+        "Name": "流浪武士·打刀"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "流浪武士的驾驶舱，这是奥斯菲尔德首席机械师布兰彻特根据九条绫的印象特意为她制作的机甲。",
+        "Model": 24000100,
+        "Icon": "Parts_Body_000100",
+        "Icon_Large": "L_Body_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,50,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2700.0
+            ],
+            [
+                32.0,
+                560.0
+            ],
+            [
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230242302,
+        "Name": "流浪武士·座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "沉重而稳定的机械足，美观又不失厚重感的设计让人叹为观止。",
+        "Model": 23000100,
+        "Icon": "Parts_Leg_000100",
+        "Icon_Large": "L_Leg_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,50,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2700.0
+            ],
+            [
+                32.0,
+                560.0
+            ],
+            [
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230243302,
+        "Name": "流浪武士·机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 302401,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "以大海另一端名为武士的铠甲原型所设计的背部装甲，想必设计师本人是个充满了情怀的人物。",
+        "Model": 22000100,
+        "Icon": "Parts_Bag_000100",
+        "Icon_Large": "L_Bag_000100",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,50,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                480.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230244302,
+        "Name": "流浪武士·挂载"
     }
 ]

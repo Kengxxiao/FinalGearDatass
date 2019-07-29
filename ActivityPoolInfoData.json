@@ -4,10 +4,10 @@
             11400001,
             1
         ],
-        "RewadPre": 2302414,
+        "RewadPre": 13000001,
         "NextPoolID": 2,
-        "QualityType": "SR",
-        "StuffType": 1,
+        "QualityType": "",
+        "StuffType": 0,
         "ID": 1,
         "Name": null
     },
@@ -16,10 +16,10 @@
             11400001,
             1
         ],
-        "RewadPre": 2302423,
+        "RewadPre": 10810002,
         "NextPoolID": 3,
-        "QualityType": "SR",
-        "StuffType": 1,
+        "QualityType": "",
+        "StuffType": 0,
         "ID": 2,
         "Name": null
     },
@@ -28,10 +28,10 @@
             11400001,
             1
         ],
-        "RewadPre": 2302433,
+        "RewadPre": 13000002,
         "NextPoolID": 4,
-        "QualityType": "SR",
-        "StuffType": 1,
+        "QualityType": "",
+        "StuffType": 0,
         "ID": 3,
         "Name": null
     },
@@ -40,10 +40,10 @@
             11400001,
             1
         ],
-        "RewadPre": 2302443,
+        "RewadPre": 10810001,
         "NextPoolID": 5,
-        "QualityType": "SR",
-        "StuffType": 1,
+        "QualityType": "",
+        "StuffType": 0,
         "ID": 4,
         "Name": null
     },
@@ -52,11 +52,311 @@
             11400001,
             1
         ],
-        "RewadPre": 2701552,
-        "NextPoolID": 0,
-        "QualityType": "SR",
-        "StuffType": 1,
+        "RewadPre": 13000003,
+        "NextPoolID": 6,
+        "QualityType": "",
+        "StuffType": 0,
         "ID": 5,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000004,
+        "NextPoolID": 7,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11300007,
+        "NextPoolID": 8,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11200004,
+        "NextPoolID": 9,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000009,
+        "NextPoolID": 10,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10800001,
+        "NextPoolID": 11,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11600021,
+        "NextPoolID": 12,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810002,
+        "NextPoolID": 13,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810001,
+        "NextPoolID": 14,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11300007,
+        "NextPoolID": 15,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11200004,
+        "NextPoolID": 16,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000010,
+        "NextPoolID": 17,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10800001,
+        "NextPoolID": 18,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11600021,
+        "NextPoolID": 19,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810002,
+        "NextPoolID": 20,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810002,
+        "NextPoolID": 21,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810002,
+        "NextPoolID": 22,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810001,
+        "NextPoolID": 23,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10810001,
+        "NextPoolID": 24,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11300007,
+        "NextPoolID": 25,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 11200004,
+        "NextPoolID": 26,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000006,
+        "NextPoolID": 27,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000007,
+        "NextPoolID": 28,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 10800007,
+        "NextPoolID": 29,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000008,
+        "NextPoolID": 30,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "DrawNeed": [
+            11400001,
+            1
+        ],
+        "RewadPre": 13000005,
+        "NextPoolID": 0,
+        "QualityType": "",
+        "StuffType": 0,
+        "ID": 30,
         "Name": null
     }
 ]

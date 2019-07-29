@@ -2,7 +2,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 1,
-        "MissionName": "1-1偶遇",
+        "MissionName": "Lv.10 1-1偶遇",
         "MissionTitle": "活动剧情",
         "MissionDesc": "在遗迹的入口处，正在上演着一场意外的相遇。",
         "MissionIcon": "ActivityIcon_weiluonika",
@@ -28,7 +28,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 1,
-        "MissionName": "1-2深入",
+        "MissionName": "Lv.10 1-2深入",
         "MissionTitle": "活动剧情",
         "MissionDesc": "向着这满是未知的遗迹深处，两人迈开了脚步。",
         "MissionIcon": "ActivityIconThief",
@@ -54,7 +54,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 1,
-        "MissionName": "1-3复仇",
+        "MissionName": "Lv.12 1-3复仇",
         "MissionTitle": "活动剧情",
         "MissionDesc": "卷土重来的维洛妮卡准备给帝国军一个下马威。",
         "MissionIcon": "ActivityIconThief",
@@ -80,7 +80,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 1,
-        "MissionName": "1-4人核",
+        "MissionName": "Lv.15 1-4人核",
         "MissionTitle": "活动剧情",
         "MissionDesc": "过于非现实的光景使两人一时之间失去了言语。",
         "MissionIcon": "ActivityIcon_jiutiao",
@@ -106,7 +106,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 2,
-        "MissionName": "精英挑战（简单）",
+        "MissionName": "Lv.20 精英挑战（简单）",
         "MissionTitle": "挑战剧情",
         "MissionDesc": "挑战自身的极限，来获得只属于你的战利品吧。",
         "MissionIcon": "ActivityIconRenhe",
@@ -119,11 +119,11 @@
         "ItemReward": [
             [
                 10100003,
-                2
+                10
             ],
             [
                 11400001,
-                2
+                3
             ]
         ],
         "ID": 11001,
@@ -132,7 +132,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 2,
-        "MissionName": "精英挑战（普通）",
+        "MissionName": "Lv.35 精英挑战（普通）",
         "MissionTitle": "挑战剧情",
         "MissionDesc": "挑战自身的极限，来获得只属于你的战利品吧。",
         "MissionIcon": "ActivityIconRenhe",
@@ -145,11 +145,11 @@
         "ItemReward": [
             [
                 10100003,
-                4
+                10
             ],
             [
                 11400001,
-                4
+                5
             ]
         ],
         "ID": 11002,
@@ -158,7 +158,7 @@
     {
         "ActivityID": 1,
         "CorberoMissionType": 2,
-        "MissionName": "精英挑战（困难）",
+        "MissionName": "Lv.50 精英挑战（困难）",
         "MissionTitle": "挑战剧情",
         "MissionDesc": "挑战自身的极限，来获得只属于你的战利品吧。",
         "MissionIcon": "ActivityIconRenhe",
@@ -171,11 +171,11 @@
         "ItemReward": [
             [
                 10100003,
-                5
+                10
             ],
             [
                 11400001,
-                5
+                10
             ]
         ],
         "ID": 11003,
