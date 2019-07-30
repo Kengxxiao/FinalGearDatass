@@ -3200,10 +3200,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            6101,
-            6102,
-            6301,
-            6302
+            2103,
+            2203,
+            2201,
+            2206
         ],
         "Nodes": [
             {
@@ -3255,7 +3255,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800206,
+                "ChuguaiID": 2000100,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3265,7 +3265,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800210,
+                "ChuguaiID": 2000201,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3275,7 +3275,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800211,
+                "ChuguaiID": 2000202,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3314,10 +3314,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            7202,
-            7301,
-            7302,
-            7401
+            2103,
+            2201,
+            2204,
+            2402
         ],
         "Nodes": [
             {
@@ -3357,7 +3357,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800400,
+                "ChuguaiID": 2000200,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3367,7 +3367,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800401,
+                "ChuguaiID": 2000201,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3377,7 +3377,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800402,
+                "ChuguaiID": 2000202,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -3387,7 +3387,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 9800403,
+                "ChuguaiID": 2000404,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
