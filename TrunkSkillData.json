@@ -4237,128 +4237,8 @@
     {
         "CharacterName": "鬼影灯",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "暗影恢复",
-        "TrunkSkillIcon": "71000091",
-        "TrunkSkillLevel": 1,
-        "TrunkSkillType": 2,
-        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.5%的机甲耐久",
-        "PowerNeed": 0,
-        "SkillAggRatio": 0.0,
-        "SkillAggValue": 0,
-        "SkillSpecialEffectID": [
-            10091210
-        ],
-        "PanelSkillEffectID": [],
-        "TrunkSkillPower": {
-            "keys": null,
-            "values": null,
-            "propertys": null
-        },
-        "IfForbidden": false,
-        "ID": 1009121,
-        "Name": null
-    },
-    {
-        "CharacterName": "鬼影灯",
-        "SkillActionEffect": 0,
-        "TrunkSkillName": "暗影恢复",
-        "TrunkSkillIcon": "71000091",
-        "TrunkSkillLevel": 2,
-        "TrunkSkillType": 2,
-        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.6%的机甲耐久",
-        "PowerNeed": 0,
-        "SkillAggRatio": 0.0,
-        "SkillAggValue": 0,
-        "SkillSpecialEffectID": [
-            10091220
-        ],
-        "PanelSkillEffectID": [],
-        "TrunkSkillPower": {
-            "keys": null,
-            "values": null,
-            "propertys": null
-        },
-        "IfForbidden": false,
-        "ID": 1009122,
-        "Name": null
-    },
-    {
-        "CharacterName": "鬼影灯",
-        "SkillActionEffect": 0,
-        "TrunkSkillName": "暗影恢复",
-        "TrunkSkillIcon": "71000091",
-        "TrunkSkillLevel": 3,
-        "TrunkSkillType": 2,
-        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.7%的机甲耐久",
-        "PowerNeed": 0,
-        "SkillAggRatio": 0.0,
-        "SkillAggValue": 0,
-        "SkillSpecialEffectID": [
-            10091230
-        ],
-        "PanelSkillEffectID": [],
-        "TrunkSkillPower": {
-            "keys": null,
-            "values": null,
-            "propertys": null
-        },
-        "IfForbidden": false,
-        "ID": 1009123,
-        "Name": null
-    },
-    {
-        "CharacterName": "鬼影灯",
-        "SkillActionEffect": 0,
-        "TrunkSkillName": "暗影恢复",
-        "TrunkSkillIcon": "71000091",
-        "TrunkSkillLevel": 4,
-        "TrunkSkillType": 2,
-        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.8%的机甲耐久",
-        "PowerNeed": 0,
-        "SkillAggRatio": 0.0,
-        "SkillAggValue": 0,
-        "SkillSpecialEffectID": [
-            10091240
-        ],
-        "PanelSkillEffectID": [],
-        "TrunkSkillPower": {
-            "keys": null,
-            "values": null,
-            "propertys": null
-        },
-        "IfForbidden": false,
-        "ID": 1009124,
-        "Name": null
-    },
-    {
-        "CharacterName": "鬼影灯",
-        "SkillActionEffect": 0,
-        "TrunkSkillName": "暗影恢复",
-        "TrunkSkillIcon": "71000091",
-        "TrunkSkillLevel": 5,
-        "TrunkSkillType": 2,
-        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*1%的机甲耐久",
-        "PowerNeed": 0,
-        "SkillAggRatio": 0.0,
-        "SkillAggValue": 0,
-        "SkillSpecialEffectID": [
-            10091250
-        ],
-        "PanelSkillEffectID": [],
-        "TrunkSkillPower": {
-            "keys": null,
-            "values": null,
-            "propertys": null
-        },
-        "IfForbidden": false,
-        "ID": 1009125,
-        "Name": null
-    },
-    {
-        "CharacterName": "鬼影灯",
-        "SkillActionEffect": 0,
         "TrunkSkillName": "暗影爆发",
-        "TrunkSkillIcon": "71000092",
+        "TrunkSkillIcon": "71000091",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
         "TrunkSkillDesc": "鬼影灯的普通攻击命中敌人时，15%的概率使自己在接下来的6秒内，暴击概率提高5%",
@@ -4375,14 +4255,14 @@
             "propertys": null
         },
         "IfForbidden": false,
-        "ID": 1009131,
+        "ID": 1009121,
         "Name": null
     },
     {
         "CharacterName": "鬼影灯",
         "SkillActionEffect": 0,
         "TrunkSkillName": "暗影爆发",
-        "TrunkSkillIcon": "71000092",
+        "TrunkSkillIcon": "71000091",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
         "TrunkSkillDesc": "鬼影灯的普通攻击命中敌人时，15%的概率使自己在接下来的6秒内，暴击概率提高10%",
@@ -4399,14 +4279,14 @@
             "propertys": null
         },
         "IfForbidden": false,
-        "ID": 1009132,
+        "ID": 1009122,
         "Name": null
     },
     {
         "CharacterName": "鬼影灯",
         "SkillActionEffect": 0,
         "TrunkSkillName": "暗影爆发",
-        "TrunkSkillIcon": "71000092",
+        "TrunkSkillIcon": "71000091",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
         "TrunkSkillDesc": "鬼影灯的普通攻击命中敌人时，15%的概率使自己在接下来的6秒内，暴击概率提高15%",
@@ -4423,14 +4303,14 @@
             "propertys": null
         },
         "IfForbidden": false,
-        "ID": 1009133,
+        "ID": 1009123,
         "Name": null
     },
     {
         "CharacterName": "鬼影灯",
         "SkillActionEffect": 0,
         "TrunkSkillName": "暗影爆发",
-        "TrunkSkillIcon": "71000092",
+        "TrunkSkillIcon": "71000091",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
         "TrunkSkillDesc": "鬼影灯的普通攻击命中敌人时，15%的概率使自己在接下来的6秒内，暴击概率提高20%",
@@ -4447,14 +4327,14 @@
             "propertys": null
         },
         "IfForbidden": false,
-        "ID": 1009134,
+        "ID": 1009124,
         "Name": null
     },
     {
         "CharacterName": "鬼影灯",
         "SkillActionEffect": 0,
         "TrunkSkillName": "暗影爆发",
-        "TrunkSkillIcon": "71000092",
+        "TrunkSkillIcon": "71000091",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
         "TrunkSkillDesc": "鬼影灯的普通攻击命中敌人时，15%的概率使自己在接下来的6秒内，暴击概率提高30%",
@@ -4463,6 +4343,126 @@
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
             10091350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1009125,
+        "Name": null
+    },
+    {
+        "CharacterName": "鬼影灯",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "暗影恢复",
+        "TrunkSkillIcon": "71000092",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.5%的机甲耐久",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10091210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1009131,
+        "Name": null
+    },
+    {
+        "CharacterName": "鬼影灯",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "暗影恢复",
+        "TrunkSkillIcon": "71000092",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.6%的机甲耐久",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10091220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1009132,
+        "Name": null
+    },
+    {
+        "CharacterName": "鬼影灯",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "暗影恢复",
+        "TrunkSkillIcon": "71000092",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.7%的机甲耐久",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10091230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1009133,
+        "Name": null
+    },
+    {
+        "CharacterName": "鬼影灯",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "暗影恢复",
+        "TrunkSkillIcon": "71000092",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*0.8%的机甲耐久",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10091240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1009134,
+        "Name": null
+    },
+    {
+        "CharacterName": "鬼影灯",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "暗影恢复",
+        "TrunkSkillIcon": "71000092",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "鬼影灯攻击敌人时，每次普通攻击都会恢复伤害*1%的机甲耐久",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10091250
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
