@@ -357,7 +357,7 @@
         "RecruitType": 1,
         "RecruitSubType": 3,
         "RecruitOrder": 1,
-        "RecruitName": "限时开发-RN特战型",
+        "RecruitName": "限时开发-北军之怒",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -434,6 +434,33 @@
         "GirlList": "303901,300801,301301",
         "UpGirl": "303901,300801,301301",
         "ID": 20009,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "限时开发-北军之怒",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20204,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2301119,
+            2301123,
+            2301133,
+            2301143
+        ],
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%<color=#FFFFFF00>111111</color></size><size=15>一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%<color=#FFFFFF00>1111111率率率</color></size>",
+        "GirlList": "301101,302901,303101",
+        "UpGirl": "301101",
+        "ID": 20010,
         "Name": null
     }
 ]

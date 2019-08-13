@@ -184,25 +184,15 @@
         ],
         "Suit2Add": {
             "keys": [
-                27
+                72
             ],
             "values": [
                 0.05
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "机甲攻击速度提高5%",
         "Suit4Add": {
-            "keys": [
-                68
-            ],
-            "values": [
-                0.05
-            ],
-            "propertys": null
-        },
-        "Suit4Desc": "机甲受到的伤害降低5%",
-        "Suit5Add": {
             "keys": [
                 65
             ],
@@ -211,7 +201,17 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit4Desc": "机甲伤害提高10%",
+        "Suit5Add": {
+            "keys": [
+                80
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "激活后娜塔莎技能强化\n娜塔莎技能“加油吧！”触发几率提高10%\n可激活专属机甲模型",
         "MachineArmorID": 1101,
         "WidgetCamp": 6,
         "Designer": "卡德琳",

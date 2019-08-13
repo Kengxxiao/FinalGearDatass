@@ -5644,7 +5644,9 @@
         "NextScene": 0,
         "FollowScene": [
             900110,
-            900111
+            900111,
+            900155,
+            900156
         ],
         "ProcessID": 0,
         "NeedNumTeam": 2,
@@ -5669,7 +5671,8 @@
             90010907,
             90010908,
             90010909,
-            90010910
+            90010910,
+            90010511
         ],
         "AwardProview": [
             12600101,
@@ -5678,7 +5681,14 @@
         ],
         "FirstDrop": 90010901,
         "Drop": 0,
-        "RobotFighting": [],
+        "RobotFighting": [
+            [
+                90010901,
+                90010902,
+                90010903,
+                90010904
+            ]
+        ],
         "AttackEXP": 0,
         "DefenceEXP": 0,
         "ProtectEXP": 0,
@@ -6335,6 +6345,122 @@
         ],
         "ID": 900154,
         "Name": "自我"
+    },
+    {
+        "Title": "伊芙琳个人剧情",
+        "Disc": "这个世界是不需要神的，名为伊芙琳的神——必须变回人类。",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 9,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "ActivityIconEvelynn_6",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 20103,
+        "NextScene": 0,
+        "FollowScene": [
+            0
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 600,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            90011100
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": -1,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 900155,
+        "Name": "本我（下）"
+    },
+    {
+        "Title": "伊芙琳个人剧情",
+        "Disc": "这个世界是不需要神的，名为伊芙琳的神——必须变回人类。",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 9,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "ActivityIconEvelynn_6",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 20103,
+        "NextScene": 0,
+        "FollowScene": [
+            900112,
+            900113
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 600,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "取得最终胜利",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "无机甲死亡",
+        "StarRequest3": 3,
+        "StarRequestCount3": "480",
+        "StarRequest3Disc": "在8分钟内通关",
+        "MapID": 900155,
+        "BattleID": [
+            90011110
+        ],
+        "AwardProview": [],
+        "FirstDrop": 90011101,
+        "Drop": -1,
+        "RobotFighting": [
+            [
+                90011109,
+                0,
+                0,
+                0
+            ]
+        ],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 900156,
+        "Name": "本我（下）"
     },
     {
         "Title": "Del.A3-1A",

@@ -5131,7 +5131,7 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成160%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成160%的范围伤害，并使所有队友在接下来的10秒，造成的伤害提高5%。\n一体机激活后，技能效果变为：召唤闪电轰炸,对场上指定位置造成160%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 1.6,
         "SkillAggValue": 0,
@@ -5155,7 +5155,7 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成185%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成185%的范围伤害，并使所有队友在接下来的10秒，造成的伤害提高5%。\n一体机激活后，技能效果变为：召唤闪电轰炸,对场上指定位置造成185%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 1.85,
         "SkillAggValue": 0,
@@ -5179,7 +5179,7 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成210%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成210%的范围伤害，并使所有队友在接下来的10秒，造成的伤害提高5%。\n一体机激活后，技能效果变为：召唤闪电轰炸,对场上指定位置造成210%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.1,
         "SkillAggValue": 0,
@@ -5203,7 +5203,7 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成234%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成234%的范围伤害，并使所有队友在接下来的10秒，造成的伤害提高5%。\n一体机激活后，技能效果变为：召唤闪电轰炸,对场上指定位置造成234%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.34,
         "SkillAggValue": 0,
@@ -5227,7 +5227,7 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成284%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成284%的范围伤害，并使所有队友在接下来的10秒，造成的伤害提高5%。\n一体机激活后，技能效果变为：召唤闪电轰炸,对场上指定位置造成284%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.84,
         "SkillAggValue": 0,
@@ -5251,14 +5251,12 @@
         "TrunkSkillIcon": "71000111",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，为自身增加8%的伤害",
+        "TrunkSkillDesc": "战斗时，为自身增加8%的伤害。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011121
-        ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 65
@@ -5284,9 +5282,7 @@
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011122
-        ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 65
@@ -5312,9 +5308,7 @@
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011123
-        ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 65
@@ -5340,9 +5334,7 @@
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011124
-        ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 65
@@ -5368,9 +5360,7 @@
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011125
-        ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 65
@@ -5391,20 +5381,20 @@
         "TrunkSkillIcon": "71000112",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高10%",
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高10%，其他队友攻速增加5%",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011131
+        "SkillSpecialEffectID": [
+            10111310
         ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 72
             ],
             "values": [
-                0.1
+                0.05
             ],
             "propertys": null
         },
@@ -5419,20 +5409,20 @@
         "TrunkSkillIcon": "71000112",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高12%",
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高12%，其他队友攻速增加6%",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011132
+        "SkillSpecialEffectID": [
+            10111320
         ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 72
             ],
             "values": [
-                0.12
+                0.06
             ],
             "propertys": null
         },
@@ -5447,20 +5437,20 @@
         "TrunkSkillIcon": "71000112",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高14%",
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高14%，其他队友攻速增加7%",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011133
+        "SkillSpecialEffectID": [
+            10111330
         ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 72
             ],
             "values": [
-                0.14
+                0.07
             ],
             "propertys": null
         },
@@ -5475,20 +5465,20 @@
         "TrunkSkillIcon": "71000112",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高16%",
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高16%，其他队友攻速增加8%",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011134
+        "SkillSpecialEffectID": [
+            10111340
         ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 72
             ],
             "values": [
-                0.16
+                0.08
             ],
             "propertys": null
         },
@@ -5503,20 +5493,20 @@
         "TrunkSkillIcon": "71000112",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高20%",
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高20%，其他队友攻速增加10%",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
-        "PanelSkillEffectID": [
-            1011135
+        "SkillSpecialEffectID": [
+            10111350
         ],
+        "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
                 72
             ],
             "values": [
-                0.2
+                0.1
             ],
             "propertys": null
         },
@@ -5531,7 +5521,7 @@
         "TrunkSkillIcon": "71000113",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "娜塔莎每次攻击时有10%的概率，随机使一名队友在接下来的10秒内，伤害提高20%，此效果不可叠加。",
+        "TrunkSkillDesc": "娜塔莎每次攻击时有10%的概率，随机使一名队友在接下来的12秒内，伤害提高20%，此效果不可叠加。\n一体机激活后，技能效果变为：娜塔莎每次攻击时有20%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
@@ -5555,7 +5545,7 @@
         "TrunkSkillIcon": "71000113",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "娜塔莎每次攻击时有15%的概率，随机使一名队友在接下来的10秒内，伤害提高20%，此效果不可叠加。",
+        "TrunkSkillDesc": "娜塔莎每次攻击时有15%的概率，随机使一名队友在接下来的12秒内，伤害提高20%，此效果不可叠加。\n一体机激活后，技能效果变为：娜塔莎每次攻击时有25%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
@@ -5579,7 +5569,7 @@
         "TrunkSkillIcon": "71000113",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "娜塔莎每次攻击时有20%的概率，随机使一名队友在接下来的10秒内，伤害提高20%，此效果不可叠加。",
+        "TrunkSkillDesc": "娜塔莎每次攻击时有20%的概率，随机使一名队友在接下来的12秒内，伤害提高20%，此效果不可叠加。\n一体机激活后，技能效果变为：娜塔莎每次攻击时有30%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
@@ -5603,7 +5593,7 @@
         "TrunkSkillIcon": "71000113",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "娜塔莎每次攻击时有25%的概率，随机使一名队友在接下来的10秒内，伤害提高20%，此效果不可叠加。",
+        "TrunkSkillDesc": "娜塔莎每次攻击时有25%的概率，随机使一名队友在接下来的12秒内，伤害提高20%，此效果不可叠加。\n一体机激活后，技能效果变为：娜塔莎每次攻击时有35%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
@@ -5627,7 +5617,7 @@
         "TrunkSkillIcon": "71000113",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "娜塔莎每次攻击时有30%的概率，随机使一名队友在接下来的10秒内，伤害提高20%，此效果不可叠加。",
+        "TrunkSkillDesc": "娜塔莎每次攻击时有35%的概率，随机使一名队友在接下来的12秒内，伤害提高20%，此效果不可叠加。\n一体机激活后，技能效果变为：娜塔莎每次攻击时有45%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
         "PowerNeed": 0,
         "SkillAggRatio": 0.0,
         "SkillAggValue": 0,
@@ -43816,12 +43806,13 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成160%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤闪电轰炸,对场上指定位置造成160%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 1.6,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10111110
+            90111110,
+            90111111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -43840,12 +43831,13 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成185%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤闪电轰炸,对场上指定位置造成185%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 1.85,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10111120
+            90111120,
+            90111121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -43864,12 +43856,13 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成210%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤闪电轰炸,对场上指定位置造成210%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.1,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10111130
+            90111130,
+            90111131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -43888,12 +43881,13 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成234%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤闪电轰炸,对场上指定位置造成234%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.34,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10111140
+            90111140,
+            90111141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -43912,12 +43906,13 @@
         "TrunkSkillIcon": "71000110",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤飞艇轰炸,对场上指定位置造成284%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%",
+        "TrunkSkillDesc": "召唤闪电轰炸,对场上指定位置造成284%的范围伤害，并使所有队友在接下来的5秒，造成的伤害提高5%，并使娜塔莎在接下来的10秒内，技能“加油吧！”的触发几率额外增加20%。",
         "PowerNeed": 6400,
         "SkillAggRatio": 2.84,
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10111150
+            90111150,
+            90111151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -43927,6 +43922,396 @@
         },
         "IfForbidden": false,
         "ID": 9011115,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害强化",
+        "TrunkSkillIcon": "71000111",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，为自身增加8%的伤害",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.08
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011121,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害强化",
+        "TrunkSkillIcon": "71000111",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，为自身增加9.5%的伤害",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.095
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011122,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害强化",
+        "TrunkSkillIcon": "71000111",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，为自身增加11%的伤害",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.11
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011123,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害强化",
+        "TrunkSkillIcon": "71000111",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，为自身增加12.5%的伤害",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.125
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011124,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害强化",
+        "TrunkSkillIcon": "71000111",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，为自身增加15.5%的伤害",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.155
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011125,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "战斗潜能",
+        "TrunkSkillIcon": "71000112",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高10%，其他队友攻速增加5%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011131,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "战斗潜能",
+        "TrunkSkillIcon": "71000112",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高12%，其他队友攻速增加6%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.06
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011132,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "战斗潜能",
+        "TrunkSkillIcon": "71000112",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高14%，其他队友攻速增加7%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.07
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011133,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "战斗潜能",
+        "TrunkSkillIcon": "71000112",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高16%，其他队友攻速增加8%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.08
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011134,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "战斗潜能",
+        "TrunkSkillIcon": "71000112",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，娜塔莎的攻击速度提高20%，其他队友攻速增加10%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011135,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "加油吧！",
+        "TrunkSkillIcon": "71000113",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "娜塔莎每次攻击时有20%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111410
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011141,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "加油吧！",
+        "TrunkSkillIcon": "71000113",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "娜塔莎每次攻击时有25%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111420
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011142,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "加油吧！",
+        "TrunkSkillIcon": "71000113",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "娜塔莎每次攻击时有30%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111430
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011143,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "加油吧！",
+        "TrunkSkillIcon": "71000113",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "娜塔莎每次攻击时有35%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111440
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011144,
+        "Name": null
+    },
+    {
+        "CharacterName": "北军之怒一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "加油吧！",
+        "TrunkSkillIcon": "71000113",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "娜塔莎每次攻击时有45%的概率，随机使一名队友在接下来的12秒内，伤害提高25%，该效果不可叠加。",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            90111450
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9011145,
         "Name": null
     },
     {

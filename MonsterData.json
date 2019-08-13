@@ -3633,5 +3633,40 @@
         "BodySize": 10,
         "ID": 9906,
         "Name": "召唤_姬拉机器怪"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 41102081,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3086110,
+            3086210,
+            3086310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 伊芙琳章（电子世界）",
+        "BodySize": 20,
+        "ID": 7402,
+        "Name": "超级格斗机器"
     }
 ]

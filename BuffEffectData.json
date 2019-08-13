@@ -1524,6 +1524,61 @@
         "action": {
             "childActions": [
                 {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_持续回蓝",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": false,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36010014,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
                     "shieldEffectData": {
                         "shieldValue": 0,
                         "damageReduceRatio": 1.0,

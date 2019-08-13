@@ -16520,6 +16520,800 @@
     {
         "isTest": false,
         "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600101,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600101,
+        "Name": "伊芙琳章节5-遭遇-炮灰-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7201,
+            7204,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600102,
+        "Name": "伊芙琳章节5-遭遇-炮灰-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600105,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600106,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600103,
+        "Name": "伊芙琳章节5-遭遇-炮灰-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600201,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600201,
+        "Name": "伊芙琳章节5-遭遇-普通-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7201,
+            7204,
+            7205,
+            7302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600205,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600206,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600202,
+        "Name": "伊芙琳章节5-遭遇-普通-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7202,
+            7201,
+            7301,
+            7302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600207,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600208,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600209,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600203,
+        "Name": "伊芙琳章节5-遭遇-普通-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7301,
+            7302,
+            7402
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600401,
+        "Name": "伊芙琳章节5-遭遇-BOSS-头目"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7402,
+            7301,
+            7302,
+            7402
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9600404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9600402,
+        "Name": "伊芙琳章节5-遭遇-BOSS-头目（无剧情）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
         "scene": "正式场景/1_1荒原",
         "icon": "近战部队-炮灰",
         "backGroundIcon": null,

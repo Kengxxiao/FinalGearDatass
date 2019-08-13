@@ -20605,6 +20605,224 @@
         "Name": null
     },
     {
+        "prefab": "HD1st enemy/伊芙琳章节2_格斗精英",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 2,
+        "distanceType": 1,
+        "bulletResistance": 1.0,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节2_格斗精英",
+        "hitBackResist": 0.5,
+        "HitGradeResist": 340.0,
+        "baseMoveSpeed": 12.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102080",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（格斗精英）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102080_2",
+                "followBone": true,
+                "followBoneRotation": true,
+                "followDirection": true,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界重刀（精英）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31102080,
+            31102081,
+            31102082
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 0.0,
+                "positionBone": "addon",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_死亡爆炸",
+                        "scale": 1.0
+                    }
+                ],
+                "soundID": 0
+            },
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_死亡爆炸（地面）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 300400000
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_2_2": [
+                            {
+                                "positionBone": "a_Enemy_102080_3",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界蓄力",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400100010
+                                    }
+                                ]
+                            }
+                        ],
+                        "skille_2_3": [
+                            {
+                                "positionBone": "a_Enemy_102080_4",
+                                "extraSotingOrder": 30,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界地面（拖动）",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "HD1st enemy/伊芙琳章节2_格斗精英_Enemy_102080",
+        "previewBounds": {
+            "x": 0.03511309,
+            "y": 1.822668,
+            "z": 4.62647,
+            "w": 3.2
+        },
+        "ID": 41102081,
+        "Name": null
+    },
+    {
         "prefab": "HD1st enemy/伊芙琳章节2_爆破精英",
         "unitModelType": 0,
         "unitSizeType": 1,

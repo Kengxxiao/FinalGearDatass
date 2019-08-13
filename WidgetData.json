@@ -10177,7 +10177,7 @@
         "AttackSpeed": 1.0,
         "WeaponSpeed": 0.63,
         "Trigger": 1.59,
-        "BulletlAggRatio": 0.61,
+        "BulletlAggRatio": 0.79,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
@@ -16822,5 +16822,2001 @@
         "SuitType": 3,
         "ID": 230244302,
         "Name": "流浪武士·挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 300101,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.86,
+        "Trigger": 0.35,
+        "BulletlAggRatio": 0.28,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "专门为伊芙琳所打造的武器，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "Model": 21000010,
+        "Icon": "Parts_Arm_000010",
+        "Icon_Large": "L_Arm_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                360.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                65.0,
+                0.05
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230011305,
+        "Name": "白鸦-光刃"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 9,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "因为伊芙琳本身体型较为娇小，所以设计师特意修改了驾驶舱内部的规格。",
+        "Model": 24000010,
+        "Icon": "Parts_Body_000010",
+        "Icon_Large": "L_Body_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2800.0,
+                0.0,
+                0.0
+            ],
+            [
+                28.0,
+                360.0,
+                0.0,
+                0.0
+            ],
+            [
+                68.0,
+                0.05,
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230012105,
+        "Name": "白鸦-座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "白鸦的腿部装甲，与普通的腿部装甲区别并不是很大。",
+        "Model": 23000010,
+        "Icon": "Parts_Leg_000010",
+        "Icon_Large": "L_Leg_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2800.0,
+                0.0,
+                0.0
+            ],
+            [
+                28.0,
+                360.0,
+                0.0,
+                0.0
+            ],
+            [
+                68.0,
+                0.05,
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230013105,
+        "Name": "白鸦-机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 19,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "搭载了强力喷射功能的白鸦背部装甲，一般情况下却不怎么使用。",
+        "Model": 22000010,
+        "Icon": "Parts_Bag_000010",
+        "Icon_Large": "L_Bag_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                360.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                65.0,
+                0.05
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230014105,
+        "Name": "白鸦-挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 0,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.63,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000045,
+        "Icon": "Parts_Arm_000045",
+        "Icon_Large": "L_Arm_000045",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011106,
+        "Name": "反抗者动力长矛"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 1,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1666,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.0,
+        "Trigger": 0.5,
+        "BulletlAggRatio": 0.56,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000044,
+        "Icon": "Parts_Arm_000044",
+        "Icon_Large": "L_Arm_000044",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011206,
+        "Name": "反抗者片手剑"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1332,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.93,
+        "Trigger": 0.34,
+        "BulletlAggRatio": 0.43,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000040,
+        "Icon": "Parts_Arm_000040",
+        "Icon_Large": "L_Arm_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011306,
+        "Name": "反抗者拳钉"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.5,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000046,
+        "Icon": "Parts_Arm_000046",
+        "Icon_Large": "L_Arm_000046",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011406,
+        "Name": "反抗者冲击锤"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 4,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 200,
+        "ReloadType": 1,
+        "ReloadTime": 3999,
+        "ReloadRecover": 200,
+        "AccumulatingTime": 500,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 11.3,
+        "Trigger": 0.09,
+        "BulletlAggRatio": 0.1,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000042,
+        "Icon": "Parts_Arm_000042",
+        "Icon_Large": "L_Arm_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011506,
+        "Name": "反抗者重机枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 5,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 30,
+        "ReloadType": 1,
+        "ReloadTime": 2000,
+        "ReloadRecover": 30,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 4.87,
+        "Trigger": 0.21,
+        "BulletlAggRatio": 0.23,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000041,
+        "Icon": "Parts_Arm_000041",
+        "Icon_Large": "L_Arm_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011606,
+        "Name": "反抗者突击步枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 6,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1832,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 500,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.38,
+        "Trigger": 2.63,
+        "BulletlAggRatio": 1.27,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000043,
+        "Icon": "Parts_Arm_000043",
+        "Icon_Large": "L_Arm_000043",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011706,
+        "Name": "反抗者狙击步枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1333,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.46,
+        "Trigger": 2.17,
+        "BulletlAggRatio": 0.8,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000047,
+        "Icon": "Parts_Arm_000047",
+        "Icon_Large": "L_Arm_000047",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011806,
+        "Name": "反抗者加农炮"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 8,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 4,
+        "ReloadType": 1,
+        "ReloadTime": 2666,
+        "ReloadRecover": 4,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.75,
+        "Trigger": 1.33,
+        "BulletlAggRatio": 0.67,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000048,
+        "Icon": "Parts_Arm_000048",
+        "Icon_Large": "L_Arm_000048",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210011906,
+        "Name": "反抗者投射炮"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 9,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000040,
+        "Icon": "Parts_Body_000040",
+        "Icon_Large": "L_Body_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210012106,
+        "Name": "反抗者轻型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000041,
+        "Icon": "Parts_Body_000041",
+        "Icon_Large": "L_Body_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210012206,
+        "Name": "反抗者中型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000042,
+        "Icon": "Parts_Body_000042",
+        "Icon_Large": "L_Body_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210012306,
+        "Name": "反抗者重型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000040,
+        "Icon": "Parts_Leg_000040",
+        "Icon_Large": "L_Leg_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210013106,
+        "Name": "反抗者轻型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000042,
+        "Icon": "Parts_Leg_000042",
+        "Icon_Large": "L_Leg_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210013206,
+        "Name": "反抗者中型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000043,
+        "Icon": "Parts_Leg_000043",
+        "Icon_Large": "L_Leg_000043",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210013306,
+        "Name": "反抗者重型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 19,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000040,
+        "Icon": "Parts_Bag_000040",
+        "Icon_Large": "L_Bag_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210014106,
+        "Name": "反抗者轻型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000041,
+        "Icon": "Parts_Bag_000041",
+        "Icon_Large": "L_Bag_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210014206,
+        "Name": "反抗者中型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000042,
+        "Icon": "Parts_Bag_000042",
+        "Icon_Large": "L_Bag_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210014306,
+        "Name": "反抗者重型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 0,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.63,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000045,
+        "Icon": "Parts_Arm_000045",
+        "Icon_Large": "L_Arm_000045",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131102,
+        "Name": "源代码动力矛"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 1,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1666,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.0,
+        "Trigger": 0.5,
+        "BulletlAggRatio": 0.56,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000044,
+        "Icon": "Parts_Arm_000044",
+        "Icon_Large": "L_Arm_000044",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131202,
+        "Name": "源代码浮游光刃"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1332,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.93,
+        "Trigger": 0.34,
+        "BulletlAggRatio": 0.43,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000040,
+        "Icon": "Parts_Arm_000040",
+        "Icon_Large": "L_Arm_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131302,
+        "Name": "源代码双刃"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.5,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000046,
+        "Icon": "Parts_Arm_000046",
+        "Icon_Large": "L_Arm_000046",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131402,
+        "Name": "源代码振荡器"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 4,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 200,
+        "ReloadType": 1,
+        "ReloadTime": 3999,
+        "ReloadRecover": 200,
+        "AccumulatingTime": 500,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 11.3,
+        "Trigger": 0.09,
+        "BulletlAggRatio": 0.1,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000042,
+        "Icon": "Parts_Arm_000042",
+        "Icon_Large": "L_Arm_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131502,
+        "Name": "源代码重机枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 5,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 30,
+        "ReloadType": 1,
+        "ReloadTime": 2000,
+        "ReloadRecover": 30,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 4.87,
+        "Trigger": 0.21,
+        "BulletlAggRatio": 0.23,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000041,
+        "Icon": "Parts_Arm_000041",
+        "Icon_Large": "L_Arm_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131602,
+        "Name": "源代码冲锋枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 6,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1832,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 500,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.38,
+        "Trigger": 2.63,
+        "BulletlAggRatio": 1.27,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000043,
+        "Icon": "Parts_Arm_000043",
+        "Icon_Large": "L_Arm_000043",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131702,
+        "Name": "源代码狙击枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1333,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.46,
+        "Trigger": 2.17,
+        "BulletlAggRatio": 0.8,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000047,
+        "Icon": "Parts_Arm_000047",
+        "Icon_Large": "L_Arm_000047",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131802,
+        "Name": "源代码加农炮"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 8,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 4,
+        "ReloadType": 1,
+        "ReloadTime": 2666,
+        "ReloadRecover": 4,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.75,
+        "Trigger": 1.33,
+        "BulletlAggRatio": 0.67,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式兵器。",
+        "Model": 21000048,
+        "Icon": "Parts_Arm_000048",
+        "Icon_Large": "L_Arm_000048",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131902,
+        "Name": "源代码投射炮"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 9,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000040,
+        "Icon": "Parts_Body_000040",
+        "Icon_Large": "L_Body_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132102,
+        "Name": "源代码轻型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000041,
+        "Icon": "Parts_Body_000041",
+        "Icon_Large": "L_Body_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132202,
+        "Name": "源代码中型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 24000042,
+        "Icon": "Parts_Body_000042",
+        "Icon_Large": "L_Body_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132302,
+        "Name": "源代码重型座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000040,
+        "Icon": "Parts_Leg_000040",
+        "Icon_Large": "L_Leg_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133102,
+        "Name": "源代码轻型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000042,
+        "Icon": "Parts_Leg_000042",
+        "Icon_Large": "L_Leg_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133202,
+        "Name": "源代码中型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 23000043,
+        "Icon": "Parts_Leg_000043",
+        "Icon_Large": "L_Leg_000043",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                4500.0
+            ],
+            [
+                40.0,
+                900.0
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133302,
+        "Name": "源代码重型机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 19,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000040,
+        "Icon": "Parts_Bag_000040",
+        "Icon_Large": "L_Bag_000040",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134102,
+        "Name": "源代码轻型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000041,
+        "Icon": "Parts_Bag_000041",
+        "Icon_Large": "L_Bag_000041",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134202,
+        "Name": "源代码中型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "战时佣兵团『黑色方舟』所使用的制式装甲。",
+        "Model": 22000042,
+        "Icon": "Parts_Bag_000042",
+        "Icon_Large": "L_Bag_000042",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                600.0
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134302,
+        "Name": "源代码重型挂载"
     }
 ]
