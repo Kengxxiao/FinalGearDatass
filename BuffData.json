@@ -1868,15 +1868,15 @@
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000022",
+        "BuffDuration": 12000,
+        "BuffIcon": "61000007",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             65.0,
@@ -1886,19 +1886,19 @@
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10111410,
-        "Name": "伤害增益"
+        "Name": "加油吧！"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000022",
+        "BuffDuration": 12000,
+        "BuffIcon": "61000007",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             65.0,
@@ -1908,19 +1908,19 @@
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10111420,
-        "Name": "伤害增益"
+        "Name": "加油吧！"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000022",
+        "BuffDuration": 12000,
+        "BuffIcon": "61000007",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             65.0,
@@ -1930,19 +1930,19 @@
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10111430,
-        "Name": "伤害增益"
+        "Name": "加油吧！"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000022",
+        "BuffDuration": 12000,
+        "BuffIcon": "61000007",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             65.0,
@@ -1952,19 +1952,19 @@
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10111440,
-        "Name": "伤害增益"
+        "Name": "加油吧！"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000022",
+        "BuffDuration": 12000,
+        "BuffIcon": "61000007",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             65.0,
@@ -1974,7 +1974,7 @@
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10111450,
-        "Name": "伤害增益"
+        "Name": "加油吧！"
     },
     {
         "BuffEffectType": 2,
