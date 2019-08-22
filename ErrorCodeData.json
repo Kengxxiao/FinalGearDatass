@@ -1053,6 +1053,60 @@
         "Name": null
     },
     {
+        "Disc": "已完成过",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "StageCompleted",
+        "Memo": "",
+        "ID": 698,
+        "Name": null
+    },
+    {
+        "Disc": "领取机甲兑换奖励失败",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GetWidgetExchangeAwardFailed",
+        "Memo": "",
+        "ID": 699,
+        "Name": null
+    },
+    {
+        "Disc": "未完成",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "NoCompleted",
+        "Memo": "",
+        "ID": 700,
+        "Name": null
+    },
+    {
+        "Disc": "领过了",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "Received",
+        "Memo": "",
+        "ID": 701,
+        "Name": null
+    },
+    {
+        "Disc": "战力不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BattlePowerNotEnough",
+        "Memo": "",
+        "ID": 702,
+        "Name": null
+    },
+    {
+        "Disc": "领取皮肤返利失败",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BigSaleAwardFailed",
+        "Memo": "",
+        "ID": 703,
+        "Name": null
+    },
+    {
         "Disc": "服务器不存在",
         "Title": "系统提示",
         "IsShow": true,

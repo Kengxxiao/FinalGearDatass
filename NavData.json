@@ -1222,16 +1222,16 @@
     {
         "prefabCheckerName": "0_Elelynn_6_1",
         "strategyMapType": 3,
-        "beforeBattleDialog": 91000007,
-        "beforeDeployDialog": 11000051,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 10000052,
         "ID": 900111,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Elelynn_6_2",
-        "strategyMapType": 3,
+        "strategyMapType": 2,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
@@ -1243,15 +1243,15 @@
         "prefabCheckerName": "0_Elelynn_7_1",
         "strategyMapType": 3,
         "beforeBattleDialog": 91000008,
-        "beforeDeployDialog": 0,
+        "beforeDeployDialog": 10000060,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 0,
+        "afterBattleDialog": 10000062,
         "ID": 900113,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Elelynn_7_2",
-        "strategyMapType": 3,
+        "strategyMapType": 1,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
@@ -1267,6 +1267,16 @@
         "afterDeployDialog": 0,
         "afterBattleDialog": 0,
         "ID": 900150,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "0_Elelynn_6_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 10000054,
+        "ID": 900155,
         "Name": null
     },
     {

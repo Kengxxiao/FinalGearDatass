@@ -538,6 +538,16 @@
                 "Desc": ""
             },
             {
+                "guideType": 8,
+                "text": "面对强敌时，可以组成列队阵型，\n让队员聚集到一处统一行动。",
+                "audio": 0,
+                "stopTime": true,
+                "param": "1",
+                "Enabled": true,
+                "Type": 18,
+                "Desc": ""
+            },
+            {
                 "isOr": true,
                 "Conds": [
                     {
@@ -1554,7 +1564,7 @@
                     "X": 0,
                     "Y": 0
                 },
-                "ChuguaiID": 100000004,
+                "ChuguaiID": 100000037,
                 "Enabled": true,
                 "Type": 13,
                 "Desc": ""
@@ -1793,6 +1803,93 @@
         ],
         "ID": 9994,
         "Name": "木桩战斗-直线"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/1_1荒原",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 100000037,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 100000004,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9995,
+        "Name": "木桩战斗-阵营"
     },
     {
         "isTest": false,
@@ -3444,6 +3541,166 @@
         ],
         "ID": 55032,
         "Name": "剧情_5-3-BOSS"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/7_5平原感染",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50005,
+            50010,
+            50011,
+            50014
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 66015,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 66016,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 66017,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 66018,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "invincible": true,
+                "Enabled": true,
+                "Type": 11,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 36,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 37,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            }
+        ],
+        "ID": 66011,
+        "Name": "剧情_6-3-BOSS"
     },
     {
         "isTest": false,
@@ -11365,6 +11622,3170 @@
     {
         "isTest": false,
         "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100001,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2201,
+            2204,
+            2206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12101,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892002,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892003,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892001,
+        "Name": "泳装活动1期-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2201,
+            2204,
+            2206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892012,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892013,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892011,
+        "Name": "泳装活动1期-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2201,
+            2204,
+            2206,
+            10011
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892022,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892023,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892024,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892021,
+        "Name": "泳装活动1期-困难"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2103,
+            2201,
+            2301,
+            10005
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892032,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892033,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892034,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892031,
+        "Name": "泳装活动1期-BOSS（维罗妮卡）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100002,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2201,
+            2304,
+            2301,
+            10001
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892042,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892043,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892044,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12001,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892041,
+        "Name": "泳装活动1期-BOSS（柯蕾利亚）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2201,
+            2204,
+            2206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892002,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892003,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892051,
+        "Name": "泳装活动1期-复刷-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_4沿海小镇帝国",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2201,
+            2304,
+            2301,
+            10001
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892042,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892043,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892044,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892061,
+        "Name": "泳装活动1期-复刷-BOSS（柯蕾利亚）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100003,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2201,
+            2206,
+            2204
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12002,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892101,
+        "Name": "泳装活动2期-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2101,
+            2201,
+            2203
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892112,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892113,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892111,
+        "Name": "泳装活动2期-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2101,
+            2203,
+            2204,
+            10012
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892122,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892123,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892124,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892121,
+        "Name": "泳装活动2期-困难"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2103,
+            2301,
+            2206,
+            10006
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892132,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892133,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892134,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892131,
+        "Name": "泳装活动2期-BOSS（克里斯蒂娜）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100004,
+        "afterBattleDialog": 9100005,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2301,
+            2206,
+            10002
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892142,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892143,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892144,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892141,
+        "Name": "泳装活动2期-BOSS（夏迪荻）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2301,
+            2201,
+            2206,
+            2204
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892151,
+        "Name": "泳装活动2期-复刷-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_04拉普尔山脚下",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2301,
+            2206,
+            10002
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892142,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892143,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892144,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892161,
+        "Name": "泳装活动2期-复刷-BOSS（夏迪荻）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100006,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12003,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892201,
+        "Name": "泳装活动3期-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892212,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892213,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892211,
+        "Name": "泳装活动3期-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3102,
+            3205,
+            3206,
+            10009
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892222,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892223,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892224,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892221,
+        "Name": "泳装活动3期-困难"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3102,
+            3205,
+            3301,
+            10007
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892232,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892233,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892234,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892231,
+        "Name": "泳装活动3期-BOSS（菲比亚）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100007,
+        "afterBattleDialog": 9100008,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3205,
+            3203,
+            3206,
+            10003
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892242,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892243,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892244,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892241,
+        "Name": "泳装活动3期-BOSS（妮娅）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892251,
+        "Name": "泳装活动3期-复刷-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/4_1城区帝国城镇",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3205,
+            3203,
+            3206,
+            10003
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892242,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892243,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892244,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892261,
+        "Name": "泳装活动3期-复刷-BOSS（妮娅）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9100009,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12004,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892302,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892303,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892301,
+        "Name": "泳装活动4期-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12005,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892312,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892313,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892311,
+        "Name": "泳装活动4期-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3102,
+            3205,
+            3301,
+            10010
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892322,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892323,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892324,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892321,
+        "Name": "泳装活动4期-困难"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3102,
+            3205,
+            3206,
+            10008
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892332,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892333,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892334,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892331,
+        "Name": "泳装活动4期-BOSS（玛格丽特）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 9100010,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3301,
+            3203,
+            3201,
+            10004
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12006,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892342,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892343,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892344,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12007,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892341,
+        "Name": "泳装活动4期-BOSS（泰西娅）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892302,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892303,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892351,
+        "Name": "泳装活动4期-复刷-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3202,
+            3203,
+            3206,
+            3301
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892312,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892313,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 892361,
+        "Name": "泳装活动4期-复刷-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Event02_1竞技场",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3301,
+            3203,
+            3201,
+            10004
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892342,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892343,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 892344,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 892371,
+        "Name": "泳装活动4期-复刷-BOSS（泰西娅）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
         "scene": "正式场景/Event01_1走廊",
         "icon": null,
         "backGroundIcon": null,
@@ -16520,6 +19941,3125 @@
     {
         "isTest": false,
         "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            5101,
+            5201,
+            5204,
+            5206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000101,
+        "Name": "傀儡-遭遇-炮灰-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            5101,
+            5201,
+            5204,
+            5206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000112,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000113,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000111,
+        "Name": "傀儡-遭遇-炮灰-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            5101,
+            5201,
+            5204,
+            5206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000122,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000123,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000121,
+        "Name": "傀儡-遭遇-炮灰-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            5101,
+            5201,
+            5204,
+            5206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000201,
+        "Name": "傀儡-遭遇-普通-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            5101,
+            5201,
+            5204,
+            5206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000212,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000213,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000214,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000211,
+        "Name": "傀儡-遭遇-普通-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50005,
+            50006,
+            50010,
+            50011
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000222,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000223,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000224,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000221,
+        "Name": "傀儡-遭遇-普通-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50006,
+            50007,
+            50008,
+            50014
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000302,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000303,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000304,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000305,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000301,
+        "Name": "傀儡-遭遇-BOSS"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8201,
+            8202,
+            8204,
+            8203
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400101,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400101,
+        "Name": "伊芙琳章节7-遭遇-炮灰-近战（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8204,
+            8205,
+            8203
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400102,
+        "Name": "伊芙琳章节7-遭遇-炮灰-远程（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8204,
+            8205,
+            8203
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400105,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400106,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400103,
+        "Name": "伊芙琳章节7-遭遇-炮灰-混编（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6201,
+            6204,
+            6303
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400107,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400108,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400104,
+        "Name": "伊芙琳章节7-遭遇-炮灰-近战（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6201,
+            6202,
+            6205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400109,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400110,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400105,
+        "Name": "伊芙琳章节7-遭遇-炮灰-远程（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6201,
+            6205,
+            6204
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400111,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400112,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400106,
+        "Name": "伊芙琳章节7-遭遇-炮灰-混编（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8203,
+            8204,
+            8301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400201,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400201,
+        "Name": "伊芙琳章节7-遭遇-普通-近战（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8204,
+            8205,
+            8301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400205,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400206,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400202,
+        "Name": "伊芙琳章节7-遭遇-普通-远程（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8204,
+            8502,
+            8302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400207,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400208,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400209,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400203,
+        "Name": "伊芙琳章节7-遭遇-普通-混编（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6204,
+            6303,
+            6302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400210,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400211,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400212,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400204,
+        "Name": "伊芙琳章节7-遭遇-普通-近战（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6201,
+            6202,
+            6205,
+            6301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400213,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400214,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400215,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400205,
+        "Name": "伊芙琳章节7-遭遇-普通-远程（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6204,
+            6301,
+            6302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400216,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400217,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400218,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400206,
+        "Name": "伊芙琳章节7-遭遇-普通-混编（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8202,
+            8204,
+            8205,
+            8401
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400401,
+        "Name": "伊芙琳章节7-遭遇-BOSS-头目（地下）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_2地下实验室",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8204,
+            8202,
+            8205,
+            8401
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910060000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400402,
+        "Name": "伊芙琳章节7-遭遇-BOSS-头目（地下无剧情）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6301,
+            6302,
+            8401
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400405,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400406,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400407,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400408,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400403,
+        "Name": "伊芙琳章节7-遭遇-BOSS-头目（地上）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_04_1拉普尔山工厂",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6301,
+            6302,
+            8401
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400405,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400406,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400407,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9400408,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 910070000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9400404,
+        "Name": "伊芙琳章节7-遭遇-BOSS-头目（地上无剧情）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500101,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500101,
+        "Name": "伊芙琳章节6-遭遇-炮灰-近战 "
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7201,
+            7204,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500102,
+        "Name": "伊芙琳章节6-遭遇-炮灰-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7205
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500105,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500106,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500103,
+        "Name": "伊芙琳章节6-遭遇-炮灰-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500201,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500201,
+        "Name": "伊芙琳章节6-遭遇-普通-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7201,
+            7204,
+            7205,
+            7302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500205,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500206,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500202,
+        "Name": "伊芙琳章节6-遭遇-普通-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7202,
+            7201,
+            7301,
+            7302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500207,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500208,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500209,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500203,
+        "Name": "伊芙琳章节6-遭遇-普通-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_06通往现实的走廊",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 91000007,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7202,
+            7201,
+            7102
+        ],
+        "Nodes": [
+            {
+                "X": 20,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500210,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500210,
+        "Name": "伊芙琳章节6-遭遇-特殊"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_07最后的大厅",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 10000053,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            8402
+        ],
+        "Nodes": [
+            {
+                "X": 15,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950043000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500401,
+        "Name": "伊芙琳章节6-遭遇-BOSS-头目"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_07最后的大厅",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            7203,
+            7301,
+            7302,
+            8402
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 9500405,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950043000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 9500402,
+        "Name": "伊芙琳章节6-遭遇-BOSS-头目（无剧情）"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
         "scene": "正式场景/Story000010_03电子世界回廊",
         "icon": "近战部队-炮灰",
         "backGroundIcon": null,
@@ -19602,7 +26142,7 @@
                 "Desc": ""
             },
             {
-                "X": 154,
+                "X": 90,
                 "RightSide": false,
                 "Enabled": true,
                 "Type": 1,
@@ -19616,7 +26156,7 @@
             },
             {
                 "pos": {
-                    "X": 53,
+                    "X": 0,
                     "Y": 0
                 },
                 "ChuguaiID": 9900309,

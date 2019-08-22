@@ -861,7 +861,8 @@
         "RoleVoice": 1000210,
         "StandbyTime": 2,
         "MachineArmorModel1": [
-            0
+            21010150,
+            23010150
         ],
         "ID": 2101,
         "Name": null
@@ -2711,7 +2712,8 @@
         "RoleVoice": 0,
         "StandbyTime": 0,
         "MachineArmorModel1": [
-            0
+            21010160,
+            23010160
         ],
         "ID": 5201,
         "Name": null
@@ -3127,6 +3129,88 @@
         "Name": null
     },
     {
+        "GirlId": 81,
+        "Skin": 1,
+        "SkinName": "泰西娅·格拉芙特",
+        "SkillArray": [
+            [
+                810101,
+                1
+            ],
+            [
+                810102,
+                3
+            ],
+            [
+                810103,
+                4
+            ],
+            [
+                810104,
+                5
+            ]
+        ],
+        "ModelID": 25000810,
+        "MapHeadIcon": "MapHead_Pilot_000810",
+        "StageHeadIcon": "StageHead_Pilot_000810",
+        "HeadIcon": "Head_Pilot_000810",
+        "HeadIcon_square": "SquareHead_Pilot_000810",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000810",
+        "Image": "Image_Pilot_000810",
+        "Cartoon": "spine_Pilot_000810",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000810",
+        "GirlVoice": "",
+        "RoleVoice": 1000810,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8101,
+        "Name": null
+    },
+    {
+        "GirlId": 82,
+        "Skin": 1,
+        "SkinName": "紫罗兰",
+        "SkillArray": [
+            [
+                820101,
+                1
+            ],
+            [
+                820102,
+                3
+            ],
+            [
+                820103,
+                4
+            ],
+            [
+                820104,
+                5
+            ]
+        ],
+        "ModelID": 25000820,
+        "MapHeadIcon": "MapHead_Pilot_000820",
+        "StageHeadIcon": "StageHead_Pilot_000820",
+        "HeadIcon": "Head_Pilot_000820",
+        "HeadIcon_square": "SquareHead_Pilot_000820",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000820",
+        "Image": "Image_Pilot_000820",
+        "Cartoon": "spine_Pilot_000820",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000820",
+        "GirlVoice": "",
+        "RoleVoice": 1000820,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8201,
+        "Name": null
+    },
+    {
         "GirlId": 1,
         "Skin": 2,
         "SkinName": "清凉夏日 伊芙琳",
@@ -3284,7 +3368,7 @@
         "CgCartoon": "",
         "FeaturePath": "Skill_Pilot_000241",
         "GirlVoice": "AyaKujyou",
-        "RoleVoice": 1000240,
+        "RoleVoice": 1000241,
         "StandbyTime": 2,
         "MachineArmorModel1": [
             21010031,
@@ -3332,6 +3416,47 @@
             0
         ],
         "ID": 2802,
+        "Name": null
+    },
+    {
+        "GirlId": 41,
+        "Skin": 4,
+        "SkinName": "都市潮流 林贝儿",
+        "SkillArray": [
+            [
+                410401,
+                1
+            ],
+            [
+                410402,
+                3
+            ],
+            [
+                410403,
+                4
+            ],
+            [
+                410404,
+                5
+            ]
+        ],
+        "ModelID": 25000413,
+        "MapHeadIcon": "MapHead_Pilot_000413",
+        "StageHeadIcon": "StageHead_Pilot_000413",
+        "HeadIcon": "Head_Pilot_000413",
+        "HeadIcon_square": "SquareHead_Pilot_000413",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000413",
+        "Image": "Image_Pilot_000413",
+        "Cartoon": "spine_Pilot_000413",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000413",
+        "GirlVoice": "Rinbell",
+        "RoleVoice": 1000413,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 4104,
         "Name": null
     },
     {
@@ -3417,44 +3542,579 @@
         "Name": null
     },
     {
-        "GirlId": 41,
-        "Skin": 4,
-        "SkinName": "都市潮流 林贝儿",
+        "GirlId": 6,
+        "Skin": 2,
+        "SkinName": "夏日狂欢 玛丽",
         "SkillArray": [
             [
-                410401,
+                60201,
                 1
             ],
             [
-                410402,
+                60202,
                 3
             ],
             [
-                410403,
+                60203,
                 4
             ],
             [
-                410404,
+                60204,
                 5
             ]
         ],
-        "ModelID": 25000413,
-        "MapHeadIcon": "MapHead_Pilot_000413",
-        "StageHeadIcon": "StageHead_Pilot_000413",
-        "HeadIcon": "Head_Pilot_000413",
-        "HeadIcon_square": "SquareHead_Pilot_000413",
-        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000413",
-        "Image": "Image_Pilot_000413",
-        "Cartoon": "spine_Pilot_000413",
+        "ModelID": 25000061,
+        "MapHeadIcon": "MapHead_Pilot_000061",
+        "StageHeadIcon": "StageHead_Pilot_000061",
+        "HeadIcon": "Head_Pilot_000061",
+        "HeadIcon_square": "SquareHead_Pilot_000061",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000061",
+        "Image": "Image_Pilot_000061",
+        "Cartoon": "spine_Pilot_000061",
         "CgCartoon": "",
-        "FeaturePath": "Skill_Pilot_000413",
-        "GirlVoice": "Rinbell",
-        "RoleVoice": 1000413,
+        "FeaturePath": "Skill_Pilot_000061",
+        "GirlVoice": "Mary",
+        "RoleVoice": 1000061,
         "StandbyTime": 2,
         "MachineArmorModel1": [
             0
         ],
-        "ID": 4104,
+        "ID": 602,
+        "Name": null
+    },
+    {
+        "GirlId": 21,
+        "Skin": 2,
+        "SkinName": "夏日进行曲 柯蕾莉亚",
+        "SkillArray": [
+            [
+                210201,
+                1
+            ],
+            [
+                210202,
+                3
+            ],
+            [
+                210203,
+                4
+            ],
+            [
+                210204,
+                5
+            ]
+        ],
+        "ModelID": 25000211,
+        "MapHeadIcon": "MapHead_Pilot_000211",
+        "StageHeadIcon": "StageHead_Pilot_000211",
+        "HeadIcon": "Head_Pilot_000211",
+        "HeadIcon_square": "SquareHead_Pilot_000211",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000211",
+        "Image": "Image_Pilot_000211",
+        "Cartoon": "spine_Pilot_000211",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000211",
+        "GirlVoice": "Coreleah",
+        "RoleVoice": 1000211,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010151,
+            23010151
+        ],
+        "ID": 2102,
+        "Name": null
+    },
+    {
+        "GirlId": 32,
+        "Skin": 2,
+        "SkinName": "沙滩狂想曲 玛格丽特",
+        "SkillArray": [
+            [
+                320201,
+                1
+            ],
+            [
+                320202,
+                3
+            ],
+            [
+                320203,
+                4
+            ],
+            [
+                320204,
+                5
+            ]
+        ],
+        "ModelID": 25000321,
+        "MapHeadIcon": "MapHead_Pilot_000321",
+        "StageHeadIcon": "StageHead_Pilot_000321",
+        "HeadIcon": "Head_Pilot_000321",
+        "HeadIcon_square": "SquareHead_Pilot_000321",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000321",
+        "Image": "Image_Pilot_000321",
+        "Cartoon": "spine_Pilot_000321",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000321",
+        "GirlVoice": "Margaret",
+        "RoleVoice": 1000321,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 3202,
+        "Name": null
+    },
+    {
+        "GirlId": 61,
+        "Skin": 2,
+        "SkinName": "夏日魔术 布莉兹塔洛",
+        "SkillArray": [
+            [
+                610201,
+                1
+            ],
+            [
+                610202,
+                3
+            ],
+            [
+                610203,
+                4
+            ],
+            [
+                610204,
+                5
+            ]
+        ],
+        "ModelID": 25000611,
+        "MapHeadIcon": "MapHead_Pilot_000611",
+        "StageHeadIcon": "StageHead_Pilot_000611",
+        "HeadIcon": "Head_Pilot_000611",
+        "HeadIcon_square": "SquareHead_Pilot_000611",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000611",
+        "Image": "Image_Pilot_000611",
+        "Cartoon": "spine_Pilot_000611",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000611",
+        "GirlVoice": "",
+        "RoleVoice": 1000611,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 6102,
+        "Name": null
+    },
+    {
+        "GirlId": 81,
+        "Skin": 2,
+        "SkinName": "海滨假日 泰西娅",
+        "SkillArray": [
+            [
+                810201,
+                1
+            ],
+            [
+                810202,
+                3
+            ],
+            [
+                810203,
+                4
+            ],
+            [
+                810204,
+                5
+            ]
+        ],
+        "ModelID": 25000811,
+        "MapHeadIcon": "MapHead_Pilot_000811",
+        "StageHeadIcon": "StageHead_Pilot_000811",
+        "HeadIcon": "Head_Pilot_000811",
+        "HeadIcon_square": "SquareHead_Pilot_000811",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000811",
+        "Image": "Image_Pilot_000811",
+        "Cartoon": "spine_Pilot_000811",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000811",
+        "GirlVoice": "",
+        "RoleVoice": 1000811,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8102,
+        "Name": null
+    },
+    {
+        "GirlId": 82,
+        "Skin": 2,
+        "SkinName": "海边邂逅 紫罗兰",
+        "SkillArray": [
+            [
+                820201,
+                1
+            ],
+            [
+                820202,
+                3
+            ],
+            [
+                820203,
+                4
+            ],
+            [
+                820204,
+                5
+            ]
+        ],
+        "ModelID": 25000821,
+        "MapHeadIcon": "MapHead_Pilot_000821",
+        "StageHeadIcon": "StageHead_Pilot_000821",
+        "HeadIcon": "Head_Pilot_000821",
+        "HeadIcon_square": "SquareHead_Pilot_000821",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000821",
+        "Image": "Image_Pilot_000821",
+        "Cartoon": "spine_Pilot_000821",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000821",
+        "GirlVoice": "",
+        "RoleVoice": 1000821,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8202,
+        "Name": null
+    },
+    {
+        "GirlId": 24,
+        "Skin": 3,
+        "SkinName": "盛夏淑女 九条绫",
+        "SkillArray": [
+            [
+                240301,
+                1
+            ],
+            [
+                240302,
+                3
+            ],
+            [
+                240303,
+                4
+            ],
+            [
+                240304,
+                5
+            ]
+        ],
+        "ModelID": 25000242,
+        "MapHeadIcon": "MapHead_Pilot_000242",
+        "StageHeadIcon": "StageHead_Pilot_000242",
+        "HeadIcon": "Head_Pilot_000242",
+        "HeadIcon_square": "SquareHead_Pilot_000242",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000242",
+        "Image": "Image_Pilot_000242",
+        "Cartoon": "spine_Pilot_000242",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000242",
+        "GirlVoice": "AyaKujyou",
+        "RoleVoice": 1000242,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010032,
+            23010032
+        ],
+        "ID": 2403,
+        "Name": null
+    },
+    {
+        "GirlId": 38,
+        "Skin": 3,
+        "SkinName": "沙滩大放送 夏迪荻",
+        "SkillArray": [
+            [
+                380301,
+                1
+            ],
+            [
+                380302,
+                3
+            ],
+            [
+                380303,
+                4
+            ],
+            [
+                380304,
+                5
+            ]
+        ],
+        "ModelID": 25000382,
+        "MapHeadIcon": "MapHead_Pilot_000382",
+        "StageHeadIcon": "StageHead_Pilot_000382",
+        "HeadIcon": "Head_Pilot_000382",
+        "HeadIcon_square": "SquareHead_Pilot_000382",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000382",
+        "Image": "Image_Pilot_000382",
+        "Cartoon": "spine_Pilot_000382",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000382",
+        "GirlVoice": "Shyaditty",
+        "RoleVoice": 1000382,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 3803,
+        "Name": null
+    },
+    {
+        "GirlId": 41,
+        "Skin": 3,
+        "SkinName": "深海研究 林贝儿",
+        "SkillArray": [
+            [
+                410301,
+                1
+            ],
+            [
+                410302,
+                3
+            ],
+            [
+                410303,
+                4
+            ],
+            [
+                410304,
+                5
+            ]
+        ],
+        "ModelID": 25000412,
+        "MapHeadIcon": "MapHead_Pilot_000412",
+        "StageHeadIcon": "StageHead_Pilot_000412",
+        "HeadIcon": "Head_Pilot_000412",
+        "HeadIcon_square": "SquareHead_Pilot_000412",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000412",
+        "Image": "Image_Pilot_000412",
+        "Cartoon": "spine_Pilot_000412",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000412",
+        "GirlVoice": "Rinbell",
+        "RoleVoice": 1000412,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 4103,
+        "Name": null
+    },
+    {
+        "GirlId": 48,
+        "Skin": 3,
+        "SkinName": "泳装派对 爱丽儿",
+        "SkillArray": [
+            [
+                480301,
+                1
+            ],
+            [
+                480302,
+                3
+            ],
+            [
+                480303,
+                4
+            ],
+            [
+                480304,
+                5
+            ]
+        ],
+        "ModelID": 25000482,
+        "MapHeadIcon": "MapHead_Pilot_000482",
+        "StageHeadIcon": "StageHead_Pilot_000482",
+        "HeadIcon": "Head_Pilot_000482",
+        "HeadIcon_square": "SquareHead_Pilot_000482",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000482",
+        "Image": "Image_Pilot_000482",
+        "Cartoon": "spine_Pilot_000482",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000482",
+        "GirlVoice": "Ariel",
+        "RoleVoice": 1000482,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 4803,
+        "Name": null
+    },
+    {
+        "GirlId": 12,
+        "Skin": 4,
+        "SkinName": "想要情报吗 维洛妮卡",
+        "SkillArray": [
+            [
+                120401,
+                1
+            ],
+            [
+                120402,
+                3
+            ],
+            [
+                120403,
+                4
+            ],
+            [
+                120404,
+                5
+            ]
+        ],
+        "ModelID": 25000123,
+        "MapHeadIcon": "MapHead_Pilot_000123",
+        "StageHeadIcon": "StageHead_Pilot_000123",
+        "HeadIcon": "Head_Pilot_000123",
+        "HeadIcon_square": "SquareHead_Pilot_000123",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000123",
+        "Image": "Image_Pilot_000123",
+        "Cartoon": "spine_Pilot_000123",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000123",
+        "GirlVoice": "Veronica",
+        "RoleVoice": 1000123,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 1204,
+        "Name": null
+    },
+    {
+        "GirlId": 28,
+        "Skin": 4,
+        "SkinName": "清凉一夏 克里斯蒂娜",
+        "SkillArray": [
+            [
+                280401,
+                1
+            ],
+            [
+                280402,
+                3
+            ],
+            [
+                280403,
+                4
+            ],
+            [
+                280404,
+                5
+            ]
+        ],
+        "ModelID": 25000283,
+        "MapHeadIcon": "MapHead_Pilot_000283",
+        "StageHeadIcon": "StageHead_Pilot_000283",
+        "HeadIcon": "Head_Pilot_000283",
+        "HeadIcon_square": "SquareHead_Pilot_000283",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000283",
+        "Image": "Image_Pilot_000283",
+        "Cartoon": "spine_Pilot_000283",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000283",
+        "GirlVoice": "Kristina",
+        "RoleVoice": 1000283,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 2804,
+        "Name": null
+    },
+    {
+        "GirlId": 33,
+        "Skin": 4,
+        "SkinName": "魔女的假日 菲比亚",
+        "SkillArray": [
+            [
+                330401,
+                1
+            ],
+            [
+                330402,
+                3
+            ],
+            [
+                330403,
+                4
+            ],
+            [
+                330404,
+                5
+            ]
+        ],
+        "ModelID": 25000333,
+        "MapHeadIcon": "MapHead_Pilot_000333",
+        "StageHeadIcon": "StageHead_Pilot_000333",
+        "HeadIcon": "Head_Pilot_000333",
+        "HeadIcon_square": "SquareHead_Pilot_000333",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000333",
+        "Image": "Image_Pilot_000333",
+        "Cartoon": "spine_Pilot_000333",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000333",
+        "GirlVoice": "Favia",
+        "RoleVoice": 1000333,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 3304,
+        "Name": null
+    },
+    {
+        "GirlId": 43,
+        "Skin": 4,
+        "SkinName": "甜甜泳圈 妮娅",
+        "SkillArray": [
+            [
+                430401,
+                1
+            ],
+            [
+                430402,
+                3
+            ],
+            [
+                430403,
+                4
+            ],
+            [
+                430404,
+                5
+            ]
+        ],
+        "ModelID": 25000433,
+        "MapHeadIcon": "MapHead_Pilot_000433",
+        "StageHeadIcon": "StageHead_Pilot_000433",
+        "HeadIcon": "Head_Pilot_000433",
+        "HeadIcon_square": "SquareHead_Pilot_000433",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000433",
+        "Image": "Image_Pilot_000433",
+        "Cartoon": "spine_Pilot_000433",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000433",
+        "GirlVoice": "Nia",
+        "RoleVoice": 1000433,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 4304,
         "Name": null
     }
 ]

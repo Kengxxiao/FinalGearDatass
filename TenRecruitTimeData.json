@@ -2,9 +2,9 @@
     {
         "RecruitActivityType": 1,
         "IosOpenTime": "2019/7/16 00:00:00",
-        "IosCloseTime": "2019/7/30 03:59:59",
+        "IosCloseTime": "2019/7/30 13:59:59",
         "AndOpenTime": "2019/7/18 00:00:00",
-        "AndCloseTime": "2019/7/30 03:59:59",
+        "AndCloseTime": "2019/7/30 13:59:59",
         "ResourceName": "59,limitRecruitRight1,RecruitAlexa",
         "ListOrder": 1,
         "LibraryID": 1,
@@ -24,11 +24,35 @@
         "Name": null
     },
     {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/8/22 11:00:00",
+        "IosCloseTime": "2019/9/5 13:59:59",
+        "AndOpenTime": "2019/8/22 11:00:00",
+        "AndCloseTime": "2019/9/5 13:59:59",
+        "ResourceName": "81,limitRecruitRight3,RecruitRight3",
+        "ListOrder": 1,
+        "LibraryID": 3,
+        "ID": 10003,
+        "Name": null
+    },
+    {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/9/5 14:00:00",
+        "IosCloseTime": "2019/9/24 13:59:59",
+        "AndOpenTime": "2019/9/5 14:00:00",
+        "AndCloseTime": "2019/9/24 13:59:59",
+        "ResourceName": "52,limitRecruitRight4,RecruitRight4",
+        "ListOrder": 1,
+        "LibraryID": 3,
+        "ID": 10004,
+        "Name": null
+    },
+    {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/7/16 00:00:00",
-        "IosCloseTime": "2019/7/30 03:59:59",
+        "IosCloseTime": "2019/7/30 13:59:59",
         "AndOpenTime": "2019/7/18 00:00:00",
-        "AndCloseTime": "2019/7/30 03:59:59",
+        "AndCloseTime": "2019/7/30 13:59:59",
         "ResourceName": "29,limitDevelopRight1,develop_up_29",
         "ListOrder": 1,
         "LibraryID": 20008,
@@ -50,13 +74,37 @@
     {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/8/13 14:00:00",
-        "IosCloseTime": "2019/8/22 10:59:59",
+        "IosCloseTime": "2019/8/20 13:59:59",
         "AndOpenTime": "2019/8/13 14:00:00",
-        "AndCloseTime": "2019/8/22 10:59:59",
-        "ResourceName": "11,limitDevelopRight3,develop_up_11",
+        "AndCloseTime": "2019/8/20 13:59:59",
+        "ResourceName": "11,limitDevelopRight3,develop_up_39",
         "ListOrder": 1,
         "LibraryID": 20010,
         "ID": 20003,
+        "Name": null
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2019/8/22 11:00:00",
+        "IosCloseTime": "2019/9/5 13:59:59",
+        "AndOpenTime": "2019/8/22 11:00:00",
+        "AndCloseTime": "2019/9/5 13:59:59",
+        "ResourceName": "21,limitDevelopRight4,DevelopRight4",
+        "ListOrder": 1,
+        "LibraryID": 20011,
+        "ID": 20004,
+        "Name": null
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2019/9/5 14:00:00",
+        "IosCloseTime": "2019/9/24 13:59:59",
+        "AndOpenTime": "2019/9/5 14:00:00",
+        "AndCloseTime": "2019/9/24 13:59:59",
+        "ResourceName": "52,limitDevelopRight5,DevelopRight5",
+        "ListOrder": 1,
+        "LibraryID": 20011,
+        "ID": 20005,
         "Name": null
     }
 ]

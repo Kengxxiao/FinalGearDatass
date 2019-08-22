@@ -334,7 +334,7 @@
             210134101,
             10
         ],
-        "RecommendAbility": 2045,
+        "RecommendAbility": 0,
         "NPCType": 0,
         "ID": 8005,
         "Name": null
@@ -1065,7 +1065,7 @@
             5,
             5
         ],
-        "SuitID": 0,
+        "SuitID": 300101,
         "BaseEquip1": [
             230011305,
             60
@@ -1191,9 +1191,9 @@
     },
     {
         "GirlName": "伊芙琳&柯洛儿",
-        "GirlID": 1,
+        "GirlID": 74,
         "GirlLevel": 60,
-        "GirlSkin": 101,
+        "GirlSkin": 7401,
         "StarLevel": 6,
         "SkillsLevel": [
             5,
@@ -1337,7 +1337,7 @@
             5,
             5
         ],
-        "SuitID": 0,
+        "SuitID": 300101,
         "BaseEquip1": [
             230011305,
             60
@@ -1497,9 +1497,9 @@
     },
     {
         "GirlName": "玛格丽特",
-        "GirlID": 22,
+        "GirlID": 32,
         "GirlLevel": 60,
-        "GirlSkin": 2201,
+        "GirlSkin": 3201,
         "StarLevel": 6,
         "SkillsLevel": [
             5,

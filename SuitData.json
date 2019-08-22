@@ -728,5 +728,127 @@
         "ArmorRate": 7,
         "ID": 303901,
         "Name": "套装数据"
+    },
+    {
+        "SuitName": "肯陶洛斯",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2302112
+        ],
+        "SuitChestID": [
+            2302122
+        ],
+        "SuitLegID": [
+            2302132
+        ],
+        "SuitBackpackID": [
+            2302142
+        ],
+        "SuitGirlID": [
+            21
+        ],
+        "Suit2Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲耐久提高5%",
+        "Suit4Add": {
+            "keys": [
+                89
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲耐久恢复时额外增加10%的恢复量",
+        "Suit5Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "激活后柯蕾莉亚技能强化\n机甲受到的伤害降低10%\n可激活专属机甲模型",
+        "MachineArmorID": 2101,
+        "WidgetCamp": 7,
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "通过将审判者与惩罚者改造升级而成的特殊型号机体。",
+        "HpRate": 9,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 9,
+        "ID": 302101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "恶浊之心",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2305218
+        ],
+        "SuitChestID": [
+            2305222
+        ],
+        "SuitLegID": [
+            2305232
+        ],
+        "SuitBackpackID": [
+            2305242
+        ],
+        "SuitGirlID": [
+            52
+        ],
+        "Suit2Add": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "机甲攻击速度提高5%",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "机甲伤害提高5%",
+        "Suit5Add": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "激活后伊芙琳（病原体）技能强化\n机甲能量恢复速度提高20%\n可激活专属机甲模型",
+        "MachineArmorID": 5201,
+        "WidgetCamp": 8,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "它的存在就如同病原体内心的具象化一般。",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 9,
+        "ID": 305201,
+        "Name": "套装数据"
     }
 ]

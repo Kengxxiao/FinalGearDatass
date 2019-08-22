@@ -12118,6 +12118,112 @@
         "Name": "能量护盾芯片"
     },
     {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001731,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "有着可以在机体周围生成能量护盾力场的功能性配件。",
+        "Model": 0,
+        "Icon": "81000094",
+        "Icon_Large": "81000094",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "40,1,R",
+        "PropertyPara2": [
+            [
+                24.0,
+                1200.0
+            ],
+            [
+                32.0,
+                240.0
+            ],
+            [
+                52.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 2700251,
+        "Name": "能量护盾力场"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001781,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "为了防止机体失控时所搭载的紧急制动系统，可以在关键时刻保住性命。",
+        "Model": 0,
+        "Icon": "81000099",
+        "Icon_Large": "81000099",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            5
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "50,1,R",
+        "PropertyPara2": [
+            [
+                24.0,
+                1500.0
+            ],
+            [
+                32.0,
+                300.0
+            ],
+            [
+                52.0,
+                0.05
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 2700451,
+        "Name": "紧急修复系统"
+    },
+    {
         "WidgetSN": "ILTH-W",
         "WidgetCamp": 8,
         "EquipType": 0,
@@ -16827,28 +16933,28 @@
         "WidgetSN": "私人订制",
         "WidgetCamp": 8,
         "EquipType": 0,
-        "EquipSubType": 2,
-        "SuitID": 300101,
+        "EquipSubType": 0,
+        "SuitID": 0,
         "WeightType": 0,
         "FeatureSkill": 0,
         "DistanceType": 1,
         "Clip": 9999,
         "ReloadType": 0,
-        "ReloadTime": 1000,
+        "ReloadTime": 0,
         "ReloadRecover": 9999,
         "AccumulatingTime": 0,
         "ShootInterval": 0,
         "AttackSpeed": 1.0,
-        "WeaponSpeed": 2.86,
-        "Trigger": 0.35,
-        "BulletlAggRatio": 0.28,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.63,
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
-        "Disc": "专门为伊芙琳所打造的武器，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
-        "Model": 21000010,
-        "Icon": "Parts_Arm_000010",
-        "Icon_Large": "L_Arm_000010",
+        "Disc": "你甚至可以用这把武器来给沙滩挖个坑。",
+        "Model": 21000380,
+        "Icon": "Parts_Arm_000380",
+        "Icon_Large": "L_Arm_000380",
         "Background": "ItemBack",
         "DropMonsterID": [
             0
@@ -16856,36 +16962,339 @@
         "WidgetArea": [
             0
         ],
-        "PropertyType": 2,
-        "PropertyPara1": "60,1,SR",
-        "PropertyPara2": [
-            [
-                28.0,
-                360.0
-            ],
-            [
-                36.0,
-                560.0
-            ],
-            [
-                65.0,
-                0.05
-            ],
-            [
-                54.0,
-                0.05
-            ]
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101411,
+        "Name": "夏日玩具铲"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 1,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.0,
+        "Trigger": 0.5,
+        "BulletlAggRatio": 0.4,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "这大概是能将花式气球编的最好的机械臂了。",
+        "Model": 21000381,
+        "Icon": "Parts_Arm_000381",
+        "Icon_Large": "L_Arm_000381",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
         ],
-        "SuitType": 3,
-        "ID": 230011305,
-        "Name": "白鸦-光刃"
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101412,
+        "Name": "夏日充气球棒"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 60,
+        "ReloadType": 1,
+        "ReloadTime": 1499,
+        "ReloadRecover": 60,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 7.83,
+        "Trigger": 0.13,
+        "BulletlAggRatio": 0.08,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "炎炎夏日里最好的朋友，用力过猛还附带头疼效果。",
+        "Model": 21000382,
+        "Icon": "Parts_Arm_000382",
+        "Icon_Large": "L_Arm_000382",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101413,
+        "Name": "夏日刨冰机"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.5,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "幽灵客船的时空穿越之旅。",
+        "Model": 21000383,
+        "Icon": "Parts_Arm_000383",
+        "Icon_Large": "L_Arm_000383",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101414,
+        "Name": "夏日船锚"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 4,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 150,
+        "ReloadType": 1,
+        "ReloadTime": 2999,
+        "ReloadRecover": 150,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 11.39,
+        "Trigger": 0.09,
+        "BulletlAggRatio": 0.11,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "biubiubiu.",
+        "Model": 21000384,
+        "Icon": "Parts_Arm_000384",
+        "Icon_Large": "L_Arm_000384",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101415,
+        "Name": "夏日压力水枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 5,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 40,
+        "ReloadType": 1,
+        "ReloadTime": 2133,
+        "ReloadRecover": 40,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 5.25,
+        "Trigger": 0.19,
+        "BulletlAggRatio": 0.21,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "『这些七彩的气泡是夏日最棒的点缀了。』——克里斯蒂娜\n『只是光的折射而已。』——维洛妮卡\n『你不要破坏小孩子的梦想啊！』——伊芙琳",
+        "Model": 21000385,
+        "Icon": "Parts_Arm_000385",
+        "Icon_Large": "L_Arm_000385",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101416,
+        "Name": "夏日泡泡枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 6,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 3,
+        "ReloadType": 1,
+        "ReloadTime": 2933,
+        "ReloadRecover": 3,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.58,
+        "Trigger": 1.72,
+        "BulletlAggRatio": 0.96,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "『失去了梦想的咸鱼和人类有什么区别。』——泡面大师",
+        "Model": 21000386,
+        "Icon": "Parts_Arm_000386",
+        "Icon_Large": "L_Arm_000386",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101417,
+        "Name": "夏日咸鱼狙击枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 5,
+        "ReloadType": 1,
+        "ReloadTime": 2499,
+        "ReloadRecover": 5,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.94,
+        "Trigger": 1.06,
+        "BulletlAggRatio": 0.71,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "那么问题来了，这把枪打出来的都是些什么垃圾呢。",
+        "Model": 21000387,
+        "Icon": "Parts_Arm_000387",
+        "Icon_Large": "L_Arm_000387",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101418,
+        "Name": "夏日垃圾枪"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 8,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 932,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 1000,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.44,
+        "Trigger": 2.27,
+        "BulletlAggRatio": 1.03,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "How Crazy Are You.",
+        "Model": 21000388,
+        "Icon": "Parts_Arm_000388",
+        "Icon_Large": "L_Arm_000388",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101419,
+        "Name": "夏日沙滩排球"
     },
     {
         "WidgetSN": "私人订制",
         "WidgetCamp": 8,
         "EquipType": 1,
         "EquipSubType": 9,
-        "SuitID": 300101,
+        "SuitID": 0,
         "WeightType": 1,
         "FeatureSkill": 0,
         "DistanceType": 0,
@@ -16902,10 +17311,10 @@
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
-        "Disc": "因为伊芙琳本身体型较为娇小，所以设计师特意修改了驾驶舱内部的规格。",
-        "Model": 24000010,
-        "Icon": "Parts_Body_000010",
-        "Icon_Large": "L_Body_000010",
+        "Disc": "它就只是一架看上去很普通的救生衣驾驶舱而已。",
+        "Model": 24000380,
+        "Icon": "Parts_Body_000380",
+        "Icon_Large": "L_Body_000380",
         "Background": "ItemBack",
         "DropMonsterID": [
             0
@@ -16913,38 +17322,99 @@
         "WidgetArea": [
             0
         ],
-        "PropertyType": 2,
-        "PropertyPara1": "60,1,SR",
-        "PropertyPara2": [
-            [
-                24.0,
-                2800.0,
-                0.0,
-                0.0
-            ],
-            [
-                28.0,
-                360.0,
-                0.0,
-                0.0
-            ],
-            [
-                68.0,
-                0.05,
-                59.0,
-                0.1
-            ]
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101421,
+        "Name": "夏日小号救生衣"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "它就只是一架看上去比普通更大号一点的救生衣驾驶舱而已。",
+        "Model": 24000381,
+        "Icon": "Parts_Body_000381",
+        "Icon_Large": "L_Body_000381",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
         ],
-        "SuitType": 3,
-        "ID": 230012105,
-        "Name": "白鸦-座舱"
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101422,
+        "Name": "夏日大号救生衣"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "标记水。",
+        "Model": 24000382,
+        "Icon": "Parts_Body_000382",
+        "Icon_Large": "L_Body_000382",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101423,
+        "Name": "夏日海盗船"
     },
     {
         "WidgetSN": "私人订制",
         "WidgetCamp": 8,
         "EquipType": 2,
         "EquipSubType": 14,
-        "SuitID": 300101,
+        "SuitID": 0,
         "WeightType": 1,
         "FeatureSkill": 0,
         "DistanceType": 0,
@@ -16961,10 +17431,10 @@
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
-        "Disc": "白鸦的腿部装甲，与普通的腿部装甲区别并不是很大。",
-        "Model": 23000010,
-        "Icon": "Parts_Leg_000010",
-        "Icon_Large": "L_Leg_000010",
+        "Disc": "『你试过用机甲冲浪吗？』\n『那你试过让猪上树吗？』",
+        "Model": 23000380,
+        "Icon": "Parts_Leg_000380",
+        "Icon_Large": "L_Leg_000380",
         "Background": "ItemBack",
         "DropMonsterID": [
             0
@@ -16972,38 +17442,99 @@
         "WidgetArea": [
             0
         ],
-        "PropertyType": 2,
-        "PropertyPara1": "60,1,SR",
-        "PropertyPara2": [
-            [
-                24.0,
-                2800.0,
-                0.0,
-                0.0
-            ],
-            [
-                28.0,
-                360.0,
-                0.0,
-                0.0
-            ],
-            [
-                68.0,
-                0.05,
-                59.0,
-                0.1
-            ]
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101431,
+        "Name": "夏日冲浪板"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "不知道如果脚底接触地面会不会发出噗叽噗叽的声音。",
+        "Model": 23000381,
+        "Icon": "Parts_Leg_000381",
+        "Icon_Large": "L_Leg_000381",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
         ],
-        "SuitType": 3,
-        "ID": 230013105,
-        "Name": "白鸦-机械足"
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101432,
+        "Name": "夏日脚蹼"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "这让我想起了小时候怎么也打不通的一款游戏。",
+        "Model": 23000382,
+        "Icon": "Parts_Leg_000382",
+        "Icon_Large": "L_Leg_000382",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101433,
+        "Name": "夏日蛙腿"
     },
     {
         "WidgetSN": "私人订制",
         "WidgetCamp": 8,
         "EquipType": 3,
         "EquipSubType": 19,
-        "SuitID": 300101,
+        "SuitID": 0,
         "WeightType": 1,
         "FeatureSkill": 0,
         "DistanceType": 0,
@@ -17020,10 +17551,10 @@
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
         "InjuryAddEffectPara": [],
-        "Disc": "搭载了强力喷射功能的白鸦背部装甲，一般情况下却不怎么使用。",
-        "Model": 22000010,
-        "Icon": "Parts_Bag_000010",
-        "Icon_Large": "L_Bag_000010",
+        "Disc": "这个东西的造型看起来真诡异，它真的能漂起来吗？",
+        "Model": 22000380,
+        "Icon": "Parts_Bag_000380",
+        "Icon_Large": "L_Bag_000380",
         "Background": "ItemBack",
         "DropMonsterID": [
             0
@@ -17031,29 +17562,412 @@
         "WidgetArea": [
             0
         ],
-        "PropertyType": 2,
-        "PropertyPara1": "60,1,SR",
-        "PropertyPara2": [
-            [
-                28.0,
-                360.0
-            ],
-            [
-                36.0,
-                560.0
-            ],
-            [
-                65.0,
-                0.05
-            ],
-            [
-                54.0,
-                0.05
-            ]
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101441,
+        "Name": "夏日球形浮漂"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "这东西的作用也许就是整个拆下来丢出去吧。",
+        "Model": 22000381,
+        "Icon": "Parts_Bag_000381",
+        "Icon_Large": "L_Bag_000381",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
         ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101442,
+        "Name": "夏日救生圈"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "来一场盛大的海上冒险吧！",
+        "Model": 22000382,
+        "Icon": "Parts_Bag_000382",
+        "Icon_Large": "L_Bag_000382",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2101443,
+        "Name": "夏日桅杆"
+    },
+    {
+        "WidgetSN": "AF-KN-C1S",
+        "WidgetCamp": 7,
+        "EquipType": 0,
+        "EquipSubType": 1,
+        "SuitID": 302101,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": 0.63,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "由惩罚者系列武器改造而来，但更具威力。",
+        "Model": 21000330,
+        "Icon": "Parts_Arm_000330",
+        "Icon_Large": "L_Arm_000330",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
         "SuitType": 3,
-        "ID": 230014105,
-        "Name": "白鸦-挂载"
+        "ID": 2302112,
+        "Name": "肯陶洛斯动力矛"
+    },
+    {
+        "WidgetSN": "AF-KN-B11S",
+        "WidgetCamp": 7,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 302101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "柯蕾莉亚究竟出于何种心境而还在使用帝国机体呢，也许只有她自己知道。",
+        "Model": 24000330,
+        "Icon": "Parts_Body_000330",
+        "Icon_Large": "L_Body_000330",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            4
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2302122,
+        "Name": "肯陶洛斯座舱"
+    },
+    {
+        "WidgetSN": "AF-KN-B14S",
+        "WidgetCamp": 7,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 302101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "基于审判者系列而制作的特殊型号机械足，性能更为出色。",
+        "Model": 23000330,
+        "Icon": "Parts_Leg_000330",
+        "Icon_Large": "L_Leg_000330",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            4
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2302132,
+        "Name": "肯陶洛斯机械足"
+    },
+    {
+        "WidgetSN": "AF-KN-C7S",
+        "WidgetCamp": 7,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 302101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "之所以柯蕾莉亚还能够使用帝国机体战斗，完全是依靠爱塔所拥有的特权。",
+        "Model": 22000330,
+        "Icon": "Parts_Bag_000330",
+        "Icon_Large": "L_Bag_000330",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            4
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2302142,
+        "Name": "肯陶洛斯挂载"
+    },
+    {
+        "WidgetSN": "？？？",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 305201,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 333,
+        "ReloadRecover": 5,
+        "AccumulatingTime": 1500,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.43,
+        "Trigger": 2.33,
+        "BulletlAggRatio": 0.97,
+        "BulletAggValue": 1,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "“伊芙琳”将自身的恶意全部集中在了这把武器上。",
+        "Model": 21000340,
+        "Icon": "Parts_Arm_000340",
+        "Icon_Large": "L_Arm_000340",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2305218,
+        "Name": "污染"
+    },
+    {
+        "WidgetSN": "？？？",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 305201,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 2,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "灏戝コ缁濅笉鍚戠绁堢シ。",
+        "Model": 24000340,
+        "Icon": "Parts_Body_000340",
+        "Icon_Large": "L_Body_000340",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2305222,
+        "Name": "衰竭"
+    },
+    {
+        "WidgetSN": "？？？",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 305201,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 3,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "灏戝コ鎲庢仺鐫�涓栫晫。",
+        "Model": 23000340,
+        "Icon": "Parts_Leg_000340",
+        "Icon_Large": "L_Leg_000340",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2305232,
+        "Name": "病变"
+    },
+    {
+        "WidgetSN": "？？？",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 305201,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 4,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "『大家都得到了救赎的话，谁要来救赎我呢？』",
+        "Model": 22000340,
+        "Icon": "Parts_Bag_000340",
+        "Icon_Large": "L_Bag_000340",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2305242,
+        "Name": "凋零"
     },
     {
         "WidgetSN": "私人订制",
@@ -18818,5 +19732,237 @@
         "SuitType": 1,
         "ID": 210134302,
         "Name": "源代码重型挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 300101,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.86,
+        "Trigger": 0.35,
+        "BulletlAggRatio": 0.28,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "专门为伊芙琳所打造的武器，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "Model": 21000010,
+        "Icon": "Parts_Arm_000010",
+        "Icon_Large": "L_Arm_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                360.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                65.0,
+                0.05
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230011305,
+        "Name": "白鸦-光刃"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 9,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "因为伊芙琳本身体型较为娇小，所以设计师特意修改了驾驶舱内部的规格。",
+        "Model": 24000010,
+        "Icon": "Parts_Body_000010",
+        "Icon_Large": "L_Body_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2800.0,
+                0.0,
+                0.0
+            ],
+            [
+                28.0,
+                360.0,
+                0.0,
+                0.0
+            ],
+            [
+                68.0,
+                0.05,
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230012105,
+        "Name": "白鸦-座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "白鸦的腿部装甲，与普通的腿部装甲区别并不是很大。",
+        "Model": 23000010,
+        "Icon": "Parts_Leg_000010",
+        "Icon_Large": "L_Leg_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                2800.0,
+                0.0,
+                0.0
+            ],
+            [
+                28.0,
+                360.0,
+                0.0,
+                0.0
+            ],
+            [
+                68.0,
+                0.05,
+                59.0,
+                0.1
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230013105,
+        "Name": "白鸦-机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 19,
+        "SuitID": 300101,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": 0.0,
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "搭载了强力喷射功能的白鸦背部装甲，一般情况下却不怎么使用。",
+        "Model": 22000010,
+        "Icon": "Parts_Bag_000010",
+        "Icon_Large": "L_Bag_000010",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                360.0
+            ],
+            [
+                36.0,
+                560.0
+            ],
+            [
+                65.0,
+                0.05
+            ],
+            [
+                54.0,
+                0.05
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230014105,
+        "Name": "白鸦-挂载"
     }
 ]

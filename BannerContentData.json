@@ -81,8 +81,8 @@
     },
     {
         "BannerName": "十连开发-α-16",
-        "OpenTime": "2019/7/30 14:00:00",
-        "CloseTime": "2019/8/13 13:59:59",
+        "OpenTime": "2019/8/13 14:00:00",
+        "CloseTime": "2019/8/20 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity10",
         "LinkPage": 4,
@@ -100,13 +100,53 @@
         "Name": null
     },
     {
-        "BannerName": "十连开发-娜塔莎",
-        "OpenTime": "2019/8/13 14:00:00",
-        "CloseTime": "2019/8/22 10:59:59",
+        "BannerName": "十连招募-泰西娅",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/5 13:59:59",
         "Device": 0,
-        "PictureName": "gameActivity15",
-        "LinkPage": 4,
+        "PictureName": "gameActivity12",
+        "LinkPage": 3,
         "ID": 21,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-病毒伊芙琳",
+        "OpenTime": "2019/9/5 14:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity11",
+        "LinkPage": 3,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-柯蕾莉亚",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/5 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity13",
+        "LinkPage": 4,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-病毒伊芙琳",
+        "OpenTime": "2019/9/5 14:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity14",
+        "LinkPage": 4,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "BannerName": "夏日回忆",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity16",
+        "LinkPage": 9,
+        "ID": 29,
         "Name": null
     },
     {
@@ -191,8 +231,8 @@
     },
     {
         "BannerName": "十连开发-α-16",
-        "OpenTime": "2019/7/30 14:00:00",
-        "CloseTime": "2019/8/13 13:59:59",
+        "OpenTime": "2019/8/13 14:00:00",
+        "CloseTime": "2019/8/20 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity10",
         "LinkPage": 4,
@@ -210,13 +250,53 @@
         "Name": null
     },
     {
-        "BannerName": "十连开发-娜塔莎",
-        "OpenTime": "2019/8/13 14:00:00",
-        "CloseTime": "2019/8/22 10:59:59",
+        "BannerName": "十连招募-泰西娅",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/5 13:59:59",
         "Device": 1,
-        "PictureName": "gameActivity15",
+        "PictureName": "gameActivity12",
+        "LinkPage": 3,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-病毒伊芙琳",
+        "OpenTime": "2019/9/5 14:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity11",
+        "LinkPage": 3,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-柯蕾莉亚",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/5 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity13",
         "LinkPage": 4,
-        "ID": 22,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-病毒伊芙琳",
+        "OpenTime": "2019/9/5 14:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity14",
+        "LinkPage": 4,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "BannerName": "夏日回忆",
+        "OpenTime": "2019/8/22 11:00:00",
+        "CloseTime": "2019/9/24 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity16",
+        "LinkPage": 9,
+        "ID": 30,
         "Name": null
     }
 ]

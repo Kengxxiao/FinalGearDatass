@@ -806,6 +806,17 @@
         "Description": "",
         "GroupTag": "武器/射击",
         "CueSheet": "WP",
+        "CueName": "WP_Shoot_Water_Last",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200030700,
+        "Name": "喷射-水持续"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/射击",
+        "CueSheet": "WP",
         "CueName": "WP_Shoot_Grenade",
         "Loop": false,
         "Volume": 1.0,
@@ -1035,6 +1046,39 @@
     },
     {
         "Description": "",
+        "GroupTag": "武器/射击",
+        "CueSheet": "WP",
+        "CueName": "WP_Shoot_HandGun_Laser",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200052000,
+        "Name": "发射-水弹"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/射击",
+        "CueSheet": "WP",
+        "CueName": "WP_Shoot_SpniperRifle_Laser",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200052010,
+        "Name": "发射-水弹-重"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/射击",
+        "CueSheet": "WP",
+        "CueName": "WP_Shoot_HandGun_Laser",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200052020,
+        "Name": "发射-水泡"
+    },
+    {
+        "Description": "",
         "GroupTag": "武器/加农",
         "CueSheet": "WP",
         "CueName": "WP_Cannon",
@@ -1252,6 +1296,17 @@
         "Pitch": 0,
         "ID": 200061400,
         "Name": "加农-导弹3"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/加农",
+        "CueSheet": "WP",
+        "CueName": "WP_Cannon_Grenade_L",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200061500,
+        "Name": "加农-卡通"
     },
     {
         "Description": "近战",
@@ -2126,6 +2181,39 @@
         "Description": "",
         "GroupTag": "击中",
         "CueSheet": "HIT",
+        "CueName": "HIT_Energy",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300110600,
+        "Name": "水爆点"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中",
+        "CueSheet": "HIT",
+        "CueName": "HIT_Energy_L",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300110700,
+        "Name": "水爆点-轻"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中",
+        "CueSheet": "HIT",
+        "CueName": "HIT_Energy_H",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300110800,
+        "Name": "水爆点-重"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中",
+        "CueSheet": "HIT",
         "CueName": "HIT_Slash",
         "Loop": false,
         "Volume": 1.0,
@@ -2478,7 +2566,7 @@
         "Description": "",
         "GroupTag": "击中/爆炸",
         "CueSheet": "HIT",
-        "CueName": "HIT_Boom_Energy_2",
+        "CueName": "HIT_Boom_Energy",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -2561,6 +2649,17 @@
         "Pitch": 0,
         "ID": 300501000,
         "Name": "卡通爆点"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中/其他",
+        "CueSheet": "HIT",
+        "CueName": "HIT_SP_Cartoon_H",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300501010,
+        "Name": "卡通爆点-重"
     },
     {
         "Description": "",
@@ -3302,13 +3401,24 @@
     {
         "Description": "",
         "GroupTag": "技能/动作",
-        "CueSheet": "SK",
-        "CueName": "atk_000410",
+        "CueSheet": "SP",
+        "CueName": "SP_Act_Throw_H",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 400500070,
         "Name": "投掷-大"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/动作",
+        "CueSheet": "SP",
+        "CueName": "SP_Act_Swing_Cartoon",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400500075,
+        "Name": "挥动-卡通"
     },
     {
         "Description": "",
@@ -3386,6 +3496,17 @@
         "Pitch": 0,
         "ID": 400500140,
         "Name": "摩托-加速行驶"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/动作",
+        "CueSheet": "SP",
+        "CueName": "SP_Act_Surfboard",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400500150,
+        "Name": "冲浪滑行"
     },
     {
         "Description": "",
@@ -4673,6 +4794,83 @@
         "Pitch": 0,
         "ID": 550006900,
         "Name": "act_000690"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Evelynn&Coral_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007010,
+        "Name": "伊芙琳&科洛儿-刀光"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EvelynnViruses_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007020,
+        "Name": "病毒伊芙琳-技能1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EvelynnViruses_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007030,
+        "Name": "病毒伊芙琳-技能2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EvelynnViruses_03",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007035,
+        "Name": "病毒伊芙琳-技能3"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Taysia_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007040,
+        "Name": "泰西娅-技能1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Taysia_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007050,
+        "Name": "泰西娅-技能2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Viola_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007060,
+        "Name": "紫罗兰-技能"
     },
     {
         "Description": "瞬闪-出现",
@@ -6730,6 +6928,61 @@
         "Pitch": 0,
         "ID": 700100090,
         "Name": "小兵逃跑"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Answercall",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100100,
+        "Name": "接电话"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Hangupcall",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100110,
+        "Name": "挂电话"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Callring",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100120,
+        "Name": "电话铃声"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Busytone",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100130,
+        "Name": "挂电话后的忙音"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "CV_Evelynn",
+        "CueName": "Evelynn_communication",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100131,
+        "Name": "接电话后的伊芙丽说话声音"
     },
     {
         "Description": "",

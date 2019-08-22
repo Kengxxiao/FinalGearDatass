@@ -1280,6 +1280,582 @@
         "Name": null
     },
     {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "拦截",
+        "SuitName": "夏日·玩具铲型",
+        "SuitWeaponID": [
+            2101411
+        ],
+        "SuitChestID": [
+            2101423
+        ],
+        "SuitLegID": [
+            2101443
+        ],
+        "SuitBackpackID": [
+            2101433
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 7,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 100041,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "侦查",
+        "SuitName": "夏日·充气球棒型",
+        "SuitWeaponID": [
+            2101412
+        ],
+        "SuitChestID": [
+            2101422
+        ],
+        "SuitLegID": [
+            2101432
+        ],
+        "SuitBackpackID": [
+            2101442
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100042,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "夏日·刨冰机型",
+        "SuitWeaponID": [
+            2101413
+        ],
+        "SuitChestID": [
+            2101421
+        ],
+        "SuitLegID": [
+            2101431
+        ],
+        "SuitBackpackID": [
+            2101441
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 5,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 100043,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "拦截",
+        "SuitName": "夏日·船锚型",
+        "SuitWeaponID": [
+            2101414
+        ],
+        "SuitChestID": [
+            2101423
+        ],
+        "SuitLegID": [
+            2101443
+        ],
+        "SuitBackpackID": [
+            2101433
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 7,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 100044,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "夏日·压力水枪型",
+        "SuitWeaponID": [
+            2101415
+        ],
+        "SuitChestID": [
+            2101422
+        ],
+        "SuitLegID": [
+            2101432
+        ],
+        "SuitBackpackID": [
+            2101442
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100045,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "夏日·泡泡枪型",
+        "SuitWeaponID": [
+            2101416
+        ],
+        "SuitChestID": [
+            2101421
+        ],
+        "SuitLegID": [
+            2101431
+        ],
+        "SuitBackpackID": [
+            2101441
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 5,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 100046,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "支援",
+        "SuitName": "夏日·咸鱼狙击枪型",
+        "SuitWeaponID": [
+            2101417
+        ],
+        "SuitChestID": [
+            2101421
+        ],
+        "SuitLegID": [
+            2101431
+        ],
+        "SuitBackpackID": [
+            2101441
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 7,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 6,
+        "ArmorRate": 7,
+        "ID": 100047,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "夏日·垃圾枪型",
+        "SuitWeaponID": [
+            2101418
+        ],
+        "SuitChestID": [
+            2101422
+        ],
+        "SuitLegID": [
+            2101432
+        ],
+        "SuitBackpackID": [
+            2101442
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 6,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 6,
+        "ID": 100048,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 24,
+        "SeriesName": "夏日回忆",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "夏日·沙滩排球型",
+        "SuitWeaponID": [
+            2101419
+        ],
+        "SuitChestID": [
+            2101423
+        ],
+        "SuitLegID": [
+            2101443
+        ],
+        "SuitBackpackID": [
+            2101433
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "与夏天、沙滩、泳装都很搭配的机甲，仅可以通过《夏日回忆》活动获得。",
+        "HpRate": 5,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 5,
+        "ID": 100049,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "源代码-冲锋装",
+        "SuitWeaponID": [
+            2101316
+        ],
+        "SuitChestID": [
+            2101321
+        ],
+        "SuitLegID": [
+            2101331
+        ],
+        "SuitBackpackID": [
+            2101341
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 7,
+        "AtkRate": 8,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 7,
+        "ID": 100050,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 2,
+        "JuniorGroupName": "突击",
+        "SuitName": "源代码-双刃装",
+        "SuitWeaponID": [
+            2101313
+        ],
+        "SuitChestID": [
+            2101321
+        ],
+        "SuitLegID": [
+            2101331
+        ],
+        "SuitBackpackID": [
+            2101341
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 7,
+        "AtkRate": 7,
+        "DodgeRate": 9,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 100051,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 18,
+        "WeightDesc": "轻型",
+        "GroupID": 3,
+        "JuniorGroupName": "侦查",
+        "SuitName": "源代码-狙击装",
+        "SuitWeaponID": [
+            2101317
+        ],
+        "SuitChestID": [
+            2101321
+        ],
+        "SuitLegID": [
+            2101331
+        ],
+        "SuitBackpackID": [
+            2101341
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 7,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 9,
+        "ArmorRate": 7,
+        "ID": 100052,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "源代码-火炮装",
+        "SuitWeaponID": [
+            2101318
+        ],
+        "SuitChestID": [
+            2101322
+        ],
+        "SuitLegID": [
+            2101332
+        ],
+        "SuitBackpackID": [
+            2101342
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 7,
+        "ID": 100053,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 2,
+        "JuniorGroupName": "拦截",
+        "SuitName": "源代码-轻盾装",
+        "SuitWeaponID": [
+            2101312
+        ],
+        "SuitChestID": [
+            2101322
+        ],
+        "SuitLegID": [
+            2101332
+        ],
+        "SuitBackpackID": [
+            2101342
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 6,
+        "DodgeRate": 7,
+        "HitRate": 7,
+        "ArmorRate": 9,
+        "ID": 100054,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 19,
+        "WeightDesc": "中型",
+        "GroupID": 3,
+        "JuniorGroupName": "突击",
+        "SuitName": "源代码-重机装",
+        "SuitWeaponID": [
+            2101315
+        ],
+        "SuitChestID": [
+            2101322
+        ],
+        "SuitLegID": [
+            2101332
+        ],
+        "SuitBackpackID": [
+            2101342
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 100055,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 1,
+        "JuniorGroupName": "原型",
+        "SuitName": "源代码-强袭装",
+        "SuitWeaponID": [
+            2101314
+        ],
+        "SuitChestID": [
+            2101323
+        ],
+        "SuitLegID": [
+            2101333
+        ],
+        "SuitBackpackID": [
+            2101343
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 100056,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 2,
+        "JuniorGroupName": "防护",
+        "SuitName": "源代码-重盾装",
+        "SuitWeaponID": [
+            2101311
+        ],
+        "SuitChestID": [
+            2101323
+        ],
+        "SuitLegID": [
+            2101333
+        ],
+        "SuitBackpackID": [
+            2101343
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 6,
+        "DodgeRate": 6,
+        "HitRate": 8,
+        "ArmorRate": 9,
+        "ID": 100057,
+        "Name": null
+    },
+    {
+        "WidgetCamp": 8,
+        "WidgetSeries": 25,
+        "SeriesName": "源代码",
+        "WeightSeries": 20,
+        "WeightDesc": "重型",
+        "GroupID": 3,
+        "JuniorGroupName": "支援",
+        "SuitName": "源代码-投射装",
+        "SuitWeaponID": [
+            2101319
+        ],
+        "SuitChestID": [
+            2101323
+        ],
+        "SuitLegID": [
+            2101333
+        ],
+        "SuitBackpackID": [
+            2101343
+        ],
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "SuitDesc": "全身都是由数据代码所生成的电子世界机体，虽说如此但其设计图可是非常严谨的，特点是可以进行远程操控。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 100058,
+        "Name": null
+    },
+    {
         "WidgetCamp": 6,
         "WidgetSeries": 14,
         "SeriesName": "苍鹰",

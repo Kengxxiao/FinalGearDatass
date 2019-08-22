@@ -214,10 +214,34 @@
         "description": "",
         "Nodes": [
             {
-                "stageIndex": 900111,
+                "stageIndex": 900155,
                 "Type": 2,
                 "Desc": "",
                 "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "stageIndex": 900111,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 1,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 2
+                    }
+                ]
+            },
+            {
+                "stageIndex": 900156,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 2,
                 "transitions": []
             }
         ],
@@ -248,6 +272,29 @@
                 "Type": 2,
                 "Desc": "",
                 "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    },
+                    {
+                        "contrast": 1,
+                        "target": 2
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 10000065,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 2,
+                "transitions": []
+            },
+            {
+                "dialogIndex": 91000002,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 3,
                 "transitions": []
             }
         ],

@@ -893,6 +893,17 @@
     {
         "Icon": "e_防御",
         "BasicSpeed": 1.0,
+        "LookRange": 3.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 3.0,
+        "BehaviorTreePath": "NavAI_2stand_3look360",
+        "ShowArrow": 1,
+        "ID": 82,
+        "Name": null
+    },
+    {
+        "Icon": "e_防御",
+        "BasicSpeed": 1.0,
         "LookRange": 2.0,
         "LookConeAngle": 360.0,
         "WarningRange": 3.0,
@@ -1196,6 +1207,17 @@
         "BehaviorTreePath": "NavAI_6escort_NearestPlayer",
         "ShowArrow": 1,
         "ID": 90010101,
+        "Name": null
+    },
+    {
+        "Icon": "BOSS头像",
+        "BasicSpeed": 0.2,
+        "LookRange": 0.0,
+        "LookConeAngle": 0.0,
+        "WarningRange": 0.0,
+        "BehaviorTreePath": "NavAI_3goto_1point",
+        "ShowArrow": 1,
+        "ID": 90011301,
         "Name": null
     }
 ]
