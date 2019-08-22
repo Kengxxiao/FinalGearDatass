@@ -22810,17 +22810,29 @@
                 "Desc": ""
             },
             {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 10000051,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
                 "Left": 0,
                 "Right": 320,
                 "fixAction": 0,
                 "fixActionAniamtionTime": 0.8,
                 "Enabled": false,
                 "Type": 6,
-                "Desc": ""
-            },
-            {
-                "Enabled": true,
-                "Type": 2,
                 "Desc": ""
             },
             {
