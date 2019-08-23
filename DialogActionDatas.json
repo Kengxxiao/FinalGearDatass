@@ -47671,6 +47671,322 @@
     {
         "dataList": [
             {
+                "type": 1,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    1
+                ],
+                "wait": true
+            },
+            {
+                "roleids": [
+                    12
+                ],
+                "skins": [
+                    4
+                ],
+                "styles": [],
+                "position": [],
+                "animationState": [],
+                "pos": [
+                    0
+                ],
+                "BGM": 0,
+                "BackgroundID": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    2
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 1,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "我们接下来的目标——"
+                ],
+                "dialogID": 12,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    3
+                ],
+                "wait": true
+            },
+            {
+                "roleids": [
+                    12
+                ],
+                "skins": [
+                    4
+                ],
+                "styles": [],
+                "position": [],
+                "animationState": [],
+                "pos": [
+                    0
+                ],
+                "BGM": 0,
+                "BackgroundID": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    4
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 1,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "是根据线索寻找隐藏在海内斯市各个地方的水枪零件与弹药。"
+                ],
+                "dialogID": 12,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    5
+                ],
+                "wait": true
+            },
+            {
+                "roleids": [
+                    12
+                ],
+                "skins": [
+                    4
+                ],
+                "styles": [],
+                "position": [],
+                "animationState": [],
+                "pos": [
+                    0
+                ],
+                "BGM": 0,
+                "BackgroundID": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    6
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 1,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "一旦集齐全部零件之后就可以组成完整的水枪。"
+                ],
+                "dialogID": 12,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    7
+                ],
+                "wait": true
+            },
+            {
+                "roleids": [
+                    12
+                ],
+                "skins": [
+                    4
+                ],
+                "styles": [],
+                "position": [],
+                "animationState": [],
+                "pos": [
+                    0
+                ],
+                "BGM": 0,
+                "BackgroundID": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    8
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 1,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "只要用那把水枪命中敌人就能够将对手淘汰。"
+                ],
+                "dialogID": 12,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    9
+                ],
+                "wait": true
+            },
+            {
+                "roleids": [
+                    12
+                ],
+                "skins": [
+                    4
+                ],
+                "styles": [],
+                "position": [],
+                "animationState": [],
+                "pos": [
+                    0
+                ],
+                "BGM": 0,
+                "BackgroundID": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    10
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 1,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "而最终存活的参赛者将会晋级第二阶段的比赛。"
+                ],
+                "dialogID": 12,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "nextNodeList": [
+                    0
+                ],
+                "wait": true
+            }
+        ],
+        "nextDialogID": 0,
+        "preLoad": false,
+        "dialogType": 1,
+        "transitionType": 0,
+        "ID": 12101,
+        "Name": null
+    },
+    {
+        "dataList": [
+            {
                 "BGM": 0,
                 "dialogAnimationID": 0,
                 "dialogName": "",
@@ -94946,7 +95262,7 @@
                 ],
                 "dialogID": 1,
                 "moveCamera": false,
-                "faceIndex": 0,
+                "faceIndex": 3,
                 "animationState": {
                     "x": 0.0,
                     "y": 1.0
@@ -95018,7 +95334,7 @@
                 ],
                 "dialogID": 1,
                 "moveCamera": false,
-                "faceIndex": 0,
+                "faceIndex": 3,
                 "animationState": {
                     "x": 0.0,
                     "y": 1.0
@@ -95090,7 +95406,7 @@
                 ],
                 "dialogID": 1,
                 "moveCamera": false,
-                "faceIndex": 0,
+                "faceIndex": 3,
                 "animationState": {
                     "x": 0.0,
                     "y": 1.0
@@ -98857,7 +99173,7 @@
                 "wait": true
             }
         ],
-        "nextDialogID": 0,
+        "nextDialogID": 91000002,
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
@@ -98950,7 +99266,7 @@
                     "一切都已经准备就绪了。 "
                 ],
                 "dialogID": 12,
-                "moveCamera": true,
+                "moveCamera": false,
                 "faceIndex": 0,
                 "animationState": {
                     "x": 0.0,
@@ -100566,7 +100882,7 @@
                 "wait": true
             }
         ],
-        "nextDialogID": 0,
+        "nextDialogID": 91000011,
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
@@ -103044,7 +103360,7 @@
                 "wait": true
             }
         ],
-        "nextDialogID": 0,
+        "nextDialogID": 10000066,
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
@@ -104075,6 +104391,59 @@
                     "y": 1880.0
                 },
                 "nextNodeList": [
+                    30
+                ],
+                "wait": true
+            },
+            {
+                "waitTime": 4.0,
+                "controleItemPositon": {
+                    "x": 980.0,
+                    "y": 2000.0
+                },
+                "nextNodeList": [
+                    0
+                ],
+                "wait": true
+            }
+        ],
+        "nextDialogID": 10000067,
+        "preLoad": false,
+        "dialogType": 0,
+        "transitionType": 0,
+        "ID": 10000066,
+        "Name": null
+    },
+    {
+        "dataList": [
+            {
+                "roleName": "伊芙琳",
+                "roleID": 1,
+                "waitTimeList": [
+                    2.0,
+                    4.0,
+                    2.0
+                ],
+                "deltaTime": 2.0,
+                "endWaitTime": 4.5,
+                "msg": [
+                    "那、那个…………",
+                    "一直以来…谢谢你了，团长。",
+                    "那、晚安。"
+                ],
+                "face": null,
+                "voice": {
+                    "0": 700100131
+                },
+                "voiceLiveCountDic": {
+                    "0": 4
+                },
+                "videoBackground": 0,
+                "controleItemPositon": {
+                    "x": 360.0,
+                    "y": 40.0
+                },
+                "nextNodeList": [
                     0
                 ],
                 "wait": true
@@ -104084,7 +104453,7 @@
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
-        "ID": 10000066,
+        "ID": 10000067,
         "Name": null
     },
     {
@@ -117641,6 +118010,452 @@
     {
         "dataList": [
             {
+                "id": "Story000010_SC13",
+                "assetName": "Story000010_SC13",
+                "controleItemPositon": {
+                    "x": 100.0,
+                    "y": 100.0
+                },
+                "nextNodeList": [
+                    1
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "Story000010_SC13",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 300.0,
+                    "y": 100.0
+                },
+                "nextNodeList": [
+                    2
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "伊芙琳",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "这里……是哪？"
+                ],
+                "dialogID": 1,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 500.0,
+                    "y": 100.0
+                },
+                "nextNodeList": [
+                    3
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "Story000010_SC13",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 700.0,
+                    "y": 100.0
+                },
+                "nextNodeList": [
+                    4
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "伊芙琳",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "唔……！",
+                    "啊、啊！好疼！",
+                    "我、怎么会……！"
+                ],
+                "dialogID": 1,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 100.0,
+                    "y": 220.0
+                },
+                "nextNodeList": [
+                    5
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "Story000010_SC13",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 280.0,
+                    "y": 220.0
+                },
+                "nextNodeList": [
+                    6
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "伊芙琳",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "怎、怎么回事？"
+                ],
+                "dialogID": 1,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 500.0,
+                    "y": 220.0
+                },
+                "nextNodeList": [
+                    7
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "Story000010_SC13",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 700.0,
+                    "y": 220.0
+                },
+                "nextNodeList": [
+                    8
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "玛格丽特",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "很抱歉我来晚了，我们马上就会把你从这里救出去。"
+                ],
+                "dialogID": 3,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 100.0,
+                    "y": 340.0
+                },
+                "nextNodeList": [
+                    9
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "伊芙琳",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "玛、玛丽……？"
+                ],
+                "dialogID": 1,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 300.0,
+                    "y": 340.0
+                },
+                "nextNodeList": [
+                    10
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "玛格丽特",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "嗯，是我，我就在这里，哪里都不会去。"
+                ],
+                "dialogID": 3,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 500.0,
+                    "y": 340.0
+                },
+                "nextNodeList": [
+                    11
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "伊芙琳",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "是吗……嗯……那就好了……"
+                ],
+                "dialogID": 1,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 700.0,
+                    "y": 340.0
+                },
+                "nextNodeList": [
+                    12
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "玛格丽特",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "这里是营救小队，已确保伊芙琳的人身安全，现在开始撤退。"
+                ],
+                "dialogID": 3,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 100.0,
+                    "y": 460.0
+                },
+                "nextNodeList": [
+                    13
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 340.0,
+                    "y": 480.0
+                },
+                "nextNodeList": [
+                    14
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "维洛妮卡",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "很好，我设计了一条逃离路线，我们一起从那里离开。"
+                ],
+                "dialogID": 4,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 620.0,
+                    "y": 480.0
+                },
+                "nextNodeList": [
+                    15
+                ],
+                "wait": true
+            },
+            {
+                "textboxtype": 2,
+                "textboxskin": 0,
+                "dialogName": "玛格丽特",
+                "pos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowPos": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "arrowDown": true,
+                "msg": [
+                    "收到。"
+                ],
+                "dialogID": 3,
+                "moveCamera": true,
+                "faceIndex": 0,
+                "animationState": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "autoPlayTime": 0.0,
+                "voice": {},
+                "liveCount": 0,
+                "controleItemPositon": {
+                    "x": 1020.0,
+                    "y": 480.0
+                },
+                "nextNodeList": [
+                    16
+                ],
+                "wait": true
+            },
+            {
+                "gameObjectID": "Story000010_SC13",
+                "type": 0,
+                "controleItemPositon": {
+                    "x": 1240.0,
+                    "y": 480.0
+                },
+                "nextNodeList": [
+                    0
+                ],
+                "wait": true
+            }
+        ],
+        "nextDialogID": 91000013,
+        "preLoad": true,
+        "dialogType": 2,
+        "transitionType": 0,
+        "ID": 12000013,
+        "Name": null
+    },
+    {
+        "dataList": [
+            {
                 "id": "Story000040_SC01",
                 "assetName": "Story000040_SC01",
                 "controleItemPositon": {
@@ -121507,7 +122322,7 @@
                 "wait": true
             }
         ],
-        "nextDialogID": 10000051,
+        "nextDialogID": 0,
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
@@ -121603,7 +122418,7 @@
                 "wait": true
             }
         ],
-        "nextDialogID": 0,
+        "nextDialogID": 12000013,
         "preLoad": false,
         "dialogType": 0,
         "transitionType": 0,
@@ -121632,6 +122447,30 @@
         "dialogType": 0,
         "transitionType": 0,
         "ID": 91000012,
+        "Name": null
+    },
+    {
+        "dataList": [
+            {
+                "videoName": "Evelynn_ed",
+                "baomu": false,
+                "chapterIndex": "",
+                "title": "",
+                "controleItemPositon": {
+                    "x": 100.0,
+                    "y": 50.0
+                },
+                "nextNodeList": [
+                    0
+                ],
+                "wait": true
+            }
+        ],
+        "nextDialogID": 10000063,
+        "preLoad": false,
+        "dialogType": 0,
+        "transitionType": 0,
+        "ID": 91000013,
         "Name": null
     },
     {
@@ -130631,7 +131470,7 @@
                 },
                 "arrowDown": true,
                 "msg": [
-                    "听说你在途中遇到麻烦了？ "
+                    "灏戝コ鎲庢仺鐫�杩欎釜涓栫晫。"
                 ],
                 "dialogID": 59,
                 "moveCamera": false,
