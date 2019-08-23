@@ -1,0 +1,58 @@
+[
+    {
+        "BikiniGacyaType": 0,
+        "ActivityID": 2,
+        "GacyaName": "扭蛋1期",
+        "Number": 1,
+        "OnceNeed": [
+            11700007,
+            1
+        ],
+        "GacyaRandom": 1,
+        "ResourceName": "gachaBanner1",
+        "ID": 1001,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": 0,
+        "ActivityID": 3,
+        "GacyaName": "扭蛋2期",
+        "Number": 2,
+        "OnceNeed": [
+            11700007,
+            1
+        ],
+        "GacyaRandom": 2,
+        "ResourceName": "gachaBanner2",
+        "ID": 1002,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": 0,
+        "ActivityID": 4,
+        "GacyaName": "扭蛋3期",
+        "Number": 3,
+        "OnceNeed": [
+            11700007,
+            1
+        ],
+        "GacyaRandom": 3,
+        "ResourceName": "gachaBanner3",
+        "ID": 1003,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": 0,
+        "ActivityID": 5,
+        "GacyaName": "扭蛋4期",
+        "Number": 4,
+        "OnceNeed": [
+            11700007,
+            1
+        ],
+        "GacyaRandom": 4,
+        "ResourceName": "gachaBanner4",
+        "ID": 1004,
+        "Name": null
+    }
+]

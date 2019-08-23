@@ -1,0 +1,542 @@
+[
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "完成20次任意夏日回忆活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 20,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "进行3次机师招募",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 3,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700011,
+            1
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "在夏日回忆活动关卡内累积击败500名敌人",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 500,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700007,
+            10
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "完成3次夏日回忆挑战关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 3,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "进行5次部件研发",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 5,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700011,
+            1
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 0,
+        "BikiniTaskDesc": "完成1次远征",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700011,
+            1
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "完成150次任意夏日回忆活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 150,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700005,
+            50
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "进行15次机师招募",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 15,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            10800001,
+            10
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "在夏日回忆活动关卡内累积击败3000名敌人",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 3000,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700007,
+            50
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "完成15次夏日回忆挑战关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 15,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            10400000,
+            100000
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "进行50次部件研发",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 50,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11700011,
+            3
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 1,
+        "BikiniTaskDesc": "完成10次远征",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 10,
+        "BikiniTaskPara2": 0,
+        "BikiniTaskReward": [
+            11200004,
+            1
+        ],
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-1-1活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7101,
+        "BikiniTaskReward": [
+            11700001,
+            800
+        ],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-1-2活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 13,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7102,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-1-3活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 14,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7103,
+        "BikiniTaskReward": [
+            11700011,
+            3
+        ],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-1-4活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 15,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7104,
+        "BikiniTaskReward": [
+            11700007,
+            10
+        ],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-2-1活动关卡",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7201,
+        "BikiniTaskReward": [
+            11700002,
+            800
+        ],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-2-2活动关卡",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 17,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7202,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-2-3活动关卡",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 18,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7203,
+        "BikiniTaskReward": [
+            11700011,
+            3
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-2-4活动关卡",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 19,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7204,
+        "BikiniTaskReward": [
+            11700007,
+            10
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-3-1活动关卡",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7301,
+        "BikiniTaskReward": [
+            11700003,
+            800
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-3-2活动关卡",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 21,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7302,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-3-3活动关卡",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 22,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7303,
+        "BikiniTaskReward": [
+            11700011,
+            3
+        ],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-3-4活动关卡",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 23,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7304,
+        "BikiniTaskReward": [
+            11700007,
+            10
+        ],
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-4-1活动关卡",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7401,
+        "BikiniTaskReward": [
+            11700004,
+            800
+        ],
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-4-2活动关卡",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 25,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7402,
+        "BikiniTaskReward": [
+            11700005,
+            10
+        ],
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-4-3活动关卡",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 26,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7403,
+        "BikiniTaskReward": [
+            11700011,
+            3
+        ],
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "以3星评价通关M-4-4活动关卡",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 27,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7404,
+        "BikiniTaskReward": [
+            11700007,
+            10
+        ],
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "从第1期扭蛋机中获得机师皮肤奖励",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 11130112,
+        "BikiniTaskReward": [
+            10900002,
+            10
+        ],
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "从第2期扭蛋机中获得机师皮肤奖励",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 29,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 11130128,
+        "BikiniTaskReward": [
+            10900001,
+            5
+        ],
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "从第3期扭蛋机中获得机师皮肤奖励",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 30,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 11100106,
+        "BikiniTaskReward": [
+            11300007,
+            1
+        ],
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "从第4期扭蛋机中获得机师皮肤奖励",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 31,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 11120041,
+        "BikiniTaskReward": [
+            11300007,
+            3
+        ],
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "通关挑战Ex-1-4 (英雄)活动关卡",
+        "BikiniTaskID": 2,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7111,
+        "BikiniTaskReward": [
+            11700007,
+            20
+        ],
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "通关挑战Ex-2-4 (英雄)活动关卡",
+        "BikiniTaskID": 3,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7211,
+        "BikiniTaskReward": [
+            11700007,
+            20
+        ],
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "通关挑战Ex-3-4 (英雄)活动关卡",
+        "BikiniTaskID": 4,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7311,
+        "BikiniTaskReward": [
+            11700007,
+            20
+        ],
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "BikiniTaskReset": 2,
+        "BikiniTaskDesc": "通关挑战Ex-4-4 (英雄)活动关卡",
+        "BikiniTaskID": 5,
+        "BikiniTaskType": 0,
+        "PreTask": 0,
+        "BikiniTaskPara": 1,
+        "BikiniTaskPara2": 7411,
+        "BikiniTaskReward": [
+            11700007,
+            20
+        ],
+        "ID": 36,
+        "Name": null
+    }
+]
