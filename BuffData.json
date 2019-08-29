@@ -1099,7 +1099,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -1109,19 +1109,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.03
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10081310,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -1131,19 +1131,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.035
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10081320,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -1153,19 +1153,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.04
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10081330,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -1175,19 +1175,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.045
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10081340,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -1197,14 +1197,14 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.055
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10081350,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 1,
@@ -3079,7 +3079,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -3089,41 +3089,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
-            0.025
-        ],
-        "SameBuffType": 0,
-        "OverlayLimit": 1,
-        "IfDispel": true,
-        "ID": 10161310,
-        "Name": "耐久光环"
-    },
-    {
-        "BuffEffectType": 2,
-        "BuffDuration": 0,
-        "BuffIcon": "61000014",
-        "BuffArtEffect": "",
-        "BuffArtEffectID": 0,
-        "BuffEndType": 0,
-        "BuffEndParam": [],
-        "BuffState": 1,
-        "BuffGap": 0,
-        "HaloRange": 0.0,
-        "BuffPropertySource": 0,
-        "BuffEffectPara": [
-            23.0,
+            68.0,
             0.03
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10161320,
-        "Name": "耐久光环"
+        "ID": 10161310,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -3133,19 +3111,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.035
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10161330,
-        "Name": "耐久光环"
+        "ID": 10161320,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -3155,19 +3133,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.04
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10161340,
-        "Name": "耐久光环"
+        "ID": 10161330,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -3177,14 +3155,36 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
-            0.05
+            68.0,
+            0.045
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10161340,
+        "Name": "减伤光环"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000023",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            0.055
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10161350,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
@@ -4279,7 +4279,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -4289,19 +4289,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 90211210,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -4311,19 +4311,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 90211220,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -4333,19 +4333,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 90211230,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -4355,19 +4355,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 90211240,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -4377,14 +4377,14 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 90211250,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 1,
@@ -6039,7 +6039,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6049,41 +6049,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
-            0.03
-        ],
-        "SameBuffType": 0,
-        "OverlayLimit": 1,
-        "IfDispel": true,
-        "ID": 10281310,
-        "Name": "耐久光环"
-    },
-    {
-        "BuffEffectType": 2,
-        "BuffDuration": 0,
-        "BuffIcon": "61000014",
-        "BuffArtEffect": "",
-        "BuffArtEffectID": 0,
-        "BuffEndType": 0,
-        "BuffEndParam": [],
-        "BuffState": 1,
-        "BuffGap": 0,
-        "HaloRange": 0.0,
-        "BuffPropertySource": 0,
-        "BuffEffectPara": [
-            23.0,
+            68.0,
             0.035
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10281320,
-        "Name": "耐久光环"
+        "ID": 10281310,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6093,19 +6071,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.04
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10281330,
-        "Name": "耐久光环"
+        "ID": 10281320,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6115,19 +6093,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.045
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10281340,
-        "Name": "耐久光环"
+        "ID": 10281330,
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6137,14 +6115,36 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10281340,
+        "Name": "减伤光环"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000023",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
             0.06
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10281350,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
@@ -11064,7 +11064,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -11074,19 +11074,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10611210,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -11096,19 +11096,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.06
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10611220,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -11118,19 +11118,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.07
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10611230,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -11140,19 +11140,19 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.08
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10611240,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "61000014",
+        "BuffIcon": "60000023",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -11162,14 +11162,14 @@
         "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            23.0,
+            68.0,
             0.1
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10611250,
-        "Name": "耐久光环"
+        "Name": "减伤光环"
     },
     {
         "BuffEffectType": 1,
@@ -14252,9 +14252,9 @@
         "Name": "受伤增加"
     },
     {
-        "BuffEffectType": 1,
-        "BuffDuration": 6000,
-        "BuffIcon": "62000008",
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000017",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -14264,19 +14264,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            75.0,
-            -0.5
+            50.0,
+            0.1
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791110,
-        "Name": "移速降低"
+        "Name": "命中几率"
     },
     {
-        "BuffEffectType": 1,
-        "BuffDuration": 6000,
-        "BuffIcon": "62000008",
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000017",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -14286,19 +14286,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            75.0,
-            -0.5
+            50.0,
+            0.1
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791120,
-        "Name": "移速降低"
+        "Name": "命中几率"
     },
     {
-        "BuffEffectType": 1,
-        "BuffDuration": 6000,
-        "BuffIcon": "62000008",
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000017",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -14308,19 +14308,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            75.0,
-            -0.5
+            50.0,
+            0.1
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791130,
-        "Name": "移速降低"
+        "Name": "命中几率"
     },
     {
-        "BuffEffectType": 1,
-        "BuffDuration": 6000,
-        "BuffIcon": "62000008",
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000017",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -14330,19 +14330,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            75.0,
-            -0.5
+            50.0,
+            0.1
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791140,
-        "Name": "移速降低"
+        "Name": "命中几率"
     },
     {
-        "BuffEffectType": 1,
-        "BuffDuration": 6000,
-        "BuffIcon": "62000008",
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000017",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -14352,14 +14352,14 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            75.0,
-            -0.5
+            50.0,
+            0.1
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791150,
-        "Name": "移速降低"
+        "Name": "命中几率"
     },
     {
         "BuffEffectType": 1,
@@ -14583,113 +14583,113 @@
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
-        "BuffIcon": "60000020",
+        "BuffDuration": 0,
+        "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            72.0,
-            0.01
+            54.0,
+            0.03
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791310,
-        "Name": "攻击速度"
+        "Name": "暴击光环"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
-        "BuffIcon": "60000020",
+        "BuffDuration": 0,
+        "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            72.0,
-            0.02
+            54.0,
+            0.035
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791320,
-        "Name": "攻击速度"
+        "Name": "暴击光环"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
-        "BuffIcon": "60000020",
+        "BuffDuration": 0,
+        "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            72.0,
-            0.03
+            54.0,
+            0.04
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791330,
-        "Name": "攻击速度"
+        "Name": "暴击光环"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
-        "BuffIcon": "60000020",
+        "BuffDuration": 0,
+        "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            72.0,
-            0.04
+            54.0,
+            0.045
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791340,
-        "Name": "攻击速度"
+        "Name": "暴击光环"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
-        "BuffIcon": "60000020",
+        "BuffDuration": 0,
+        "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -1.0,
+        "HaloRange": 0.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            72.0,
+            54.0,
             0.06
         ],
-        "SameBuffType": 1,
+        "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10791350,
-        "Name": "攻击速度"
+        "Name": "暴击光环"
     },
     {
         "BuffEffectType": 2,

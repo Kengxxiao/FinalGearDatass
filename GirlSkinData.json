@@ -4116,5 +4116,46 @@
         ],
         "ID": 4304,
         "Name": null
+    },
+    {
+        "GirlId": 78,
+        "Skin": 3,
+        "SkinName": "海边小憩 涅普莉姆",
+        "SkillArray": [
+            [
+                780301,
+                1
+            ],
+            [
+                780302,
+                3
+            ],
+            [
+                780303,
+                4
+            ],
+            [
+                780304,
+                5
+            ]
+        ],
+        "ModelID": 25000782,
+        "MapHeadIcon": "MapHead_Pilot_000782",
+        "StageHeadIcon": "StageHead_Pilot_000782",
+        "HeadIcon": "Head_Pilot_000782",
+        "HeadIcon_square": "SquareHead_Pilot_000782",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000782",
+        "Image": "Image_Pilot_000782",
+        "Cartoon": "spine_Pilot_000782",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000782",
+        "GirlVoice": "",
+        "RoleVoice": 1000782,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 7803,
+        "Name": null
     }
 ]

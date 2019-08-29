@@ -3118,7 +3118,7 @@
     },
     {
         "Description": "这张相片记录了九条绫与她的流浪武士进行战斗准备的瞬间。",
-        "Icon": "84000241",
+        "Icon": "84000249",
         "Background": "",
         "ItemClassify": 2,
         "ItemType": 11,
@@ -3144,7 +3144,7 @@
     },
     {
         "Description": "换上了故乡服饰的九条绫身上又多出了几分纯粹的女性美。",
-        "Icon": "84000242",
+        "Icon": "84000241",
         "Background": "",
         "ItemClassify": 2,
         "ItemType": 11,
@@ -3843,6 +3843,32 @@
         "ShopID": [],
         "ID": 11100106,
         "Name": "夏日狂欢 玛丽(皮肤)"
+    },
+    {
+        "Description": "平日里忙碌的少女偶尔也需要休息一下，顺带一提，最好不要去询问冲浪板的价格比较好哦。\n<color=yellow>功能：获得《海边小憩 涅普莉姆》机师皮肤和舰桥CG</color>",
+        "Icon": "84000782",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 11,
+        "IsCountBag": true,
+        "ItemQualityType": 1,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 13,
+        "UsedGetPara": [
+            20078
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 15,
+        "ShopID": [],
+        "ID": 11100078,
+        "Name": "海边小憩 涅普莉姆"
     },
     {
         "Description": "这是一份基地车在高原上行驶时的记录。\n高原为爱蕾塔东南部以及克格亚西南部的主要地形特征。",
