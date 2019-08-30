@@ -1,5 +1,6 @@
 [
     {
+        "Number": 1,
         "ActivityID": 5,
         "Time": 0,
         "Award": [
@@ -9,10 +10,12 @@
         "Speed": 0.4,
         "EnemyID": 33,
         "EnemyName": "魔女的假日",
+        "Talk": "我是不会手下留情的。",
         "ID": 1,
         "Name": null
     },
     {
+        "Number": 2,
         "ActivityID": 5,
         "Time": 10,
         "Award": [
@@ -22,10 +25,12 @@
         "Speed": 0.4,
         "EnemyID": 38,
         "EnemyName": "沙滩大放送",
+        "Talk": "呀吼！接下来要进行的是沙滩排球对决！",
         "ID": 2,
         "Name": null
     },
     {
+        "Number": 3,
         "ActivityID": 5,
         "Time": 34,
         "Award": [
@@ -35,10 +40,12 @@
         "Speed": 0.5,
         "EnemyID": 43,
         "EnemyName": "甜甜泳圈",
+        "Talk": "啪啪啪啦！妮娅想吃好吃的东西！",
         "ID": 3,
         "Name": null
     },
     {
+        "Number": 4,
         "ActivityID": 5,
         "Time": 58,
         "Award": [
@@ -48,10 +55,12 @@
         "Speed": 0.5,
         "EnemyID": 82,
         "EnemyName": "海边邂逅",
+        "Talk": "呼呼，我看到了哦，这场胜负的结局。",
         "ID": 4,
         "Name": null
     },
     {
+        "Number": 5,
         "ActivityID": 5,
         "Time": 82,
         "Award": [
@@ -61,10 +70,12 @@
         "Speed": 0.6,
         "EnemyID": 24,
         "EnemyName": "盛夏淑女",
+        "Talk": "久违的运动呢，还请多多指教。",
         "ID": 5,
         "Name": null
     },
     {
+        "Number": 6,
         "ActivityID": 5,
         "Time": 106,
         "Award": [
@@ -74,10 +85,12 @@
         "Speed": 0.6,
         "EnemyID": 28,
         "EnemyName": "清凉一夏",
+        "Talk": "可不要小看了我哦，我可是不会输给你的！",
         "ID": 6,
         "Name": null
     },
     {
+        "Number": 7,
         "ActivityID": 5,
         "Time": 130,
         "Award": [
@@ -87,6 +100,7 @@
         "Speed": 0.7,
         "EnemyID": 32,
         "EnemyName": "沙滩狂想曲",
+        "Talk": "来一场堂堂正正的较量吧。",
         "ID": 7,
         "Name": null
     }
