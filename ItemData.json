@@ -3273,6 +3273,32 @@
         "Name": "鸢尾花 艾姬&佩姬"
     },
     {
+        "Description": "在盛夏时分降临到海边的双子天使，充满活力的造型照耀着沙滩上的每一个人。\n<color=yellow>功能：获得《沙滩写真 艾姬&佩姬》机师皮肤和舰桥CG</color>",
+        "Icon": "84000503",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 11,
+        "IsCountBag": true,
+        "ItemQualityType": 1,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 13,
+        "UsedGetPara": [
+            20050
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 15,
+        "ShopID": [],
+        "ID": 11200050,
+        "Name": "沙滩写真 艾姬&佩姬"
+    },
+    {
         "Description": "『提到夏日当然就是泳装了。』\n『嗯？我也就只买了十几件泳装而已。』\n<color=yellow>功能：获得《夏日狂欢 玛丽》舰桥CG</color>",
         "Icon": "82020038",
         "Background": "",
@@ -17282,5 +17308,31 @@
         "ShopID": [],
         "ID": 13200001,
         "Name": "月卡补偿册"
+    },
+    {
+        "Description": "兑换后可以获得一件60级SR品质的芯片\n<color=yellow>类型：芯片</color>",
+        "Icon": "82020012",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 4,
+        "UsedGetPara": [
+            7140419
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13100073,
+        "Name": "60级芯片"
     }
 ]

@@ -22187,7 +22187,14 @@
                                         "scale": 1.0
                                     }
                                 ],
-                                "soundIDs": null
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400200130
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -22322,7 +22329,12 @@
                     }
                 ],
                 "screenShakeIDs": null,
-                "soundID": null
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 400400060
+                }
             },
             {
                 "eventName": "actionEvent2",
@@ -22338,7 +22350,12 @@
                     }
                 ],
                 "screenShakeIDs": null,
-                "soundID": null
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 400400060
+                }
             }
         ],
         "skills": [
@@ -23310,7 +23327,28 @@
                 "getPowerRatio": 1.0,
                 "active": true,
                 "movieChannel": 0,
-                "animationEffectData": null
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "start": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 400400170
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
             }
         },
         "preview": "HD1st enemy/伊芙琳章节3_地雷_Enemy_103010",
@@ -26953,9 +26991,9 @@
         },
         "preview": "HD1st enemy/伊芙琳章节3Boss_比克曼博士_Boss_000030",
         "previewBounds": {
-            "x": -0.088618,
-            "y": 1.661649,
-            "z": 1.121937,
+            "x": 0.7936822,
+            "y": 1.862581,
+            "z": 3.507927,
             "w": 3.2
         },
         "ID": 42000003,
@@ -30372,7 +30410,48 @@
                                         "scale": 1.0
                                     }
                                 ],
-                                "soundIDs": null
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400100010
+                                    }
+                                ]
+                            }
+                        ],
+                        "skille_3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.66,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 550007020
+                                    }
+                                ]
+                            }
+                        ],
+                        "skille_4_3": [
+                            {
+                                "positionBone": "",
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 550007030
+                                    }
+                                ]
                             }
                         ]
                     }

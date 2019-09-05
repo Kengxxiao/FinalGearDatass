@@ -37315,6 +37315,506 @@
         "Name": null
     },
     {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 30000503,
+        "TrunkSkillName": "美妙旋律",
+        "TrunkSkillIcon": "71000500",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "姐姐妹妹一起唱歌跳舞，使所有队友在接下来的15秒内，造成的伤害提高11%",
+        "PowerNeed": 5400,
+        "SkillAggRatio": 0.11,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1050411,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 30000503,
+        "TrunkSkillName": "美妙旋律",
+        "TrunkSkillIcon": "71000500",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "姐姐妹妹一起唱歌跳舞，使所有队友在接下来的15秒内，造成的伤害提高13%",
+        "PowerNeed": 5400,
+        "SkillAggRatio": 0.13,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1050412,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 30000503,
+        "TrunkSkillName": "美妙旋律",
+        "TrunkSkillIcon": "71000500",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "姐姐妹妹一起唱歌跳舞，使所有队友在接下来的15秒内，造成的伤害提高15%",
+        "PowerNeed": 5400,
+        "SkillAggRatio": 0.15,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1050413,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 30000503,
+        "TrunkSkillName": "美妙旋律",
+        "TrunkSkillIcon": "71000500",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "姐姐妹妹一起唱歌跳舞，使所有队友在接下来的15秒内，造成的伤害提高18%",
+        "PowerNeed": 5400,
+        "SkillAggRatio": 0.18,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1050414,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 30000503,
+        "TrunkSkillName": "美妙旋律",
+        "TrunkSkillIcon": "71000500",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "姐姐妹妹一起唱歌跳舞，使所有队友在接下来的15秒内，造成的伤害提高22%",
+        "PowerNeed": 5400,
+        "SkillAggRatio": 0.22,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1050415,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "攻击强化",
+        "TrunkSkillIcon": "71000501",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身7.5%的攻击属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.075
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050421,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "攻击强化",
+        "TrunkSkillIcon": "71000501",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身9%的攻击属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.09
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050422,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "攻击强化",
+        "TrunkSkillIcon": "71000501",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身10.5%的攻击属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.105
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050423,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "攻击强化",
+        "TrunkSkillIcon": "71000501",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身12%的攻击属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.12
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050424,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "攻击强化",
+        "TrunkSkillIcon": "71000501",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.155
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050425,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害光环",
+        "TrunkSkillIcon": "71000502",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "艾姬&佩姬在场时，可以使场上所有队友的伤害提高3%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050431,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害光环",
+        "TrunkSkillIcon": "71000502",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "艾姬&佩姬在场时，可以使场上所有队友的伤害提高3.5%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050432,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害光环",
+        "TrunkSkillIcon": "71000502",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "艾姬&佩姬在场时，可以使场上所有队友的伤害提高4%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050433,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害光环",
+        "TrunkSkillIcon": "71000502",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "艾姬&佩姬在场时，可以使场上所有队友的伤害提高4.5%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050434,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "伤害光环",
+        "TrunkSkillIcon": "71000502",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "艾姬&佩姬在场时，可以使场上所有队友的伤害提高6%",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10501350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050435,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "耐久强化",
+        "TrunkSkillIcon": "71000503",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身7.5%的耐久属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.075
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050441,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "耐久强化",
+        "TrunkSkillIcon": "71000503",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身9%的耐久属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.09
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050442,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "耐久强化",
+        "TrunkSkillIcon": "71000503",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身10.5%的耐久属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.105
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050443,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "耐久强化",
+        "TrunkSkillIcon": "71000503",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身12%的耐久属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.12
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050444,
+        "Name": null
+    },
+    {
+        "CharacterName": "沙滩写真 艾姬&佩姬",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "耐久强化",
+        "TrunkSkillIcon": "71000503",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的耐久属性",
+        "PowerNeed": 0,
+        "SkillAggRatio": 0.0,
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.155
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1050445,
+        "Name": null
+    },
+    {
         "CharacterName": "米拉",
         "SkillActionEffect": 30000530,
         "TrunkSkillName": "致命爪击",

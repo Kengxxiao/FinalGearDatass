@@ -4157,5 +4157,46 @@
         ],
         "ID": 7803,
         "Name": null
+    },
+    {
+        "GirlId": 50,
+        "Skin": 4,
+        "SkinName": "沙滩写真 艾姬&佩姬",
+        "SkillArray": [
+            [
+                500401,
+                1
+            ],
+            [
+                500402,
+                3
+            ],
+            [
+                500403,
+                4
+            ],
+            [
+                500404,
+                5
+            ]
+        ],
+        "ModelID": 25000503,
+        "MapHeadIcon": "MapHead_Pilot_000503",
+        "StageHeadIcon": "StageHead_Pilot_000503",
+        "HeadIcon": "Head_Pilot_000503",
+        "HeadIcon_square": "SquareHead_Pilot_000503",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000503",
+        "Image": "Image_Pilot_000503",
+        "Cartoon": "spine_Pilot_000503",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000503",
+        "GirlVoice": "Eggy&Peggy",
+        "RoleVoice": 1000503,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 5004,
+        "Name": null
     }
 ]
