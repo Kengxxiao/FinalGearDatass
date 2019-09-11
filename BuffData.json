@@ -12610,12 +12610,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.005
+            0.0025
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12632,12 +12632,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.01
+            0.005
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12654,12 +12654,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.02
+            0.01
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12676,12 +12676,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.03
+            0.015
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12698,12 +12698,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.05
+            0.025
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12940,12 +12940,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.01
+            0.005
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12962,12 +12962,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.02
+            0.01
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -12984,12 +12984,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.04
+            0.02
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -13006,12 +13006,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.06
+            0.03
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -13028,12 +13028,12 @@
         "BuffEndType": 0,
         "BuffEndParam": [],
         "BuffState": 17,
-        "BuffGap": 1000,
+        "BuffGap": 500,
         "HaloRange": -1.0,
         "BuffPropertySource": 1,
         "BuffEffectPara": [
             25.0,
-            0.1
+            0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
