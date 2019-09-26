@@ -18977,7 +18977,7 @@
             0
         ],
         "winCond": 1,
-        "failedCond": 3,
+        "failedCond": 11,
         "beforeBattleDialog": 0,
         "afterBattleDialog": 0,
         "UseKillNum": false,
@@ -18987,15 +18987,17 @@
         "arriveTarget": null,
         "defendMonsterNum": 0,
         "defendTargets": null,
-        "ProtectIndexs": [],
+        "ProtectIndexs": [
+            0
+        ],
         "PlayerBuffs": [],
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
+            2101,
             2203,
-            2205,
-            2304,
-            2303
+            2303,
+            2201
         ],
         "Nodes": [
             {

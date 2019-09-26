@@ -47891,5 +47891,101 @@
         ],
         "ID": 2499,
         "Name": null
+    },
+    {
+        "RandomLibraryID": 10104,
+        "StuffID": 10500011,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2500,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 910104,
+        "StuffID": 10500011,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2501,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 910101,
+        "StuffID": 10500082,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2502,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 910102,
+        "StuffID": 10500082,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2503,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 910103,
+        "StuffID": 10500082,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2504,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 910104,
+        "StuffID": 10500082,
+        "StuffType": 0,
+        "RecruitTime": 180,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 2505,
+        "Name": null
     }
 ]
