@@ -1,0 +1,49 @@
+[
+    {
+        "WeeklyMapID": 10001,
+        "WeeklyStageName": "大型委托-奈布拉",
+        "WeeklyStageDisc": "作为大陆最混乱、最危险的地区之一，奈布拉隐藏着数个强盗团组织，想要在此立足，强盗的防范对策是必要的。",
+        "WeeklyStageIcon": "stageIcon_weekly",
+        "UnlockType": [],
+        "AreaID": 1,
+        "AreaBlockID": 1004,
+        "StageResources": "TB_01",
+        "RegionMapLocation": 110001,
+        "OpenTime": "2019/10/11 14:00:00",
+        "BattleStageID": [
+            1000101,
+            1000102,
+            1000103,
+            1000104,
+            1000105,
+            1000106
+        ],
+        "WeeklyRefresh": 360,
+        "WeeklyDrop": [
+            13200012,
+            11502023,
+            11502026,
+            11502032,
+            11410001,
+            11410002,
+            11410003,
+            11410004,
+            10800003,
+            10800006,
+            10800005,
+            10800004,
+            11502028,
+            11502029,
+            11502030,
+            11502022,
+            11502027,
+            10400000,
+            10800001,
+            10800002
+        ],
+        "WeeklyShopID": 3000,
+        "WeeklyHighShopID": 3002,
+        "ID": 1,
+        "Name": null
+    }
+]

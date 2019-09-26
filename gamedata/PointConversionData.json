@@ -1,0 +1,258 @@
+[
+    {
+        "ExchangeName": "小电视",
+        "ContentID": [
+            11400002,
+            1
+        ],
+        "Frequency": 400,
+        "Consume": 3,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 5,
+        "ID": 1000001,
+        "Name": null
+    },
+    {
+        "ExchangeName": "2000金币箱",
+        "ContentID": [
+            10400007,
+            1
+        ],
+        "Frequency": 180,
+        "Consume": 15,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 6,
+        "ID": 1000002,
+        "Name": null
+    },
+    {
+        "ExchangeName": "推荐信",
+        "ContentID": [
+            10800001,
+            1
+        ],
+        "Frequency": 60,
+        "Consume": 20,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 7,
+        "ID": 1000003,
+        "Name": null
+    },
+    {
+        "ExchangeName": "系统升级",
+        "ContentID": [
+            11300000,
+            1
+        ],
+        "Frequency": 70,
+        "Consume": 6,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 8,
+        "ID": 1000004,
+        "Name": null
+    },
+    {
+        "ExchangeName": "谜之加速装置",
+        "ContentID": [
+            10900001,
+            1
+        ],
+        "Frequency": 50,
+        "Consume": 6,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 9,
+        "ID": 1000005,
+        "Name": null
+    },
+    {
+        "ExchangeName": "神秘加速装置",
+        "ContentID": [
+            10900002,
+            1
+        ],
+        "Frequency": 50,
+        "Consume": 6,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 10,
+        "ID": 1000006,
+        "Name": null
+    },
+    {
+        "ExchangeName": "武器设计图",
+        "ContentID": [
+            10800003,
+            1
+        ],
+        "Frequency": 28,
+        "Consume": 10,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 11,
+        "ID": 1000007,
+        "Name": null
+    },
+    {
+        "ExchangeName": "精英进阶教本",
+        "ContentID": [
+            11300007,
+            1
+        ],
+        "Frequency": 5,
+        "Consume": 100,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 12,
+        "ID": 1000008,
+        "Name": null
+    },
+    {
+        "ExchangeName": "高级战斗序列",
+        "ContentID": [
+            11200003,
+            1
+        ],
+        "Frequency": 50,
+        "Consume": 40,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 13,
+        "ID": 1000009,
+        "Name": null
+    },
+    {
+        "ExchangeName": "特级战斗序列",
+        "ContentID": [
+            11200004,
+            1
+        ],
+        "Frequency": 16,
+        "Consume": 72,
+        "DailyRefresh": 0,
+        "NumberOfPurchases": 0,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            0
+        ],
+        "ItemOrder": 14,
+        "ID": 1000010,
+        "Name": null
+    },
+    {
+        "ExchangeName": "弹幕机甲KT-01投射炮",
+        "ContentID": [
+            13000011,
+            1
+        ],
+        "Frequency": 3,
+        "Consume": 200,
+        "DailyRefresh": 1,
+        "NumberOfPurchases": 1,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            10100002,
+            100
+        ],
+        "ItemOrder": 1,
+        "ID": 1000011,
+        "Name": null
+    },
+    {
+        "ExchangeName": "弹幕机甲KT-01座舱",
+        "ContentID": [
+            13000012,
+            1
+        ],
+        "Frequency": 3,
+        "Consume": 200,
+        "DailyRefresh": 1,
+        "NumberOfPurchases": 1,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            10100002,
+            100
+        ],
+        "ItemOrder": 2,
+        "ID": 1000012,
+        "Name": null
+    },
+    {
+        "ExchangeName": "弹幕机甲KT-01机械足",
+        "ContentID": [
+            13000013,
+            1
+        ],
+        "Frequency": 3,
+        "Consume": 200,
+        "DailyRefresh": 1,
+        "NumberOfPurchases": 1,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            10100002,
+            100
+        ],
+        "ItemOrder": 3,
+        "ID": 1000013,
+        "Name": null
+    },
+    {
+        "ExchangeName": "弹幕机甲KT-01挂载",
+        "ContentID": [
+            13000014,
+            1
+        ],
+        "Frequency": 3,
+        "Consume": 200,
+        "DailyRefresh": 1,
+        "NumberOfPurchases": 1,
+        "PurchaseCap": 0,
+        "PurchaseConsumption": [
+            10100002,
+            100
+        ],
+        "ItemOrder": 4,
+        "ID": 1000014,
+        "Name": null
+    }
+]
