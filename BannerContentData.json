@@ -91,8 +91,8 @@
     },
     {
         "BannerName": "克尔贝洛之影",
-        "OpenTime": "2019/7/30 14:00:00",
-        "CloseTime": "2019/8/13 13:59:59",
+        "OpenTime": "2019/10/10 14:30:00",
+        "CloseTime": "2029/8/13 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity1",
         "LinkPage": 5,
@@ -112,7 +112,7 @@
     {
         "BannerName": "十连招募-病毒伊芙琳",
         "OpenTime": "2019/9/5 14:00:00",
-        "CloseTime": "2019/9/26 13:59:59",
+        "CloseTime": "2019/9/24 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity11",
         "LinkPage": 3,
@@ -147,6 +147,46 @@
         "PictureName": "gameActivity16",
         "LinkPage": 9,
         "ID": 29,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-索拉尔",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity23",
+        "LinkPage": 3,
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-贝尔娜黛特",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity25",
+        "LinkPage": 4,
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "BannerName": "联动活动",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity26",
+        "LinkPage": 10,
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "BannerName": "皮肤特惠",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity27",
+        "LinkPage": 1,
+        "ID": 37,
         "Name": null
     },
     {
@@ -241,8 +281,8 @@
     },
     {
         "BannerName": "克尔贝洛之影",
-        "OpenTime": "2019/7/30 14:00:00",
-        "CloseTime": "2019/8/13 13:59:59",
+        "OpenTime": "2019/10/10 14:30:00",
+        "CloseTime": "2029/8/13 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity1",
         "LinkPage": 5,
@@ -262,7 +302,7 @@
     {
         "BannerName": "十连招募-病毒伊芙琳",
         "OpenTime": "2019/9/5 14:00:00",
-        "CloseTime": "2019/9/26 13:59:59",
+        "CloseTime": "2019/9/24 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity11",
         "LinkPage": 3,
@@ -297,6 +337,46 @@
         "PictureName": "gameActivity16",
         "LinkPage": 9,
         "ID": 30,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-索拉尔",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity23",
+        "LinkPage": 3,
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-贝尔娜黛特",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity25",
+        "LinkPage": 4,
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "BannerName": "联动活动",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity26",
+        "LinkPage": 10,
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "BannerName": "皮肤特惠",
+        "OpenTime": "2019/9/26 14:30:00",
+        "CloseTime": "2019/10/10 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity27",
+        "LinkPage": 1,
+        "ID": 38,
         "Name": null
     }
 ]

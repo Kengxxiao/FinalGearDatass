@@ -3982,5 +3982,769 @@
         ],
         "ID": 60,
         "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "审判者胸甲开发",
+        "RoleDevelopParent": 3201,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 1,
+        "RoleDevelopLibId": 903202015,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2100721,
+                0
+            ],
+            [
+                2100722,
+                0
+            ],
+            [
+                2100723,
+                0
+            ],
+            [
+                2100721,
+                1
+            ],
+            [
+                2100722,
+                1
+            ],
+            [
+                2100723,
+                1
+            ],
+            [
+                2100721,
+                2
+            ],
+            [
+                2100722,
+                2
+            ],
+            [
+                2100723,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                10
+            ],
+            [
+                12610105,
+                3
+            ]
+        ],
+        "ID": 65,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "审判者腿甲开发",
+        "RoleDevelopParent": 3201,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 2,
+        "RoleDevelopLibId": 903202025,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2100731,
+                0
+            ],
+            [
+                2100732,
+                0
+            ],
+            [
+                2100733,
+                0
+            ],
+            [
+                2100731,
+                1
+            ],
+            [
+                2100732,
+                1
+            ],
+            [
+                2100733,
+                1
+            ],
+            [
+                2100731,
+                2
+            ],
+            [
+                2100732,
+                2
+            ],
+            [
+                2100733,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                3
+            ],
+            [
+                12610105,
+                10
+            ]
+        ],
+        "ID": 70,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "审判者挂载开发",
+        "RoleDevelopParent": 3201,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 3,
+        "RoleDevelopLibId": 903202035,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2100741,
+                0
+            ],
+            [
+                2100742,
+                0
+            ],
+            [
+                2100743,
+                0
+            ],
+            [
+                2100741,
+                1
+            ],
+            [
+                2100742,
+                1
+            ],
+            [
+                2100743,
+                1
+            ],
+            [
+                2100741,
+                2
+            ],
+            [
+                2100742,
+                2
+            ],
+            [
+                2100743,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                5
+            ],
+            [
+                12610105,
+                5
+            ]
+        ],
+        "ID": 75,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "审判者武器开发",
+        "RoleDevelopParent": 3201,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 4,
+        "RoleDevelopLibId": 903202045,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2100711,
+                0
+            ],
+            [
+                2100712,
+                0
+            ],
+            [
+                2100713,
+                0
+            ],
+            [
+                2100714,
+                0
+            ],
+            [
+                2100715,
+                0
+            ],
+            [
+                2100716,
+                0
+            ],
+            [
+                2100717,
+                0
+            ],
+            [
+                2100718,
+                0
+            ],
+            [
+                2100719,
+                0
+            ],
+            [
+                2100711,
+                1
+            ],
+            [
+                2100712,
+                1
+            ],
+            [
+                2100713,
+                1
+            ],
+            [
+                2100714,
+                1
+            ],
+            [
+                2100715,
+                1
+            ],
+            [
+                2100716,
+                1
+            ],
+            [
+                2100717,
+                1
+            ],
+            [
+                2100718,
+                1
+            ],
+            [
+                2100719,
+                1
+            ],
+            [
+                2100711,
+                2
+            ],
+            [
+                2100712,
+                2
+            ],
+            [
+                2100713,
+                2
+            ],
+            [
+                2100714,
+                2
+            ],
+            [
+                2100715,
+                2
+            ],
+            [
+                2100716,
+                2
+            ],
+            [
+                2100717,
+                2
+            ],
+            [
+                2100718,
+                2
+            ],
+            [
+                2100719,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                2
+            ],
+            [
+                12610105,
+                2
+            ],
+            [
+                12610116,
+                5
+            ]
+        ],
+        "ID": 80,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "帝国反对派胸甲开发",
+        "RoleDevelopParent": 3202,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 1,
+        "RoleDevelopLibId": 903202015,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2101321,
+                0
+            ],
+            [
+                2101322,
+                0
+            ],
+            [
+                2101323,
+                0
+            ],
+            [
+                2101321,
+                1
+            ],
+            [
+                2101322,
+                1
+            ],
+            [
+                2101323,
+                1
+            ],
+            [
+                2101321,
+                2
+            ],
+            [
+                2101322,
+                2
+            ],
+            [
+                2101323,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                10
+            ],
+            [
+                12610105,
+                3
+            ]
+        ],
+        "ID": 85,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "帝国反对派腿甲开发",
+        "RoleDevelopParent": 3202,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 2,
+        "RoleDevelopLibId": 903202025,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2101331,
+                0
+            ],
+            [
+                2101332,
+                0
+            ],
+            [
+                2101333,
+                0
+            ],
+            [
+                2101331,
+                1
+            ],
+            [
+                2101332,
+                1
+            ],
+            [
+                2101333,
+                1
+            ],
+            [
+                2101331,
+                2
+            ],
+            [
+                2101332,
+                2
+            ],
+            [
+                2101333,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                3
+            ],
+            [
+                12610105,
+                10
+            ]
+        ],
+        "ID": 90,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "帝国反对派挂载开发",
+        "RoleDevelopParent": 3202,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 3,
+        "RoleDevelopLibId": 903202035,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2101341,
+                0
+            ],
+            [
+                2101342,
+                0
+            ],
+            [
+                2101343,
+                0
+            ],
+            [
+                2101341,
+                1
+            ],
+            [
+                2101342,
+                1
+            ],
+            [
+                2101343,
+                1
+            ],
+            [
+                2101341,
+                2
+            ],
+            [
+                2101342,
+                2
+            ],
+            [
+                2101343,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                5
+            ],
+            [
+                12610105,
+                5
+            ]
+        ],
+        "ID": 95,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "帝国反对派武器开发",
+        "RoleDevelopParent": 3202,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 4,
+        "RoleDevelopLibId": 903202045,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2101311,
+                0
+            ],
+            [
+                2101312,
+                0
+            ],
+            [
+                2101313,
+                0
+            ],
+            [
+                2101314,
+                0
+            ],
+            [
+                2101315,
+                0
+            ],
+            [
+                2101316,
+                0
+            ],
+            [
+                2101317,
+                0
+            ],
+            [
+                2101318,
+                0
+            ],
+            [
+                2101319,
+                0
+            ],
+            [
+                2101311,
+                1
+            ],
+            [
+                2101312,
+                1
+            ],
+            [
+                2101313,
+                1
+            ],
+            [
+                2101314,
+                1
+            ],
+            [
+                2101315,
+                1
+            ],
+            [
+                2101316,
+                1
+            ],
+            [
+                2101317,
+                1
+            ],
+            [
+                2101318,
+                1
+            ],
+            [
+                2101319,
+                1
+            ],
+            [
+                2101311,
+                2
+            ],
+            [
+                2101312,
+                2
+            ],
+            [
+                2101313,
+                2
+            ],
+            [
+                2101314,
+                2
+            ],
+            [
+                2101315,
+                2
+            ],
+            [
+                2101316,
+                2
+            ],
+            [
+                2101317,
+                2
+            ],
+            [
+                2101318,
+                2
+            ],
+            [
+                2101319,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                2
+            ],
+            [
+                12610105,
+                2
+            ],
+            [
+                12610116,
+                5
+            ]
+        ],
+        "ID": 100,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "圣洁誓言胸甲开发",
+        "RoleDevelopParent": 3203,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 1,
+        "RoleDevelopLibId": 903204015,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2303222,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                10
+            ],
+            [
+                12610105,
+                3
+            ],
+            [
+                12610120,
+                5
+            ]
+        ],
+        "ID": 105,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "圣洁誓言腿甲开发",
+        "RoleDevelopParent": 3203,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 2,
+        "RoleDevelopLibId": 903204025,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2303232,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                3
+            ],
+            [
+                12610105,
+                10
+            ],
+            [
+                12610120,
+                5
+            ]
+        ],
+        "ID": 110,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "圣洁誓言挂载开发",
+        "RoleDevelopParent": 3203,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 3,
+        "RoleDevelopLibId": 903204035,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2303242,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                5
+            ],
+            [
+                12610105,
+                5
+            ],
+            [
+                12610120,
+                5
+            ]
+        ],
+        "ID": 115,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 4,
+        "RoleDevelopName": "圣洁誓言武器开发",
+        "RoleDevelopParent": 3203,
+        "RoleDevelopGrade": 60,
+        "RoleDevelopPos": 4,
+        "RoleDevelopLibId": 903204045,
+        "RoleDevelopGirl": 1,
+        "RoleDevelopShow": [
+            [
+                2303212,
+                2
+            ]
+        ],
+        "RoleDevelopCost": [
+            [
+                12610101,
+                2
+            ],
+            [
+                12610105,
+                2
+            ],
+            [
+                12610116,
+                5
+            ],
+            [
+                12610120,
+                5
+            ]
+        ],
+        "ID": 120,
+        "Name": null
     }
 ]

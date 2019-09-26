@@ -1893,6 +1893,83 @@
     },
     {
         "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/1_3矿山",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 1,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [],
+        "Nodes": [
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -10,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 930000020,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9996,
+        "Name": "机体测试"
+    },
+    {
+        "isTest": false,
         "useMapScene": true,
         "scene": "正式场景/1_1荒原",
         "icon": "近战部队-普通",
@@ -11622,6 +11699,1089 @@
     {
         "isTest": false,
         "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9200001,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            1102,
+            1202,
+            1203,
+            1302
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "invincible": true,
+                "Enabled": true,
+                "Type": 11,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 13001,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 10,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891902,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891903,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891901,
+        "Name": "2233主线-1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 9200002,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10102,
+            10103,
+            10106
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891912,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891913,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891911,
+        "Name": "2233主线-2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 69,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10103,
+            10104,
+            10105,
+            10107
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891922,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891923,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "invincible": true,
+                "Enabled": true,
+                "Type": 11,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12300002,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 10,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891924,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950057000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12300003,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            }
+        ],
+        "ID": 891921,
+        "Name": "2233主线-3"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 9200003,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10104,
+            10105,
+            10108
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "invincible": true,
+                "Enabled": true,
+                "Type": 11,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 13002,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 10,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891932,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891933,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891934,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950057000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 12300004,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            }
+        ],
+        "ID": 891931,
+        "Name": "2233主线-4"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10102,
+            10103,
+            10104
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891942,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891943,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891941,
+        "Name": "2233挑战-简单"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10103,
+            10101,
+            10104,
+            10106
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891952,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891953,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891954,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891951,
+        "Name": "2233挑战-普通"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000960_01冷冻仓实验室2233",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 74,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10103,
+            10104,
+            10107
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891962,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891963,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891964,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950057000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891961,
+        "Name": "2233挑战-困难"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10103,
+            10104,
+            10108
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891972,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891973,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891974,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950057000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891971,
+        "Name": "2233挑战-地狱"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            10101,
+            10103,
+            10104,
+            10108
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891982,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891983,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891984,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950057000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891981,
+        "Name": "2233挑战-英雄"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
         "scene": "正式场景/4_4沿海小镇帝国",
         "icon": null,
         "backGroundIcon": null,
@@ -17805,6 +18965,519 @@
     {
         "isTest": false,
         "useMapScene": true,
+        "scene": "正式场景/1_1荒原",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": [],
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2304,
+            2303
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100101,
+        "Name": "奈布拉周常_限时"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/1_3矿山",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 5,
+        "failedCond": 9,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": [
+            0
+        ],
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            60015,
+            2205,
+            2304,
+            2303
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": 40,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100201,
+        "Name": "奈布拉周常_坚守"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/1_3矿山",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            60014
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100303,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100301,
+        "Name": "奈布拉周常_单挑"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/1_3矿山",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            60015,
+            60016
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100401,
+        "Name": "奈布拉周常_双子"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/1_3矿山",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 1,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": true,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [
+            30001153
+        ],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2304,
+            2303
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": 50,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100502,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 24,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100501,
+        "Name": "奈布拉周常_随机-强韧"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/1_3矿山",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 2,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            60017
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910020000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 2100602,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 2100601,
+        "Name": "奈布拉周常_头目战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
         "scene": "正式场景/1_3矿山",
         "icon": "近战部队-炮灰",
         "backGroundIcon": null,
@@ -20631,6 +22304,1394 @@
         ],
         "ID": 6000301,
         "Name": "傀儡-遭遇-BOSS"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100100,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100101,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100101,
+        "Name": "玛格丽特章节1-遭遇-炮灰-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2204,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100102,
+        "Name": "玛格丽特章节1-遭遇-炮灰-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100105,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100103,
+        "Name": "玛格丽特章节1-遭遇-炮灰-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2304,
+            2303
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100200,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100201,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100201,
+        "Name": "玛格丽特章节1-遭遇-普通-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2201,
+            2204,
+            2206,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100205,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100202,
+        "Name": "玛格丽特章节1-遭遇-普通-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2205,
+            2206,
+            2303,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100206,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100207,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100208,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100203,
+        "Name": "玛格丽特章节1-遭遇-普通-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2205,
+            2204,
+            2303,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950049000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100400,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8100403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8100404,
+        "Name": "玛格丽特章节1-遭遇-BOSS-头目"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200100,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200101,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200101,
+        "Name": "玛格丽特章节2-遭遇-炮灰-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "远程部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2204,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200102,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200103,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200102,
+        "Name": "玛格丽特章节2-遭遇-炮灰-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "混编部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2201,
+            2206
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200104,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200105,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200103,
+        "Name": "玛格丽特章节2-遭遇-炮灰-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2203,
+            2205,
+            2304,
+            2303
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200200,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200201,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200202,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200201,
+        "Name": "玛格丽特章节2-遭遇-普通-近战"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2201,
+            2204,
+            2206,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200203,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200204,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200205,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200202,
+        "Name": "玛格丽特章节2-遭遇-普通-远程"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2205,
+            2206,
+            2303,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950048000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200206,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200207,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200208,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200203,
+        "Name": "玛格丽特章节2-遭遇-普通-混编"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_02废墟公路",
+        "icon": "头目小队",
+        "backGroundIcon": "boss背后圈",
+        "titleIcon": "Title_Boss",
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            2205,
+            2204,
+            2303,
+            2301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "MusicId": 950049000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200400,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200401,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 8200403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 8200404,
+        "Name": "玛格丽特章节2-遭遇-BOSS-头目"
     },
     {
         "isTest": false,

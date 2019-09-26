@@ -5742,7 +5742,7 @@
             "followRange": 100.0,
             "skillAIs": []
         },
-        "ai": "",
+        "ai": "周常副本AI/AI 约汉",
         "hitBackResist": 0.5,
         "HitGradeResist": 340.0,
         "baseMoveSpeed": 8.0,
@@ -5831,7 +5831,8 @@
         "skills": [
             31002090,
             31002091,
-            31002092
+            31002092,
+            31002093
         ],
         "passiveSkillIDs": [],
         "deadEffects": [
@@ -21431,8 +21432,8 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_近战",
-        "hitBackResist": 0.0,
-        "HitGradeResist": 0.0,
+        "hitBackResist": 0.3,
+        "HitGradeResist": 190.0,
         "baseMoveSpeed": 12.0,
         "eventEffectDatas": [
             {
@@ -21638,8 +21639,8 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_投射",
-        "hitBackResist": 0.0,
-        "HitGradeResist": 0.0,
+        "hitBackResist": 0.4,
+        "HitGradeResist": 240.0,
         "baseMoveSpeed": 10.0,
         "eventEffectDatas": [
             {
@@ -21813,8 +21814,8 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_机枪",
-        "hitBackResist": 0.0,
-        "HitGradeResist": 0.0,
+        "hitBackResist": 0.4,
+        "HitGradeResist": 240.0,
         "baseMoveSpeed": 10.0,
         "eventEffectDatas": [
             {
@@ -21988,8 +21989,8 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_护盾",
-        "hitBackResist": 0.0,
-        "HitGradeResist": 0.0,
+        "hitBackResist": 0.3,
+        "HitGradeResist": 190.0,
         "baseMoveSpeed": 12.0,
         "eventEffectDatas": [
             {
@@ -22216,7 +22217,7 @@
         "unitModelType": 0,
         "unitSizeType": 1,
         "useSpineBodyArea": false,
-        "useAvoid": false,
+        "useAvoid": true,
         "lockSortingOrder": 99999,
         "startType": 3,
         "startMovieFlyEffectID": {
@@ -22247,7 +22248,7 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_格斗精英",
-        "hitBackResist": 0.0,
+        "hitBackResist": 0.5,
         "HitGradeResist": 340.0,
         "baseMoveSpeed": 8.0,
         "eventEffectDatas": [
@@ -22556,7 +22557,7 @@
             "skillAIs": []
         },
         "ai": "伊芙琳剧情章节怪物/AI 伊芙琳章节3_守护精英",
-        "hitBackResist": 0.0,
+        "hitBackResist": 0.5,
         "HitGradeResist": 340.0,
         "baseMoveSpeed": 8.0,
         "eventEffectDatas": [
@@ -26109,6 +26110,1713 @@
         "Name": null
     },
     {
+        "prefab": "2233st enemy/2233章节_机枪",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 2,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_机枪",
+        "hitBackResist": 0.4,
+        "HitGradeResist": 240.0,
+        "baseMoveSpeed": 12.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102030",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（机枪）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301010,
+            31301011
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（机枪）",
+                        "scale": 1.0
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_机枪_Enemy_102030_2",
+        "previewBounds": {
+            "x": 0.1974805,
+            "y": 1.961782,
+            "z": 4.268998,
+            "w": 3.2
+        },
+        "ID": 41301010,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_近战",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 1,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_近战",
+        "hitBackResist": 0.4,
+        "HitGradeResist": 240.0,
+        "baseMoveSpeed": 12.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102040",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（近战）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Enemy_102040",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界近战崩圈",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301020,
+            31301021
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（近战）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_1_2": [
+                            {
+                                "positionBone": "a_Enemy_102040_2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界蓄力",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400100010
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_近战_Enemy_102040_2",
+        "previewBounds": {
+            "x": -0.1563911,
+            "y": 1.939914,
+            "z": 3.327026,
+            "w": 3.2
+        },
+        "ID": 41301020,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_守护",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 1,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_守护",
+        "hitBackResist": 0.4,
+        "HitGradeResist": 340.0,
+        "baseMoveSpeed": 6.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102050",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（守护）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301030
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（近战）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille": [
+                            {
+                                "positionBone": "a_Enemy_102050",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界乱舞",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 550000103
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_守护_Enemy_102050_2",
+        "previewBounds": {
+            "x": -0.3190385,
+            "y": 1.660148,
+            "z": 2.202852,
+            "w": 3.2
+        },
+        "ID": 41301030,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_狙击",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 3,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_狙击",
+        "hitBackResist": 0.3,
+        "HitGradeResist": 240.0,
+        "baseMoveSpeed": 12.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102060",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（狙击）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301040,
+            31301041
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（狙击）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_1_2": [
+                            {
+                                "positionBone": "a_Enemy_102060",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界蓄力",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400100010
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_狙击_Enemy_102060_2",
+        "previewBounds": {
+            "x": 0.6168224,
+            "y": 1.660148,
+            "z": 4.074574,
+            "w": 3.2
+        },
+        "ID": 41301040,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_投射",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 3,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_投射",
+        "hitBackResist": 0.6,
+        "HitGradeResist": 290.0,
+        "baseMoveSpeed": 8.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out4",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in4",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102070",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（投射）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Enemy_102070",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界落地",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301050,
+            31301051
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（近战）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_投射_Enemy_102070_2",
+        "previewBounds": {
+            "x": 0.1473982,
+            "y": 1.483081,
+            "z": 2.924834,
+            "w": 3.2
+        },
+        "ID": 41301050,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_爆破精英",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 1,
+        "distanceType": 2,
+        "bulletResistance": 0.9,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_爆破精英",
+        "hitBackResist": 0.5,
+        "HitGradeResist": 340.0,
+        "baseMoveSpeed": 8.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out4",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in4",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102090",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（爆破精英）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Enemy_102090",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界落地",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301060,
+            31301061,
+            31301062
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 1.0,
+                "positionBone": "root",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_电子世界方块技能（近战）",
+                        "scale": 0.75
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 500,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_2_2": [
+                            {
+                                "positionBone": "a_Enemy_102090",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_电子世界蓄力",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400100010
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节_爆破精英_Enemy_102090_2",
+        "previewBounds": {
+            "x": 0.2653474,
+            "y": 1.483773,
+            "z": 3.564364,
+            "w": 3.2
+        },
+        "ID": 41301060,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节Boss_33",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": false,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 2,
+        "distanceType": 3,
+        "bulletResistance": 2.0,
+        "material": 0,
+        "isDispearOnDead": false,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 1,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_33娘",
+        "hitBackResist": 1.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102100",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_2233电子崩圈",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 550002500
+                }
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102100_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块（爆破精英）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301063,
+            31301064,
+            31301065
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节Boss_33_Enemy_102100",
+        "previewBounds": {
+            "x": 0.01969154,
+            "y": 1.501157,
+            "z": 3.346471,
+            "w": 3.2
+        },
+        "ID": 41301070,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节_电视激光（召唤）",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": false,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 1,
+        "bulletResistance": 0.1,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": false,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233（BOSS召唤电视怪）",
+        "hitBackResist": 0.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Enemy_102100_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_电视出现",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            31301066,
+            31301067
+        ],
+        "passiveSkillIDs": [
+            990000000,
+            990000001
+        ],
+        "deadEffects": [
+            {
+                "delayTime": 0.2,
+                "positionBone": null,
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": null,
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": false,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_1_1": [
+                            {
+                                "positionBone": "root",
+                                "extraSotingOrder": 30,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_2233boss激光波持续",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            },
+                            {
+                                "positionBone": "root",
+                                "extraSotingOrder": -30,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_2233boss激光波持续（底）",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ],
+                        "skille_1_2": [
+                            {
+                                "positionBone": "root",
+                                "extraSotingOrder": 30,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_2233boss激光波消散",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            },
+                            {
+                                "positionBone": "root",
+                                "extraSotingOrder": -30,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_2233boss激光波消散（底）",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "0st boss/召唤_2233电视_Armor_000230_2",
+        "previewBounds": {
+            "x": -0.222598,
+            "y": 11.28946,
+            "z": 2.255272,
+            "w": 3.2
+        },
+        "ID": 41301071,
+        "Name": null
+    },
+    {
+        "prefab": "2233st enemy/2233章节Boss_中央控制台",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 0,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 2,
+        "distanceType": 1,
+        "bulletResistance": 2.0,
+        "material": 0,
+        "isDispearOnDead": false,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 1,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 400.0,
+            "skillAIs": []
+        },
+        "ai": "2233联动AI/AI 2233_控制台",
+        "hitBackResist": 1.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 0.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Boss_000050",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": -2000,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_2233boss崩圈（底）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 400400060
+                }
+            }
+        ],
+        "skills": [
+            37000032,
+            37000033,
+            37000034,
+            37000035,
+            37000036
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "2233st enemy/2233章节Boss_中央控制台_Boss_000050",
+        "previewBounds": {
+            "x": 0.2501089,
+            "y": 1.538128,
+            "z": 3.912105,
+            "w": 3.2
+        },
+        "ID": 41301080,
+        "Name": null
+    },
+    {
         "prefab": "1st enemy/海克塞尔侦察队Boss_埃伊菲",
         "unitModelType": 0,
         "unitSizeType": 1,
@@ -26268,7 +27976,8 @@
         "skills": [
             32000000,
             32000001,
-            32000002
+            32000002,
+            32000003
         ],
         "passiveSkillIDs": [],
         "deadEffects": [
@@ -27353,6 +29062,524 @@
             "w": 3.2
         },
         "ID": 42000022,
+        "Name": null
+    },
+    {
+        "prefab": "0st boss/周常副本Boss_特大炮外手",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 1,
+        "distanceType": 2,
+        "bulletResistance": 2.0,
+        "material": 0,
+        "isDispearOnDead": false,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": true,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "周常副本AI/AI 左手",
+        "hitBackResist": 1.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Boss_000040",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "Clip/01弹夹_大弹夹",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            32000030
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 0.0,
+                "positionBone": "addon",
+                "followBone": false,
+                "removeOnUnitDisappear": true,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_死亡爆炸",
+                        "scale": 1.0
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "0st boss/周常副本Boss_特大炮外手_Boss_000040",
+        "previewBounds": {
+            "x": 0.2640596,
+            "y": 1.471552,
+            "z": 3.346705,
+            "w": 3.2
+        },
+        "ID": 42000030,
+        "Name": null
+    },
+    {
+        "prefab": "0st boss/周常副本Boss_特大炮内手",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 1,
+        "distanceType": 2,
+        "bulletResistance": 2.0,
+        "material": 0,
+        "isDispearOnDead": false,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": true,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "周常副本AI/AI 右手",
+        "hitBackResist": 1.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Boss_000040_3",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "Clip/01弹夹_大弹夹2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Boss_000040_3",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_特大炮劈地",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            32000031,
+            32000032
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 0.0,
+                "positionBone": "addon",
+                "followBone": false,
+                "removeOnUnitDisappear": true,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_死亡爆炸",
+                        "scale": 1.0
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skille_2": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.6,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 100080600
+                                    },
+                                    {
+                                        "delayTime": 2.7,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 100080400
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "preview": "0st boss/周常副本Boss_特大炮内手_Boss_000040_3",
+        "previewBounds": {
+            "x": -0.02121232,
+            "y": 1.714674,
+            "z": 3.835701,
+            "w": 3.2
+        },
+        "ID": 42000031,
+        "Name": null
+    },
+    {
+        "prefab": "0st boss/周常副本Boss_特大炮身体",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 0,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 2,
+        "distanceType": 2,
+        "bulletResistance": 2.0,
+        "material": 0,
+        "isDispearOnDead": false,
+        "showHpBar": true,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 1,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": true,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "周常副本AI/AI 机械壁垒",
+        "hitBackResist": 1.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Boss_000040_2",
+                "followBone": false,
+                "followBoneRotation": true,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "GunFire/01枪口_实弹重炮",
+                        "scale": 0.5
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": true,
+                    "soundID": 200061200
+                }
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Boss_000040_2",
+                "followBone": false,
+                "followBoneRotation": true,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "GunFire/01枪口_实弹重炮",
+                        "scale": 1.5
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": true,
+                    "soundID": 200061200
+                }
+            }
+        ],
+        "skills": [
+            32000033,
+            32000034,
+            32000035,
+            32000036,
+            32000037
+        ],
+        "passiveSkillIDs": [],
+        "deadEffects": [
+            {
+                "delayTime": 0.0,
+                "positionBone": "addon",
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": [
+                    {
+                        "asset": "01其他_死亡爆炸",
+                        "scale": 1.0
+                    }
+                ],
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": true,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                }
+            }
+        },
+        "preview": "0st boss/周常副本Boss_特大炮身体_Boss_000040_2",
+        "previewBounds": {
+            "x": -0.03524823,
+            "y": 1.42628,
+            "z": 3.774666,
+            "w": 3.2
+        },
+        "ID": 42000032,
         "Name": null
     },
     {
@@ -28682,6 +30909,156 @@
             "w": 3.2
         },
         "ID": 43000006,
+        "Name": null
+    },
+    {
+        "prefab": "0st boss/召唤_2233电视",
+        "unitModelType": 0,
+        "unitSizeType": 1,
+        "useSpineBodyArea": false,
+        "useAvoid": true,
+        "lockSortingOrder": 99999,
+        "startType": 1,
+        "startMovieFlyEffectID": {
+            "asset": "",
+            "scale": 1.0
+        },
+        "startRushSpeed": 0.0,
+        "unitType": 0,
+        "distanceType": 1,
+        "bulletResistance": 0.1,
+        "material": 0,
+        "isDispearOnDead": true,
+        "showHpBar": false,
+        "hpCount": 2,
+        "showShadow": true,
+        "showArrow": true,
+        "hpBatType": 0,
+        "hpBarOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "showCircle": true,
+        "spyData": {
+            "viewRange": 500.0,
+            "clearTargetWhenOutOfFollowRange": false,
+            "followRange": 100.0,
+            "skillAIs": []
+        },
+        "ai": "角色技能/AI 角色_2233（电视怪）",
+        "hitBackResist": 0.0,
+        "HitGradeResist": 540.0,
+        "baseMoveSpeed": 18.0,
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000230",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_电视出现",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 550000101
+                }
+            }
+        ],
+        "skills": [
+            34000012,
+            34000013
+        ],
+        "passiveSkillIDs": [
+            990000000,
+            990000001
+        ],
+        "deadEffects": [
+            {
+                "delayTime": 0.2,
+                "positionBone": null,
+                "followBone": false,
+                "removeOnUnitDisappear": false,
+                "resourceIDs": null,
+                "soundID": 0
+            }
+        ],
+        "hasExplodeScarEffect": false,
+        "components": {
+            "Body": {
+                "expressionType": 1,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": null,
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": null,
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": null
+            }
+        },
+        "preview": "0st boss/召唤_2233电视_Armor_000230_2",
+        "previewBounds": {
+            "x": -0.222598,
+            "y": 11.28946,
+            "z": 2.255272,
+            "w": 3.2
+        },
+        "ID": 43000007,
         "Name": null
     },
     {

@@ -345,5 +345,322 @@
         ],
         "ID": 901301,
         "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "dialogIndex": 92000001,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903201,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 1,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 2
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 92000010,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 2,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 3
+                    }
+                ]
+            }
+        ],
+        "ID": 903201,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903202,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903202,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "dialogIndex": 92000002,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903203,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 1,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 2
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903250,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 2,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 3
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903251,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 3,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 4
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 92000010,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 4,
+                "transitions": []
+            }
+        ],
+        "ID": 903203,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903204,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903204,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "dialogIndex": 92000003,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 92000007,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 1,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 2
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903252,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 2,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 3
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903205,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 3,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 4
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903253,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 4,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 5
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 12200001,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 5,
+                "transitions": []
+            }
+        ],
+        "ID": 903205,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903206,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903206,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903207,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903207,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 900108,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903208,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903209,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903209,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903210,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903210,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903211,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903211,
+        "Name": null
+    },
+    {
+        "scenarioIndex": 0,
+        "description": "",
+        "Nodes": [
+            {
+                "stageIndex": 903212,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 0,
+                "transitions": []
+            }
+        ],
+        "ID": 903212,
+        "Name": null
     }
 ]

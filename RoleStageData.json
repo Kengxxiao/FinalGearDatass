@@ -470,5 +470,382 @@
         "TargetIndex": 1,
         "ID": 14,
         "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/9/26 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 1,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 20103,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903201,
+        "StageID": [
+            903201
+        ],
+        "SaveTeamID": [
+            903201
+        ],
+        "StarStageID": 903201,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第一章",
+        "RoleStageTitle": "黑白相册",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 1,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/9/26 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 1,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903201,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903202,
+        "StageID": [
+            903202
+        ],
+        "SaveTeamID": [
+            903202
+        ],
+        "StarStageID": 903202,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第一章",
+        "RoleStageTitle": "回忆",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 1,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/3 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 2,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903201,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903203,
+        "StageID": [
+            903203,
+            903250,
+            903251
+        ],
+        "SaveTeamID": [
+            903203,
+            903250,
+            903251
+        ],
+        "StarStageID": 903251,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第二章",
+        "RoleStageTitle": "牵线木偶",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 2,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/3 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 2,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903203,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903204,
+        "StageID": [
+            903204
+        ],
+        "SaveTeamID": [
+            903204
+        ],
+        "StarStageID": 903204,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第二章",
+        "RoleStageTitle": "回忆",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 2,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/10 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 3,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903203,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903205,
+        "StageID": [
+            903205,
+            903252
+        ],
+        "SaveTeamID": [
+            903205
+        ],
+        "StarStageID": 903205,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第三章",
+        "RoleStageTitle": "沉没",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 3,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/10 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 3,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903205,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903206,
+        "StageID": [
+            903206
+        ],
+        "SaveTeamID": [
+            903206
+        ],
+        "StarStageID": 903206,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第三章",
+        "RoleStageTitle": "逃亡",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 3,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/17 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 4,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903205,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903207,
+        "StageID": [
+            903207
+        ],
+        "SaveTeamID": [
+            903207
+        ],
+        "StarStageID": 903207,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第四章",
+        "RoleStageTitle": "恸哭",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 4,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/17 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 4,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903207,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903208,
+        "StageID": [
+            903208
+        ],
+        "SaveTeamID": [
+            903208
+        ],
+        "StarStageID": 903208,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第四章",
+        "RoleStageTitle": "逃亡",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 4,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/24 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 5,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903207,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903209,
+        "StageID": [
+            903209
+        ],
+        "SaveTeamID": [
+            903209
+        ],
+        "StarStageID": 903209,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第五章",
+        "RoleStageTitle": "因果",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 5,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/24 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 5,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903209,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903210,
+        "StageID": [
+            903210
+        ],
+        "SaveTeamID": [
+            903210
+        ],
+        "StarStageID": 903210,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第五章",
+        "RoleStageTitle": "复仇",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 5,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/31 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 6,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903209,
+        "RoleStageLevel": 60,
+        "RoleStageType": 1,
+        "RoleStageID": 903211,
+        "StageID": [
+            903211
+        ],
+        "SaveTeamID": [
+            903211
+        ],
+        "StarStageID": 903211,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第六章",
+        "RoleStageTitle": "小丑剧",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 5,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "RoleStageOpenTime": "2019/10/31 14:00:00",
+        "RoleStageGirlID": 32,
+        "RoleStageSubID": 6,
+        "RoleStageArea": "克格亚区域",
+        "RoleStageUnlock": 903211,
+        "RoleStageLevel": 60,
+        "RoleStageType": 2,
+        "RoleStageID": 903212,
+        "StageID": [
+            903212
+        ],
+        "SaveTeamID": [
+            903212
+        ],
+        "StarStageID": 903212,
+        "RoleStageAwardProview": [
+            12610101,
+            12610105,
+            12610116,
+            12610120
+        ],
+        "RoleStageTitleNum": "第六章",
+        "RoleStageTitle": "复仇",
+        "RoleStageAddGirl": [],
+        "RoleStageFightPoint": 15000,
+        "Area": "AREA_RoleStroy_03",
+        "TargetIndex": 5,
+        "ID": 26,
+        "Name": null
     }
 ]

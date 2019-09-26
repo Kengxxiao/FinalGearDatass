@@ -17,7 +17,7 @@
                 10000
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -42,7 +42,7 @@
                 50
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -67,7 +67,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -92,7 +92,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -117,7 +117,7 @@
                 5
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -142,7 +142,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -167,7 +167,7 @@
                 5
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -192,7 +192,7 @@
                 10
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -217,7 +217,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -242,7 +242,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -267,7 +267,7 @@
                 5
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -292,7 +292,7 @@
                 3
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -317,7 +317,7 @@
                 2
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -342,7 +342,7 @@
                 1
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -367,7 +367,7 @@
                 5
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -382,17 +382,17 @@
         "AchieveArray": 1,
         "PreAchievementID": 0,
         "NextAchievementID": 17,
-        "CorberoAchievePara": "1000",
-        "CorberoCompleteCount": 1000,
-        "CorberoAchieveName": "活动奖池抽取1000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得1000次奖励",
+        "CorberoAchievePara": "500",
+        "CorberoCompleteCount": 500,
+        "CorberoAchieveName": "活动奖池抽取500次",
+        "CorberoAchieveDesc": "在活动奖池中，获得500次奖励",
         "ItemReward": [
             [
                 10800002,
                 125
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -407,17 +407,17 @@
         "AchieveArray": 2,
         "PreAchievementID": 16,
         "NextAchievementID": 18,
-        "CorberoAchievePara": "2500",
-        "CorberoCompleteCount": 2500,
-        "CorberoAchieveName": "活动奖池抽取2500次",
-        "CorberoAchieveDesc": "在活动奖池中，获得2500次奖励",
+        "CorberoAchievePara": "1000",
+        "CorberoCompleteCount": 1000,
+        "CorberoAchieveName": "活动奖池抽取1000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得1000次奖励",
         "ItemReward": [
             [
                 10900002,
                 10
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -432,17 +432,17 @@
         "AchieveArray": 3,
         "PreAchievementID": 17,
         "NextAchievementID": 19,
-        "CorberoAchievePara": "5000",
-        "CorberoCompleteCount": 5000,
-        "CorberoAchieveName": "活动奖池抽取5000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得5000次奖励",
+        "CorberoAchievePara": "2500",
+        "CorberoCompleteCount": 2500,
+        "CorberoAchieveName": "活动奖池抽取2500次",
+        "CorberoAchieveDesc": "在活动奖池中，获得2500次奖励",
         "ItemReward": [
             [
                 10900001,
                 10
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
@@ -456,47 +456,22 @@
         "AchieveGroup": 16,
         "AchieveArray": 4,
         "PreAchievementID": 18,
-        "NextAchievementID": 20,
-        "CorberoAchievePara": "10000",
-        "CorberoCompleteCount": 10000,
-        "CorberoAchieveName": "活动奖池抽取10000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得10000次奖励",
-        "ItemReward": [
-            [
-                10810002,
-                5
-            ],
-            [
-                11400001,
-                10
-            ]
-        ],
-        "ID": 19,
-        "Name": null
-    },
-    {
-        "ActivityID": 1,
-        "CorberoAchieveType": 4,
-        "CorberoAchieveIcon": "04_装备开发",
-        "AchieveGroup": 16,
-        "AchieveArray": 5,
-        "PreAchievementID": 19,
         "NextAchievementID": 0,
-        "CorberoAchievePara": "13000",
-        "CorberoCompleteCount": 13000,
-        "CorberoAchieveName": "活动奖池抽取13000次",
-        "CorberoAchieveDesc": "在活动奖池中，获得13000次奖励",
+        "CorberoAchievePara": "5000",
+        "CorberoCompleteCount": 5000,
+        "CorberoAchieveName": "活动奖池抽取5000次",
+        "CorberoAchieveDesc": "在活动奖池中，获得5000次奖励",
         "ItemReward": [
             [
                 11100024,
                 1
             ],
             [
-                11400001,
+                11400003,
                 10
             ]
         ],
-        "ID": 20,
+        "ID": 19,
         "Name": null
     }
 ]

@@ -108,6 +108,15 @@
         "Name": null
     },
     {
+        "Disc": "游戏资源已更新，请重新登录进行更新。\n因此给您带来的不便，敬请谅解。",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ClientVerMismatch",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 13,
+        "Name": null
+    },
+    {
         "Disc": "未知错误",
         "Title": "系统提示",
         "IsShow": true,
@@ -1104,6 +1113,51 @@
         "ParaName": "BigSaleAwardFailed",
         "Memo": "",
         "ID": 703,
+        "Name": null
+    },
+    {
+        "Disc": "可用挑战次数已到上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "StageChallengeCountLimit",
+        "Memo": "",
+        "ID": 704,
+        "Name": null
+    },
+    {
+        "Disc": "周常副本消耗道具不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ChallengeItemNotEnough",
+        "Memo": "",
+        "ID": 705,
+        "Name": null
+    },
+    {
+        "Disc": "点数兑换次数不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PointConversionCountNotEnough",
+        "Memo": "",
+        "ID": 706,
+        "Name": null
+    },
+    {
+        "Disc": "点数兑换点数不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PointConversionPointNotEnough",
+        "Memo": "",
+        "ID": 707,
+        "Name": null
+    },
+    {
+        "Disc": "奖池已空",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "PoolEmpty",
+        "Memo": "",
+        "ID": 708,
         "Name": null
     },
     {

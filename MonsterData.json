@@ -4945,5 +4945,1067 @@
         "BodySize": 20,
         "ID": 50014,
         "Name": "漆黑之翼_伊莉希斯"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41301020,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                15000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144310,
+            3144320
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 10,
+        "ID": 10101,
+        "Name": "2233-小电视突击兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型守护",
+        "ModelID": 41301030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                150000.0,
+                20000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10102,
+        "Name": "2233-大电视防御"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41301010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                15000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144210,
+            3144220
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 10,
+        "ID": 10103,
+        "Name": "2233-小电视射击"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41301050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                80000.0,
+                12000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144610,
+            3144620
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10104,
+        "Name": "2233-小电视轰炸"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型狙击",
+        "ModelID": 41301040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                80000.0,
+                20000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144510,
+            3144520
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10105,
+        "Name": "2233-小电视狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英爆破",
+        "ModelID": 41301060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                350000.0,
+                20000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144710,
+            3144720,
+            3144730
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10106,
+        "Name": "精英BOSS"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 41301070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                800000.0,
+                30000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144810,
+            3144820,
+            3144830
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10107,
+        "Name": "33娘"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 41301080,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                3000000.0,
+                30000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144910,
+            3144920,
+            3144930,
+            3144940,
+            3144950
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 20,
+        "ID": 10108,
+        "Name": "控制台"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000007,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144740
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 10109,
+        "Name": "召唤-小电视"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 41301071,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144840
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_2233联动",
+        "BodySize": 10,
+        "ID": 10110,
+        "Name": "BOSS召唤-小电视"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英",
+        "ModelID": 41001080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                4000000.0,
+                150000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3007110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60000,
+        "Name": "（守护目标）骑手小胖"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型爆破",
+        "ModelID": 41002010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                50000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3012110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 10,
+        "ID": 60001,
+        "Name": "周常-强盗团炮兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型自爆",
+        "ModelID": 41002050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                50000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3014110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60002,
+        "Name": "周常-强盗团自爆"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41002020,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                50000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3020110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 10,
+        "ID": 60003,
+        "Name": "周常-强盗团打桩机兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41002030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3013110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60004,
+        "Name": "周常-强盗团机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "提升防御",
+        "ModelID": 41002070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3016110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60005,
+        "Name": "周常-强盗团buff防御"
+    },
+    {
+        "Icon": "",
+        "Disc": "特种格斗",
+        "ModelID": 41002060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3015110,
+            3015210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60006,
+        "Name": "周常-强盗团双持"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型狙击",
+        "ModelID": 41002040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3021110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60007,
+        "Name": "周常-强盗团狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41002120,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                100000.0,
+                100000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3100110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60008,
+        "Name": "周常-强盗团投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英自爆",
+        "ModelID": 41002100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                200000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3019110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60009,
+        "Name": "周常-强盗团自爆精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41002080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                500000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3017110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60010,
+        "Name": "周常-强盗团屏障精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41002090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                300000.0,
+                50000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3022110,
+            3022210,
+            3022310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60011,
+        "Name": "周常-强盗团突击精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英守护",
+        "ModelID": 41002082,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                1000000.0,
+                80000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3025110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60012,
+        "Name": "周常-强盗团超级屏障精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41002091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                800000.0,
+                80000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3026110,
+            3026210,
+            3026310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 20,
+        "ID": 60013,
+        "Name": "周常-强盗团超级突击精英"
+    },
+    {
+        "Icon": "B_Head_Pilot_000080",
+        "Disc": "BOSS",
+        "ModelID": 42000000,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                3000000.0,
+                100000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145010,
+            3145020,
+            3145030,
+            3145040,
+            3000104,
+            3000102
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60014,
+        "Name": "海克塞尔侦察队长-埃伊菲"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 41002110,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                5000000.0,
+                150000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3144110,
+            3144120,
+            3144130,
+            3144140,
+            3144150,
+            3000107,
+            3000108
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60015,
+        "Name": "艾达强盗团队长-约翰"
+    },
+    {
+        "Icon": "B_Head_Pilot_000040",
+        "Disc": "BOSS",
+        "ModelID": 44000040,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                5000000.0,
+                150000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145110,
+            3145120,
+            3145130,
+            3145140,
+            3000107,
+            3000108
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60016,
+        "Name": "艾达强盗团团长-艾达"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000032,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                8000000.0,
+                150000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145410,
+            3145420,
+            3145430,
+            3145440
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60017,
+        "Name": "秘密武器-艾达号"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英",
+        "ModelID": 42000031,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                1500000.0,
+                100000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145310,
+            3145320,
+            3145330
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60018,
+        "Name": "艾达号-右手"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英",
+        "ModelID": 42000030,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                1500000.0,
+                100000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145210,
+            3145220
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_奈布拉周常",
+        "BodySize": 30,
+        "ID": 60019,
+        "Name": "艾达号-左手"
+    },
+    {
+        "Icon": "",
+        "Disc": "群体修复",
+        "ModelID": 41003070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000000000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3037110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 1001,
+        "Name": "机体测试"
     }
 ]

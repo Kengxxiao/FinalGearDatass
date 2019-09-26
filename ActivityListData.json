@@ -4,8 +4,8 @@
         "ActivityName": "克尔贝洛之影",
         "ActivityEngName": "Shadow of Corbero",
         "ActivityDesc": "lalalalallalalalall",
-        "ActivityOpenTime": "2019/7/30 14:00:00",
-        "ActivityCloseTime": "2019/8/13 13:59:59",
+        "ActivityOpenTime": "2019/10/10 14:30:00",
+        "ActivityCloseTime": "2029/8/13 13:59:59",
         "ActivityIcon": "",
         "ActivityOpenLimitType": 2,
         "ActivityOpenLimitPara": "20104",
@@ -62,6 +62,19 @@
         "ActivityOpenLimitType": 2,
         "ActivityOpenLimitPara": "20104",
         "ID": 5,
+        "Name": null
+    },
+    {
+        "ActivityType": 6,
+        "ActivityName": "2233联动",
+        "ActivityEngName": "2233 Linkage",
+        "ActivityDesc": "无",
+        "ActivityOpenTime": "2019/9/26 14:30:00",
+        "ActivityCloseTime": "2019/10/10 13:59:59",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 2,
+        "ActivityOpenLimitPara": "20104",
+        "ID": 6,
         "Name": null
     }
 ]

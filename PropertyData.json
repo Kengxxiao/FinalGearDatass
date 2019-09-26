@@ -568,5 +568,29 @@
         "UiDesc": "能量恢复",
         "ID": 95,
         "Name": "能量获取速度"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "吸血",
+        "ID": 96,
+        "Name": "吸血比例"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "吸血概率",
+        "ID": 97,
+        "Name": "吸血概率"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "对护盾额外伤害系数",
+        "ID": 98,
+        "Name": "对护盾额外伤害系数"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "减伤",
+        "ID": 99,
+        "Name": "整体减伤"
     }
 ]

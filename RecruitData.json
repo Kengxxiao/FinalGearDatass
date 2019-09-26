@@ -27,7 +27,7 @@
         ],
         "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
         "GirlList": "2,24,35,36,37,43,55,59,81,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "2,0.71%",
+        "UpGirl": "2,0.45%",
         "ID": 10001,
         "Name": null
     },
@@ -59,7 +59,7 @@
         ],
         "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
         "GirlList": "2,24,35,36,37,43,55,59,81,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "37,0.71%",
+        "UpGirl": "37,0.45%",
         "ID": 10002,
         "Name": null
     },
@@ -86,12 +86,12 @@
             100
         ],
         "RecruitPrew": [
-            52,
-            82
+            92,
+            68
         ],
         "ProbabilityPrew": "SSR机师,5%;SR机师,10%;R机师,47.5%;N机师,37.5%",
-        "GirlList": "52,81,2,24,35,36,37,43,55,59,70,82,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "52,1.11%;82,2.4%",
+        "GirlList": "92,52,81,2,24,35,36,37,43,55,59,70,82,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
+        "UpGirl": "92,1.11%;68,2.4%",
         "ID": 10003,
         "Name": null
     },
@@ -123,7 +123,7 @@
         ],
         "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
         "GirlList": "2,24,35,36,37,43,55,59,81,1,3,9,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "36,0.71%",
+        "UpGirl": "36,0.45%",
         "ID": 10004,
         "Name": null
     },
@@ -155,7 +155,7 @@
         ],
         "ProbabilityPrew": "SSR机师,2.5%;SR机师,7.5%;R机师,50%;N机师,40%",
         "GirlList": "2,24,35,36,37,43,55,59,81,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "43,0.71%",
+        "UpGirl": "43,0.45%",
         "ID": 10005,
         "Name": null
     },
@@ -163,7 +163,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 2,
-        "RecruitName": "掉落部件的建造",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -192,7 +192,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 3,
-        "RecruitName": "掉落部件的建造-武器",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -225,7 +225,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 4,
-        "RecruitName": "掉落部件的建造-胸甲",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -258,7 +258,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 5,
-        "RecruitName": "掉落部件的建造-腿甲",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -291,7 +291,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 6,
-        "RecruitName": "掉落部件的建造-挂载",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -324,7 +324,7 @@
         "RecruitType": 1,
         "RecruitSubType": 1,
         "RecruitOrder": 7,
-        "RecruitName": "掉落部件的建造-挂载",
+        "RecruitName": "普通研发室",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -357,8 +357,8 @@
         "RecruitType": 1,
         "RecruitSubType": 3,
         "RecruitOrder": 1,
-        "RecruitName": "限时开发-恶浊之心",
-        "RecruitImage": "限定池4",
+        "RecruitName": "精密研发室",
+        "RecruitImage": "限定池7",
         "RecruitNeed": [
             [
                 10800002,
@@ -403,8 +403,8 @@
             2302932,
             2302942
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "302901,305501,301301",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "302901,0.1;305501,0.025;301301,0.025",
         "UpGirl": "302901,305501,301301",
         "ID": 20008,
         "Name": null
@@ -430,8 +430,8 @@
             2303931,
             2303941
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "303901,300801,301301",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "303901,0.1;300801,0.025;301301,0.025",
         "UpGirl": "303901,300801,301301",
         "ID": 20009,
         "Name": null
@@ -457,8 +457,8 @@
             2301133,
             2301143
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "301101,302901,303101",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "301101,0.1;302901,0.025;303101,0.025",
         "UpGirl": "301101",
         "ID": 20010,
         "Name": null
@@ -484,8 +484,8 @@
             2302132,
             2302142
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "302101,300401,301301",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "302101,0.1;300401,0.025;301301,0.025",
         "UpGirl": "302101",
         "ID": 20011,
         "Name": null
@@ -511,10 +511,45 @@
             2305232,
             2305242
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,其中:<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "305201,305501,300801",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "305201,0.1;305501,0.025;300801,0.025",
         "UpGirl": "305201",
         "ID": 20012,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "限时开发-RN特战型&北军之怒&肯陶洛斯",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20207,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2303916,
+            2303921,
+            2303931,
+            2303941,
+            2301119,
+            2301123,
+            2301133,
+            2301143,
+            2302112,
+            2302122,
+            2302132,
+            2302142
+        ],
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "303901,0.05;301101,0.05;302101,0.05",
+        "UpGirl": "303901,301101,302101",
+        "ID": 20013,
         "Name": null
     }
 ]

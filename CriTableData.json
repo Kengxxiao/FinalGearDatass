@@ -110,6 +110,17 @@
         "Name": "整备完毕"
     },
     {
+        "Description": "整备界面更换装备按钮",
+        "GroupTag": "UI/整备",
+        "CueSheet": "UI",
+        "CueName": "UI_EquipChange",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 100080000,
+        "Name": "更换装备"
+    },
+    {
         "Description": "机甲上方机械臂移动的声音",
         "GroupTag": "UI/整备",
         "CueSheet": "UI",
@@ -537,6 +548,17 @@
         "Pitch": 0,
         "ID": 100300100,
         "Name": "跳过人物出现"
+    },
+    {
+        "Description": "十连招募",
+        "GroupTag": "UI/抽卡",
+        "CueSheet": "UI",
+        "CueName": "UI_10Char",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 100300200,
+        "Name": "十连招募"
     },
     {
         "Description": "拆解弹窗音效",
@@ -1708,7 +1730,7 @@
         "Description": "",
         "GroupTag": "武器/其他",
         "CueSheet": "WP",
-        "CueName": "WP_ACT_Reload_Gun",
+        "CueName": "WP_Reload_Gun",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -1719,7 +1741,7 @@
         "Description": "",
         "GroupTag": "武器/其他",
         "CueSheet": "WP",
-        "CueName": "WP_ACT_Reload_Gun_H",
+        "CueName": "WP_Reload_Gun_H",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -1730,7 +1752,7 @@
         "Description": "",
         "GroupTag": "武器/其他",
         "CueSheet": "WP",
-        "CueName": "WP_ACT_Reload_Cannon",
+        "CueName": "WP_Reload_Cannon",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -1741,7 +1763,7 @@
         "Description": "",
         "GroupTag": "武器/其他",
         "CueSheet": "WP",
-        "CueName": "WP_ACT_Reload_Energy",
+        "CueName": "WP_Reload_Energy",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -7577,5 +7599,148 @@
         "Pitch": 0,
         "ID": 950044000,
         "Name": "战斗4"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Entrance",
+        "CueName": "BGM_Margaret_Entrance",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950045000,
+        "Name": "开始"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Stage_Select",
+        "CueName": "BGM_Margaret_Stage_Select",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950046000,
+        "Name": "选择关卡"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Sortie",
+        "CueName": "BGM_Margaret_Sortie",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950047000,
+        "Name": "任务开始"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_1",
+        "CueName": "BGM_Margaret_Battle_1",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950048000,
+        "Name": "战斗1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_1_Boss",
+        "CueName": "BGM_Margaret_Battle_1_Boss",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950049000,
+        "Name": "战斗1首领"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_2",
+        "CueName": "BGM_Margaret_Battle_2",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950050000,
+        "Name": "战斗2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_2_Boss",
+        "CueName": "BGM_Margaret_Battle_2_Boss",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950051000,
+        "Name": "战斗2首领"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_3",
+        "CueName": "BGM_Margaret_Battle_3",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950052000,
+        "Name": "战斗3"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_3_Boss",
+        "CueName": "BGM_Margaret_Battle_3_Boss",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950053000,
+        "Name": "战斗3首领"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_4",
+        "CueName": "BGM_Margaret_Battle_4",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950054000,
+        "Name": "战斗4"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Margaret_Battle_4_Boss",
+        "CueName": "BGM_Margaret_Battle_4_Boss",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950055000,
+        "Name": "战斗4首领"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Bili_BTogether",
+        "CueName": "BGM_Bili_BTogether",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950056000,
+        "Name": "b together"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/角色剧本/Margaret",
+        "CueSheet": "BGM_Bili_Natsu",
+        "CueName": "BGM_Bili_Natsu",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 950057000,
+        "Name": "夏之随想"
     }
 ]

@@ -3328,6 +3328,58 @@
         "Name": null
     },
     {
+        "preview": "Preview_Bag_000350_Bag",
+        "previewBounds": {
+            "x": -0.4889284,
+            "y": -0.3772225,
+            "z": 2.749939,
+            "w": 3.040419
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000350",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 22000350,
+        "Name": null
+    },
+    {
         "preview": "Preview_Bag_000370_Bag",
         "previewBounds": {
             "x": -1.439919,
@@ -3637,6 +3689,58 @@
         "passiveSkillIDs": [],
         "type": 0,
         "ID": 22000400,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000410_Bag",
+        "previewBounds": {
+            "x": -0.6845623,
+            "y": 0.05470586,
+            "z": 2.480223,
+            "w": 3.190249
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000410",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 22000410,
         "Name": null
     }
 ]

@@ -41,5 +41,45 @@
         "RoleDevelopNeed": 20103,
         "ID": 3,
         "Name": null
+    },
+    {
+        "RoleDevelopFrontID": 3201,
+        "RoleDevelopFrontTitle": "审判者开发",
+        "RoleDevelopFrontPic": "p82010028",
+        "RoleDevelopFrontShow": [
+            12610101,
+            12610105,
+            12610113
+        ],
+        "RoleDevelopNeed": 20103,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "RoleDevelopFrontID": 3202,
+        "RoleDevelopFrontTitle": "变色帝国开发",
+        "RoleDevelopFrontPic": "p82010025",
+        "RoleDevelopFrontShow": [
+            12610101,
+            12610105,
+            12610113
+        ],
+        "RoleDevelopNeed": 903209,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "RoleDevelopFrontID": 3203,
+        "RoleDevelopFrontTitle": "圣洁誓言开发",
+        "RoleDevelopFrontPic": "p82010027",
+        "RoleDevelopFrontShow": [
+            12610101,
+            12610105,
+            12610113,
+            12610117
+        ],
+        "RoleDevelopNeed": 20103,
+        "ID": 6,
+        "Name": null
     }
 ]

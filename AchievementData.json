@@ -20798,5 +20798,155 @@
         ],
         "ID": 86021,
         "Name": "充满个性的团队"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 1,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-限时挑战",
+        "PreAchievementID": 0,
+        "NextAchievementID": 87002,
+        "AchievementProp": "",
+        "CompleteCount": 1000101,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87001,
+        "Name": "挑战自我"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 2,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-坚守挑战",
+        "PreAchievementID": 87002,
+        "NextAchievementID": 87003,
+        "AchievementProp": "",
+        "CompleteCount": 1000102,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87002,
+        "Name": "挑战自我"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 3,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-单挑战",
+        "PreAchievementID": 87003,
+        "NextAchievementID": 87004,
+        "AchievementProp": "",
+        "CompleteCount": 1000103,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87003,
+        "Name": "挑战自我"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 4,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-双子星战",
+        "PreAchievementID": 87004,
+        "NextAchievementID": 87005,
+        "AchievementProp": "",
+        "CompleteCount": 1000104,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87004,
+        "Name": "挑战自我"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 5,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-随机挑战",
+        "PreAchievementID": 87005,
+        "NextAchievementID": 87006,
+        "AchievementProp": "",
+        "CompleteCount": 1000105,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87005,
+        "Name": "挑战自我"
+    },
+    {
+        "AchievementType": 3,
+        "AchievementSubType": 6,
+        "AchieveGroup": 90,
+        "AchieveArray": 6,
+        "Achievement": 95,
+        "Icon": "17_通关",
+        "Desc": "三星通关特殊挑战-头目战",
+        "PreAchievementID": 87006,
+        "NextAchievementID": 0,
+        "AchievementProp": "",
+        "CompleteCount": 1000106,
+        "Award": [
+            [
+                10100004,
+                10
+            ],
+            [
+                10400010,
+                10
+            ]
+        ],
+        "ID": 87006,
+        "Name": "挑战自我"
     }
 ]

@@ -69,7 +69,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲暴击几率提高5%",
+        "Suit2Desc": "·机甲暴击几率提高5%",
         "Suit4Add": {
             "keys": [
                 52
@@ -79,7 +79,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲闪避几率提高5%",
+        "Suit4Desc": "·机甲闪避几率提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -89,7 +89,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 101,
         "WidgetCamp": 2,
         "Designer": "？？？",
@@ -130,7 +130,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 68
@@ -140,7 +140,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit4Desc": "·机甲受到的伤害降低5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -150,7 +150,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 401,
         "WidgetCamp": 8,
         "Designer": "布兰彻特",
@@ -191,7 +191,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击速度提高5%",
+        "Suit2Desc": "·机甲攻击速度提高5%",
         "Suit4Add": {
             "keys": [
                 65
@@ -201,7 +201,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲伤害提高10%",
+        "Suit4Desc": "·机甲伤害提高10%",
         "Suit5Add": {
             "keys": [
                 80
@@ -211,7 +211,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "激活后娜塔莎技能强化\n娜塔莎技能“加油吧！”触发几率提高10%\n可激活专属机甲模型",
+        "Suit5Desc": "·激活后娜塔莎技能强化\n·娜塔莎技能“加油吧！”触发几率提高10%\n·可激活专属机甲模型",
         "MachineArmorID": 1101,
         "WidgetCamp": 6,
         "Designer": "卡德琳",
@@ -229,18 +229,22 @@
         "SuitName": "刻耳柏洛斯",
         "SuitType": 2,
         "SuitWeaponID": [
+            230201801,
             2402018,
             2302018
         ],
         "SuitChestID": [
+            230202201,
             2402022,
             2302022
         ],
         "SuitLegID": [
+            230203201,
             2402032,
             2302032
         ],
         "SuitBackpackID": [
+            230204201,
             2402042,
             2302042
         ],
@@ -249,34 +253,36 @@
         ],
         "Suit2Add": {
             "keys": [
-                27
+                65
             ],
             "values": [
                 0.05
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲伤害提高5%",
         "Suit4Add": {
-            "keys": [
-                68
-            ],
-            "values": [
-                0.05
-            ],
-            "propertys": null
-        },
-        "Suit4Desc": "机甲受到的伤害降低5%",
-        "Suit5Add": {
             "keys": [
                 65
             ],
             "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲伤害提高5%",
+        "Suit5Add": {
+            "keys": [
+                65,
+                80
+            ],
+            "values": [
+                0.05,
                 0.1
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·激活后贝尔娜黛特技能强化\n·技能“至善之恶”触发几率提高10%\n·机甲伤害提高5%\n·可激活专属机甲模型",
         "MachineArmorID": 2001,
         "WidgetCamp": 7,
         "Designer": "？？？",
@@ -325,7 +331,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 23
@@ -335,7 +341,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲耐久提高5%",
+        "Suit4Desc": "·机甲耐久提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -345,7 +351,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 2401,
         "WidgetCamp": 7,
         "Designer": "布兰彻特",
@@ -390,7 +396,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 68
@@ -400,7 +406,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit4Desc": "·机甲受到的伤害降低5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -410,7 +416,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 2901,
         "WidgetCamp": 3,
         "Designer": "艾格尼丝",
@@ -451,7 +457,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 68
@@ -461,7 +467,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit4Desc": "·机甲受到的伤害降低5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -471,7 +477,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 801,
         "WidgetCamp": 5,
         "Designer": "埃伊菲",
@@ -512,7 +518,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲耐久提高5%",
+        "Suit2Desc": "·机甲耐久提高5%",
         "Suit4Add": {
             "keys": [
                 31
@@ -522,7 +528,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲护甲提高5%",
+        "Suit4Desc": "·机甲护甲提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -532,7 +538,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 1301,
         "WidgetCamp": 7,
         "Designer": "林贝儿",
@@ -573,7 +579,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 68
@@ -583,7 +589,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲受到的伤害降低5%",
+        "Suit4Desc": "·机甲受到的伤害降低5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -593,7 +599,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 3101,
         "WidgetCamp": 6,
         "Designer": "爱塔",
@@ -634,7 +640,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 54
@@ -644,7 +650,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲暴击几率提高5%",
+        "Suit4Desc": "·机甲暴击几率提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -654,7 +660,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 5501,
         "WidgetCamp": 5,
         "Designer": "苏茉拉",
@@ -695,7 +701,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击提高5%",
+        "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
                 54
@@ -705,7 +711,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲暴击几率提高5%",
+        "Suit4Desc": "·机甲暴击几率提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -715,7 +721,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 3901,
         "WidgetCamp": 7,
         "Designer": "林贝儿",
@@ -756,7 +762,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲耐久提高5%",
+        "Suit2Desc": "·机甲耐久提高5%",
         "Suit4Add": {
             "keys": [
                 89
@@ -766,7 +772,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲耐久恢复时额外增加10%的恢复量",
+        "Suit4Desc": "·机甲耐久恢复时额外增加10%的恢复量",
         "Suit5Add": {
             "keys": [
                 68
@@ -776,7 +782,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "激活后柯蕾莉亚技能强化\n机甲受到的伤害降低10%\n可激活专属机甲模型",
+        "Suit5Desc": "·激活后柯蕾莉亚技能强化\n·机甲受到的伤害降低10%\n·可激活专属机甲模型",
         "MachineArmorID": 2101,
         "WidgetCamp": 7,
         "Designer": "林贝儿",
@@ -817,7 +823,7 @@
             ],
             "propertys": null
         },
-        "Suit2Desc": "机甲攻击速度提高5%",
+        "Suit2Desc": "·机甲攻击速度提高5%",
         "Suit4Add": {
             "keys": [
                 65
@@ -827,7 +833,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "机甲伤害提高5%",
+        "Suit4Desc": "·机甲伤害提高5%",
         "Suit5Add": {
             "keys": [
                 95
@@ -837,7 +843,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "激活后伊芙琳（病原体）技能强化\n机甲能量恢复速度提高20%\n普通攻击蓄力时间缩短至1秒\n可激活专属机甲模型",
+        "Suit5Desc": "·激活后伊芙琳（病原体）技能强化\n·机甲能量恢复速度提高20%\n·普通攻击蓄力时间缩短至1秒\n·可激活专属机甲模型",
         "MachineArmorID": 5201,
         "WidgetCamp": 8,
         "Designer": "？？？",
@@ -849,6 +855,315 @@
         "HitRate": 9,
         "ArmorRate": 9,
         "ID": 305201,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "钢铁要塞",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2306412
+        ],
+        "SuitChestID": [
+            2306422
+        ],
+        "SuitLegID": [
+            2306432
+        ],
+        "SuitBackpackID": [
+            2306442
+        ],
+        "SuitGirlID": [
+            64
+        ],
+        "Suit2Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲耐久提高5%",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲受到的伤害降低5%",
+        "Suit5Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后苏茉拉技能强化\n·每次受到伤害时，能量恢复10%，\n  每15秒触发1次\n·激活专属机甲模型",
+        "MachineArmorID": 6401,
+        "WidgetCamp": 7,
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "这台机器是艾丝梅拉达动用私人权力所制作的，因此盾牌才会有这猫咪的外型。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 306401,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "异形线虫",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2304317
+        ],
+        "SuitChestID": [
+            2304321
+        ],
+        "SuitLegID": [
+            2304331
+        ],
+        "SuitBackpackID": [
+            2304341
+        ],
+        "SuitGirlID": [
+            43
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲暴击几率提高5%",
+        "Suit4Add": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲闪避几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "MachineArmorID": 4301,
+        "WidgetCamp": 2,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "专门为伊芙琳所打造的机体，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 304301,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "圣洁誓言",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2303212
+        ],
+        "SuitChestID": [
+            2303222
+        ],
+        "SuitLegID": [
+            2303232
+        ],
+        "SuitBackpackID": [
+            2303242
+        ],
+        "SuitGirlID": [
+            32
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲耐久提高5%",
+        "Suit5Add": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后玛格丽特技能强化\n·机甲能量恢复速度提高20%\n·可激活专属机甲模型",
+        "MachineArmorID": 3201,
+        "WidgetCamp": 7,
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "这台机器是艾丝梅拉达动用私人权力所制作的，因此盾牌才会有这猫咪的外型。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 303201,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "弹幕机甲KT-01",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            230961901,
+            230961902,
+            2309619
+        ],
+        "SuitChestID": [
+            230962301,
+            230962302,
+            2309623
+        ],
+        "SuitLegID": [
+            230963301,
+            230963302,
+            2309633
+        ],
+        "SuitBackpackID": [
+            230964301,
+            230964302,
+            2309643
+        ],
+        "SuitGirlID": [
+            96
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲暴击几率提高5%",
+        "Suit4Add": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲能量恢复速度提高10%",
+        "Suit5Add": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后22&33技能强化\n·机甲闪避几率提高10%\n·激活专属机甲模型",
+        "MachineArmorID": 9601,
+        "WidgetCamp": 6,
+        "Designer": "卡德琳",
+        "Manufacturer": "北军工业",
+        "Disc": "帝国侵略战争时期娜塔莎所驾驶的四足机甲，攻击方式以电磁为主。\n时过境迁，目前这台机体的驾驶舱对她来说似乎有点小了。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 6,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 309601,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "白鸦MK2",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2307413
+        ],
+        "SuitChestID": [
+            2307421
+        ],
+        "SuitLegID": [
+            2307431
+        ],
+        "SuitBackpackID": [
+            2307441
+        ],
+        "SuitGirlID": [
+            74
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲暴击几率提高5%",
+        "Suit4Add": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲闪避几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "MachineArmorID": 7401,
+        "WidgetCamp": 2,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "专门为伊芙琳所打造的机体，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "HpRate": 8,
+        "AtkRate": 8,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 307401,
         "Name": "套装数据"
     }
 ]

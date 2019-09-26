@@ -131,6 +131,15 @@
         "Name": "战斗数据"
     },
     {
+        "Desc": "机体测试",
+        "BattleValueType": 1,
+        "ValueClassify": 100,
+        "BattleCompileID": 9996,
+        "ScenarioGirl": [],
+        "ID": 100,
+        "Name": "战斗数据"
+    },
+    {
         "Desc": "强盗团主力",
         "BattleValueType": 1,
         "ValueClassify": 101,
@@ -2786,6 +2795,33 @@
         "BattleCompileID": 893053,
         "ScenarioGirl": [],
         "ID": 700701,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "克尔贝洛挑战之战",
+        "BattleValueType": 1,
+        "ValueClassify": 700801,
+        "BattleCompileID": 893051,
+        "ScenarioGirl": [],
+        "ID": 700801,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "克尔贝洛挑战之战",
+        "BattleValueType": 1,
+        "ValueClassify": 700901,
+        "BattleCompileID": 893052,
+        "ScenarioGirl": [],
+        "ID": 700901,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "克尔贝洛挑战之战",
+        "BattleValueType": 1,
+        "ValueClassify": 701001,
+        "BattleCompileID": 893053,
+        "ScenarioGirl": [],
+        "ID": 701001,
         "Name": "战斗数据"
     },
     {
@@ -23028,6 +23064,1123 @@
         "BattleCompileID": 6000301,
         "ScenarioGirl": [],
         "ID": 4011107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "神秘部队",
+        "BattleValueType": 1,
+        "ValueClassify": 1070101,
+        "BattleCompileID": 2100101,
+        "ScenarioGirl": [],
+        "ID": 1070101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "神秘部队",
+        "BattleValueType": 1,
+        "ValueClassify": 1070102,
+        "BattleCompileID": 2100201,
+        "ScenarioGirl": [],
+        "ID": 1070102,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "镇守战姬",
+        "BattleValueType": 1,
+        "ValueClassify": 1070103,
+        "BattleCompileID": 2100301,
+        "ScenarioGirl": [],
+        "ID": 1070103,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "双子星",
+        "BattleValueType": 1,
+        "ValueClassify": 1070104,
+        "BattleCompileID": 2100401,
+        "ScenarioGirl": [],
+        "ID": 1070104,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "神秘部队",
+        "BattleValueType": 1,
+        "ValueClassify": 1070105,
+        "BattleCompileID": 2100501,
+        "ScenarioGirl": [],
+        "ID": 1070105,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "地区头目",
+        "BattleValueType": 1,
+        "ValueClassify": 1070106,
+        "BattleCompileID": 2100601,
+        "ScenarioGirl": [],
+        "ID": 1070106,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2233联动剧情1-1",
+        "BattleValueType": 1,
+        "ValueClassify": 750101,
+        "BattleCompileID": 891901,
+        "ScenarioGirl": [],
+        "ID": 750101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2233联动剧情1-2",
+        "BattleValueType": 1,
+        "ValueClassify": 750201,
+        "BattleCompileID": 891911,
+        "ScenarioGirl": [],
+        "ID": 750201,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2233联动剧情1-3",
+        "BattleValueType": 1,
+        "ValueClassify": 750301,
+        "BattleCompileID": 891921,
+        "ScenarioGirl": [],
+        "ID": 750301,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2233联动剧情1-4",
+        "BattleValueType": 1,
+        "ValueClassify": 750401,
+        "BattleCompileID": 891931,
+        "ScenarioGirl": [],
+        "ID": 750401,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2233联动挑战（简单）",
+        "BattleValueType": 1,
+        "ValueClassify": 750501,
+        "BattleCompileID": 891941,
+        "ScenarioGirl": [],
+        "ID": 750501,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2234联动挑战（普通）",
+        "BattleValueType": 1,
+        "ValueClassify": 750601,
+        "BattleCompileID": 891951,
+        "ScenarioGirl": [],
+        "ID": 750601,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2235联动挑战（困难）",
+        "BattleValueType": 1,
+        "ValueClassify": 750701,
+        "BattleCompileID": 891961,
+        "ScenarioGirl": [],
+        "ID": 750701,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2236联动挑战（地狱）",
+        "BattleValueType": 1,
+        "ValueClassify": 750801,
+        "BattleCompileID": 891971,
+        "ScenarioGirl": [],
+        "ID": 750801,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "2237联动挑战（英雄）",
+        "BattleValueType": 1,
+        "ValueClassify": 750901,
+        "BattleCompileID": 891981,
+        "ScenarioGirl": [],
+        "ID": 750901,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320101,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320102,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320102,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320103,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320103,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320104,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320104,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320105,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320105,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320106,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320106,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320107,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团主力",
+        "BattleValueType": 1,
+        "ValueClassify": 90320108,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320108,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320201,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320201,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320202,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320202,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320203,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320203,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320204,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320204,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320205,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320205,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320206,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320206,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320207,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320207,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团主力",
+        "BattleValueType": 1,
+        "ValueClassify": 90320208,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320208,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320301,
+        "BattleCompileID": 8200201,
+        "ScenarioGirl": [],
+        "ID": 90320301,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320302,
+        "BattleCompileID": 8200202,
+        "ScenarioGirl": [],
+        "ID": 90320302,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320303,
+        "BattleCompileID": 8200203,
+        "ScenarioGirl": [],
+        "ID": 90320303,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320304,
+        "BattleCompileID": 8200101,
+        "ScenarioGirl": [],
+        "ID": 90320304,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320305,
+        "BattleCompileID": 8200102,
+        "ScenarioGirl": [],
+        "ID": 90320305,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320306,
+        "BattleCompileID": 8200103,
+        "ScenarioGirl": [],
+        "ID": 90320306,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320307,
+        "BattleCompileID": 8200103,
+        "ScenarioGirl": [],
+        "ID": 90320307,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团主力",
+        "BattleValueType": 1,
+        "ValueClassify": 90320308,
+        "BattleCompileID": 8200404,
+        "ScenarioGirl": [],
+        "ID": 90320308,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320401,
+        "BattleCompileID": 8200201,
+        "ScenarioGirl": [],
+        "ID": 90320401,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320402,
+        "BattleCompileID": 8200202,
+        "ScenarioGirl": [],
+        "ID": 90320402,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团正规部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320403,
+        "BattleCompileID": 8200203,
+        "ScenarioGirl": [],
+        "ID": 90320403,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320404,
+        "BattleCompileID": 8200101,
+        "ScenarioGirl": [],
+        "ID": 90320404,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320405,
+        "BattleCompileID": 8200102,
+        "ScenarioGirl": [],
+        "ID": 90320405,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320406,
+        "BattleCompileID": 8200103,
+        "ScenarioGirl": [],
+        "ID": 90320406,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团先头部队",
+        "BattleValueType": 1,
+        "ValueClassify": 90320407,
+        "BattleCompileID": 8200103,
+        "ScenarioGirl": [],
+        "ID": 90320407,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "强盗团主力",
+        "BattleValueType": 1,
+        "ValueClassify": 90320408,
+        "BattleCompileID": 8200404,
+        "ScenarioGirl": [],
+        "ID": 90320408,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320501,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320501,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320502,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320502,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320503,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320503,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320504,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320504,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320505,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320505,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320506,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320506,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320507,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320507,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵精英",
+        "BattleValueType": 1,
+        "ValueClassify": 90320508,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320508,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "监狱守卫",
+        "BattleValueType": 1,
+        "ValueClassify": 90320509,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [
+            90320501,
+            90320502,
+            0,
+            0
+        ],
+        "ID": 90320509,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "菲比亚",
+        "BattleValueType": 1,
+        "ValueClassify": 90320510,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [
+            90320501,
+            0,
+            0,
+            0
+        ],
+        "ID": 90320510,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320601,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320601,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320602,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320602,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320603,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320603,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320604,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320604,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320605,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320605,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320606,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320606,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320607,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320607,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320608,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320608,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国追兵（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320609,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320609,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "菲比亚",
+        "BattleValueType": 1,
+        "ValueClassify": 90320610,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320610,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320701,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320701,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320702,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320702,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320703,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320703,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320704,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320704,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320705,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320705,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320706,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320706,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320707,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320707,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "军队司令A",
+        "BattleValueType": 1,
+        "ValueClassify": 90320708,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320708,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "军队司令B",
+        "BattleValueType": 1,
+        "ValueClassify": 90320709,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320709,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "军队司令C",
+        "BattleValueType": 1,
+        "ValueClassify": 90320710,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320710,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320801,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320801,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320802,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320802,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320803,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320803,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320804,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320804,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320805,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320805,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320806,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320806,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320807,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320807,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320808,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320808,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国地方军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320809,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320809,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "军队司令A",
+        "BattleValueType": 1,
+        "ValueClassify": 90320810,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320810,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320901,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90320901,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320902,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90320902,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320903,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90320903,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320904,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90320904,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320905,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90320905,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320906,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320906,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90320907,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90320907,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "叛军将军",
+        "BattleValueType": 1,
+        "ValueClassify": 90320908,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90320908,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321001,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90321001,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321002,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90321002,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321003,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90321003,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321004,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90321004,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321005,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90321005,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321006,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90321006,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321007,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90321007,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321008,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321008,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321009,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321009,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "叛军将军",
+        "BattleValueType": 1,
+        "ValueClassify": 90321010,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90321010,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321101,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90321101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321102,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90321102,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321103,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90321103,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321104,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90321104,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321105,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90321105,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321106,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321106,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321107,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "伯爵",
+        "BattleValueType": 1,
+        "ValueClassify": 90321108,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90321108,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321201,
+        "BattleCompileID": 8100201,
+        "ScenarioGirl": [],
+        "ID": 90321201,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321202,
+        "BattleCompileID": 8100202,
+        "ScenarioGirl": [],
+        "ID": 90321202,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321203,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90321203,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（强）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321204,
+        "BattleCompileID": 8100203,
+        "ScenarioGirl": [],
+        "ID": 90321204,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321205,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90321205,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321206,
+        "BattleCompileID": 8100101,
+        "ScenarioGirl": [],
+        "ID": 90321206,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321207,
+        "BattleCompileID": 8100102,
+        "ScenarioGirl": [],
+        "ID": 90321207,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321208,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321208,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "帝国叛军（弱）",
+        "BattleValueType": 1,
+        "ValueClassify": 90321209,
+        "BattleCompileID": 8100103,
+        "ScenarioGirl": [],
+        "ID": 90321209,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "伯爵",
+        "BattleValueType": 1,
+        "ValueClassify": 90321210,
+        "BattleCompileID": 8100404,
+        "ScenarioGirl": [],
+        "ID": 90321210,
         "Name": "战斗数据"
     }
 ]

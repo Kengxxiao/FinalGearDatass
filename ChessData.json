@@ -1219,5 +1219,60 @@
         "ShowArrow": 1,
         "ID": 90011301,
         "Name": null
+    },
+    {
+        "Icon": "e_突击",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "NavAI_3goto_1point",
+        "ShowArrow": 0,
+        "ID": 903201,
+        "Name": null
+    },
+    {
+        "Icon": "e_突击",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "NavAI_3goto_1point_2",
+        "ShowArrow": 0,
+        "ID": 903202,
+        "Name": null
+    },
+    {
+        "Icon": "e_突击",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "NavAI_3goto_1point_3",
+        "ShowArrow": 0,
+        "ID": 903203,
+        "Name": null
+    },
+    {
+        "Icon": "e_突击",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "NavAI_3goto_1point_4",
+        "ShowArrow": 0,
+        "ID": 903204,
+        "Name": null
+    },
+    {
+        "Icon": "e_突击",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "NavAI_3goto_1point_5",
+        "ShowArrow": 0,
+        "ID": 903205,
+        "Name": null
     }
 ]
