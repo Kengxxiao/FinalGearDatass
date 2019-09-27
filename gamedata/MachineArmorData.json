@@ -12,7 +12,7 @@
         "Trigger": 0.31,
         "AnimationCycleType": 2,
         "BulletlAggRatio": [
-            0.25
+            1.0
         ],
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
@@ -192,7 +192,7 @@
         "Trigger": 0.22,
         "AnimationCycleType": 1,
         "BulletlAggRatio": [
-            0.17
+            0.51
         ],
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,

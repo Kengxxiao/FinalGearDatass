@@ -10,69 +10,44 @@
         "action": {
             "childActions": [
                 {
-                    "shieldEffectData": {
-                        "shieldValue": 99999999,
-                        "damageReduceRatio": 0.0,
-                        "defenceType": 0,
-                        "shieldDuration": 0.0,
-                        "coolDownTime": 0.0,
-                        "preEffectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "",
-                                "extraSortingOrder": 0,
-                                "shieldBoomEff": {
-                                    "asset": null,
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "effectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "01其他_A11-L纸盾",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "root",
-                                "extraSortingOrder": 10,
-                                "shieldBoomEff": {
-                                    "asset": "04受击_防御",
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "afterEffectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "",
-                                "extraSortingOrder": 0,
-                                "shieldBoomEff": {
-                                    "asset": null,
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "effectDelayTime": 0.0,
-                        "breakEffect": null,
-                        "type": null
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/01其他_A11-L纸盾",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
                     },
-                    "targetType": 1,
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 2,
+                    "useTargetZPosition": false,
+                    "positionType": 2,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
                     "instanceID": 0,
                     "currentStatus": 0
                 },
                 {
                     "states": [
-                        10007,
-                        10004
+                        10007
                     ],
                     "targetType": 1,
                     "lifeTime": 0.0,
@@ -99,69 +74,44 @@
         "action": {
             "childActions": [
                 {
-                    "shieldEffectData": {
-                        "shieldValue": 0,
-                        "damageReduceRatio": 1.0,
-                        "defenceType": 0,
-                        "shieldDuration": 0.0,
-                        "coolDownTime": 0.0,
-                        "preEffectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "",
-                                "extraSortingOrder": 0,
-                                "shieldBoomEff": {
-                                    "asset": null,
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "effectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "01其他_A11-L纸盾",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "root",
-                                "extraSortingOrder": 10,
-                                "shieldBoomEff": {
-                                    "asset": "04受击_防御",
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "afterEffectDatas": [
-                            {
-                                "effectID": {
-                                    "asset": "",
-                                    "scale": 1.0
-                                },
-                                "followBoneName": "",
-                                "extraSortingOrder": 0,
-                                "shieldBoomEff": {
-                                    "asset": null,
-                                    "scale": 1.0
-                                },
-                                "soundID": 0
-                            }
-                        ],
-                        "effectDelayTime": 0.0,
-                        "breakEffect": null,
-                        "type": null
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/01其他_A11-L纸盾",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
                     },
-                    "targetType": 1,
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 2,
+                    "useTargetZPosition": false,
+                    "positionType": 2,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
                     "instanceID": 0,
                     "currentStatus": 0
                 },
                 {
                     "states": [
-                        10007,
-                        10004
+                        10007
                     ],
                     "targetType": 1,
                     "lifeTime": 0.0,
@@ -2178,7 +2128,7 @@
                     "animationName": "skill_5_2",
                     "loop": true,
                     "loopTime": 0,
-                    "lifeTime": 11.5,
+                    "lifeTime": 14.5,
                     "mix": 0.0,
                     "stopMove": false,
                     "stopControl": false,

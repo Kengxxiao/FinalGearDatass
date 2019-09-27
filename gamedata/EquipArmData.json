@@ -35316,6 +35316,22 @@
                 ],
                 "screenShakeIDs": null,
                 "soundID": null
+            },
+            {
+                "eventName": "actionEvent5",
+                "boneName": "a_Armor_000220_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_电子世界方块技能（近战）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
             }
         ],
         "skills": [],
