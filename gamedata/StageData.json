@@ -29792,7 +29792,7 @@
     },
     {
         "Title": "片甲不留",
-        "Disc": "在限定的时间内清理掉全部强盗。",
+        "Disc": "在限定的时间内清理掉全部强盗。\n（<color=yellow>限制时长：2分钟</color>）",
         "NeedStars": 0,
         "NeedProbe": 0,
         "SceneLevel": 60,
@@ -29841,7 +29841,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100010,
+        "FirstDrop": 0,
         "Drop": 100070,
         "RobotFighting": [],
         "AttackEXP": 0,
@@ -29856,7 +29856,7 @@
     },
     {
         "Title": "据点守卫",
-        "Disc": "委托方命令我们动用一切手段保护这个据点。",
+        "Disc": "委托方命令我们动用一切手段保护这个据点。\n（<color=yellow>守护时长：3分钟</color>）",
         "NeedStars": 0,
         "NeedProbe": 0,
         "SceneLevel": 60,
@@ -29909,7 +29909,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100020,
+        "FirstDrop": 0,
         "Drop": 100080,
         "RobotFighting": [],
         "AttackEXP": 0,
@@ -29980,7 +29980,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100030,
+        "FirstDrop": 0,
         "Drop": 100090,
         "RobotFighting": [],
         "AttackEXP": 0,
@@ -30055,7 +30055,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100040,
+        "FirstDrop": 0,
         "Drop": 100100,
         "RobotFighting": [],
         "AttackEXP": 0,
@@ -30070,7 +30070,7 @@
     },
     {
         "Title": "生存战",
-        "Disc": "在医疗设备到来之前顶住敌人的攻势吧！",
+        "Disc": "在医疗设备到来之前顶住敌人的攻势吧！\n（<color=yellow>生存时长：1分30秒</color>）\n（<color=red>攻击属性越高，腐蚀伤害越高</color>）",
         "NeedStars": 0,
         "NeedProbe": 0,
         "SceneLevel": 60,
@@ -30130,7 +30130,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100060,
+        "FirstDrop": 0,
         "Drop": 100120,
         "RobotFighting": [],
         "AttackEXP": 0,
@@ -30205,7 +30205,7 @@
             10800001,
             10800002
         ],
-        "FirstDrop": 100050,
+        "FirstDrop": 0,
         "Drop": 100110,
         "RobotFighting": [],
         "AttackEXP": 0,

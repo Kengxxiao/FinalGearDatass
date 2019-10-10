@@ -195,7 +195,7 @@
         "Name": "残余零件-上线70日纪念"
     },
     {
-        "Description": "可用于兑换『钢铁要塞』的一体机部件。\n在『刻耳柏洛斯』限时开发中获得。",
+        "Description": "可用于兑换『钢铁要塞』的一体机部件。\n在『钢铁要塞』限时开发中获得。",
         "Icon": "82020040",
         "Background": "",
         "ItemClassify": 0,
@@ -3335,7 +3335,7 @@
         "UsedGetType": 14,
         "UsedGetPara": [
             20024,
-            10
+            500
         ],
         "IfCanSall": false,
         "Price": 0,
@@ -10346,6 +10346,39 @@
         "ShopID": [],
         "ID": 11600047,
         "Name": "纪念开发礼包"
+    },
+    {
+        "Description": "购买后可以获得新型武器模组*6，OSUA模块*60，NR动力装置*150，超拟态合金*200",
+        "Icon": "82020019",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 6,
+        "IsCountBag": false,
+        "ItemQualityType": 3,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 2,
+        "UsedGetPara": [
+            11410001,
+            6,
+            11410002,
+            60,
+            11410003,
+            150,
+            11410004,
+            200
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 11600048,
+        "Name": "改造大礼包"
     },
     {
         "Description": "参与<color=yellow>夏日回忆第一期水枪战争</color>可获得的珍贵点数；胜利之后才想到了最佳战术，是不是晚了点！<color=yellow>\n功能：夏日回忆活动期间，可在活动商店里兑换丰厚奖励。</color>",
@@ -19212,7 +19245,7 @@
         "SortingPrior": 20,
         "ShopID": [],
         "ID": 13200011,
-        "Name": "挑战之钥"
+        "Name": "试炼之钥"
     },
     {
         "Description": "通过挑战所获得的特殊货币，可在特殊挑战的交换所内兑换各式各样的道具",
@@ -19551,6 +19584,110 @@
         "Name": "RN特战型挂载"
     },
     {
+        "Description": "兑换后可以获得一件钢铁要塞-霰弹枪",
+        "Icon": "Parts_Arm_000310",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 15,
+        "UsedGetPara": [
+            2306412
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13300013,
+        "Name": "钢铁要塞-霰弹枪"
+    },
+    {
+        "Description": "兑换后可以获得一件钢铁要塞-座舱",
+        "Icon": "Parts_Body_000310",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 15,
+        "UsedGetPara": [
+            2306422
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13300014,
+        "Name": "钢铁要塞-座舱"
+    },
+    {
+        "Description": "兑换后可以获得一件钢铁要塞-机械足",
+        "Icon": "Parts_Leg_000310",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 15,
+        "UsedGetPara": [
+            2306432
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13300015,
+        "Name": "钢铁要塞-机械足"
+    },
+    {
+        "Description": "兑换后可以获得一件钢铁要塞-挂载",
+        "Icon": "Parts_Bag_000310",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 15,
+        "UsedGetPara": [
+            2306442
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13300016,
+        "Name": "钢铁要塞-挂载"
+    },
+    {
         "Description": "使用后随机获得一件40级R~SR品质的随机芯片\n<color=yellow>类型：芯片</color>",
         "Icon": "82020012",
         "Background": "",
@@ -19603,7 +19740,7 @@
         "Name": "50级芯片盒"
     },
     {
-        "Description": "使用后随机获得一件60级R~SR品质的随机芯片\n<color=yellow>类型：芯片</color>",
+        "Description": "使用后随机获得一件60级SR品质的随机芯片\n<color=yellow>类型：芯片</color>",
         "Icon": "82020012",
         "Background": "",
         "ItemClassify": 2,
@@ -20043,6 +20180,6 @@
         "SortingPrior": 20,
         "ShopID": [],
         "ID": 13200013,
-        "Name": "挑战之钥礼包"
+        "Name": "试炼之钥礼包"
     }
 ]

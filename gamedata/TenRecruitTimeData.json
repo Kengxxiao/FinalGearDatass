@@ -60,6 +60,30 @@
         "Name": "索拉尔"
     },
     {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/10/10 14:30:00",
+        "IosCloseTime": "2019/10/24 13:59:59",
+        "AndOpenTime": "2019/10/10 14:30:00",
+        "AndCloseTime": "2019/10/24 13:59:59",
+        "ResourceName": "64,limitRecruitRight6,RecruitRight6,SquareHead_Pilot_000640",
+        "ListOrder": 1,
+        "LibraryID": 6,
+        "ID": 10006,
+        "Name": "苏茉拉"
+    },
+    {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/10/10 14:30:00",
+        "IosCloseTime": "2019/10/24 13:59:59",
+        "AndOpenTime": "2019/10/10 14:30:00",
+        "AndCloseTime": "2019/10/24 13:59:59",
+        "ResourceName": "24,limitRecruitRight7,RecruitAyaKujyou,SquareHead_Pilot_000240",
+        "ListOrder": 1,
+        "LibraryID": 7,
+        "ID": 10007,
+        "Name": "九条绫"
+    },
+    {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/7/16 00:00:00",
         "IosCloseTime": "2019/7/30 13:59:59",
@@ -130,5 +154,17 @@
         "LibraryID": 20013,
         "ID": 20006,
         "Name": "RN特战型&北军之怒&肯陶洛斯"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2019/10/10 14:30:00",
+        "IosCloseTime": "2019/10/24 13:59:59",
+        "AndOpenTime": "2019/10/10 14:30:00",
+        "AndCloseTime": "2019/10/24 13:59:59",
+        "ResourceName": "64,limitDevelopRight7,DevelopRight7,SquareHead_Pilot_000640",
+        "ListOrder": 1,
+        "LibraryID": 20014,
+        "ID": 20007,
+        "Name": "钢铁要塞"
     }
 ]

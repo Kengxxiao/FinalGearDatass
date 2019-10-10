@@ -2004,5 +2004,39 @@
         "NPCType": 0,
         "ID": 90321101,
         "Name": null
+    },
+    {
+        "GirlName": "伊芙琳&柯洛儿",
+        "GirlID": 74,
+        "GirlLevel": 60,
+        "GirlSkin": 7401,
+        "StarLevel": 5,
+        "SkillsLevel": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "SuitID": 307401,
+        "BaseEquip1": [
+            2307413,
+            60
+        ],
+        "BaseEquip2": [
+            2307421,
+            60
+        ],
+        "BaseEquip3": [
+            2307431,
+            60
+        ],
+        "BaseEquip4": [
+            2307441,
+            60
+        ],
+        "RecommendAbility": 17409,
+        "NPCType": 0,
+        "ID": 11110,
+        "Name": null
     }
 ]

@@ -19503,10 +19503,10 @@
         "AccumulatingTime": 0,
         "ShootInterval": 0,
         "AttackSpeed": 1.0,
-        "WeaponSpeed": 2.86,
-        "Trigger": 0.35,
+        "WeaponSpeed": 3.16,
+        "Trigger": 0.32,
         "BulletlAggRatio": [
-            0.28
+            1.0
         ],
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
@@ -23970,5 +23970,47 @@
         "SuitType": 1,
         "ID": 210054201,
         "Name": "怪雨中挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 307401,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "经过加装改良的新型机械足，各个关节部分均得到了强化。",
+        "Model": 23010220,
+        "Icon": "Parts_Leg_000400",
+        "Icon_Large": "L_Leg_000400",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 3,
+        "ID": 2000000,
+        "Name": "白鸦MK2"
     }
 ]

@@ -47052,13 +47052,13 @@
         "ValueClassify": 1070101,
         "ValueLevel": 0,
         "MonsterPara": [
-            0.87,
-            0.75,
+            0.6,
+            0.05,
             1.0,
             1.0,
             1.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 90000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -47073,13 +47073,13 @@
         "ValueClassify": 1070102,
         "ValueLevel": 0,
         "MonsterPara": [
-            1.0,
-            0.25,
+            0.6,
+            0.0345,
             1.0,
             1.0,
             1.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 100000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -47094,13 +47094,14 @@
         "ValueClassify": 1070103,
         "ValueLevel": 0,
         "MonsterPara": [
+            0.8,
+            0.045,
             1.0,
-            0.02,
             1.0,
             1.0,
-            1.0
+            6.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 35000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -47115,13 +47116,14 @@
         "ValueClassify": 1070104,
         "ValueLevel": 0,
         "MonsterPara": [
+            0.76,
+            0.011,
             1.0,
-            0.02,
             1.0,
             1.0,
-            1.0
+            6.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 120000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -47136,13 +47138,13 @@
         "ValueClassify": 1070105,
         "ValueLevel": 0,
         "MonsterPara": [
-            0.7,
-            0.02,
+            1.5,
+            0.15,
             1.0,
             1.0,
             1.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 80000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -47158,12 +47160,13 @@
         "ValueLevel": 0,
         "MonsterPara": [
             1.0,
-            0.02,
+            0.015,
             1.0,
             1.0,
-            1.0
+            1.0,
+            6.0
         ],
-        "RecommendAbility": 56984,
+        "RecommendAbility": 140000,
         "UserEXP": 0,
         "GirlEXP": 0,
         "GoldReward": 0,
@@ -48229,7 +48232,7 @@
         "ValueLevel": 0,
         "MonsterPara": [
             0.1076,
-            0.0012,
+            0.0102,
             1.0,
             1.0,
             1.0

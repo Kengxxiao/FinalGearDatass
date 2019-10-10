@@ -135,7 +135,12 @@
         "BattleValueType": 1,
         "ValueClassify": 100,
         "BattleCompileID": 9996,
-        "ScenarioGirl": [],
+        "ScenarioGirl": [
+            11110,
+            0,
+            0,
+            0
+        ],
         "ID": 100,
         "Name": "战斗数据"
     },
@@ -23493,7 +23498,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320501,
-        "BattleCompileID": 8100201,
+        "BattleCompileID": 8300101,
         "ScenarioGirl": [],
         "ID": 90320501,
         "Name": "战斗数据"
@@ -23502,7 +23507,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320502,
-        "BattleCompileID": 8100202,
+        "BattleCompileID": 8300101,
         "ScenarioGirl": [],
         "ID": 90320502,
         "Name": "战斗数据"
@@ -23511,7 +23516,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320503,
-        "BattleCompileID": 8100203,
+        "BattleCompileID": 8300102,
         "ScenarioGirl": [],
         "ID": 90320503,
         "Name": "战斗数据"
@@ -23520,7 +23525,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320504,
-        "BattleCompileID": 8100101,
+        "BattleCompileID": 8300102,
         "ScenarioGirl": [],
         "ID": 90320504,
         "Name": "战斗数据"
@@ -23529,7 +23534,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320505,
-        "BattleCompileID": 8100102,
+        "BattleCompileID": 8300103,
         "ScenarioGirl": [],
         "ID": 90320505,
         "Name": "战斗数据"
@@ -23538,7 +23543,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320506,
-        "BattleCompileID": 8100103,
+        "BattleCompileID": 8300103,
         "ScenarioGirl": [],
         "ID": 90320506,
         "Name": "战斗数据"
@@ -23547,7 +23552,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320507,
-        "BattleCompileID": 8100103,
+        "BattleCompileID": 8300201,
         "ScenarioGirl": [],
         "ID": 90320507,
         "Name": "战斗数据"
@@ -23556,7 +23561,7 @@
         "Desc": "帝国追兵精英",
         "BattleValueType": 1,
         "ValueClassify": 90320508,
-        "BattleCompileID": 8100404,
+        "BattleCompileID": 8300202,
         "ScenarioGirl": [],
         "ID": 90320508,
         "Name": "战斗数据"
@@ -23565,7 +23570,7 @@
         "Desc": "监狱守卫",
         "BattleValueType": 1,
         "ValueClassify": 90320509,
-        "BattleCompileID": 8100404,
+        "BattleCompileID": 8300203,
         "ScenarioGirl": [
             90320501,
             90320502,
@@ -23579,7 +23584,7 @@
         "Desc": "菲比亚",
         "BattleValueType": 1,
         "ValueClassify": 90320510,
-        "BattleCompileID": 8100404,
+        "BattleCompileID": 8300404,
         "ScenarioGirl": [
             90320501,
             0,
@@ -23593,7 +23598,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320601,
-        "BattleCompileID": 8100201,
+        "BattleCompileID": 8300101,
         "ScenarioGirl": [],
         "ID": 90320601,
         "Name": "战斗数据"
@@ -23602,7 +23607,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320602,
-        "BattleCompileID": 8100202,
+        "BattleCompileID": 8300101,
         "ScenarioGirl": [],
         "ID": 90320602,
         "Name": "战斗数据"
@@ -23611,7 +23616,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320603,
-        "BattleCompileID": 8100203,
+        "BattleCompileID": 8300102,
         "ScenarioGirl": [],
         "ID": 90320603,
         "Name": "战斗数据"
@@ -23620,7 +23625,7 @@
         "Desc": "帝国追兵（强）",
         "BattleValueType": 1,
         "ValueClassify": 90320604,
-        "BattleCompileID": 8100203,
+        "BattleCompileID": 8300102,
         "ScenarioGirl": [],
         "ID": 90320604,
         "Name": "战斗数据"
@@ -23629,7 +23634,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320605,
-        "BattleCompileID": 8100101,
+        "BattleCompileID": 8300103,
         "ScenarioGirl": [],
         "ID": 90320605,
         "Name": "战斗数据"
@@ -23638,7 +23643,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320606,
-        "BattleCompileID": 8100101,
+        "BattleCompileID": 8300103,
         "ScenarioGirl": [],
         "ID": 90320606,
         "Name": "战斗数据"
@@ -23647,7 +23652,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320607,
-        "BattleCompileID": 8100102,
+        "BattleCompileID": 8300201,
         "ScenarioGirl": [],
         "ID": 90320607,
         "Name": "战斗数据"
@@ -23656,7 +23661,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320608,
-        "BattleCompileID": 8100103,
+        "BattleCompileID": 8300202,
         "ScenarioGirl": [],
         "ID": 90320608,
         "Name": "战斗数据"
@@ -23665,7 +23670,7 @@
         "Desc": "帝国追兵（弱）",
         "BattleValueType": 1,
         "ValueClassify": 90320609,
-        "BattleCompileID": 8100103,
+        "BattleCompileID": 8300203,
         "ScenarioGirl": [],
         "ID": 90320609,
         "Name": "战斗数据"
@@ -23674,7 +23679,7 @@
         "Desc": "菲比亚",
         "BattleValueType": 1,
         "ValueClassify": 90320610,
-        "BattleCompileID": 8100404,
+        "BattleCompileID": 8300404,
         "ScenarioGirl": [],
         "ID": 90320610,
         "Name": "战斗数据"

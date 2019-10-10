@@ -42,20 +42,20 @@
         "SuitName": "白鸦",
         "SuitType": 2,
         "SuitWeaponID": [
-            230011302,
-            2300113
+            2300113,
+            230011302
         ],
         "SuitChestID": [
-            230012102,
-            2300121
+            2300121,
+            230012102
         ],
         "SuitLegID": [
-            230013102,
-            2300131
+            2300131,
+            230013102
         ],
         "SuitBackpackID": [
-            230014102,
-            2300141
+            2300141,
+            230014102
         ],
         "SuitGirlID": [
             1
@@ -282,7 +282,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "·激活后贝尔娜黛特技能强化\n·技能“至善之恶”触发几率提高10%\n·机甲伤害提高5%\n·可激活专属机甲模型",
+        "Suit5Desc": "·激活后贝尔娜黛特技能强化\n·技能“至纯之恶”触发几率提高10%\n·机甲伤害提高5%\n·可激活专属机甲模型",
         "MachineArmorID": 2001,
         "WidgetCamp": 7,
         "Designer": "？？？",
@@ -902,15 +902,15 @@
         },
         "Suit5Desc": "·激活后苏茉拉技能强化\n·每次受到伤害时，能量恢复10%，\n  每15秒触发1次\n·激活专属机甲模型",
         "MachineArmorID": 6401,
-        "WidgetCamp": 7,
-        "Designer": "林贝儿",
-        "Manufacturer": "奥斯菲尔德工会",
-        "Disc": "这台机器是艾丝梅拉达动用私人权力所制作的，因此盾牌才会有这猫咪的外型。",
-        "HpRate": 8,
-        "AtkRate": 7,
+        "WidgetCamp": 5,
+        "Designer": "苏茉拉",
+        "Manufacturer": "执作者",
+        "Disc": "苏茉拉利用海克塞尔最先进技术所制作的大型机甲。",
+        "HpRate": 9,
+        "AtkRate": 9,
         "DodgeRate": 7,
         "HitRate": 8,
-        "ArmorRate": 8,
+        "ArmorRate": 10,
         "ID": 306401,
         "Name": "套装数据"
     },
@@ -963,15 +963,15 @@
         },
         "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 4301,
-        "WidgetCamp": 2,
+        "WidgetCamp": 5,
         "Designer": "？？？",
         "Manufacturer": "？？？",
-        "Disc": "专门为伊芙琳所打造的机体，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
+        "Disc": "与妮娅本人同样来历不明的装甲，疑似与克尔贝洛有关。",
         "HpRate": 8,
-        "AtkRate": 8,
-        "DodgeRate": 8,
+        "AtkRate": 10,
+        "DodgeRate": 9,
         "HitRate": 8,
-        "ArmorRate": 8,
+        "ArmorRate": 7,
         "ID": 304301,
         "Name": "套装数据"
     },
@@ -1027,12 +1027,12 @@
         "WidgetCamp": 7,
         "Designer": "林贝儿",
         "Manufacturer": "奥斯菲尔德工会",
-        "Disc": "这台机器是艾丝梅拉达动用私人权力所制作的，因此盾牌才会有这猫咪的外型。",
-        "HpRate": 8,
-        "AtkRate": 7,
-        "DodgeRate": 7,
+        "Disc": "圣洁誓言是在惩罚者与审判者的基础上改良后的近卫骑士团专用机体。",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 6,
         "HitRate": 8,
-        "ArmorRate": 8,
+        "ArmorRate": 9,
         "ID": 303201,
         "Name": "套装数据"
     },
@@ -1093,14 +1093,14 @@
         },
         "Suit5Desc": "·激活后22&33技能强化\n·机甲闪避几率提高10%\n·激活专属机甲模型",
         "MachineArmorID": 9601,
-        "WidgetCamp": 6,
-        "Designer": "卡德琳",
-        "Manufacturer": "北军工业",
-        "Disc": "帝国侵略战争时期娜塔莎所驾驶的四足机甲，攻击方式以电磁为主。\n时过境迁，目前这台机体的驾驶舱对她来说似乎有点小了。",
+        "WidgetCamp": 8,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "有着与现代科技完全不同的古老建造技术，设计者与制作者皆已无从考证。",
         "HpRate": 8,
         "AtkRate": 8,
-        "DodgeRate": 6,
-        "HitRate": 7,
+        "DodgeRate": 8,
+        "HitRate": 8,
         "ArmorRate": 8,
         "ID": 309601,
         "Name": "套装数据"
@@ -1125,44 +1125,44 @@
         ],
         "Suit2Add": {
             "keys": [
-                54
+                65
             ],
             "values": [
                 0.05
             ],
             "propertys": null
         },
-        "Suit2Desc": "·机甲暴击几率提高5%",
+        "Suit2Desc": "·机甲伤害提高5%",
         "Suit4Add": {
-            "keys": [
-                52
-            ],
-            "values": [
-                0.05
-            ],
-            "propertys": null
-        },
-        "Suit4Desc": "·机甲闪避几率提高5%",
-        "Suit5Add": {
             "keys": [
                 65
             ],
             "values": [
-                0.1
+                0.05
             ],
             "propertys": null
         },
-        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "Suit4Desc": "·机甲伤害提高5%",
+        "Suit5Add": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后伊芙琳&柯洛儿技能强化\n·机甲能量恢复速度提高20%\n·可激活专属机甲模型",
         "MachineArmorID": 7401,
         "WidgetCamp": 2,
         "Designer": "？？？",
         "Manufacturer": "？？？",
-        "Disc": "专门为伊芙琳所打造的机体，设计图是很早前就存在于伊芙琳脑内的东西，但她无法回忆起这些来自于什么地方。",
-        "HpRate": 8,
-        "AtkRate": 8,
-        "DodgeRate": 8,
-        "HitRate": 8,
-        "ArmorRate": 8,
+        "Disc": "伊芙琳与柯洛儿将她们在电子世界所学到的技术利用在了这台“有些年头”的机体上，帮助白鸦完成了一次跨世纪的强化。",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 9,
         "ID": 307401,
         "Name": "套装数据"
     }

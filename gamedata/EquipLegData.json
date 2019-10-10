@@ -13120,10 +13120,10 @@
     {
         "UseSpineArea": true,
         "hurtProtectData": {
-            "stableValuePerHit": 100,
-            "duration": 2.0,
+            "stableValuePerHit": 80,
+            "duration": 1.0,
             "attenuationTime": 1.0,
-            "attenuationSpeed": 50.0
+            "attenuationSpeed": 40.0
         },
         "preview1": "Preview_Armor_000220_Armor_000220",
         "previewBounds1": {
@@ -13157,13 +13157,13 @@
         ],
         "components": [
             {
-                "MoveSpeed": 5.0,
-                "RunSpeed": 20.0,
-                "MoveBackSpeed": 5.0,
+                "MoveSpeed": 15.0,
+                "RunSpeed": 22.0,
+                "MoveBackSpeed": 15.0,
                 "BeatTime": 0.0,
                 "HitGradeResist": 240,
                 "HitBackResist": 0.35,
-                "bulletResistance": 0.5,
+                "bulletResistance": 1.0,
                 "active": true,
                 "movieChannel": 1,
                 "animationEffectData": {

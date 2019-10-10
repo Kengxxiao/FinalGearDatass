@@ -58751,7 +58751,7 @@
         "TrunkSkillIcon": "71000740",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计250%的伤害，并有5%的概率恢复满自身能量",
+        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计250%的伤害，并使自己在接下来的10秒内，伤害提高10%\n，激活一体机后，技能效果变为：召唤柯洛儿，对一定范围内的所有敌人造成总计250%的伤害，并释放神圣羽翼，神圣羽翼能够使机甲在接下来的10秒内，伤害提高10%，并免疫一切控制效果",
         "PowerNeed": 6600,
         "SkillAggRatio": [
             2.5
@@ -58777,7 +58777,7 @@
         "TrunkSkillIcon": "71000740",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计300%的伤害，并有5%的概率恢复满自身能量",
+        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计300%的伤害，并使自己在接下来的10秒内，伤害提高10%\n，激活一体机后，技能效果变为：召唤柯洛儿，对一定范围内的所有敌人造成总计300%的伤害，并释放神圣羽翼，神圣羽翼能够使机甲在接下来的10秒内，伤害提高10%，并免疫一切控制效果",
         "PowerNeed": 6600,
         "SkillAggRatio": [
             3.0
@@ -58803,7 +58803,7 @@
         "TrunkSkillIcon": "71000740",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计350%的伤害，并有5%的概率恢复满自身能量",
+        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计350%的伤害，并使自己在接下来的10秒内，伤害提高10%\n，激活一体机后，技能效果变为：召唤柯洛儿，对一定范围内的所有敌人造成总计350%的伤害，并释放神圣羽翼，神圣羽翼能够使机甲在接下来的10秒内，伤害提高10%，并免疫一切控制效果",
         "PowerNeed": 6600,
         "SkillAggRatio": [
             3.5
@@ -58829,7 +58829,7 @@
         "TrunkSkillIcon": "71000740",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计400%的伤害，并有5%的概率恢复满自身能量",
+        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计400%的伤害，并使自己在接下来的10秒内，伤害提高10%\n，激活一体机后，技能效果变为：召唤柯洛儿，对一定范围内的所有敌人造成总计400%的伤害，并释放神圣羽翼，神圣羽翼能够使机甲在接下来的10秒内，伤害提高10%，并免疫一切控制效果",
         "PowerNeed": 6600,
         "SkillAggRatio": [
             4.0
@@ -58855,7 +58855,7 @@
         "TrunkSkillIcon": "71000740",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计500%的伤害，并有5%的概率恢复满自身能量",
+        "TrunkSkillDesc": "召唤柯洛儿，对一定范围内的所有敌人造成总计500%的伤害，并使自己在接下来的10秒内，伤害提高10%\n，激活一体机后，技能效果变为：召唤柯洛儿，对一定范围内的所有敌人造成总计500%的伤害，并释放神圣羽翼，神圣羽翼能够使机甲在接下来的10秒内，伤害提高10%，并免疫一切控制效果",
         "PowerNeed": 6600,
         "SkillAggRatio": [
             5.0
@@ -58881,19 +58881,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高10%",
+        "TrunkSkillDesc": "战斗时，伤害提高10%\n，激活一体机后，技能效果变为：战斗时，伤害提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10741210
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.1
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -58907,19 +58905,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高12%",
+        "TrunkSkillDesc": "战斗时，伤害提高12%\n，激活一体机后，技能效果变为：战斗时，伤害提高17%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10741220
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.12
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -58933,19 +58929,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高14%",
+        "TrunkSkillDesc": "战斗时，伤害提高14%\n，激活一体机后，技能效果变为：战斗时，伤害提高19%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10741230
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.14
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -58959,19 +58953,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高16%",
+        "TrunkSkillDesc": "战斗时，伤害提高16%\n，激活一体机后，技能效果变为：战斗时，伤害提高21%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10741240
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.16
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -58985,19 +58977,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高20%",
+        "TrunkSkillDesc": "战斗时，伤害提高20%\n，激活一体机后，技能效果变为：战斗时，伤害提高25%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10741250
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.2
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59011,13 +59001,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身10%的攻击速度和15%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身10%的攻击速度和15%的移动速度，持续10秒\n，激活一体机后，技能效果变为：普通攻击暴击时，提高自身12%的攻击速度和20%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741310,
-            10741311
+            10741310
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59036,13 +59025,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身12%的攻击速度和20%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身12%的攻击速度和20%的移动速度，持续10秒\n，激活一体机后，技能效果变为：普通攻击暴击时，提高自身14%的攻击速度和25%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741320,
-            10741321
+            10741320
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59061,13 +59049,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身14%的攻击速度和25%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身14%的攻击速度和25%的移动速度，持续10秒\n，激活一体机后，技能效果变为：普通攻击暴击时，提高自身16%的攻击速度和30%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741330,
-            10741331
+            10741330
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59086,13 +59073,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身16%的攻击速度和30%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身16%的攻击速度和30%的移动速度，持续10秒\n，激活一体机后，技能效果变为：普通攻击暴击时，提高自身18%的攻击速度和35%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741340,
-            10741341
+            10741340
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59111,13 +59097,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身20%的攻击速度和40%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身20%的攻击速度和40%的移动速度，持续10秒\n，激活一体机后，技能效果变为：普通攻击暴击时，提高自身22%的攻击速度和45%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741350,
-            10741351
+            10741350
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59136,7 +59121,7 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.25或1.5倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.25或1.5倍伤害\n，激活一体机后，技能效果变为：普通攻击或者技能命中目标时，会随机造成1，1.5，1.75或2倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -59160,7 +59145,7 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.3或1.6倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.3或1.6倍伤害\n，激活一体机后，技能效果变为：普通攻击或者技能命中目标时，会随机造成1，1.5，1.8或2.1倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -59184,7 +59169,7 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.35或1.7倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.35或1.7倍伤害\n，激活一体机后，技能效果变为：普通攻击或者技能命中目标时，会随机造成1，1.5，1.85或2.2倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -59208,7 +59193,7 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.4或1.8倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.4或1.8倍伤害\n，激活一体机后，技能效果变为：普通攻击或者技能命中目标时，会随机造成1，1.5，1.9或2.3倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -59232,7 +59217,7 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.5或2倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.5或2倍伤害\n，激活一体机后，技能效果变为：普通攻击或者技能命中目标时，会随机造成1，1.5，2或2.5倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -59391,19 +59376,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高10%",
+        "TrunkSkillDesc": "战斗时，伤害提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90741210
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.1
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59417,19 +59400,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高12%",
+        "TrunkSkillDesc": "战斗时，伤害提高17%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90741220
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.12
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59443,19 +59424,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高14%",
+        "TrunkSkillDesc": "战斗时，伤害提高19%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90741230
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.14
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59469,19 +59448,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高16%",
+        "TrunkSkillDesc": "战斗时，伤害提高21%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90741240
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.16
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59495,19 +59472,17 @@
         "TrunkSkillIcon": "71000741",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，伤害提高20%",
+        "TrunkSkillDesc": "战斗时，伤害提高25%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90741250
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.2
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -59521,13 +59496,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身10%的攻击速度和15%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身12%的攻击速度和20%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741310,
-            10741311
+            90741310
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59546,13 +59520,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身12%的攻击速度和20%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身14%的攻击速度和25%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741320,
-            10741321
+            90741320
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59571,13 +59544,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身14%的攻击速度和25%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身16%的攻击速度和30%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741330,
-            10741331
+            90741330
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59596,13 +59568,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身16%的攻击速度和30%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身18%的攻击速度和35%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741340,
-            10741341
+            90741340
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59621,13 +59592,12 @@
         "TrunkSkillIcon": "71000742",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "每隔15秒，提高自身20%的攻击速度和40%的移动速度，持续10秒",
+        "TrunkSkillDesc": "普通攻击暴击时，提高自身22%的攻击速度和45%的移动速度，持续10秒",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741350,
-            10741351
+            90741350
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59646,12 +59616,12 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.25或1.5倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成1，1.5，1.75或2倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741410
+            90741410
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59670,12 +59640,12 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.3或1.6倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成1，1.5，1.8或2.1倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741420
+            90741420
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59694,12 +59664,12 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.35或1.7倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成1，1.5，1.85或2.2倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741430
+            90741430
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59718,12 +59688,12 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.4或1.8倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成1，1.5，1.9或2.3倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741440
+            90741440
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -59742,12 +59712,12 @@
         "TrunkSkillIcon": "71000743",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成0.5，1，1.5或2倍伤害",
+        "TrunkSkillDesc": "普通攻击或者技能命中目标时，会随机造成1，1.5，2或2.5倍伤害",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10741450
+            90741450
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -80357,18 +80327,21 @@
     },
     {
         "CharacterName": "约翰队长",
-        "SkillActionEffect": 31002092,
-        "TrunkSkillName": "瞬移",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "霸体&队友死亡暴走",
         "TrunkSkillIcon": "70000001",
         "TrunkSkillLevel": 1,
-        "TrunkSkillType": 1,
-        "TrunkSkillDesc": "瞬移",
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "霸体&队友死亡暴走",
         "PowerNeed": 0,
         "SkillAggRatio": [
             1.0
         ],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            30001157,
+            30001156
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -81009,6 +80982,36 @@
         "Name": null
     },
     {
+        "CharacterName": "召唤-小电视被动恢复能量",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "开场我方能量恢复至MAX",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "开场我方能量恢复至MAX",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001154
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3144960,
+        "Name": null
+    },
+    {
         "CharacterName": "海克塞尔侦察队长-埃伊菲",
         "SkillActionEffect": 32000000,
         "TrunkSkillName": "下压砸地",
@@ -81046,7 +81049,7 @@
         "TrunkSkillDesc": "冲撞",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            24.0
+            25.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -81188,7 +81191,7 @@
         "TrunkSkillDesc": "近战炸弹（同艾达驾驶员技能）",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            15.0
+            8.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -81208,18 +81211,20 @@
     },
     {
         "CharacterName": "艾达强盗团Boss_艾达",
-        "SkillActionEffect": 37000005,
-        "TrunkSkillName": "疯狂轰炸",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "队友死亡暴走",
         "TrunkSkillIcon": "70000001",
         "TrunkSkillLevel": 1,
-        "TrunkSkillType": 1,
-        "TrunkSkillDesc": "疯狂轰炸",
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "队友死亡暴走",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            18.0
+            0.0
         ],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            30001156
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -81276,7 +81281,8 @@
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            30001147
+            30001147,
+            30001158
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -81302,7 +81308,7 @@
         "TrunkSkillDesc": "持续地火",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            3.0
+            2.5
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -81330,7 +81336,7 @@
         "TrunkSkillDesc": "近战刀",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            6.0
+            20.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -81362,7 +81368,8 @@
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            30001147
+            30001147,
+            30001158
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -81416,7 +81423,7 @@
         "TrunkSkillDesc": "全屏落弹",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            20.0
+            100.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -81522,6 +81529,146 @@
         },
         "IfForbidden": false,
         "ID": 3145450,
+        "Name": null
+    },
+    {
+        "CharacterName": "玛格丽特_菲比亚",
+        "SkillActionEffect": 32000038,
+        "TrunkSkillName": "原地刺（近战）",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "原地刺（近战）",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.33
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3104110,
+        "Name": null
+    },
+    {
+        "CharacterName": "玛格丽特_菲比亚",
+        "SkillActionEffect": 32000039,
+        "TrunkSkillName": "原地劈（近战）",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "原地劈（近战）",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.33
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3104210,
+        "Name": null
+    },
+    {
+        "CharacterName": "玛格丽特_菲比亚",
+        "SkillActionEffect": 32000040,
+        "TrunkSkillName": "原地菲比亚大剑（近战）",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "原地菲比亚大剑（近战）",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            3.85
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3104310,
+        "Name": null
+    },
+    {
+        "CharacterName": "玛格丽特_菲比亚",
+        "SkillActionEffect": 32000041,
+        "TrunkSkillName": "后撤滑行",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "后撤滑行",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3104410,
+        "Name": null
+    },
+    {
+        "CharacterName": "玛格丽特_菲比亚",
+        "SkillActionEffect": 32000042,
+        "TrunkSkillName": "前冲滑行",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "前冲滑行",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3104510,
         "Name": null
     },
     {

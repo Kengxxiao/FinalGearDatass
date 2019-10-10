@@ -1,42 +1,42 @@
 [
     {
         "GroupId": 1,
-        "RecruitName": "白鸦-武器",
+        "RecruitName": "白鸦MKII-光剑",
         "RecruitNeed": [
             [
                 11410001,
-                10
+                3
             ],
             [
                 11410002,
-                10
+                20
             ],
             [
                 11410003,
-                10
+                50
             ],
             [
                 11410004,
-                10
+                80
             ]
         ],
-        "RecruitMoney": 25000,
+        "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 500,
+        "AccelerateDiamond": 200,
         "NormalRandom": 7401,
-        "RecruitPrew": 230011306,
-        "SourceWidgetId": 230011306,
+        "RecruitPrew": 2307413,
+        "SourceWidgetId": 2300113,
         "RecruitStages": [
-            8004001,
-            8004001,
-            8004001,
-            8004001
+            1000105,
+            1000104,
+            1000102,
+            1000101
         ],
         "RecruitShopOpens": [
-            1,
-            1,
-            1,
-            1
+            6,
+            6,
+            6,
+            6
         ],
         "ProbabilityPrew": "",
         "ID": 10001,
@@ -44,42 +44,42 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦-胸甲",
+        "RecruitName": "白鸦MKII-座舱",
         "RecruitNeed": [
             [
                 11410001,
-                10
+                3
             ],
             [
                 11410002,
-                10
+                20
             ],
             [
                 11410003,
-                10
+                50
             ],
             [
                 11410004,
-                10
+                80
             ]
         ],
-        "RecruitMoney": 25000,
+        "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 500,
+        "AccelerateDiamond": 200,
         "NormalRandom": 7402,
-        "RecruitPrew": 230012106,
-        "SourceWidgetId": 230012106,
+        "RecruitPrew": 2307421,
+        "SourceWidgetId": 2300121,
         "RecruitStages": [
-            8004001,
-            8004001,
-            8004001,
-            8004001
+            1000105,
+            1000104,
+            1000102,
+            1000101
         ],
         "RecruitShopOpens": [
-            1,
-            1,
-            1,
-            1
+            6,
+            6,
+            6,
+            6
         ],
         "ProbabilityPrew": "",
         "ID": 10002,
@@ -87,42 +87,42 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦-腿甲",
+        "RecruitName": "白鸦MKII-机械足",
         "RecruitNeed": [
             [
                 11410001,
-                10
+                3
             ],
             [
                 11410002,
-                10
+                20
             ],
             [
                 11410003,
-                10
+                50
             ],
             [
                 11410004,
-                10
+                80
             ]
         ],
-        "RecruitMoney": 25000,
+        "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 500,
+        "AccelerateDiamond": 200,
         "NormalRandom": 7403,
-        "RecruitPrew": 230013106,
-        "SourceWidgetId": 230013106,
+        "RecruitPrew": 2307431,
+        "SourceWidgetId": 2300131,
         "RecruitStages": [
-            8004001,
-            8004001,
-            8004001,
-            8004001
+            1000105,
+            1000104,
+            1000102,
+            1000101
         ],
         "RecruitShopOpens": [
-            1,
-            1,
-            1,
-            1
+            6,
+            6,
+            6,
+            6
         ],
         "ProbabilityPrew": "",
         "ID": 10003,
@@ -130,42 +130,42 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦-挂载",
+        "RecruitName": "白鸦MKII-挂载",
         "RecruitNeed": [
             [
                 11410001,
-                10
+                3
             ],
             [
                 11410002,
-                10
+                20
             ],
             [
                 11410003,
-                10
+                50
             ],
             [
                 11410004,
-                10
+                80
             ]
         ],
-        "RecruitMoney": 25000,
+        "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 500,
+        "AccelerateDiamond": 200,
         "NormalRandom": 7404,
-        "RecruitPrew": 230014106,
-        "SourceWidgetId": 230014106,
+        "RecruitPrew": 2307441,
+        "SourceWidgetId": 2300141,
         "RecruitStages": [
-            8004001,
-            8004001,
-            8004001,
-            8004001
+            1000105,
+            1000104,
+            1000102,
+            1000101
         ],
         "RecruitShopOpens": [
-            1,
-            1,
-            1,
-            1
+            6,
+            6,
+            6,
+            6
         ],
         "ProbabilityPrew": "",
         "ID": 10004,
