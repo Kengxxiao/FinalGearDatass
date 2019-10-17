@@ -35197,6 +35197,40 @@
                                     }
                                 ]
                             }
+                        ],
+                        "skill_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 550007070
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3_3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.1,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200701300
+                                    }
+                                ]
+                            }
                         ]
                     }
                 },
@@ -35299,7 +35333,12 @@
                     }
                 ],
                 "screenShakeIDs": null,
-                "soundID": null
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 550000100
+                }
             },
             {
                 "eventName": "actionEvent2",
@@ -35315,7 +35354,12 @@
                     }
                 ],
                 "screenShakeIDs": null,
-                "soundID": null
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 200440000
+                }
             },
             {
                 "eventName": "actionEvent5",

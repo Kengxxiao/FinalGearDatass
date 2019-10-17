@@ -52146,7 +52146,7 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低20%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低50%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低20%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低50%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.2
@@ -52172,7 +52172,7 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低30%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低60%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低30%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低60%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.3
@@ -52198,7 +52198,7 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低40%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低70%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低40%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低70%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.4
@@ -52224,7 +52224,7 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低50%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低80%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低50%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低80%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.5
@@ -52250,7 +52250,7 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低70%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低99%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低70%，移动速度提高20%，持续5秒，\n激活一体机后，技能效果变为：召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低99%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.7
@@ -52636,14 +52636,15 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低50%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低50%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.5
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            90641110
+            90641110,
+            90641111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52662,14 +52663,15 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低60%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低60%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.6
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            90641120
+            90641120,
+            90641121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52688,14 +52690,15 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低70%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低70%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.7
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            90641130
+            90641130,
+            90641131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52714,14 +52717,15 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低80%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低80%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.8
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            90641140
+            90641140,
+            90641141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52740,14 +52744,15 @@
         "TrunkSkillIcon": "71000640",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "召唤一个护罩跟随自己，对处于范围内的所有队友受到的伤害降低99%，移动速度提高30%，持续5秒",
+        "TrunkSkillDesc": "召唤一个护罩跟随自己，使处于范围内的所有队友受到的伤害降低99%，移动速度提高30%，持续5秒",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             0.99
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            90641150
+            90641150,
+            90641151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52797,7 +52802,7 @@
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
             90641220,
-            90641211
+            90641221
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52822,7 +52827,7 @@
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
             90641230,
-            90641211
+            90641231
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52847,7 +52852,7 @@
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
             90641240,
-            90641211
+            90641241
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -52872,7 +52877,7 @@
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
             90641250,
-            90641211
+            90641251
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {

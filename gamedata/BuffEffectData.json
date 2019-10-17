@@ -1919,77 +1919,59 @@
                 {
                     "childActions": [
                         {
-                            "childActions": [
-                                {
-                                    "equips": [
-                                        3
-                                    ],
-                                    "animationName": "skill_1",
-                                    "loop": false,
-                                    "loopTime": 1,
-                                    "lifeTime": 0.0,
-                                    "mix": 0.0,
-                                    "stopMove": true,
-                                    "stopControl": false,
-                                    "idleWhenEnd": false,
-                                    "finishImmediately": false,
-                                    "autoAim": false,
-                                    "instanceID": 0,
-                                    "currentStatus": 0
-                                },
-                                {
-                                    "equips": [
-                                        3
-                                    ],
-                                    "animationName": "skill_3",
-                                    "loop": true,
-                                    "loopTime": 0,
-                                    "lifeTime": 4.9,
-                                    "mix": 0.0,
-                                    "stopMove": false,
-                                    "stopControl": false,
-                                    "idleWhenEnd": false,
-                                    "finishImmediately": false,
-                                    "autoAim": false,
-                                    "instanceID": 0,
-                                    "currentStatus": 0
-                                },
-                                {
-                                    "equips": [
-                                        3
-                                    ],
-                                    "animationName": "skill_4",
-                                    "loop": false,
-                                    "loopTime": 1,
-                                    "lifeTime": 0.0,
-                                    "mix": 0.0,
-                                    "stopMove": false,
-                                    "stopControl": false,
-                                    "idleWhenEnd": true,
-                                    "finishImmediately": false,
-                                    "autoAim": false,
-                                    "instanceID": 0,
-                                    "currentStatus": 0
-                                }
-                            ],
-                            "CanRunParallelChildren": false,
-                            "canExecute": false,
+                            "time": 1.0,
                             "instanceID": 0,
                             "currentStatus": 0
                         },
                         {
                             "childActions": [
                                 {
-                                    "time": 1.0,
+                                    "effectData": {
+                                        "path": {
+                                            "asset": "actioneffect/00其他_钢铁要塞护盾开启",
+                                            "scale": 1.1
+                                        },
+                                        "offset": {
+                                            "x": 0.0,
+                                            "y": 0.0,
+                                            "z": 0.0
+                                        },
+                                        "follow": true,
+                                        "followDirection": false,
+                                        "followBoneRota": false,
+                                        "boneName": "root",
+                                        "autoSortingOrder": true,
+                                        "extraSortingOrder": 30
+                                    },
+                                    "fireEventEnabled": false,
+                                    "screenEffect": false,
+                                    "lockBulletFace": false,
+                                    "directionFollowType": 0,
+                                    "reverseDirection": false,
+                                    "targetType": 2,
+                                    "useTargetZPosition": false,
+                                    "positionType": 2,
+                                    "finishImmediately": true,
+                                    "duration": 0.0,
+                                    "removeEffect": false,
+                                    "removeEffectImmediately": false,
+                                    "soundData": null,
+                                    "bulletAttackData": null,
                                     "instanceID": 0,
                                     "currentStatus": 0
                                 },
                                 {
                                     "childActions": [
                                         {
+                                            "time": 0.2,
+                                            "instanceID": 0,
+                                            "currentStatus": 0
+                                        },
+                                        {
+                                            "powerData": null,
                                             "effectData": {
                                                 "path": {
-                                                    "asset": "actioneffect/00其他_钢铁要塞护盾开启",
+                                                    "asset": "actioneffect/01其他_魔法球护盾（一体机）",
                                                     "scale": 1.1
                                                 },
                                                 "offset": {
@@ -2012,115 +1994,68 @@
                                             "targetType": 2,
                                             "useTargetZPosition": false,
                                             "positionType": 2,
-                                            "finishImmediately": true,
-                                            "duration": 0.0,
+                                            "finishImmediately": false,
+                                            "duration": 5.0,
                                             "removeEffect": false,
                                             "removeEffectImmediately": false,
                                             "soundData": null,
                                             "bulletAttackData": null,
                                             "instanceID": 0,
                                             "currentStatus": 0
-                                        },
-                                        {
-                                            "childActions": [
-                                                {
-                                                    "time": 0.2,
-                                                    "instanceID": 0,
-                                                    "currentStatus": 0
-                                                },
-                                                {
-                                                    "powerData": null,
-                                                    "effectData": {
-                                                        "path": {
-                                                            "asset": "actioneffect/01其他_魔法球护盾（一体机）",
-                                                            "scale": 1.1
-                                                        },
-                                                        "offset": {
-                                                            "x": 0.0,
-                                                            "y": 0.0,
-                                                            "z": 0.0
-                                                        },
-                                                        "follow": true,
-                                                        "followDirection": false,
-                                                        "followBoneRota": false,
-                                                        "boneName": "root",
-                                                        "autoSortingOrder": true,
-                                                        "extraSortingOrder": 30
-                                                    },
-                                                    "fireEventEnabled": false,
-                                                    "screenEffect": false,
-                                                    "lockBulletFace": false,
-                                                    "directionFollowType": 0,
-                                                    "reverseDirection": false,
-                                                    "targetType": 2,
-                                                    "useTargetZPosition": false,
-                                                    "positionType": 2,
-                                                    "finishImmediately": false,
-                                                    "duration": 5.0,
-                                                    "removeEffect": false,
-                                                    "removeEffectImmediately": false,
-                                                    "soundData": null,
-                                                    "bulletAttackData": null,
-                                                    "instanceID": 0,
-                                                    "currentStatus": 0
-                                                }
-                                            ],
-                                            "CanRunParallelChildren": false,
-                                            "canExecute": false,
-                                            "instanceID": 0,
-                                            "currentStatus": 0
-                                        },
-                                        {
-                                            "effectData": {
-                                                "path": {
-                                                    "asset": "actioneffect/00其他_音效调入（12秒）",
-                                                    "scale": 1.0
-                                                },
-                                                "offset": {
-                                                    "x": 0.0,
-                                                    "y": 0.0,
-                                                    "z": 0.0
-                                                },
-                                                "follow": false,
-                                                "followDirection": true,
-                                                "followBoneRota": false,
-                                                "boneName": "root",
-                                                "autoSortingOrder": false,
-                                                "extraSortingOrder": 0
-                                            },
-                                            "fireEventEnabled": false,
-                                            "screenEffect": false,
-                                            "lockBulletFace": false,
-                                            "directionFollowType": 0,
-                                            "reverseDirection": false,
-                                            "targetType": 2,
-                                            "useTargetZPosition": false,
-                                            "positionType": 2,
-                                            "finishImmediately": true,
-                                            "duration": 5.0,
-                                            "removeEffect": false,
-                                            "removeEffectImmediately": true,
-                                            "soundData": {
-                                                "delayTime": 0.0,
-                                                "delayStopTime": 0.0,
-                                                "removeWhenAnimationEnd": true,
-                                                "soundID": 400200110
-                                            },
-                                            "bulletAttackData": null,
-                                            "instanceID": 0,
-                                            "currentStatus": 0
                                         }
                                     ],
+                                    "CanRunParallelChildren": false,
+                                    "canExecute": false,
+                                    "instanceID": 0,
+                                    "currentStatus": 0
+                                },
+                                {
+                                    "effectData": {
+                                        "path": {
+                                            "asset": "actioneffect/00其他_音效调入（12秒）",
+                                            "scale": 1.0
+                                        },
+                                        "offset": {
+                                            "x": 0.0,
+                                            "y": 0.0,
+                                            "z": 0.0
+                                        },
+                                        "follow": false,
+                                        "followDirection": true,
+                                        "followBoneRota": false,
+                                        "boneName": "root",
+                                        "autoSortingOrder": false,
+                                        "extraSortingOrder": 0
+                                    },
+                                    "fireEventEnabled": false,
+                                    "screenEffect": false,
+                                    "lockBulletFace": false,
+                                    "directionFollowType": 0,
+                                    "reverseDirection": false,
+                                    "targetType": 2,
+                                    "useTargetZPosition": false,
+                                    "positionType": 2,
+                                    "finishImmediately": true,
+                                    "duration": 5.0,
+                                    "removeEffect": false,
+                                    "removeEffectImmediately": true,
+                                    "soundData": {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 400200110
+                                    },
+                                    "bulletAttackData": null,
                                     "instanceID": 0,
                                     "currentStatus": 0
                                 }
                             ],
-                            "CanRunParallelChildren": false,
-                            "canExecute": false,
                             "instanceID": 0,
                             "currentStatus": 0
                         }
                     ],
+                    "CanRunParallelChildren": false,
+                    "canExecute": false,
                     "instanceID": 0,
                     "currentStatus": 0
                 },

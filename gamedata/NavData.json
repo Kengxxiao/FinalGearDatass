@@ -1361,21 +1361,21 @@
     },
     {
         "prefabCheckerName": "0_Margaret_4_1",
-        "strategyMapType": 1,
-        "beforeBattleDialog": 0,
+        "strategyMapType": 3,
+        "beforeBattleDialog": 92000004,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 20000045,
         "ID": 903207,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Margaret_4_2",
-        "strategyMapType": 1,
+        "strategyMapType": 2,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 0,
         "ID": 903208,
         "Name": null
     },

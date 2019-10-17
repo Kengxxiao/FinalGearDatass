@@ -1520,6 +1520,17 @@
     {
         "Description": "",
         "GroupTag": "武器/近战",
+        "CueSheet": "SK",
+        "CueName": "act_000320_2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200440010,
+        "Name": "锤-重2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/近战",
         "CueSheet": "WP",
         "CueName": "WP_Combat_Spear",
         "Loop": false,
@@ -1912,6 +1923,50 @@
         "Pitch": 0,
         "ID": 200700900,
         "Name": "漆黑之翼-触手"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/一体机",
+        "CueSheet": "WP",
+        "CueName": "WP_SP_WhiteCrowMK2_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200701000,
+        "Name": "白鸦M2-散件普攻1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/一体机",
+        "CueSheet": "WP",
+        "CueName": "WP_SP_WhiteCrowMK2_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200701100,
+        "Name": "白鸦M2-散件普攻2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/一体机",
+        "CueSheet": "WP",
+        "CueName": "WP_SP_WhiteCrowMK2_2_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200701200,
+        "Name": "白鸦M2-一体机普攻1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/一体机",
+        "CueSheet": "WP",
+        "CueName": "WP_SP_WhiteCrowMK2_2_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200701300,
+        "Name": "白鸦M2-一体机普攻2"
     },
     {
         "Description": "",
@@ -3225,8 +3280,8 @@
     {
         "Description": "",
         "GroupTag": "技能/发动",
-        "CueSheet": "SP",
-        "CueName": "SK_Atk_Summon",
+        "CueSheet": "SK",
+        "CueName": "act_000250_1",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -4893,6 +4948,39 @@
         "Pitch": 0,
         "ID": 550007060,
         "Name": "紫罗兰-技能"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_WhiteCrowMK2_01",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007070,
+        "Name": "白鸦M2-技能-起招"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_WhiteCrowMK2_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007080,
+        "Name": "白鸦M2-技能-收招"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_WhiteCrowMK2_03",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007090,
+        "Name": "白鸦M2-技能-刀光"
     },
     {
         "Description": "瞬闪-出现",
@@ -6994,17 +7082,6 @@
         "Pitch": 0,
         "ID": 700100130,
         "Name": "挂电话后的忙音"
-    },
-    {
-        "Description": "",
-        "GroupTag": "剧情音效",
-        "CueSheet": "CV_Evelynn",
-        "CueName": "Evelynn_communication",
-        "Loop": true,
-        "Volume": 1.0,
-        "Pitch": 0,
-        "ID": 700100131,
-        "Name": "接电话后的伊芙丽说话声音"
     },
     {
         "Description": "",
