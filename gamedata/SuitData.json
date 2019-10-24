@@ -399,14 +399,14 @@
         "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
-                68
+                54
             ],
             "values": [
                 0.05
             ],
             "propertys": null
         },
-        "Suit4Desc": "·机甲受到的伤害降低5%",
+        "Suit4Desc": "·机甲暴击几率提高5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -416,7 +416,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "Suit5Desc": "·激活后PN26伊莉希斯技能强化\n·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 2901,
         "WidgetCamp": 3,
         "Designer": "艾格尼丝",

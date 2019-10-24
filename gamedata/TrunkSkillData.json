@@ -26301,14 +26301,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.21
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291110
+            10291110,
+            10291111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26327,14 +26328,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.43
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291120
+            10291120,
+            10291121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26353,14 +26355,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.65
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291130
+            10291130,
+            10291131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26379,14 +26382,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.87
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291140
+            10291140,
+            10291141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26405,14 +26409,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             2.32
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291150
+            10291150,
+            10291151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26431,11 +26436,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291210
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26457,11 +26464,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291220
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26483,11 +26492,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291230
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26509,11 +26520,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291240
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26535,11 +26548,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291250
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26561,7 +26576,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26585,7 +26600,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26609,7 +26624,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26633,7 +26648,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高20%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26657,7 +26672,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高30%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26681,7 +26696,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身9.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高1%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26707,7 +26722,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身11.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高2%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26733,7 +26748,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身13.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高3%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26759,7 +26774,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身15.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高4%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26785,7 +26800,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身19.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高6%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -26811,14 +26826,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.21
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291110
+            90291110,
+            90291111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26837,14 +26853,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.43
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291120
+            90291120,
+            90291121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26863,14 +26880,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.65
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291130
+            90291130,
+            90291131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26889,14 +26907,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.87
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291140
+            90291140,
+            90291141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26915,14 +26934,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             2.32
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291150
+            90291150,
+            90291151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -26941,11 +26961,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291210,
+            90291211
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26967,11 +26990,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291220,
+            90291221
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -26993,11 +27019,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291230,
+            90291231
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27019,11 +27048,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291240,
+            90291241
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27045,11 +27077,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291250,
+            90291251
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27071,12 +27106,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291310
+            90291310
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27095,12 +27130,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291320
+            90291320
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27119,12 +27154,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291330
+            90291330
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27143,12 +27178,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高20%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291340
+            90291340
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27167,12 +27202,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高30%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291350
+            90291350
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27191,11 +27226,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高1%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291410
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27217,11 +27254,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高2%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291420
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27243,11 +27282,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高3%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291430
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27269,11 +27310,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高4%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291440
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27295,11 +27338,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高6%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291450
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27321,14 +27366,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.21
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291110
+            10291110,
+            10291111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27347,14 +27393,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.43
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291120
+            10291120,
+            10291121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27373,14 +27420,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.65
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291130
+            10291130,
+            10291131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27399,14 +27447,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.87
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291140
+            10291140,
+            10291141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27425,14 +27474,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%，\n激活一体机后，技能效果变为：在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             2.32
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291150
+            10291150,
+            10291151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27451,11 +27501,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291210
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27477,11 +27529,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291220
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27503,11 +27557,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291230
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27529,11 +27585,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291240
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27555,11 +27613,13 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，\n激活一体机后，技能效果变为：战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10291250
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27581,7 +27641,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27605,7 +27665,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27629,7 +27689,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27653,7 +27713,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高20%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27677,7 +27737,7 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%，\n激活一体机后，技能效果变为：PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高30%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27701,7 +27761,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身9.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高1%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27727,7 +27787,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身11.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高2%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27753,7 +27813,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身13.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高3%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27779,7 +27839,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身15.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高4%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27805,7 +27865,7 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性，\n激活一体机后，技能效果变为：战斗时，增加自身19.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高6%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -27831,14 +27891,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成121%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.21
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291110
+            90291110,
+            90291111
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27857,14 +27918,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成143%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.43
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291120
+            90291120,
+            90291121
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27883,14 +27945,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成165%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.65
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291130
+            90291130,
+            90291131
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27909,14 +27972,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成187%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             1.87
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291140
+            90291140,
+            90291141
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27935,14 +27999,15 @@
         "TrunkSkillIcon": "71000290",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，并使自己在接下来的10秒内，暴击几率提高10%",
+        "TrunkSkillDesc": "在身前召唤异次元空间，对前方所有敌人造成232%的多段伤害，使目标在接下来的5秒内陷入虚弱状态，虚弱状态下，目标受到的伤害增加5%，攻击降低5%，效果不可叠加，并使所有队友在接下来的5秒内，暴击几率提高5%",
         "PowerNeed": 5700,
         "SkillAggRatio": [
             2.32
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291150
+            90291150,
+            90291151
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -27961,11 +28026,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身8%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291210,
+            90291211
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -27987,11 +28055,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291220,
+            90291221
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28013,11 +28084,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身11%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291230,
+            90291231
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28039,11 +28113,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身12.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291240,
+            90291241
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28065,11 +28142,14 @@
         "TrunkSkillIcon": "71000291",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的暴击概率，当目标处于减益状态时，伤害提高5%，并且每次普通攻击都有20%的概率使目标获得虚弱状态，效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291250,
+            90291251
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28091,12 +28171,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高2.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291310
+            90291310
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -28115,12 +28195,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291320
+            90291320
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -28139,12 +28219,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高3.5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高15%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291330
+            90291330
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -28163,12 +28243,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高4%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高20%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291340
+            90291340
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -28187,12 +28267,12 @@
         "TrunkSkillIcon": "71000292",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高5%",
+        "TrunkSkillDesc": "PN26伊莉希斯在场时，可以使场上所有队友的能量恢复速度提高30%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
-            10291350
+            90291350
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
@@ -28211,11 +28291,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身9.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高1%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291410
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28237,11 +28319,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身11.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高2%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291420
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28263,11 +28347,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身13.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高3%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291430
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28289,11 +28375,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身15.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高4%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291440
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [
@@ -28315,11 +28403,13 @@
         "TrunkSkillIcon": "71000293",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性",
+        "TrunkSkillDesc": "战斗时，增加自身19.5%的攻击属性，普通攻击时，如果目标身上存在减益状态时，有15%的概率使友方所有友军在接下来的10秒内，暴击伤害提高6%，此效果最多可叠加3层",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            90291450
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
             "keys": [

@@ -6487,9 +6487,9 @@
         "Name": "耐久光环"
     },
     {
-        "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000014",
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6499,19 +6499,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            54.0,
-            0.1
+            68.0,
+            -0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10291110,
-        "Name": "暴击几率"
+        "Name": "虚弱"
     },
     {
-        "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000014",
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6521,19 +6521,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            54.0,
-            0.1
+            68.0,
+            -0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10291120,
-        "Name": "暴击几率"
+        "Name": "虚弱"
     },
     {
-        "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000014",
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6543,19 +6543,19 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            54.0,
-            0.1
+            68.0,
+            -0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10291130,
-        "Name": "暴击几率"
+        "Name": "虚弱"
     },
     {
-        "BuffEffectType": 2,
-        "BuffDuration": 10000,
-        "BuffIcon": "60000014",
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -6565,18 +6565,40 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            54.0,
-            0.1
+            68.0,
+            -0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10291140,
-        "Name": "暴击几率"
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10291150,
+        "Name": "虚弱"
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 10000,
+        "BuffDuration": 5000,
         "BuffIcon": "60000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
@@ -6588,12 +6610,330 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             54.0,
-            0.1
+            0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10291150,
+        "ID": 10291111,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10291121,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10291131,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10291141,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10291151,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05,
+            27.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291110,
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05,
+            27.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291120,
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05,
+            27.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291130,
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05,
+            27.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291140,
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 1,
+        "BuffDuration": 5000,
+        "BuffIcon": "62000010",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            -0.05,
+            27.0,
+            -0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291150,
+        "Name": "虚弱"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291111,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291121,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291131,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291141,
+        "Name": "暴击几率"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 5000,
+        "BuffIcon": "60000014",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291151,
         "Name": "暴击几率"
     },
     {
@@ -6705,6 +7045,226 @@
         "IfDispel": true,
         "ID": 10291350,
         "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.05
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291310,
+        "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.1
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291320,
+        "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.15
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291330,
+        "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.2
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291340,
+        "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": 0.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.3
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 90291350,
+        "Name": "能量恢复"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            59.0,
+            0.01
+        ],
+        "SameBuffType": 2,
+        "OverlayLimit": 3,
+        "IfDispel": true,
+        "ID": 90291410,
+        "Name": "暴击伤害"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            59.0,
+            0.02
+        ],
+        "SameBuffType": 2,
+        "OverlayLimit": 3,
+        "IfDispel": true,
+        "ID": 90291420,
+        "Name": "暴击伤害"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            59.0,
+            0.03
+        ],
+        "SameBuffType": 2,
+        "OverlayLimit": 3,
+        "IfDispel": true,
+        "ID": 90291430,
+        "Name": "暴击伤害"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            59.0,
+            0.04
+        ],
+        "SameBuffType": 2,
+        "OverlayLimit": 3,
+        "IfDispel": true,
+        "ID": 90291440,
+        "Name": "暴击伤害"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 10000,
+        "BuffIcon": "60000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            59.0,
+            0.06
+        ],
+        "SameBuffType": 2,
+        "OverlayLimit": 3,
+        "IfDispel": true,
+        "ID": 90291450,
+        "Name": "暴击伤害"
     },
     {
         "BuffEffectType": 2,
@@ -7273,7 +7833,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -2.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7295,7 +7855,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -3.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7317,7 +7877,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -4.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7339,7 +7899,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -5.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7808,7 +8368,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -2.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7830,7 +8390,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -3.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7852,7 +8412,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -4.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
@@ -7874,7 +8434,7 @@
         "BuffEndParam": [],
         "BuffState": 1,
         "BuffGap": 0,
-        "HaloRange": -5.0,
+        "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,

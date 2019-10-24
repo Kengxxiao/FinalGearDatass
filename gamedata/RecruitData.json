@@ -386,7 +386,7 @@
         "RecruitType": 1,
         "RecruitSubType": 5,
         "RecruitOrder": 0,
-        "RecruitName": "限时开发-PN26伊莉希斯",
+        "RecruitName": "限时开发-漆黑之华",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -403,9 +403,9 @@
             2302932,
             2302942
         ],
-        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
-        "GirlList": "302901,0.1;305501,0.025;301301,0.025",
-        "UpGirl": "302901,305501,301301",
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "302901,0.1;301301,0.025;305501,0.025",
+        "UpGirl": "301301,305501,302901",
         "ID": 20008,
         "Name": null
     },
