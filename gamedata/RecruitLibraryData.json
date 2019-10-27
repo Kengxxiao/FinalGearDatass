@@ -57051,5 +57051,21 @@
         ],
         "ID": 3005,
         "Name": null
+    },
+    {
+        "RandomLibraryID": 10900,
+        "StuffID": 10500064,
+        "StuffType": 0,
+        "RecruitTime": 318,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 3006,
+        "Name": null
     }
 ]
