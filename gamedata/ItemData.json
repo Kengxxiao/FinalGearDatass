@@ -20362,5 +20362,31 @@
         "ShopID": [],
         "ID": 13200013,
         "Name": "试炼之钥礼包"
+    },
+    {
+        "Description": "使用后随机获得一件60级SR品质的专用机部件\n<color=yellow>可能获得的专用机部件：漆黑之华、沙漠之星、大头目、喵、雨燕、麦西奥拉、北军之怒、RN特战型、肯陶洛斯、恶浊之心、钢铁要塞</color>",
+        "Icon": "82020110",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 4,
+        "UsedGetPara": [
+            7140421
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 13200006,
+        "Name": "万圣捣蛋箱"
     }
 ]
