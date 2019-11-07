@@ -1,0 +1,6476 @@
+[
+    {
+        "RoomID": 1001,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10011,
+        "Name": null
+    },
+    {
+        "RoomID": 1001,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 5,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10012,
+        "Name": null
+    },
+    {
+        "RoomID": 1001,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 14,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10013,
+        "Name": null
+    },
+    {
+        "RoomID": 1001,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 32,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10014,
+        "Name": null
+    },
+    {
+        "RoomID": 1001,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10015,
+        "Name": null
+    },
+    {
+        "RoomID": 2001,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20011,
+        "Name": null
+    },
+    {
+        "RoomID": 2001,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20012,
+        "Name": null
+    },
+    {
+        "RoomID": 2001,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20013,
+        "Name": null
+    },
+    {
+        "RoomID": 2001,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20014,
+        "Name": null
+    },
+    {
+        "RoomID": 2001,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20015,
+        "Name": null
+    },
+    {
+        "RoomID": 1002,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10021,
+        "Name": null
+    },
+    {
+        "RoomID": 1002,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10022,
+        "Name": null
+    },
+    {
+        "RoomID": 1002,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10023,
+        "Name": null
+    },
+    {
+        "RoomID": 1002,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10024,
+        "Name": null
+    },
+    {
+        "RoomID": 1002,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10025,
+        "Name": null
+    },
+    {
+        "RoomID": 2002,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20021,
+        "Name": null
+    },
+    {
+        "RoomID": 2002,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20022,
+        "Name": null
+    },
+    {
+        "RoomID": 2002,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20023,
+        "Name": null
+    },
+    {
+        "RoomID": 2002,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20024,
+        "Name": null
+    },
+    {
+        "RoomID": 2002,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20025,
+        "Name": null
+    },
+    {
+        "RoomID": 1003,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10031,
+        "Name": null
+    },
+    {
+        "RoomID": 1003,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10032,
+        "Name": null
+    },
+    {
+        "RoomID": 1003,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10033,
+        "Name": null
+    },
+    {
+        "RoomID": 1003,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10034,
+        "Name": null
+    },
+    {
+        "RoomID": 1003,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10035,
+        "Name": null
+    },
+    {
+        "RoomID": 2003,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20031,
+        "Name": null
+    },
+    {
+        "RoomID": 2003,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20032,
+        "Name": null
+    },
+    {
+        "RoomID": 2003,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20033,
+        "Name": null
+    },
+    {
+        "RoomID": 2003,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20034,
+        "Name": null
+    },
+    {
+        "RoomID": 2003,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20035,
+        "Name": null
+    },
+    {
+        "RoomID": 1004,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10041,
+        "Name": null
+    },
+    {
+        "RoomID": 1004,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10042,
+        "Name": null
+    },
+    {
+        "RoomID": 1004,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10043,
+        "Name": null
+    },
+    {
+        "RoomID": 1004,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10044,
+        "Name": null
+    },
+    {
+        "RoomID": 1004,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10045,
+        "Name": null
+    },
+    {
+        "RoomID": 2004,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20041,
+        "Name": null
+    },
+    {
+        "RoomID": 2004,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20042,
+        "Name": null
+    },
+    {
+        "RoomID": 2004,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20043,
+        "Name": null
+    },
+    {
+        "RoomID": 2004,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20044,
+        "Name": null
+    },
+    {
+        "RoomID": 2004,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20045,
+        "Name": null
+    },
+    {
+        "RoomID": 1005,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10051,
+        "Name": null
+    },
+    {
+        "RoomID": 1005,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10052,
+        "Name": null
+    },
+    {
+        "RoomID": 1005,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10053,
+        "Name": null
+    },
+    {
+        "RoomID": 1005,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10054,
+        "Name": null
+    },
+    {
+        "RoomID": 1005,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10055,
+        "Name": null
+    },
+    {
+        "RoomID": 2005,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20051,
+        "Name": null
+    },
+    {
+        "RoomID": 2005,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20052,
+        "Name": null
+    },
+    {
+        "RoomID": 2005,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20053,
+        "Name": null
+    },
+    {
+        "RoomID": 2005,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20054,
+        "Name": null
+    },
+    {
+        "RoomID": 2005,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20055,
+        "Name": null
+    },
+    {
+        "RoomID": 1006,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10061,
+        "Name": null
+    },
+    {
+        "RoomID": 1006,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10062,
+        "Name": null
+    },
+    {
+        "RoomID": 1006,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10063,
+        "Name": null
+    },
+    {
+        "RoomID": 1006,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 4,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10064,
+        "Name": null
+    },
+    {
+        "RoomID": 1006,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 20,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "可入驻更多机师",
+        "ID": 10065,
+        "Name": null
+    },
+    {
+        "RoomID": 2006,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 22,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20061,
+        "Name": null
+    },
+    {
+        "RoomID": 2006,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 24,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20062,
+        "Name": null
+    },
+    {
+        "RoomID": 2006,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 26,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20063,
+        "Name": null
+    },
+    {
+        "RoomID": 2006,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 28,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20064,
+        "Name": null
+    },
+    {
+        "RoomID": 2006,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 5,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 0,
+        "ProduceFunction": 0,
+        "EffectCycle": 6,
+        "EnergyChange": 30,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000117",
+        "ItemText": "宿舍",
+        "StateShow": "机师休息中",
+        "FunctionUnlock": "活力恢复效率提高",
+        "ID": 20065,
+        "Name": null
+    },
+    {
+        "RoomID": 1007,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 1,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            1000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10071,
+        "Name": null
+    },
+    {
+        "RoomID": 1007,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 2,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            2000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10072,
+        "Name": null
+    },
+    {
+        "RoomID": 2007,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 3,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            3000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20071,
+        "Name": null
+    },
+    {
+        "RoomID": 2007,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 4,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            4000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20072,
+        "Name": null
+    },
+    {
+        "RoomID": 2007,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 5,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            5000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20073,
+        "Name": null
+    },
+    {
+        "RoomID": 3007,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 6,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            6000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 30071,
+        "Name": null
+    },
+    {
+        "RoomID": 3007,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 7,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            7000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 30072,
+        "Name": null
+    },
+    {
+        "RoomID": 3007,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 8,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            8000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 30073,
+        "Name": null
+    },
+    {
+        "RoomID": 3007,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 9,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            9000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 30074,
+        "Name": null
+    },
+    {
+        "RoomID": 3007,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 10,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            10000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000114",
+        "ItemText": "水源",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 30075,
+        "Name": null
+    },
+    {
+        "RoomID": 1008,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 11,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            1000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10081,
+        "Name": null
+    },
+    {
+        "RoomID": 1008,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 12,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            2000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10082,
+        "Name": null
+    },
+    {
+        "RoomID": 1008,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 13,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            3000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10083,
+        "Name": null
+    },
+    {
+        "RoomID": 1008,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 14,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            4000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10084,
+        "Name": null
+    },
+    {
+        "RoomID": 1008,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 15,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            5000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10085,
+        "Name": null
+    },
+    {
+        "RoomID": 2008,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 16,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            6000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20081,
+        "Name": null
+    },
+    {
+        "RoomID": 2008,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 17,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            7000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20082,
+        "Name": null
+    },
+    {
+        "RoomID": 2008,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 18,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            8000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20083,
+        "Name": null
+    },
+    {
+        "RoomID": 2008,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 19,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            9000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20084,
+        "Name": null
+    },
+    {
+        "RoomID": 2008,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 20,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            10000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000116",
+        "ItemText": "电力",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20085,
+        "Name": null
+    },
+    {
+        "RoomID": 1009,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 21,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            1000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10091,
+        "Name": null
+    },
+    {
+        "RoomID": 1009,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 22,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            2000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10092,
+        "Name": null
+    },
+    {
+        "RoomID": 1009,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 23,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            3000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10093,
+        "Name": null
+    },
+    {
+        "RoomID": 1009,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 24,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            4000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10094,
+        "Name": null
+    },
+    {
+        "RoomID": 1009,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 25,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            5000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10095,
+        "Name": null
+    },
+    {
+        "RoomID": 2009,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 26,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            6000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20091,
+        "Name": null
+    },
+    {
+        "RoomID": 2009,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 27,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            7000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20092,
+        "Name": null
+    },
+    {
+        "RoomID": 2009,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 28,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            8000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20093,
+        "Name": null
+    },
+    {
+        "RoomID": 2009,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 29,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            9000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20094,
+        "Name": null
+    },
+    {
+        "RoomID": 2009,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ProduceType": 1,
+        "ProduceFunction": 30,
+        "EffectCycle": 6,
+        "EnergyChange": -10,
+        "StoreLimit": [
+            10000
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": -1,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": -1,
+        "ItemShow": "85000115",
+        "ItemText": "食物",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20095,
+        "Name": null
+    },
+    {
+        "RoomID": 1010,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 101,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10101,
+        "Name": null
+    },
+    {
+        "RoomID": 1010,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 102,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10102,
+        "Name": null
+    },
+    {
+        "RoomID": 1010,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 103,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10103,
+        "Name": null
+    },
+    {
+        "RoomID": 1010,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 104,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10104,
+        "Name": null
+    },
+    {
+        "RoomID": 1010,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 105,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10105,
+        "Name": null
+    },
+    {
+        "RoomID": 2010,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 106,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20101,
+        "Name": null
+    },
+    {
+        "RoomID": 2010,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 107,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20102,
+        "Name": null
+    },
+    {
+        "RoomID": 2010,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 108,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20103,
+        "Name": null
+    },
+    {
+        "RoomID": 2010,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 109,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20104,
+        "Name": null
+    },
+    {
+        "RoomID": 2010,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 110,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "科研",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20105,
+        "Name": null
+    },
+    {
+        "RoomID": 1011,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 201,
+        "AutoOrderGroupID": 201,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10111,
+        "Name": null
+    },
+    {
+        "RoomID": 1011,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 202,
+        "AutoOrderGroupID": 202,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10112,
+        "Name": null
+    },
+    {
+        "RoomID": 1011,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 203,
+        "AutoOrderGroupID": 203,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10113,
+        "Name": null
+    },
+    {
+        "RoomID": 1011,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 204,
+        "AutoOrderGroupID": 204,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10114,
+        "Name": null
+    },
+    {
+        "RoomID": 1011,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 205,
+        "AutoOrderGroupID": 205,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10115,
+        "Name": null
+    },
+    {
+        "RoomID": 2011,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 206,
+        "AutoOrderGroupID": 206,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20111,
+        "Name": null
+    },
+    {
+        "RoomID": 2011,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 207,
+        "AutoOrderGroupID": 207,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20112,
+        "Name": null
+    },
+    {
+        "RoomID": 2011,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 208,
+        "AutoOrderGroupID": 208,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20113,
+        "Name": null
+    },
+    {
+        "RoomID": 2011,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 209,
+        "AutoOrderGroupID": 209,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20114,
+        "Name": null
+    },
+    {
+        "RoomID": 2011,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": 1,
+        "OrderGroupID": 210,
+        "AutoOrderGroupID": 210,
+        "OrderQueueSize": 6,
+        "ItemShow": "85000113",
+        "ItemText": "情报",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20115,
+        "Name": null
+    },
+    {
+        "RoomID": 1012,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                25
+            ],
+            [
+                10100013,
+                25
+            ],
+            [
+                10100014,
+                25
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 301,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10121,
+        "Name": null
+    },
+    {
+        "RoomID": 1012,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 302,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10122,
+        "Name": null
+    },
+    {
+        "RoomID": 1012,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                75
+            ],
+            [
+                10100013,
+                75
+            ],
+            [
+                10100014,
+                75
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 303,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10123,
+        "Name": null
+    },
+    {
+        "RoomID": 1012,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 304,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10124,
+        "Name": null
+    },
+    {
+        "RoomID": 1012,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                125
+            ],
+            [
+                10100013,
+                125
+            ],
+            [
+                10100014,
+                125
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 305,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10125,
+        "Name": null
+    },
+    {
+        "RoomID": 2012,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 306,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20121,
+        "Name": null
+    },
+    {
+        "RoomID": 2012,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                175
+            ],
+            [
+                10100013,
+                175
+            ],
+            [
+                10100014,
+                175
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 307,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20122,
+        "Name": null
+    },
+    {
+        "RoomID": 2012,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 308,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20123,
+        "Name": null
+    },
+    {
+        "RoomID": 2012,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                225
+            ],
+            [
+                10100013,
+                225
+            ],
+            [
+                10100014,
+                225
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 309,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20124,
+        "Name": null
+    },
+    {
+        "RoomID": 2012,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 310,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "回收",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20125,
+        "Name": null
+    },
+    {
+        "RoomID": 1013,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 1,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 401,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10131,
+        "Name": null
+    },
+    {
+        "RoomID": 1013,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                2
+            ]
+        ],
+        "UnlockCond": 2,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 402,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10132,
+        "Name": null
+    },
+    {
+        "RoomID": 1013,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 3,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                3
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 1,
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 403,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10133,
+        "Name": null
+    },
+    {
+        "RoomID": 1013,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                4
+            ]
+        ],
+        "UnlockCond": 4,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                6
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 404,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 10134,
+        "Name": null
+    },
+    {
+        "RoomID": 1013,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 2,
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 405,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 10135,
+        "Name": null
+    },
+    {
+        "RoomID": 2013,
+        "RoomLevel": 1,
+        "ItemCost": [
+            [
+                14106001,
+                10
+            ]
+        ],
+        "UnlockCond": 6,
+        "TimeCostId": 101,
+        "RoomRemoveReturn": [],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 406,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高,可入驻更多机师",
+        "ID": 20131,
+        "Name": null
+    },
+    {
+        "RoomID": 2013,
+        "RoomLevel": 2,
+        "ItemCost": [
+            [
+                14106001,
+                15
+            ]
+        ],
+        "UnlockCond": 7,
+        "TimeCostId": 158,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                10
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 407,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20132,
+        "Name": null
+    },
+    {
+        "RoomID": 2013,
+        "RoomLevel": 3,
+        "ItemCost": [
+            [
+                14106001,
+                25
+            ]
+        ],
+        "UnlockCond": 8,
+        "TimeCostId": 233,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                25
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 408,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20133,
+        "Name": null
+    },
+    {
+        "RoomID": 2013,
+        "RoomLevel": 4,
+        "ItemCost": [
+            [
+                14106001,
+                40
+            ]
+        ],
+        "UnlockCond": 9,
+        "TimeCostId": 329,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                50
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 409,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20134,
+        "Name": null
+    },
+    {
+        "RoomID": 2013,
+        "RoomLevel": 5,
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": 0,
+        "TimeCostId": 0,
+        "RoomRemoveReturn": [
+            [
+                14106002,
+                90
+            ]
+        ],
+        "RoomSource": "",
+        "GirlNumLimit": 3,
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ProduceType": 2,
+        "ProduceFunction": 0,
+        "EffectCycle": 0,
+        "EnergyChange": 0,
+        "StoreLimit": [
+            0
+        ],
+        "IsAutoOrder": -1,
+        "OrderGroupID": 410,
+        "AutoOrderGroupID": -1,
+        "OrderQueueSize": 1,
+        "ItemShow": "",
+        "ItemText": "车间",
+        "StateShow": "充电中",
+        "FunctionUnlock": "生产效率提高",
+        "ID": 20135,
+        "Name": null
+    }
+]

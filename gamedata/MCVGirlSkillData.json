@@ -1,0 +1,8354 @@
+[
+    {
+        "SkillDesc": "爱蕾塔区域的远征时间缩短1%",
+        "SkillName": "爱蕾塔狂躁者D",
+        "SkillIcon": "85000130",
+        "SkillLevel": 1,
+        "SkillGroup": 101,
+        "EffectIds": [
+            10011
+        ],
+        "ID": 501011,
+        "Name": "爱蕾塔狂躁者D"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的远征时间缩短2%",
+        "SkillName": "爱蕾塔狂躁者C",
+        "SkillIcon": "85000130",
+        "SkillLevel": 2,
+        "SkillGroup": 101,
+        "EffectIds": [
+            10012
+        ],
+        "ID": 501012,
+        "Name": "爱蕾塔狂躁者C"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的远征时间缩短3%",
+        "SkillName": "爱蕾塔狂躁者B",
+        "SkillIcon": "85000130",
+        "SkillLevel": 3,
+        "SkillGroup": 101,
+        "EffectIds": [
+            10013
+        ],
+        "ID": 501013,
+        "Name": "爱蕾塔狂躁者B"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的远征时间缩短4%",
+        "SkillName": "爱蕾塔狂躁者A",
+        "SkillIcon": "85000130",
+        "SkillLevel": 4,
+        "SkillGroup": 101,
+        "EffectIds": [
+            10014
+        ],
+        "ID": 501014,
+        "Name": "爱蕾塔狂躁者A"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的远征时间缩短5%",
+        "SkillName": "爱蕾塔狂躁者S",
+        "SkillIcon": "85000130",
+        "SkillLevel": 5,
+        "SkillGroup": 101,
+        "EffectIds": [
+            10015
+        ],
+        "ID": 501015,
+        "Name": "爱蕾塔狂躁者S"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的远征时间缩短1%",
+        "SkillName": "海克塞尔狂躁者D",
+        "SkillIcon": "85000131",
+        "SkillLevel": 1,
+        "SkillGroup": 102,
+        "EffectIds": [
+            10021
+        ],
+        "ID": 501111,
+        "Name": "海克塞尔狂躁者D"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的远征时间缩短2%",
+        "SkillName": "海克塞尔狂躁者C",
+        "SkillIcon": "85000131",
+        "SkillLevel": 2,
+        "SkillGroup": 102,
+        "EffectIds": [
+            10022
+        ],
+        "ID": 501112,
+        "Name": "海克塞尔狂躁者C"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的远征时间缩短3%",
+        "SkillName": "海克塞尔狂躁者B",
+        "SkillIcon": "85000131",
+        "SkillLevel": 3,
+        "SkillGroup": 102,
+        "EffectIds": [
+            10023
+        ],
+        "ID": 501113,
+        "Name": "海克塞尔狂躁者B"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的远征时间缩短4%",
+        "SkillName": "海克塞尔狂躁者A",
+        "SkillIcon": "85000131",
+        "SkillLevel": 4,
+        "SkillGroup": 102,
+        "EffectIds": [
+            10024
+        ],
+        "ID": 501114,
+        "Name": "海克塞尔狂躁者A"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的远征时间缩短5%",
+        "SkillName": "海克塞尔狂躁者S",
+        "SkillIcon": "85000131",
+        "SkillLevel": 5,
+        "SkillGroup": 102,
+        "EffectIds": [
+            10025
+        ],
+        "ID": 501115,
+        "Name": "海克塞尔狂躁者S"
+    },
+    {
+        "SkillDesc": "克格亚区域的远征时间缩短1%",
+        "SkillName": "克格亚狂躁者D",
+        "SkillIcon": "85000132",
+        "SkillLevel": 1,
+        "SkillGroup": 103,
+        "EffectIds": [
+            10031
+        ],
+        "ID": 501211,
+        "Name": "克格亚狂躁者D"
+    },
+    {
+        "SkillDesc": "克格亚区域的远征时间缩短2%",
+        "SkillName": "克格亚狂躁者C",
+        "SkillIcon": "85000132",
+        "SkillLevel": 2,
+        "SkillGroup": 103,
+        "EffectIds": [
+            10032
+        ],
+        "ID": 501212,
+        "Name": "克格亚狂躁者C"
+    },
+    {
+        "SkillDesc": "克格亚区域的远征时间缩短3%",
+        "SkillName": "克格亚狂躁者B",
+        "SkillIcon": "85000132",
+        "SkillLevel": 3,
+        "SkillGroup": 103,
+        "EffectIds": [
+            10033
+        ],
+        "ID": 501213,
+        "Name": "克格亚狂躁者B"
+    },
+    {
+        "SkillDesc": "克格亚区域的远征时间缩短4%",
+        "SkillName": "克格亚狂躁者A",
+        "SkillIcon": "85000132",
+        "SkillLevel": 4,
+        "SkillGroup": 103,
+        "EffectIds": [
+            10034
+        ],
+        "ID": 501214,
+        "Name": "克格亚狂躁者A"
+    },
+    {
+        "SkillDesc": "克格亚区域的远征时间缩短5%",
+        "SkillName": "克格亚狂躁者S",
+        "SkillIcon": "85000132",
+        "SkillLevel": 5,
+        "SkillGroup": 103,
+        "EffectIds": [
+            10035
+        ],
+        "ID": 501215,
+        "Name": "克格亚狂躁者S"
+    },
+    {
+        "SkillDesc": "奈布拉区域的远征时间缩短1%",
+        "SkillName": "奈布拉狂躁者D",
+        "SkillIcon": "85000129",
+        "SkillLevel": 1,
+        "SkillGroup": 104,
+        "EffectIds": [
+            10041
+        ],
+        "ID": 501311,
+        "Name": "奈布拉狂躁者D"
+    },
+    {
+        "SkillDesc": "奈布拉区域的远征时间缩短2%",
+        "SkillName": "奈布拉狂躁者C",
+        "SkillIcon": "85000129",
+        "SkillLevel": 2,
+        "SkillGroup": 104,
+        "EffectIds": [
+            10042
+        ],
+        "ID": 501312,
+        "Name": "奈布拉狂躁者C"
+    },
+    {
+        "SkillDesc": "奈布拉区域的远征时间缩短3%",
+        "SkillName": "奈布拉狂躁者B",
+        "SkillIcon": "85000129",
+        "SkillLevel": 3,
+        "SkillGroup": 104,
+        "EffectIds": [
+            10043
+        ],
+        "ID": 501313,
+        "Name": "奈布拉狂躁者B"
+    },
+    {
+        "SkillDesc": "奈布拉区域的远征时间缩短4%",
+        "SkillName": "奈布拉狂躁者A",
+        "SkillIcon": "85000129",
+        "SkillLevel": 4,
+        "SkillGroup": 104,
+        "EffectIds": [
+            10044
+        ],
+        "ID": 501314,
+        "Name": "奈布拉狂躁者A"
+    },
+    {
+        "SkillDesc": "奈布拉区域的远征时间缩短5%",
+        "SkillName": "奈布拉狂躁者S",
+        "SkillIcon": "85000129",
+        "SkillLevel": 5,
+        "SkillGroup": 104,
+        "EffectIds": [
+            10045
+        ],
+        "ID": 501315,
+        "Name": "奈布拉狂躁者S"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的大成功几率提高2%",
+        "SkillName": "爱蕾塔赏金猎人D",
+        "SkillIcon": "85000130",
+        "SkillLevel": 1,
+        "SkillGroup": 105,
+        "EffectIds": [
+            10051
+        ],
+        "ID": 501411,
+        "Name": "爱蕾塔赏金猎人D"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的大成功几率提高4%",
+        "SkillName": "爱蕾塔赏金猎人C",
+        "SkillIcon": "85000130",
+        "SkillLevel": 2,
+        "SkillGroup": 105,
+        "EffectIds": [
+            10052
+        ],
+        "ID": 501412,
+        "Name": "爱蕾塔赏金猎人C"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的大成功几率提高6%",
+        "SkillName": "爱蕾塔赏金猎人B",
+        "SkillIcon": "85000130",
+        "SkillLevel": 3,
+        "SkillGroup": 105,
+        "EffectIds": [
+            10053
+        ],
+        "ID": 501413,
+        "Name": "爱蕾塔赏金猎人B"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的大成功几率提高8%",
+        "SkillName": "爱蕾塔赏金猎人A",
+        "SkillIcon": "85000130",
+        "SkillLevel": 4,
+        "SkillGroup": 105,
+        "EffectIds": [
+            10054
+        ],
+        "ID": 501414,
+        "Name": "爱蕾塔赏金猎人A"
+    },
+    {
+        "SkillDesc": "爱蕾塔区域的大成功几率提高10%",
+        "SkillName": "爱蕾塔赏金猎人S",
+        "SkillIcon": "85000130",
+        "SkillLevel": 5,
+        "SkillGroup": 105,
+        "EffectIds": [
+            10055
+        ],
+        "ID": 501415,
+        "Name": "爱蕾塔赏金猎人S"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的大成功几率提高2%",
+        "SkillName": "海克塞尔赏金猎人D",
+        "SkillIcon": "85000131",
+        "SkillLevel": 1,
+        "SkillGroup": 106,
+        "EffectIds": [
+            10061
+        ],
+        "ID": 501511,
+        "Name": "海克塞尔赏金猎人D"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的大成功几率提高4%",
+        "SkillName": "海克塞尔赏金猎人C",
+        "SkillIcon": "85000131",
+        "SkillLevel": 2,
+        "SkillGroup": 106,
+        "EffectIds": [
+            10062
+        ],
+        "ID": 501512,
+        "Name": "海克塞尔赏金猎人C"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的大成功几率提高6%",
+        "SkillName": "海克塞尔赏金猎人B",
+        "SkillIcon": "85000131",
+        "SkillLevel": 3,
+        "SkillGroup": 106,
+        "EffectIds": [
+            10063
+        ],
+        "ID": 501513,
+        "Name": "海克塞尔赏金猎人B"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的大成功几率提高8%",
+        "SkillName": "海克塞尔赏金猎人A",
+        "SkillIcon": "85000131",
+        "SkillLevel": 4,
+        "SkillGroup": 106,
+        "EffectIds": [
+            10064
+        ],
+        "ID": 501514,
+        "Name": "海克塞尔赏金猎人A"
+    },
+    {
+        "SkillDesc": "海克赛尔区域的大成功几率提高10%",
+        "SkillName": "海克塞尔赏金猎人S",
+        "SkillIcon": "85000131",
+        "SkillLevel": 5,
+        "SkillGroup": 106,
+        "EffectIds": [
+            10065
+        ],
+        "ID": 501515,
+        "Name": "海克塞尔赏金猎人S"
+    },
+    {
+        "SkillDesc": "克格亚区域的大成功几率提高2%",
+        "SkillName": "克格亚赏金猎人D",
+        "SkillIcon": "85000132",
+        "SkillLevel": 1,
+        "SkillGroup": 107,
+        "EffectIds": [
+            10071
+        ],
+        "ID": 501611,
+        "Name": "克格亚赏金猎人D"
+    },
+    {
+        "SkillDesc": "克格亚区域的大成功几率提高4%",
+        "SkillName": "克格亚赏金猎人C",
+        "SkillIcon": "85000132",
+        "SkillLevel": 2,
+        "SkillGroup": 107,
+        "EffectIds": [
+            10072
+        ],
+        "ID": 501612,
+        "Name": "克格亚赏金猎人C"
+    },
+    {
+        "SkillDesc": "克格亚区域的大成功几率提高6%",
+        "SkillName": "克格亚赏金猎人B",
+        "SkillIcon": "85000132",
+        "SkillLevel": 3,
+        "SkillGroup": 107,
+        "EffectIds": [
+            10073
+        ],
+        "ID": 501613,
+        "Name": "克格亚赏金猎人B"
+    },
+    {
+        "SkillDesc": "克格亚区域的大成功几率提高8%",
+        "SkillName": "克格亚赏金猎人A",
+        "SkillIcon": "85000132",
+        "SkillLevel": 4,
+        "SkillGroup": 107,
+        "EffectIds": [
+            10074
+        ],
+        "ID": 501614,
+        "Name": "克格亚赏金猎人A"
+    },
+    {
+        "SkillDesc": "克格亚区域的大成功几率提高10%",
+        "SkillName": "克格亚赏金猎人S",
+        "SkillIcon": "85000132",
+        "SkillLevel": 5,
+        "SkillGroup": 107,
+        "EffectIds": [
+            10075
+        ],
+        "ID": 501615,
+        "Name": "克格亚赏金猎人S"
+    },
+    {
+        "SkillDesc": "奈布拉区域的大成功几率提高2%",
+        "SkillName": "奈布拉赏金猎人D",
+        "SkillIcon": "85000129",
+        "SkillLevel": 1,
+        "SkillGroup": 108,
+        "EffectIds": [
+            10081
+        ],
+        "ID": 501711,
+        "Name": "奈布拉赏金猎人D"
+    },
+    {
+        "SkillDesc": "奈布拉区域的大成功几率提高4%",
+        "SkillName": "奈布拉赏金猎人C",
+        "SkillIcon": "85000129",
+        "SkillLevel": 2,
+        "SkillGroup": 108,
+        "EffectIds": [
+            10082
+        ],
+        "ID": 501712,
+        "Name": "奈布拉赏金猎人C"
+    },
+    {
+        "SkillDesc": "奈布拉区域的大成功几率提高6%",
+        "SkillName": "奈布拉赏金猎人B",
+        "SkillIcon": "85000129",
+        "SkillLevel": 3,
+        "SkillGroup": 108,
+        "EffectIds": [
+            10083
+        ],
+        "ID": 501713,
+        "Name": "奈布拉赏金猎人B"
+    },
+    {
+        "SkillDesc": "奈布拉区域的大成功几率提高8%",
+        "SkillName": "奈布拉赏金猎人A",
+        "SkillIcon": "85000129",
+        "SkillLevel": 4,
+        "SkillGroup": 108,
+        "EffectIds": [
+            10084
+        ],
+        "ID": 501714,
+        "Name": "奈布拉赏金猎人A"
+    },
+    {
+        "SkillDesc": "奈布拉区域的大成功几率提高10%",
+        "SkillName": "奈布拉赏金猎人S",
+        "SkillIcon": "85000129",
+        "SkillLevel": 5,
+        "SkillGroup": 108,
+        "EffectIds": [
+            10085
+        ],
+        "ID": 501715,
+        "Name": "奈布拉赏金猎人S"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "精确锁定D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 109,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 501811,
+        "Name": "精确锁定D"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短2%",
+        "SkillName": "精确锁定C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 109,
+        "EffectIds": [
+            10092
+        ],
+        "ID": 501812,
+        "Name": "精确锁定C"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短3%",
+        "SkillName": "精确锁定B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 109,
+        "EffectIds": [
+            10093
+        ],
+        "ID": 501813,
+        "Name": "精确锁定B"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短4%",
+        "SkillName": "精确锁定A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 109,
+        "EffectIds": [
+            10094
+        ],
+        "ID": 501814,
+        "Name": "精确锁定A"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短5%",
+        "SkillName": "精确锁定S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 109,
+        "EffectIds": [
+            10095
+        ],
+        "ID": 501815,
+        "Name": "精确锁定S"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短1%",
+        "SkillName": "警犬嗅觉D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 110,
+        "EffectIds": [
+            10101
+        ],
+        "ID": 501911,
+        "Name": "警犬嗅觉D"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短2%",
+        "SkillName": "警犬嗅觉C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 110,
+        "EffectIds": [
+            10102
+        ],
+        "ID": 501912,
+        "Name": "警犬嗅觉C"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短3%",
+        "SkillName": "警犬嗅觉B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 110,
+        "EffectIds": [
+            10103
+        ],
+        "ID": 501913,
+        "Name": "警犬嗅觉B"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短4%",
+        "SkillName": "警犬嗅觉A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 110,
+        "EffectIds": [
+            10104
+        ],
+        "ID": 501914,
+        "Name": "警犬嗅觉A"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短5%",
+        "SkillName": "警犬嗅觉S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 110,
+        "EffectIds": [
+            10105
+        ],
+        "ID": 501915,
+        "Name": "警犬嗅觉S"
+    },
+    {
+        "SkillDesc": "收集类远征的时间缩短1%",
+        "SkillName": "收藏家D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 111,
+        "EffectIds": [
+            10111
+        ],
+        "ID": 502011,
+        "Name": "收藏家D"
+    },
+    {
+        "SkillDesc": "收集类远征的时间缩短2%",
+        "SkillName": "收藏家C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 111,
+        "EffectIds": [
+            10112
+        ],
+        "ID": 502012,
+        "Name": "收藏家C"
+    },
+    {
+        "SkillDesc": "收集类远征的时间缩短3%",
+        "SkillName": "收藏家B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 111,
+        "EffectIds": [
+            10113
+        ],
+        "ID": 502013,
+        "Name": "收藏家B"
+    },
+    {
+        "SkillDesc": "收集类远征的时间缩短4%",
+        "SkillName": "收藏家A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 111,
+        "EffectIds": [
+            10114
+        ],
+        "ID": 502014,
+        "Name": "收藏家A"
+    },
+    {
+        "SkillDesc": "收集类远征的时间缩短5%",
+        "SkillName": "收藏家S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 111,
+        "EffectIds": [
+            10115
+        ],
+        "ID": 502015,
+        "Name": "收藏家S"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短1%",
+        "SkillName": "红马骑士D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 112,
+        "EffectIds": [
+            10121
+        ],
+        "ID": 502111,
+        "Name": "红马骑士D"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短2%",
+        "SkillName": "红马骑士C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 112,
+        "EffectIds": [
+            10122
+        ],
+        "ID": 502112,
+        "Name": "红马骑士C"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短3%",
+        "SkillName": "红马骑士B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 112,
+        "EffectIds": [
+            10123
+        ],
+        "ID": 502113,
+        "Name": "红马骑士B"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短4%",
+        "SkillName": "红马骑士A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 112,
+        "EffectIds": [
+            10124
+        ],
+        "ID": 502114,
+        "Name": "红马骑士A"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短5%",
+        "SkillName": "红马骑士S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 112,
+        "EffectIds": [
+            10125
+        ],
+        "ID": 502115,
+        "Name": "红马骑士S"
+    },
+    {
+        "SkillDesc": "搜索类远征的大成功几率提高2%",
+        "SkillName": "全面覆盖D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 113,
+        "EffectIds": [
+            10131
+        ],
+        "ID": 502211,
+        "Name": "全面覆盖D"
+    },
+    {
+        "SkillDesc": "搜索类远征的大成功几率提高4%",
+        "SkillName": "全面覆盖C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 113,
+        "EffectIds": [
+            10132
+        ],
+        "ID": 502212,
+        "Name": "全面覆盖C"
+    },
+    {
+        "SkillDesc": "搜索类远征的大成功几率提高6%",
+        "SkillName": "全面覆盖B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 113,
+        "EffectIds": [
+            10133
+        ],
+        "ID": 502213,
+        "Name": "全面覆盖B"
+    },
+    {
+        "SkillDesc": "搜索类远征的大成功几率提高8%",
+        "SkillName": "全面覆盖A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 113,
+        "EffectIds": [
+            10134
+        ],
+        "ID": 502214,
+        "Name": "全面覆盖A"
+    },
+    {
+        "SkillDesc": "搜索类远征的大成功几率提高10%",
+        "SkillName": "全面覆盖S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 113,
+        "EffectIds": [
+            10135
+        ],
+        "ID": 502215,
+        "Name": "全面覆盖S"
+    },
+    {
+        "SkillDesc": "调查类远征的大成功几率提高2%",
+        "SkillName": "福尔摩斯D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 114,
+        "EffectIds": [
+            10141
+        ],
+        "ID": 502311,
+        "Name": "福尔摩斯D"
+    },
+    {
+        "SkillDesc": "调查类远征的大成功几率提高4%",
+        "SkillName": "福尔摩斯C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 114,
+        "EffectIds": [
+            10142
+        ],
+        "ID": 502312,
+        "Name": "福尔摩斯C"
+    },
+    {
+        "SkillDesc": "调查类远征的大成功几率提高6%",
+        "SkillName": "福尔摩斯B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 114,
+        "EffectIds": [
+            10143
+        ],
+        "ID": 502313,
+        "Name": "福尔摩斯B"
+    },
+    {
+        "SkillDesc": "调查类远征的大成功几率提高8%",
+        "SkillName": "福尔摩斯A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 114,
+        "EffectIds": [
+            10144
+        ],
+        "ID": 502314,
+        "Name": "福尔摩斯A"
+    },
+    {
+        "SkillDesc": "调查类远征的大成功几率提高10%",
+        "SkillName": "福尔摩斯S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 114,
+        "EffectIds": [
+            10145
+        ],
+        "ID": 502315,
+        "Name": "福尔摩斯S"
+    },
+    {
+        "SkillDesc": "收集类远征的大成功几率提高2%",
+        "SkillName": "清除者D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 115,
+        "EffectIds": [
+            10151
+        ],
+        "ID": 502411,
+        "Name": "清除者D"
+    },
+    {
+        "SkillDesc": "收集类远征的大成功几率提高4%",
+        "SkillName": "清除者C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 115,
+        "EffectIds": [
+            10152
+        ],
+        "ID": 502412,
+        "Name": "清除者C"
+    },
+    {
+        "SkillDesc": "收集类远征的大成功几率提高6%",
+        "SkillName": "清除者B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 115,
+        "EffectIds": [
+            10153
+        ],
+        "ID": 502413,
+        "Name": "清除者B"
+    },
+    {
+        "SkillDesc": "收集类远征的大成功几率提高8%",
+        "SkillName": "清除者A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 115,
+        "EffectIds": [
+            10154
+        ],
+        "ID": 502414,
+        "Name": "清除者A"
+    },
+    {
+        "SkillDesc": "收集类远征的大成功几率提高10%",
+        "SkillName": "清除者S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 115,
+        "EffectIds": [
+            10155
+        ],
+        "ID": 502415,
+        "Name": "清除者S"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高2%",
+        "SkillName": "冒险王D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 116,
+        "EffectIds": [
+            10161
+        ],
+        "ID": 502511,
+        "Name": "冒险王D"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高4%",
+        "SkillName": "冒险王C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 116,
+        "EffectIds": [
+            10162
+        ],
+        "ID": 502512,
+        "Name": "冒险王C"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高6%",
+        "SkillName": "冒险王B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 116,
+        "EffectIds": [
+            10163
+        ],
+        "ID": 502513,
+        "Name": "冒险王B"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高8%",
+        "SkillName": "冒险王A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 116,
+        "EffectIds": [
+            10164
+        ],
+        "ID": 502514,
+        "Name": "冒险王A"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高10%",
+        "SkillName": "冒险王S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 116,
+        "EffectIds": [
+            10165
+        ],
+        "ID": 502515,
+        "Name": "冒险王S"
+    },
+    {
+        "SkillDesc": "自己或队友是守护机师时，远征大成功率提高2%",
+        "SkillName": "天使守护人D",
+        "SkillIcon": "85000123",
+        "SkillLevel": 1,
+        "SkillGroup": 117,
+        "EffectIds": [
+            10171
+        ],
+        "ID": 503011,
+        "Name": "天使守护人D"
+    },
+    {
+        "SkillDesc": "自己或队友是守护机师时，远征大成功率提高4%",
+        "SkillName": "天使守护人C",
+        "SkillIcon": "85000123",
+        "SkillLevel": 2,
+        "SkillGroup": 117,
+        "EffectIds": [
+            10172
+        ],
+        "ID": 503012,
+        "Name": "天使守护人C"
+    },
+    {
+        "SkillDesc": "自己或队友是守护机师时，远征大成功率提高6%",
+        "SkillName": "天使守护人B",
+        "SkillIcon": "85000123",
+        "SkillLevel": 3,
+        "SkillGroup": 117,
+        "EffectIds": [
+            10173
+        ],
+        "ID": 503013,
+        "Name": "天使守护人B"
+    },
+    {
+        "SkillDesc": "自己或队友是守护机师时，远征大成功率提高8%",
+        "SkillName": "天使守护人A",
+        "SkillIcon": "85000123",
+        "SkillLevel": 4,
+        "SkillGroup": 117,
+        "EffectIds": [
+            10174
+        ],
+        "ID": 503014,
+        "Name": "天使守护人A"
+    },
+    {
+        "SkillDesc": "自己或队友是守护机师时，远征大成功率提高10%",
+        "SkillName": "天使守护人S",
+        "SkillIcon": "85000123",
+        "SkillLevel": 5,
+        "SkillGroup": 117,
+        "EffectIds": [
+            10175
+        ],
+        "ID": 503015,
+        "Name": "天使守护人S"
+    },
+    {
+        "SkillDesc": "自己或队友是格斗机师时，远征大成功率提高2%",
+        "SkillName": "暗杀者D",
+        "SkillIcon": "85000124",
+        "SkillLevel": 1,
+        "SkillGroup": 118,
+        "EffectIds": [
+            10181
+        ],
+        "ID": 503021,
+        "Name": "暗杀者D"
+    },
+    {
+        "SkillDesc": "自己或队友是格斗机师时，远征大成功率提高4%",
+        "SkillName": "暗杀者C",
+        "SkillIcon": "85000124",
+        "SkillLevel": 2,
+        "SkillGroup": 118,
+        "EffectIds": [
+            10182
+        ],
+        "ID": 503022,
+        "Name": "暗杀者C"
+    },
+    {
+        "SkillDesc": "自己或队友是格斗机师时，远征大成功率提高6%",
+        "SkillName": "暗杀者B",
+        "SkillIcon": "85000124",
+        "SkillLevel": 3,
+        "SkillGroup": 118,
+        "EffectIds": [
+            10183
+        ],
+        "ID": 503023,
+        "Name": "暗杀者B"
+    },
+    {
+        "SkillDesc": "自己或队友是格斗机师时，远征大成功率提高8%",
+        "SkillName": "暗杀者A",
+        "SkillIcon": "85000124",
+        "SkillLevel": 4,
+        "SkillGroup": 118,
+        "EffectIds": [
+            10184
+        ],
+        "ID": 503024,
+        "Name": "暗杀者A"
+    },
+    {
+        "SkillDesc": "自己或队友是格斗机师时，远征大成功率提高10%",
+        "SkillName": "暗杀者S",
+        "SkillIcon": "85000124",
+        "SkillLevel": 5,
+        "SkillGroup": 118,
+        "EffectIds": [
+            10185
+        ],
+        "ID": 503025,
+        "Name": "暗杀者S"
+    },
+    {
+        "SkillDesc": "自己或队友是射击机师时，远征大成功率提高2%",
+        "SkillName": "神枪手D",
+        "SkillIcon": "85000125",
+        "SkillLevel": 1,
+        "SkillGroup": 119,
+        "EffectIds": [
+            10191
+        ],
+        "ID": 503031,
+        "Name": "神枪手D"
+    },
+    {
+        "SkillDesc": "自己或队友是射击机师时，远征大成功率提高4%",
+        "SkillName": "神枪手C",
+        "SkillIcon": "85000125",
+        "SkillLevel": 2,
+        "SkillGroup": 119,
+        "EffectIds": [
+            10192
+        ],
+        "ID": 503032,
+        "Name": "神枪手C"
+    },
+    {
+        "SkillDesc": "自己或队友是射击机师时，远征大成功率提高6%",
+        "SkillName": "神枪手B",
+        "SkillIcon": "85000125",
+        "SkillLevel": 3,
+        "SkillGroup": 119,
+        "EffectIds": [
+            10193
+        ],
+        "ID": 503033,
+        "Name": "神枪手B"
+    },
+    {
+        "SkillDesc": "自己或队友是射击机师时，远征大成功率提高8%",
+        "SkillName": "神枪手A",
+        "SkillIcon": "85000125",
+        "SkillLevel": 4,
+        "SkillGroup": 119,
+        "EffectIds": [
+            10194
+        ],
+        "ID": 503034,
+        "Name": "神枪手A"
+    },
+    {
+        "SkillDesc": "自己或队友是射击机师时，远征大成功率提高10%",
+        "SkillName": "神枪手S",
+        "SkillIcon": "85000125",
+        "SkillLevel": 5,
+        "SkillGroup": 119,
+        "EffectIds": [
+            10195
+        ],
+        "ID": 503035,
+        "Name": "神枪手S"
+    },
+    {
+        "SkillDesc": "自己或队友是爆破机师时，远征大成功率提高2%",
+        "SkillName": "从不回头看爆炸D",
+        "SkillIcon": "85000126",
+        "SkillLevel": 1,
+        "SkillGroup": 120,
+        "EffectIds": [
+            10201
+        ],
+        "ID": 503041,
+        "Name": "从不回头看爆炸D"
+    },
+    {
+        "SkillDesc": "自己或队友是爆破机师时，远征大成功率提高4%",
+        "SkillName": "从不回头看爆炸C",
+        "SkillIcon": "85000126",
+        "SkillLevel": 2,
+        "SkillGroup": 120,
+        "EffectIds": [
+            10202
+        ],
+        "ID": 503042,
+        "Name": "从不回头看爆炸C"
+    },
+    {
+        "SkillDesc": "自己或队友是爆破机师时，远征大成功率提高6%",
+        "SkillName": "从不回头看爆炸B",
+        "SkillIcon": "85000126",
+        "SkillLevel": 3,
+        "SkillGroup": 120,
+        "EffectIds": [
+            10203
+        ],
+        "ID": 503043,
+        "Name": "从不回头看爆炸B"
+    },
+    {
+        "SkillDesc": "自己或队友是爆破机师时，远征大成功率提高8%",
+        "SkillName": "从不回头看爆炸A",
+        "SkillIcon": "85000126",
+        "SkillLevel": 4,
+        "SkillGroup": 120,
+        "EffectIds": [
+            10204
+        ],
+        "ID": 503044,
+        "Name": "从不回头看爆炸A"
+    },
+    {
+        "SkillDesc": "自己或队友是爆破机师时，远征大成功率提高10%",
+        "SkillName": "从不回头看爆炸S",
+        "SkillIcon": "85000126",
+        "SkillLevel": 5,
+        "SkillGroup": 120,
+        "EffectIds": [
+            10205
+        ],
+        "ID": 503045,
+        "Name": "从不回头看爆炸S"
+    },
+    {
+        "SkillDesc": "自己或队友是狙击机师时，远征大成功率提高2%",
+        "SkillName": "鹰眼D",
+        "SkillIcon": "85000128",
+        "SkillLevel": 1,
+        "SkillGroup": 121,
+        "EffectIds": [
+            10211
+        ],
+        "ID": 503051,
+        "Name": "鹰眼D"
+    },
+    {
+        "SkillDesc": "自己或队友是狙击机师时，远征大成功率提高4%",
+        "SkillName": "鹰眼C",
+        "SkillIcon": "85000128",
+        "SkillLevel": 2,
+        "SkillGroup": 121,
+        "EffectIds": [
+            10212
+        ],
+        "ID": 503052,
+        "Name": "鹰眼C"
+    },
+    {
+        "SkillDesc": "自己或队友是狙击机师时，远征大成功率提高6%",
+        "SkillName": "鹰眼B",
+        "SkillIcon": "85000128",
+        "SkillLevel": 3,
+        "SkillGroup": 121,
+        "EffectIds": [
+            10213
+        ],
+        "ID": 503053,
+        "Name": "鹰眼B"
+    },
+    {
+        "SkillDesc": "自己或队友是狙击机师时，远征大成功率提高8%",
+        "SkillName": "鹰眼A",
+        "SkillIcon": "85000128",
+        "SkillLevel": 4,
+        "SkillGroup": 121,
+        "EffectIds": [
+            10214
+        ],
+        "ID": 503054,
+        "Name": "鹰眼A"
+    },
+    {
+        "SkillDesc": "自己或队友是狙击机师时，远征大成功率提高10%",
+        "SkillName": "鹰眼S",
+        "SkillIcon": "85000128",
+        "SkillLevel": 5,
+        "SkillGroup": 121,
+        "EffectIds": [
+            10215
+        ],
+        "ID": 503055,
+        "Name": "鹰眼S"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高2%",
+        "SkillName": "全域封锁D",
+        "SkillIcon": "85000127",
+        "SkillLevel": 1,
+        "SkillGroup": 122,
+        "EffectIds": [
+            10221
+        ],
+        "ID": 503061,
+        "Name": "全域封锁D"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高4%",
+        "SkillName": "全域封锁C",
+        "SkillIcon": "85000127",
+        "SkillLevel": 2,
+        "SkillGroup": 122,
+        "EffectIds": [
+            10222
+        ],
+        "ID": 503062,
+        "Name": "全域封锁C"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高6%",
+        "SkillName": "全域封锁B",
+        "SkillIcon": "85000127",
+        "SkillLevel": 3,
+        "SkillGroup": 122,
+        "EffectIds": [
+            10223
+        ],
+        "ID": 503063,
+        "Name": "全域封锁B"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高8%",
+        "SkillName": "全域封锁A",
+        "SkillIcon": "85000127",
+        "SkillLevel": 4,
+        "SkillGroup": 122,
+        "EffectIds": [
+            10224
+        ],
+        "ID": 503064,
+        "Name": "全域封锁A"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高10%",
+        "SkillName": "全域封锁S",
+        "SkillIcon": "85000127",
+        "SkillLevel": 5,
+        "SkillGroup": 122,
+        "EffectIds": [
+            10225
+        ],
+        "ID": 503065,
+        "Name": "全域封锁S"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高1%",
+        "SkillName": "短跑冠军D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 123,
+        "EffectIds": [
+            10231
+        ],
+        "ID": 503071,
+        "Name": "短跑冠军D"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高2%",
+        "SkillName": "短跑冠军C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 123,
+        "EffectIds": [
+            10232
+        ],
+        "ID": 503072,
+        "Name": "短跑冠军C"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高3%",
+        "SkillName": "短跑冠军B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 123,
+        "EffectIds": [
+            10233
+        ],
+        "ID": 503073,
+        "Name": "短跑冠军B"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高4%",
+        "SkillName": "短跑冠军A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 123,
+        "EffectIds": [
+            10234
+        ],
+        "ID": 503074,
+        "Name": "短跑冠军A"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高5%",
+        "SkillName": "短跑冠军S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 123,
+        "EffectIds": [
+            10235
+        ],
+        "ID": 503075,
+        "Name": "短跑冠军S"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高1%",
+        "SkillName": "长跑冠军D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 124,
+        "EffectIds": [
+            10241
+        ],
+        "ID": 503081,
+        "Name": "长跑冠军D"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高2%",
+        "SkillName": "长跑冠军C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 124,
+        "EffectIds": [
+            10242
+        ],
+        "ID": 503082,
+        "Name": "长跑冠军C"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高3%",
+        "SkillName": "长跑冠军B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 124,
+        "EffectIds": [
+            10243
+        ],
+        "ID": 503083,
+        "Name": "长跑冠军B"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高4%",
+        "SkillName": "长跑冠军A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 124,
+        "EffectIds": [
+            10244
+        ],
+        "ID": 503084,
+        "Name": "长跑冠军A"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高5%",
+        "SkillName": "长跑冠军S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 124,
+        "EffectIds": [
+            10245
+        ],
+        "ID": 503085,
+        "Name": "长跑冠军S"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高1%",
+        "SkillName": "守财奴D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 125,
+        "EffectIds": [
+            10251
+        ],
+        "ID": 503091,
+        "Name": "守财奴D"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高2%",
+        "SkillName": "守财奴C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 125,
+        "EffectIds": [
+            10252
+        ],
+        "ID": 503092,
+        "Name": "守财奴C"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高3%",
+        "SkillName": "守财奴B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 125,
+        "EffectIds": [
+            10253
+        ],
+        "ID": 503093,
+        "Name": "守财奴B"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高4%",
+        "SkillName": "守财奴A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 125,
+        "EffectIds": [
+            10254
+        ],
+        "ID": 503094,
+        "Name": "守财奴A"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高5%",
+        "SkillName": "守财奴S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 125,
+        "EffectIds": [
+            10255
+        ],
+        "ID": 503095,
+        "Name": "守财奴S"
+    },
+    {
+        "SkillDesc": "通过远征获得的晶石提高1%",
+        "SkillName": "百万富豪D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 126,
+        "EffectIds": [
+            10261
+        ],
+        "ID": 503101,
+        "Name": "百万富豪D"
+    },
+    {
+        "SkillDesc": "通过远征获得的晶石提高2%",
+        "SkillName": "百万富豪C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 126,
+        "EffectIds": [
+            10262
+        ],
+        "ID": 503102,
+        "Name": "百万富豪C"
+    },
+    {
+        "SkillDesc": "通过远征获得的晶石提高3%",
+        "SkillName": "百万富豪B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 126,
+        "EffectIds": [
+            10263
+        ],
+        "ID": 503103,
+        "Name": "百万富豪B"
+    },
+    {
+        "SkillDesc": "通过远征获得的晶石提高4%",
+        "SkillName": "百万富豪A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 126,
+        "EffectIds": [
+            10264
+        ],
+        "ID": 503104,
+        "Name": "百万富豪A"
+    },
+    {
+        "SkillDesc": "通过远征获得的晶石提高5%",
+        "SkillName": "百万富豪S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 126,
+        "EffectIds": [
+            10265
+        ],
+        "ID": 503105,
+        "Name": "百万富豪S"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高1%",
+        "SkillName": "打井人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 127,
+        "EffectIds": [
+            10271
+        ],
+        "ID": 503111,
+        "Name": "打井人D"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高2%",
+        "SkillName": "打井人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 127,
+        "EffectIds": [
+            10272
+        ],
+        "ID": 503112,
+        "Name": "打井人C"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高3%",
+        "SkillName": "打井人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 127,
+        "EffectIds": [
+            10273
+        ],
+        "ID": 503113,
+        "Name": "打井人B"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高4%",
+        "SkillName": "打井人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 127,
+        "EffectIds": [
+            10274
+        ],
+        "ID": 503114,
+        "Name": "打井人A"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高5%",
+        "SkillName": "打井人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 127,
+        "EffectIds": [
+            10275
+        ],
+        "ID": 503115,
+        "Name": "打井人S"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高1%",
+        "SkillName": "馋嘴猫D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 128,
+        "EffectIds": [
+            10281
+        ],
+        "ID": 503121,
+        "Name": "馋嘴猫D"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高2%",
+        "SkillName": "馋嘴猫C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 128,
+        "EffectIds": [
+            10282
+        ],
+        "ID": 503122,
+        "Name": "馋嘴猫C"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高3%",
+        "SkillName": "馋嘴猫B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 128,
+        "EffectIds": [
+            10283
+        ],
+        "ID": 503123,
+        "Name": "馋嘴猫B"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高4%",
+        "SkillName": "馋嘴猫A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 128,
+        "EffectIds": [
+            10284
+        ],
+        "ID": 503124,
+        "Name": "馋嘴猫A"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高5%",
+        "SkillName": "馋嘴猫S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 128,
+        "EffectIds": [
+            10285
+        ],
+        "ID": 503125,
+        "Name": "馋嘴猫S"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高1%",
+        "SkillName": "能源商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 129,
+        "EffectIds": [
+            10291
+        ],
+        "ID": 503131,
+        "Name": "能源商人D"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高2%",
+        "SkillName": "能源商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 129,
+        "EffectIds": [
+            10292
+        ],
+        "ID": 503132,
+        "Name": "能源商人C"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高3%",
+        "SkillName": "能源商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 129,
+        "EffectIds": [
+            10293
+        ],
+        "ID": 503133,
+        "Name": "能源商人B"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高4%",
+        "SkillName": "能源商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 129,
+        "EffectIds": [
+            10294
+        ],
+        "ID": 503134,
+        "Name": "能源商人A"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高5%",
+        "SkillName": "能源商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 129,
+        "EffectIds": [
+            10295
+        ],
+        "ID": 503135,
+        "Name": "能源商人S"
+    },
+    {
+        "SkillDesc": "通过远征获得的基础科技核心提高5%",
+        "SkillName": "科研员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 130,
+        "EffectIds": [
+            10301
+        ],
+        "ID": 503141,
+        "Name": "科研员D"
+    },
+    {
+        "SkillDesc": "通过远征获得的基础科技核心提高10%",
+        "SkillName": "科研员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 130,
+        "EffectIds": [
+            10302
+        ],
+        "ID": 503142,
+        "Name": "科研员C"
+    },
+    {
+        "SkillDesc": "通过远征获得的基础科技核心提高15%",
+        "SkillName": "科研员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 130,
+        "EffectIds": [
+            10303
+        ],
+        "ID": 503143,
+        "Name": "科研员B"
+    },
+    {
+        "SkillDesc": "通过远征获得的基础科技核心提高20%",
+        "SkillName": "科研员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 130,
+        "EffectIds": [
+            10304
+        ],
+        "ID": 503144,
+        "Name": "科研员A"
+    },
+    {
+        "SkillDesc": "通过远征获得的基础科技核心提高25%",
+        "SkillName": "科研员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 130,
+        "EffectIds": [
+            10305
+        ],
+        "ID": 503145,
+        "Name": "科研员S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的金币提高2%",
+        "SkillName": "爱蕾塔守财奴D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 131,
+        "EffectIds": [
+            10311
+        ],
+        "ID": 503151,
+        "Name": "爱蕾塔守财奴D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的金币提高4%",
+        "SkillName": "爱蕾塔守财奴C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 131,
+        "EffectIds": [
+            10312
+        ],
+        "ID": 503152,
+        "Name": "爱蕾塔守财奴C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的金币提高6%",
+        "SkillName": "爱蕾塔守财奴B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 131,
+        "EffectIds": [
+            10313
+        ],
+        "ID": 503153,
+        "Name": "爱蕾塔守财奴B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的金币提高8%",
+        "SkillName": "爱蕾塔守财奴A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 131,
+        "EffectIds": [
+            10314
+        ],
+        "ID": 503154,
+        "Name": "爱蕾塔守财奴A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的金币提高10%",
+        "SkillName": "爱蕾塔守财奴S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 131,
+        "EffectIds": [
+            10315
+        ],
+        "ID": 503155,
+        "Name": "爱蕾塔守财奴S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的晶石提高2%",
+        "SkillName": "爱蕾塔首富D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 132,
+        "EffectIds": [
+            10321
+        ],
+        "ID": 503161,
+        "Name": "爱蕾塔首富D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的晶石提高4%",
+        "SkillName": "爱蕾塔首富C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 132,
+        "EffectIds": [
+            10322
+        ],
+        "ID": 503162,
+        "Name": "爱蕾塔首富C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的晶石提高6%",
+        "SkillName": "爱蕾塔首富B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 132,
+        "EffectIds": [
+            10323
+        ],
+        "ID": 503163,
+        "Name": "爱蕾塔首富B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的晶石提高8%",
+        "SkillName": "爱蕾塔首富A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 132,
+        "EffectIds": [
+            10324
+        ],
+        "ID": 503164,
+        "Name": "爱蕾塔首富A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的晶石提高10%",
+        "SkillName": "爱蕾塔首富S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 132,
+        "EffectIds": [
+            10325
+        ],
+        "ID": 503165,
+        "Name": "爱蕾塔首富S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的水源提高2%",
+        "SkillName": "爱蕾塔打井人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 133,
+        "EffectIds": [
+            10331
+        ],
+        "ID": 503171,
+        "Name": "爱蕾塔打井人D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的水源提高4%",
+        "SkillName": "爱蕾塔打井人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 133,
+        "EffectIds": [
+            10332
+        ],
+        "ID": 503172,
+        "Name": "爱蕾塔打井人C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的水源提高6%",
+        "SkillName": "爱蕾塔打井人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 133,
+        "EffectIds": [
+            10333
+        ],
+        "ID": 503173,
+        "Name": "爱蕾塔打井人B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的水源提高8%",
+        "SkillName": "爱蕾塔打井人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 133,
+        "EffectIds": [
+            10334
+        ],
+        "ID": 503174,
+        "Name": "爱蕾塔打井人A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的水源提高10%",
+        "SkillName": "爱蕾塔打井人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 133,
+        "EffectIds": [
+            10335
+        ],
+        "ID": 503175,
+        "Name": "爱蕾塔打井人S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的食物提高2%",
+        "SkillName": "爱蕾塔馋嘴猫D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 134,
+        "EffectIds": [
+            10341
+        ],
+        "ID": 503181,
+        "Name": "爱蕾塔馋嘴猫D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的食物提高4%",
+        "SkillName": "爱蕾塔馋嘴猫C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 134,
+        "EffectIds": [
+            10342
+        ],
+        "ID": 503182,
+        "Name": "爱蕾塔馋嘴猫C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的食物提高6%",
+        "SkillName": "爱蕾塔馋嘴猫B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 134,
+        "EffectIds": [
+            10343
+        ],
+        "ID": 503183,
+        "Name": "爱蕾塔馋嘴猫B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的食物提高8%",
+        "SkillName": "爱蕾塔馋嘴猫A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 134,
+        "EffectIds": [
+            10344
+        ],
+        "ID": 503184,
+        "Name": "爱蕾塔馋嘴猫A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的食物提高10%",
+        "SkillName": "爱蕾塔馋嘴猫S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 134,
+        "EffectIds": [
+            10345
+        ],
+        "ID": 503185,
+        "Name": "爱蕾塔馋嘴猫S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的电力提高2%",
+        "SkillName": "爱蕾塔能源商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 135,
+        "EffectIds": [
+            10351
+        ],
+        "ID": 503191,
+        "Name": "爱蕾塔能源商人D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的电力提高4%",
+        "SkillName": "爱蕾塔能源商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 135,
+        "EffectIds": [
+            10352
+        ],
+        "ID": 503192,
+        "Name": "爱蕾塔能源商人C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的电力提高6%",
+        "SkillName": "爱蕾塔能源商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 135,
+        "EffectIds": [
+            10353
+        ],
+        "ID": 503193,
+        "Name": "爱蕾塔能源商人B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的电力提高8%",
+        "SkillName": "爱蕾塔能源商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 135,
+        "EffectIds": [
+            10354
+        ],
+        "ID": 503194,
+        "Name": "爱蕾塔能源商人A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的电力提高10%",
+        "SkillName": "爱蕾塔能源商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 135,
+        "EffectIds": [
+            10355
+        ],
+        "ID": 503195,
+        "Name": "爱蕾塔能源商人S"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的基础科技核心提高2%",
+        "SkillName": "爱蕾塔科研人员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 136,
+        "EffectIds": [
+            10361
+        ],
+        "ID": 503201,
+        "Name": "爱蕾塔科研人员D"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的基础科技核心提高4%",
+        "SkillName": "爱蕾塔科研人员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 136,
+        "EffectIds": [
+            10362
+        ],
+        "ID": 503202,
+        "Name": "爱蕾塔科研人员C"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的基础科技核心提高6%",
+        "SkillName": "爱蕾塔科研人员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 136,
+        "EffectIds": [
+            10363
+        ],
+        "ID": 503203,
+        "Name": "爱蕾塔科研人员B"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的基础科技核心提高8%",
+        "SkillName": "爱蕾塔科研人员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 136,
+        "EffectIds": [
+            10364
+        ],
+        "ID": 503204,
+        "Name": "爱蕾塔科研人员A"
+    },
+    {
+        "SkillDesc": "在爱蕾塔区域中，通过远征获得的基础科技核心提高10%",
+        "SkillName": "爱蕾塔科研人员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 136,
+        "EffectIds": [
+            10365
+        ],
+        "ID": 503205,
+        "Name": "爱蕾塔科研人员S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的金币提高2%",
+        "SkillName": "海克塞尔守财奴D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 137,
+        "EffectIds": [
+            10371
+        ],
+        "ID": 503211,
+        "Name": "海克塞尔守财奴D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的金币提高4%",
+        "SkillName": "海克塞尔守财奴C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 137,
+        "EffectIds": [
+            10372
+        ],
+        "ID": 503212,
+        "Name": "海克塞尔守财奴C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的金币提高6%",
+        "SkillName": "海克塞尔守财奴B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 137,
+        "EffectIds": [
+            10373
+        ],
+        "ID": 503213,
+        "Name": "海克塞尔守财奴B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的金币提高8%",
+        "SkillName": "海克塞尔守财奴A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 137,
+        "EffectIds": [
+            10374
+        ],
+        "ID": 503214,
+        "Name": "海克塞尔守财奴A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的金币提高10%",
+        "SkillName": "海克塞尔守财奴S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 137,
+        "EffectIds": [
+            10375
+        ],
+        "ID": 503215,
+        "Name": "海克塞尔守财奴S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的晶石提高2%",
+        "SkillName": "海克塞尔首富D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 138,
+        "EffectIds": [
+            10381
+        ],
+        "ID": 503221,
+        "Name": "海克塞尔首富D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的晶石提高4%",
+        "SkillName": "海克塞尔首富C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 138,
+        "EffectIds": [
+            10382
+        ],
+        "ID": 503222,
+        "Name": "海克塞尔首富C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的晶石提高6%",
+        "SkillName": "海克塞尔首富B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 138,
+        "EffectIds": [
+            10383
+        ],
+        "ID": 503223,
+        "Name": "海克塞尔首富B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的晶石提高8%",
+        "SkillName": "海克塞尔首富A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 138,
+        "EffectIds": [
+            10384
+        ],
+        "ID": 503224,
+        "Name": "海克塞尔首富A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的晶石提高10%",
+        "SkillName": "海克塞尔首富S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 138,
+        "EffectIds": [
+            10385
+        ],
+        "ID": 503225,
+        "Name": "海克塞尔首富S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的水源提高2%",
+        "SkillName": "海克塞尔打井人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 139,
+        "EffectIds": [
+            10391
+        ],
+        "ID": 503231,
+        "Name": "海克塞尔打井人D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的水源提高4%",
+        "SkillName": "海克塞尔打井人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 139,
+        "EffectIds": [
+            10392
+        ],
+        "ID": 503232,
+        "Name": "海克塞尔打井人C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的水源提高6%",
+        "SkillName": "海克塞尔打井人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 139,
+        "EffectIds": [
+            10393
+        ],
+        "ID": 503233,
+        "Name": "海克塞尔打井人B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的水源提高8%",
+        "SkillName": "海克塞尔打井人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 139,
+        "EffectIds": [
+            10394
+        ],
+        "ID": 503234,
+        "Name": "海克塞尔打井人A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的水源提高10%",
+        "SkillName": "海克塞尔打井人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 139,
+        "EffectIds": [
+            10395
+        ],
+        "ID": 503235,
+        "Name": "海克塞尔打井人S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的食物提高2%",
+        "SkillName": "海克塞尔馋嘴猫D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 140,
+        "EffectIds": [
+            10401
+        ],
+        "ID": 503241,
+        "Name": "海克塞尔馋嘴猫D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的食物提高4%",
+        "SkillName": "海克塞尔馋嘴猫C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 140,
+        "EffectIds": [
+            10402
+        ],
+        "ID": 503242,
+        "Name": "海克塞尔馋嘴猫C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的食物提高6%",
+        "SkillName": "海克塞尔馋嘴猫B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 140,
+        "EffectIds": [
+            10403
+        ],
+        "ID": 503243,
+        "Name": "海克塞尔馋嘴猫B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的食物提高8%",
+        "SkillName": "海克塞尔馋嘴猫A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 140,
+        "EffectIds": [
+            10404
+        ],
+        "ID": 503244,
+        "Name": "海克塞尔馋嘴猫A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的食物提高10%",
+        "SkillName": "海克塞尔馋嘴猫S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 140,
+        "EffectIds": [
+            10405
+        ],
+        "ID": 503245,
+        "Name": "海克塞尔馋嘴猫S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的电力提高2%",
+        "SkillName": "海克塞尔能源商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 141,
+        "EffectIds": [
+            10411
+        ],
+        "ID": 503251,
+        "Name": "海克塞尔能源商人D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的电力提高4%",
+        "SkillName": "海克塞尔能源商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 141,
+        "EffectIds": [
+            10412
+        ],
+        "ID": 503252,
+        "Name": "海克塞尔能源商人C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的电力提高6%",
+        "SkillName": "海克塞尔能源商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 141,
+        "EffectIds": [
+            10413
+        ],
+        "ID": 503253,
+        "Name": "海克塞尔能源商人B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的电力提高8%",
+        "SkillName": "海克塞尔能源商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 141,
+        "EffectIds": [
+            10414
+        ],
+        "ID": 503254,
+        "Name": "海克塞尔能源商人A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的电力提高10%",
+        "SkillName": "海克塞尔能源商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 141,
+        "EffectIds": [
+            10415
+        ],
+        "ID": 503255,
+        "Name": "海克塞尔能源商人S"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的基础科技核心提高2%",
+        "SkillName": "海克塞尔科研人员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 142,
+        "EffectIds": [
+            10421
+        ],
+        "ID": 503261,
+        "Name": "海克塞尔科研人员D"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的基础科技核心提高4%",
+        "SkillName": "海克塞尔科研人员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 142,
+        "EffectIds": [
+            10422
+        ],
+        "ID": 503262,
+        "Name": "海克塞尔科研人员C"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的基础科技核心提高6%",
+        "SkillName": "海克塞尔科研人员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 142,
+        "EffectIds": [
+            10423
+        ],
+        "ID": 503263,
+        "Name": "海克塞尔科研人员B"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的基础科技核心提高8%",
+        "SkillName": "海克塞尔科研人员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 142,
+        "EffectIds": [
+            10424
+        ],
+        "ID": 503264,
+        "Name": "海克塞尔科研人员A"
+    },
+    {
+        "SkillDesc": "在海克赛尔区域中，通过远征获得的基础科技核心提高10%",
+        "SkillName": "海克塞尔科研人员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 142,
+        "EffectIds": [
+            10425
+        ],
+        "ID": 503265,
+        "Name": "海克塞尔科研人员S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的金币提高2%",
+        "SkillName": "克格亚守财奴D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 143,
+        "EffectIds": [
+            10431
+        ],
+        "ID": 503271,
+        "Name": "克格亚守财奴D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的金币提高4%",
+        "SkillName": "克格亚守财奴C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 143,
+        "EffectIds": [
+            10432
+        ],
+        "ID": 503272,
+        "Name": "克格亚守财奴C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的金币提高6%",
+        "SkillName": "克格亚守财奴B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 143,
+        "EffectIds": [
+            10433
+        ],
+        "ID": 503273,
+        "Name": "克格亚守财奴B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的金币提高8%",
+        "SkillName": "克格亚守财奴A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 143,
+        "EffectIds": [
+            10434
+        ],
+        "ID": 503274,
+        "Name": "克格亚守财奴A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的金币提高10%",
+        "SkillName": "克格亚守财奴S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 143,
+        "EffectIds": [
+            10435
+        ],
+        "ID": 503275,
+        "Name": "克格亚守财奴S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的晶石提高2%",
+        "SkillName": "克格亚首富D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 144,
+        "EffectIds": [
+            10441
+        ],
+        "ID": 503281,
+        "Name": "克格亚首富D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的晶石提高4%",
+        "SkillName": "克格亚首富C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 144,
+        "EffectIds": [
+            10442
+        ],
+        "ID": 503282,
+        "Name": "克格亚首富C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的晶石提高6%",
+        "SkillName": "克格亚首富B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 144,
+        "EffectIds": [
+            10443
+        ],
+        "ID": 503283,
+        "Name": "克格亚首富B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的晶石提高8%",
+        "SkillName": "克格亚首富A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 144,
+        "EffectIds": [
+            10444
+        ],
+        "ID": 503284,
+        "Name": "克格亚首富A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的晶石提高10%",
+        "SkillName": "克格亚首富S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 144,
+        "EffectIds": [
+            10445
+        ],
+        "ID": 503285,
+        "Name": "克格亚首富S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的水源提高2%",
+        "SkillName": "克格亚打井人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 145,
+        "EffectIds": [
+            10451
+        ],
+        "ID": 503291,
+        "Name": "克格亚打井人D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的水源提高4%",
+        "SkillName": "克格亚打井人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 145,
+        "EffectIds": [
+            10452
+        ],
+        "ID": 503292,
+        "Name": "克格亚打井人C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的水源提高6%",
+        "SkillName": "克格亚打井人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 145,
+        "EffectIds": [
+            10453
+        ],
+        "ID": 503293,
+        "Name": "克格亚打井人B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的水源提高8%",
+        "SkillName": "克格亚打井人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 145,
+        "EffectIds": [
+            10454
+        ],
+        "ID": 503294,
+        "Name": "克格亚打井人A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的水源提高10%",
+        "SkillName": "克格亚打井人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 145,
+        "EffectIds": [
+            10455
+        ],
+        "ID": 503295,
+        "Name": "克格亚打井人S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的食物提高2%",
+        "SkillName": "克格亚馋嘴猫D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 146,
+        "EffectIds": [
+            10461
+        ],
+        "ID": 503301,
+        "Name": "克格亚馋嘴猫D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的食物提高4%",
+        "SkillName": "克格亚馋嘴猫C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 146,
+        "EffectIds": [
+            10462
+        ],
+        "ID": 503302,
+        "Name": "克格亚馋嘴猫C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的食物提高6%",
+        "SkillName": "克格亚馋嘴猫B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 146,
+        "EffectIds": [
+            10463
+        ],
+        "ID": 503303,
+        "Name": "克格亚馋嘴猫B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的食物提高8%",
+        "SkillName": "克格亚馋嘴猫A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 146,
+        "EffectIds": [
+            10464
+        ],
+        "ID": 503304,
+        "Name": "克格亚馋嘴猫A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的食物提高10%",
+        "SkillName": "克格亚馋嘴猫S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 146,
+        "EffectIds": [
+            10465
+        ],
+        "ID": 503305,
+        "Name": "克格亚馋嘴猫S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的电力提高2%",
+        "SkillName": "克格亚能源商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 147,
+        "EffectIds": [
+            10471
+        ],
+        "ID": 503311,
+        "Name": "克格亚能源商人D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的电力提高4%",
+        "SkillName": "克格亚能源商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 147,
+        "EffectIds": [
+            10472
+        ],
+        "ID": 503312,
+        "Name": "克格亚能源商人C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的电力提高6%",
+        "SkillName": "克格亚能源商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 147,
+        "EffectIds": [
+            10473
+        ],
+        "ID": 503313,
+        "Name": "克格亚能源商人B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的电力提高8%",
+        "SkillName": "克格亚能源商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 147,
+        "EffectIds": [
+            10474
+        ],
+        "ID": 503314,
+        "Name": "克格亚能源商人A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的电力提高10%",
+        "SkillName": "克格亚能源商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 147,
+        "EffectIds": [
+            10475
+        ],
+        "ID": 503315,
+        "Name": "克格亚能源商人S"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的基础科技核心提高2%",
+        "SkillName": "克格亚科研人员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 148,
+        "EffectIds": [
+            10481
+        ],
+        "ID": 503321,
+        "Name": "克格亚科研人员D"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的基础科技核心提高4%",
+        "SkillName": "克格亚科研人员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 148,
+        "EffectIds": [
+            10482
+        ],
+        "ID": 503322,
+        "Name": "克格亚科研人员C"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的基础科技核心提高6%",
+        "SkillName": "克格亚科研人员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 148,
+        "EffectIds": [
+            10483
+        ],
+        "ID": 503323,
+        "Name": "克格亚科研人员B"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的基础科技核心提高8%",
+        "SkillName": "克格亚科研人员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 148,
+        "EffectIds": [
+            10484
+        ],
+        "ID": 503324,
+        "Name": "克格亚科研人员A"
+    },
+    {
+        "SkillDesc": "在克格亚区域中，通过远征获得的基础科技核心提高10%",
+        "SkillName": "克格亚科研人员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 148,
+        "EffectIds": [
+            10485
+        ],
+        "ID": 503325,
+        "Name": "克格亚科研人员S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的金币提高2%",
+        "SkillName": "奈布拉守财奴D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 149,
+        "EffectIds": [
+            10491
+        ],
+        "ID": 503331,
+        "Name": "奈布拉守财奴D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的金币提高4%",
+        "SkillName": "奈布拉守财奴C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 149,
+        "EffectIds": [
+            10492
+        ],
+        "ID": 503332,
+        "Name": "奈布拉守财奴C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的金币提高6%",
+        "SkillName": "奈布拉守财奴B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 149,
+        "EffectIds": [
+            10493
+        ],
+        "ID": 503333,
+        "Name": "奈布拉守财奴B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的金币提高8%",
+        "SkillName": "奈布拉守财奴A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 149,
+        "EffectIds": [
+            10494
+        ],
+        "ID": 503334,
+        "Name": "奈布拉守财奴A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的金币提高10%",
+        "SkillName": "奈布拉守财奴S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 149,
+        "EffectIds": [
+            10495
+        ],
+        "ID": 503335,
+        "Name": "奈布拉守财奴S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的晶石提高2%",
+        "SkillName": "奈布拉首富D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 150,
+        "EffectIds": [
+            10501
+        ],
+        "ID": 503341,
+        "Name": "奈布拉首富D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的晶石提高4%",
+        "SkillName": "奈布拉首富C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 150,
+        "EffectIds": [
+            10502
+        ],
+        "ID": 503342,
+        "Name": "奈布拉首富C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的晶石提高6%",
+        "SkillName": "奈布拉首富B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 150,
+        "EffectIds": [
+            10503
+        ],
+        "ID": 503343,
+        "Name": "奈布拉首富B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的晶石提高8%",
+        "SkillName": "奈布拉首富A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 150,
+        "EffectIds": [
+            10504
+        ],
+        "ID": 503344,
+        "Name": "奈布拉首富A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的晶石提高10%",
+        "SkillName": "奈布拉首富S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 150,
+        "EffectIds": [
+            10505
+        ],
+        "ID": 503345,
+        "Name": "奈布拉首富S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的水源提高2%",
+        "SkillName": "奈布拉打井人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 151,
+        "EffectIds": [
+            10511
+        ],
+        "ID": 503351,
+        "Name": "奈布拉打井人D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的水源提高4%",
+        "SkillName": "奈布拉打井人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 151,
+        "EffectIds": [
+            10512
+        ],
+        "ID": 503352,
+        "Name": "奈布拉打井人C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的水源提高6%",
+        "SkillName": "奈布拉打井人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 151,
+        "EffectIds": [
+            10513
+        ],
+        "ID": 503353,
+        "Name": "奈布拉打井人B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的水源提高8%",
+        "SkillName": "奈布拉打井人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 151,
+        "EffectIds": [
+            10514
+        ],
+        "ID": 503354,
+        "Name": "奈布拉打井人A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的水源提高10%",
+        "SkillName": "奈布拉打井人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 151,
+        "EffectIds": [
+            10515
+        ],
+        "ID": 503355,
+        "Name": "奈布拉打井人S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的食物提高2%",
+        "SkillName": "奈布拉馋嘴猫D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 152,
+        "EffectIds": [
+            10521
+        ],
+        "ID": 503361,
+        "Name": "奈布拉馋嘴猫D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的食物提高4%",
+        "SkillName": "奈布拉馋嘴猫C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 152,
+        "EffectIds": [
+            10522
+        ],
+        "ID": 503362,
+        "Name": "奈布拉馋嘴猫C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的食物提高6%",
+        "SkillName": "奈布拉馋嘴猫B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 152,
+        "EffectIds": [
+            10523
+        ],
+        "ID": 503363,
+        "Name": "奈布拉馋嘴猫B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的食物提高8%",
+        "SkillName": "奈布拉馋嘴猫A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 152,
+        "EffectIds": [
+            10524
+        ],
+        "ID": 503364,
+        "Name": "奈布拉馋嘴猫A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的食物提高10%",
+        "SkillName": "奈布拉馋嘴猫S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 152,
+        "EffectIds": [
+            10525
+        ],
+        "ID": 503365,
+        "Name": "奈布拉馋嘴猫S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的电力提高2%",
+        "SkillName": "奈布拉能源商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 153,
+        "EffectIds": [
+            10531
+        ],
+        "ID": 503371,
+        "Name": "奈布拉能源商人D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的电力提高4%",
+        "SkillName": "奈布拉能源商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 153,
+        "EffectIds": [
+            10532
+        ],
+        "ID": 503372,
+        "Name": "奈布拉能源商人C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的电力提高6%",
+        "SkillName": "奈布拉能源商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 153,
+        "EffectIds": [
+            10533
+        ],
+        "ID": 503373,
+        "Name": "奈布拉能源商人B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的电力提高8%",
+        "SkillName": "奈布拉能源商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 153,
+        "EffectIds": [
+            10534
+        ],
+        "ID": 503374,
+        "Name": "奈布拉能源商人A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的电力提高10%",
+        "SkillName": "奈布拉能源商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 153,
+        "EffectIds": [
+            10535
+        ],
+        "ID": 503375,
+        "Name": "奈布拉能源商人S"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的基础科技核心提高2%",
+        "SkillName": "奈布拉科研人员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 154,
+        "EffectIds": [
+            10541
+        ],
+        "ID": 503381,
+        "Name": "奈布拉科研人员D"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的基础科技核心提高4%",
+        "SkillName": "奈布拉科研人员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 154,
+        "EffectIds": [
+            10542
+        ],
+        "ID": 503382,
+        "Name": "奈布拉科研人员C"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的基础科技核心提高6%",
+        "SkillName": "奈布拉科研人员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 154,
+        "EffectIds": [
+            10543
+        ],
+        "ID": 503383,
+        "Name": "奈布拉科研人员B"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的基础科技核心提高8%",
+        "SkillName": "奈布拉科研人员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 154,
+        "EffectIds": [
+            10544
+        ],
+        "ID": 503384,
+        "Name": "奈布拉科研人员A"
+    },
+    {
+        "SkillDesc": "在奈布拉区域中，通过远征获得的基础科技核心提高10%",
+        "SkillName": "奈布拉科研人员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 154,
+        "EffectIds": [
+            10545
+        ],
+        "ID": 503385,
+        "Name": "奈布拉科研人员S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的金币提高2%",
+        "SkillName": "搜索掘金者D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 155,
+        "EffectIds": [
+            10551
+        ],
+        "ID": 503391,
+        "Name": "搜索掘金者D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的金币提高4%",
+        "SkillName": "搜索掘金者C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 155,
+        "EffectIds": [
+            10552
+        ],
+        "ID": 503392,
+        "Name": "搜索掘金者C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的金币提高6%",
+        "SkillName": "搜索掘金者B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 155,
+        "EffectIds": [
+            10553
+        ],
+        "ID": 503393,
+        "Name": "搜索掘金者B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的金币提高8%",
+        "SkillName": "搜索掘金者A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 155,
+        "EffectIds": [
+            10554
+        ],
+        "ID": 503394,
+        "Name": "搜索掘金者A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的金币提高10%",
+        "SkillName": "搜索掘金者S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 155,
+        "EffectIds": [
+            10555
+        ],
+        "ID": 503395,
+        "Name": "搜索掘金者S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的晶石提高2%",
+        "SkillName": "搜索秘境探宝D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 156,
+        "EffectIds": [
+            10561
+        ],
+        "ID": 503401,
+        "Name": "搜索秘境探宝D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的晶石提高4%",
+        "SkillName": "搜索秘境探宝C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 156,
+        "EffectIds": [
+            10562
+        ],
+        "ID": 503402,
+        "Name": "搜索秘境探宝C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的晶石提高6%",
+        "SkillName": "搜索秘境探宝B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 156,
+        "EffectIds": [
+            10563
+        ],
+        "ID": 503403,
+        "Name": "搜索秘境探宝B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的晶石提高8%",
+        "SkillName": "搜索秘境探宝A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 156,
+        "EffectIds": [
+            10564
+        ],
+        "ID": 503404,
+        "Name": "搜索秘境探宝A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的晶石提高10%",
+        "SkillName": "搜索秘境探宝S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 156,
+        "EffectIds": [
+            10565
+        ],
+        "ID": 503405,
+        "Name": "搜索秘境探宝S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的水源提高2%",
+        "SkillName": "搜索航海者D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 157,
+        "EffectIds": [
+            10571
+        ],
+        "ID": 503411,
+        "Name": "搜索航海者D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的水源提高4%",
+        "SkillName": "搜索航海者C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 157,
+        "EffectIds": [
+            10572
+        ],
+        "ID": 503412,
+        "Name": "搜索航海者C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的水源提高6%",
+        "SkillName": "搜索航海者B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 157,
+        "EffectIds": [
+            10573
+        ],
+        "ID": 503413,
+        "Name": "搜索航海者B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的水源提高8%",
+        "SkillName": "搜索航海者A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 157,
+        "EffectIds": [
+            10574
+        ],
+        "ID": 503414,
+        "Name": "搜索航海者A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的水源提高10%",
+        "SkillName": "搜索航海者S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 157,
+        "EffectIds": [
+            10575
+        ],
+        "ID": 503415,
+        "Name": "搜索航海者S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高2%",
+        "SkillName": "搜索大胃王D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 158,
+        "EffectIds": [
+            10581
+        ],
+        "ID": 503421,
+        "Name": "搜索大胃王D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高4%",
+        "SkillName": "搜索大胃王C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 158,
+        "EffectIds": [
+            10582
+        ],
+        "ID": 503422,
+        "Name": "搜索大胃王C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高6%",
+        "SkillName": "搜索大胃王B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 158,
+        "EffectIds": [
+            10583
+        ],
+        "ID": 503423,
+        "Name": "搜索大胃王B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高8%",
+        "SkillName": "搜索大胃王A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 158,
+        "EffectIds": [
+            10584
+        ],
+        "ID": 503424,
+        "Name": "搜索大胃王A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高10%",
+        "SkillName": "搜索大胃王S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 158,
+        "EffectIds": [
+            10585
+        ],
+        "ID": 503425,
+        "Name": "搜索大胃王S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的电力提高2%",
+        "SkillName": "搜索探宝人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 159,
+        "EffectIds": [
+            10591
+        ],
+        "ID": 503431,
+        "Name": "搜索探宝人D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的电力提高4%",
+        "SkillName": "搜索探宝人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 159,
+        "EffectIds": [
+            10592
+        ],
+        "ID": 503432,
+        "Name": "搜索探宝人C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的电力提高6%",
+        "SkillName": "搜索探宝人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 159,
+        "EffectIds": [
+            10593
+        ],
+        "ID": 503433,
+        "Name": "搜索探宝人B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的电力提高8%",
+        "SkillName": "搜索探宝人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 159,
+        "EffectIds": [
+            10594
+        ],
+        "ID": 503434,
+        "Name": "搜索探宝人A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的电力提高10%",
+        "SkillName": "搜索探宝人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 159,
+        "EffectIds": [
+            10595
+        ],
+        "ID": 503435,
+        "Name": "搜索探宝人S"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的基础科技核心提高2%",
+        "SkillName": "搜索人造人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 160,
+        "EffectIds": [
+            10601
+        ],
+        "ID": 503441,
+        "Name": "搜索人造人D"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的基础科技核心提高4%",
+        "SkillName": "搜索人造人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 160,
+        "EffectIds": [
+            10602
+        ],
+        "ID": 503442,
+        "Name": "搜索人造人C"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的基础科技核心提高6%",
+        "SkillName": "搜索人造人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 160,
+        "EffectIds": [
+            10603
+        ],
+        "ID": 503443,
+        "Name": "搜索人造人B"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的基础科技核心提高8%",
+        "SkillName": "搜索人造人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 160,
+        "EffectIds": [
+            10604
+        ],
+        "ID": 503444,
+        "Name": "搜索人造人A"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的基础科技核心提高10%",
+        "SkillName": "搜索人造人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 160,
+        "EffectIds": [
+            10605
+        ],
+        "ID": 503445,
+        "Name": "搜索人造人S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高2%",
+        "SkillName": "调查掘金者D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 161,
+        "EffectIds": [
+            10611
+        ],
+        "ID": 503451,
+        "Name": "调查掘金者D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高4%",
+        "SkillName": "调查掘金者C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 161,
+        "EffectIds": [
+            10612
+        ],
+        "ID": 503452,
+        "Name": "调查掘金者C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高6%",
+        "SkillName": "调查掘金者B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 161,
+        "EffectIds": [
+            10613
+        ],
+        "ID": 503453,
+        "Name": "调查掘金者B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高8%",
+        "SkillName": "调查掘金者A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 161,
+        "EffectIds": [
+            10614
+        ],
+        "ID": 503454,
+        "Name": "调查掘金者A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高10%",
+        "SkillName": "调查掘金者S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 161,
+        "EffectIds": [
+            10615
+        ],
+        "ID": 503455,
+        "Name": "调查掘金者S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的晶石提高2%",
+        "SkillName": "调查秘境探宝D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 162,
+        "EffectIds": [
+            10621
+        ],
+        "ID": 503461,
+        "Name": "调查秘境探宝D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的晶石提高4%",
+        "SkillName": "调查秘境探宝C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 162,
+        "EffectIds": [
+            10622
+        ],
+        "ID": 503462,
+        "Name": "调查秘境探宝C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的晶石提高6%",
+        "SkillName": "调查秘境探宝B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 162,
+        "EffectIds": [
+            10623
+        ],
+        "ID": 503463,
+        "Name": "调查秘境探宝B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的晶石提高8%",
+        "SkillName": "调查秘境探宝A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 162,
+        "EffectIds": [
+            10624
+        ],
+        "ID": 503464,
+        "Name": "调查秘境探宝A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的晶石提高10%",
+        "SkillName": "调查秘境探宝S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 162,
+        "EffectIds": [
+            10625
+        ],
+        "ID": 503465,
+        "Name": "调查秘境探宝S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的水源提高2%",
+        "SkillName": "调查航海者D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 163,
+        "EffectIds": [
+            10631
+        ],
+        "ID": 503471,
+        "Name": "调查航海者D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的水源提高4%",
+        "SkillName": "调查航海者C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 163,
+        "EffectIds": [
+            10632
+        ],
+        "ID": 503472,
+        "Name": "调查航海者C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的水源提高6%",
+        "SkillName": "调查航海者B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 163,
+        "EffectIds": [
+            10633
+        ],
+        "ID": 503473,
+        "Name": "调查航海者B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的水源提高8%",
+        "SkillName": "调查航海者A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 163,
+        "EffectIds": [
+            10634
+        ],
+        "ID": 503474,
+        "Name": "调查航海者A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的水源提高10%",
+        "SkillName": "调查航海者S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 163,
+        "EffectIds": [
+            10635
+        ],
+        "ID": 503475,
+        "Name": "调查航海者S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的食物提高2%",
+        "SkillName": "调查大胃王D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 164,
+        "EffectIds": [
+            10641
+        ],
+        "ID": 503481,
+        "Name": "调查大胃王D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的食物提高4%",
+        "SkillName": "调查大胃王C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 164,
+        "EffectIds": [
+            10642
+        ],
+        "ID": 503482,
+        "Name": "调查大胃王C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的食物提高6%",
+        "SkillName": "调查大胃王B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 164,
+        "EffectIds": [
+            10643
+        ],
+        "ID": 503483,
+        "Name": "调查大胃王B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的食物提高8%",
+        "SkillName": "调查大胃王A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 164,
+        "EffectIds": [
+            10644
+        ],
+        "ID": 503484,
+        "Name": "调查大胃王A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的食物提高10%",
+        "SkillName": "调查大胃王S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 164,
+        "EffectIds": [
+            10645
+        ],
+        "ID": 503485,
+        "Name": "调查大胃王S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的电力提高2%",
+        "SkillName": "调查探宝人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 165,
+        "EffectIds": [
+            10651
+        ],
+        "ID": 503491,
+        "Name": "调查探宝人D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的电力提高4%",
+        "SkillName": "调查探宝人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 165,
+        "EffectIds": [
+            10652
+        ],
+        "ID": 503492,
+        "Name": "调查探宝人C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的电力提高6%",
+        "SkillName": "调查探宝人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 165,
+        "EffectIds": [
+            10653
+        ],
+        "ID": 503493,
+        "Name": "调查探宝人B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的电力提高8%",
+        "SkillName": "调查探宝人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 165,
+        "EffectIds": [
+            10654
+        ],
+        "ID": 503494,
+        "Name": "调查探宝人A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的电力提高10%",
+        "SkillName": "调查探宝人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 165,
+        "EffectIds": [
+            10655
+        ],
+        "ID": 503495,
+        "Name": "调查探宝人S"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的基础科技核心提高2%",
+        "SkillName": "调查人造人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 166,
+        "EffectIds": [
+            10661
+        ],
+        "ID": 503501,
+        "Name": "调查人造人D"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的基础科技核心提高4%",
+        "SkillName": "调查人造人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 166,
+        "EffectIds": [
+            10662
+        ],
+        "ID": 503502,
+        "Name": "调查人造人C"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的基础科技核心提高6%",
+        "SkillName": "调查人造人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 166,
+        "EffectIds": [
+            10663
+        ],
+        "ID": 503503,
+        "Name": "调查人造人B"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的基础科技核心提高8%",
+        "SkillName": "调查人造人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 166,
+        "EffectIds": [
+            10664
+        ],
+        "ID": 503504,
+        "Name": "调查人造人A"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的基础科技核心提高10%",
+        "SkillName": "调查人造人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 166,
+        "EffectIds": [
+            10665
+        ],
+        "ID": 503505,
+        "Name": "调查人造人S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高2%",
+        "SkillName": "收集掘金者D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 167,
+        "EffectIds": [
+            10671
+        ],
+        "ID": 503511,
+        "Name": "收集掘金者D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高4%",
+        "SkillName": "收集掘金者C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 167,
+        "EffectIds": [
+            10672
+        ],
+        "ID": 503512,
+        "Name": "收集掘金者C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高6%",
+        "SkillName": "收集掘金者B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 167,
+        "EffectIds": [
+            10673
+        ],
+        "ID": 503513,
+        "Name": "收集掘金者B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高8%",
+        "SkillName": "收集掘金者A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 167,
+        "EffectIds": [
+            10674
+        ],
+        "ID": 503514,
+        "Name": "收集掘金者A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高10%",
+        "SkillName": "收集掘金者S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 167,
+        "EffectIds": [
+            10675
+        ],
+        "ID": 503515,
+        "Name": "收集掘金者S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的晶石提高2%",
+        "SkillName": "收集秘境探宝D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 168,
+        "EffectIds": [
+            10681
+        ],
+        "ID": 503521,
+        "Name": "收集秘境探宝D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的晶石提高4%",
+        "SkillName": "收集秘境探宝C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 168,
+        "EffectIds": [
+            10682
+        ],
+        "ID": 503522,
+        "Name": "收集秘境探宝C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的晶石提高6%",
+        "SkillName": "收集秘境探宝B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 168,
+        "EffectIds": [
+            10683
+        ],
+        "ID": 503523,
+        "Name": "收集秘境探宝B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的晶石提高8%",
+        "SkillName": "收集秘境探宝A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 168,
+        "EffectIds": [
+            10684
+        ],
+        "ID": 503524,
+        "Name": "收集秘境探宝A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的晶石提高10%",
+        "SkillName": "收集秘境探宝S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 168,
+        "EffectIds": [
+            10685
+        ],
+        "ID": 503525,
+        "Name": "收集秘境探宝S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的水源提高2%",
+        "SkillName": "收集航海者D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 169,
+        "EffectIds": [
+            10691
+        ],
+        "ID": 503531,
+        "Name": "收集航海者D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的水源提高4%",
+        "SkillName": "收集航海者C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 169,
+        "EffectIds": [
+            10692
+        ],
+        "ID": 503532,
+        "Name": "收集航海者C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的水源提高6%",
+        "SkillName": "收集航海者B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 169,
+        "EffectIds": [
+            10693
+        ],
+        "ID": 503533,
+        "Name": "收集航海者B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的水源提高8%",
+        "SkillName": "收集航海者A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 169,
+        "EffectIds": [
+            10694
+        ],
+        "ID": 503534,
+        "Name": "收集航海者A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的水源提高10%",
+        "SkillName": "收集航海者S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 169,
+        "EffectIds": [
+            10695
+        ],
+        "ID": 503535,
+        "Name": "收集航海者S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的食物提高2%",
+        "SkillName": "收集大胃王D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 170,
+        "EffectIds": [
+            10701
+        ],
+        "ID": 503541,
+        "Name": "收集大胃王D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的食物提高4%",
+        "SkillName": "收集大胃王C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 170,
+        "EffectIds": [
+            10702
+        ],
+        "ID": 503542,
+        "Name": "收集大胃王C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的食物提高6%",
+        "SkillName": "收集大胃王B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 170,
+        "EffectIds": [
+            10703
+        ],
+        "ID": 503543,
+        "Name": "收集大胃王B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的食物提高8%",
+        "SkillName": "收集大胃王A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 170,
+        "EffectIds": [
+            10704
+        ],
+        "ID": 503544,
+        "Name": "收集大胃王A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的食物提高10%",
+        "SkillName": "收集大胃王S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 170,
+        "EffectIds": [
+            10705
+        ],
+        "ID": 503545,
+        "Name": "收集大胃王S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的电力提高2%",
+        "SkillName": "收集探宝人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 171,
+        "EffectIds": [
+            10711
+        ],
+        "ID": 503551,
+        "Name": "收集探宝人D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的电力提高4%",
+        "SkillName": "收集探宝人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 171,
+        "EffectIds": [
+            10712
+        ],
+        "ID": 503552,
+        "Name": "收集探宝人C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的电力提高6%",
+        "SkillName": "收集探宝人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 171,
+        "EffectIds": [
+            10713
+        ],
+        "ID": 503553,
+        "Name": "收集探宝人B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的电力提高8%",
+        "SkillName": "收集探宝人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 171,
+        "EffectIds": [
+            10714
+        ],
+        "ID": 503554,
+        "Name": "收集探宝人A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的电力提高10%",
+        "SkillName": "收集探宝人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 171,
+        "EffectIds": [
+            10715
+        ],
+        "ID": 503555,
+        "Name": "收集探宝人S"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的基础科技核心提高2%",
+        "SkillName": "收集人造人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 172,
+        "EffectIds": [
+            10721
+        ],
+        "ID": 503561,
+        "Name": "收集人造人D"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的基础科技核心提高4%",
+        "SkillName": "收集人造人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 172,
+        "EffectIds": [
+            10722
+        ],
+        "ID": 503562,
+        "Name": "收集人造人C"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的基础科技核心提高6%",
+        "SkillName": "收集人造人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 172,
+        "EffectIds": [
+            10723
+        ],
+        "ID": 503563,
+        "Name": "收集人造人B"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的基础科技核心提高8%",
+        "SkillName": "收集人造人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 172,
+        "EffectIds": [
+            10724
+        ],
+        "ID": 503564,
+        "Name": "收集人造人A"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的基础科技核心提高10%",
+        "SkillName": "收集人造人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 172,
+        "EffectIds": [
+            10725
+        ],
+        "ID": 503565,
+        "Name": "收集人造人S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高2%",
+        "SkillName": "战斗掘金者D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 173,
+        "EffectIds": [
+            10731
+        ],
+        "ID": 503571,
+        "Name": "战斗掘金者D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高4%",
+        "SkillName": "战斗掘金者C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 173,
+        "EffectIds": [
+            10732
+        ],
+        "ID": 503572,
+        "Name": "战斗掘金者C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高6%",
+        "SkillName": "战斗掘金者B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 173,
+        "EffectIds": [
+            10733
+        ],
+        "ID": 503573,
+        "Name": "战斗掘金者B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高8%",
+        "SkillName": "战斗掘金者A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 173,
+        "EffectIds": [
+            10734
+        ],
+        "ID": 503574,
+        "Name": "战斗掘金者A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高10%",
+        "SkillName": "战斗掘金者S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 173,
+        "EffectIds": [
+            10735
+        ],
+        "ID": 503575,
+        "Name": "战斗掘金者S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的晶石提高2%",
+        "SkillName": "战斗秘境探宝D",
+        "SkillIcon": "71000022",
+        "SkillLevel": 1,
+        "SkillGroup": 174,
+        "EffectIds": [
+            10741
+        ],
+        "ID": 503581,
+        "Name": "战斗秘境探宝D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的晶石提高4%",
+        "SkillName": "战斗秘境探宝C",
+        "SkillIcon": "71000022",
+        "SkillLevel": 2,
+        "SkillGroup": 174,
+        "EffectIds": [
+            10742
+        ],
+        "ID": 503582,
+        "Name": "战斗秘境探宝C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的晶石提高6%",
+        "SkillName": "战斗秘境探宝B",
+        "SkillIcon": "71000022",
+        "SkillLevel": 3,
+        "SkillGroup": 174,
+        "EffectIds": [
+            10743
+        ],
+        "ID": 503583,
+        "Name": "战斗秘境探宝B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的晶石提高8%",
+        "SkillName": "战斗秘境探宝A",
+        "SkillIcon": "71000022",
+        "SkillLevel": 4,
+        "SkillGroup": 174,
+        "EffectIds": [
+            10744
+        ],
+        "ID": 503584,
+        "Name": "战斗秘境探宝A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的晶石提高10%",
+        "SkillName": "战斗秘境探宝S",
+        "SkillIcon": "71000022",
+        "SkillLevel": 5,
+        "SkillGroup": 174,
+        "EffectIds": [
+            10745
+        ],
+        "ID": 503585,
+        "Name": "战斗秘境探宝S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的水源提高2%",
+        "SkillName": "战斗航海者D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 175,
+        "EffectIds": [
+            10751
+        ],
+        "ID": 503591,
+        "Name": "战斗航海者D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的水源提高4%",
+        "SkillName": "战斗航海者C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 175,
+        "EffectIds": [
+            10752
+        ],
+        "ID": 503592,
+        "Name": "战斗航海者C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的水源提高6%",
+        "SkillName": "战斗航海者B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 175,
+        "EffectIds": [
+            10753
+        ],
+        "ID": 503593,
+        "Name": "战斗航海者B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的水源提高8%",
+        "SkillName": "战斗航海者A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 175,
+        "EffectIds": [
+            10754
+        ],
+        "ID": 503594,
+        "Name": "战斗航海者A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的水源提高10%",
+        "SkillName": "战斗航海者S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 175,
+        "EffectIds": [
+            10755
+        ],
+        "ID": 503595,
+        "Name": "战斗航海者S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的食物提高2%",
+        "SkillName": "战斗大胃王D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 176,
+        "EffectIds": [
+            10761
+        ],
+        "ID": 503601,
+        "Name": "战斗大胃王D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的食物提高4%",
+        "SkillName": "战斗大胃王C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 176,
+        "EffectIds": [
+            10762
+        ],
+        "ID": 503602,
+        "Name": "战斗大胃王C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的食物提高6%",
+        "SkillName": "战斗大胃王B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 176,
+        "EffectIds": [
+            10763
+        ],
+        "ID": 503603,
+        "Name": "战斗大胃王B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的食物提高8%",
+        "SkillName": "战斗大胃王A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 176,
+        "EffectIds": [
+            10764
+        ],
+        "ID": 503604,
+        "Name": "战斗大胃王A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的食物提高10%",
+        "SkillName": "战斗大胃王S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 176,
+        "EffectIds": [
+            10765
+        ],
+        "ID": 503605,
+        "Name": "战斗大胃王S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的电力提高2%",
+        "SkillName": "战斗探宝人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 177,
+        "EffectIds": [
+            10771
+        ],
+        "ID": 503611,
+        "Name": "战斗探宝人D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的电力提高4%",
+        "SkillName": "战斗探宝人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 177,
+        "EffectIds": [
+            10772
+        ],
+        "ID": 503612,
+        "Name": "战斗探宝人C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的电力提高6%",
+        "SkillName": "战斗探宝人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 177,
+        "EffectIds": [
+            10773
+        ],
+        "ID": 503613,
+        "Name": "战斗探宝人B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的电力提高8%",
+        "SkillName": "战斗探宝人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 177,
+        "EffectIds": [
+            10774
+        ],
+        "ID": 503614,
+        "Name": "战斗探宝人A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的电力提高10%",
+        "SkillName": "战斗探宝人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 177,
+        "EffectIds": [
+            10775
+        ],
+        "ID": 503615,
+        "Name": "战斗探宝人S"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的基础科技核心提高2%",
+        "SkillName": "战斗人造人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 178,
+        "EffectIds": [
+            10781
+        ],
+        "ID": 503621,
+        "Name": "战斗人造人D"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的基础科技核心提高4%",
+        "SkillName": "战斗人造人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 178,
+        "EffectIds": [
+            10782
+        ],
+        "ID": 503622,
+        "Name": "战斗人造人C"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的基础科技核心提高6%",
+        "SkillName": "战斗人造人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 178,
+        "EffectIds": [
+            10783
+        ],
+        "ID": 503623,
+        "Name": "战斗人造人B"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的基础科技核心提高8%",
+        "SkillName": "战斗人造人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 178,
+        "EffectIds": [
+            10784
+        ],
+        "ID": 503624,
+        "Name": "战斗人造人A"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的基础科技核心提高10%",
+        "SkillName": "战斗人造人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 178,
+        "EffectIds": [
+            10785
+        ],
+        "ID": 503625,
+        "Name": "战斗人造人S"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少2%",
+        "SkillName": "书虫D",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": 179,
+        "EffectIds": [
+            10991
+        ],
+        "ID": 401011,
+        "Name": "书虫D"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少4%",
+        "SkillName": "书虫C",
+        "SkillIcon": "85000121",
+        "SkillLevel": 2,
+        "SkillGroup": 179,
+        "EffectIds": [
+            10992
+        ],
+        "ID": 401012,
+        "Name": "书虫C"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少6%",
+        "SkillName": "书虫B",
+        "SkillIcon": "85000121",
+        "SkillLevel": 3,
+        "SkillGroup": 179,
+        "EffectIds": [
+            10993
+        ],
+        "ID": 401013,
+        "Name": "书虫B"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少8%",
+        "SkillName": "书虫A",
+        "SkillIcon": "85000121",
+        "SkillLevel": 4,
+        "SkillGroup": 179,
+        "EffectIds": [
+            10994
+        ],
+        "ID": 401014,
+        "Name": "书虫A"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少10%",
+        "SkillName": "书虫S",
+        "SkillIcon": "85000121",
+        "SkillLevel": 5,
+        "SkillGroup": 179,
+        "EffectIds": [
+            10995
+        ],
+        "ID": 401015,
+        "Name": "书虫S"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少2%",
+        "SkillName": "阅读天赋D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 180,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 401021,
+        "Name": "阅读天赋D"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少4%",
+        "SkillName": "阅读天赋C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 180,
+        "EffectIds": [
+            11002
+        ],
+        "ID": 401022,
+        "Name": "阅读天赋C"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少6%",
+        "SkillName": "阅读天赋B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 180,
+        "EffectIds": [
+            11003
+        ],
+        "ID": 401023,
+        "Name": "阅读天赋B"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少8%",
+        "SkillName": "阅读天赋A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 180,
+        "EffectIds": [
+            11004
+        ],
+        "ID": 401024,
+        "Name": "阅读天赋A"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少10%",
+        "SkillName": "阅读天赋S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 180,
+        "EffectIds": [
+            11005
+        ],
+        "ID": 401025,
+        "Name": "阅读天赋S"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高5%",
+        "SkillName": "科技情报员D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 181,
+        "EffectIds": [
+            11111
+        ],
+        "ID": 401031,
+        "Name": "科技情报员D"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高10%",
+        "SkillName": "科技情报员C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 181,
+        "EffectIds": [
+            11112
+        ],
+        "ID": 401032,
+        "Name": "科技情报员C"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高15%",
+        "SkillName": "科技情报员B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 181,
+        "EffectIds": [
+            11113
+        ],
+        "ID": 401033,
+        "Name": "科技情报员B"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高20%",
+        "SkillName": "科技情报员A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 181,
+        "EffectIds": [
+            11114
+        ],
+        "ID": 401034,
+        "Name": "科技情报员A"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高25%",
+        "SkillName": "科技情报员S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 181,
+        "EffectIds": [
+            11115
+        ],
+        "ID": 401035,
+        "Name": "科技情报员S"
+    },
+    {
+        "SkillDesc": "情报室内，获得的水资源量提高2%",
+        "SkillName": "经济学家D",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": 182,
+        "EffectIds": [
+            11121
+        ],
+        "ID": 401041,
+        "Name": "经济学家D"
+    },
+    {
+        "SkillDesc": "情报室内，获得的水资源量提高4%",
+        "SkillName": "经济学家C",
+        "SkillIcon": "85000118",
+        "SkillLevel": 2,
+        "SkillGroup": 182,
+        "EffectIds": [
+            11122
+        ],
+        "ID": 401042,
+        "Name": "经济学家C"
+    },
+    {
+        "SkillDesc": "情报室内，获得的水资源量提高6%",
+        "SkillName": "经济学家B",
+        "SkillIcon": "85000118",
+        "SkillLevel": 3,
+        "SkillGroup": 182,
+        "EffectIds": [
+            11123
+        ],
+        "ID": 401043,
+        "Name": "经济学家B"
+    },
+    {
+        "SkillDesc": "情报室内，获得的水资源量提高8%",
+        "SkillName": "经济学家A",
+        "SkillIcon": "85000118",
+        "SkillLevel": 4,
+        "SkillGroup": 182,
+        "EffectIds": [
+            11124
+        ],
+        "ID": 401044,
+        "Name": "经济学家A"
+    },
+    {
+        "SkillDesc": "情报室内，获得的水资源量提高10%",
+        "SkillName": "经济学家S",
+        "SkillIcon": "85000118",
+        "SkillLevel": 5,
+        "SkillGroup": 182,
+        "EffectIds": [
+            11125
+        ],
+        "ID": 401045,
+        "Name": "经济学家S"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少2%",
+        "SkillName": "巧手D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 183,
+        "EffectIds": [
+            10951
+        ],
+        "ID": 402011,
+        "Name": "巧手D"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少4%",
+        "SkillName": "巧手C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 183,
+        "EffectIds": [
+            10952
+        ],
+        "ID": 402012,
+        "Name": "巧手C"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少6%",
+        "SkillName": "巧手B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 183,
+        "EffectIds": [
+            10953
+        ],
+        "ID": 402013,
+        "Name": "巧手B"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少8%",
+        "SkillName": "巧手A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 183,
+        "EffectIds": [
+            10954
+        ],
+        "ID": 402014,
+        "Name": "巧手A"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少10%",
+        "SkillName": "巧手S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 183,
+        "EffectIds": [
+            10955
+        ],
+        "ID": 402015,
+        "Name": "巧手S"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少2%",
+        "SkillName": "建筑工D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 184,
+        "EffectIds": [
+            10961
+        ],
+        "ID": 402021,
+        "Name": "建筑工D"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少4%",
+        "SkillName": "建筑工C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 184,
+        "EffectIds": [
+            10962
+        ],
+        "ID": 402022,
+        "Name": "建筑工C"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少6%",
+        "SkillName": "建筑工B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 184,
+        "EffectIds": [
+            10963
+        ],
+        "ID": 402023,
+        "Name": "建筑工B"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少8%",
+        "SkillName": "建筑工A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 184,
+        "EffectIds": [
+            10964
+        ],
+        "ID": 402024,
+        "Name": "建筑工A"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少10%",
+        "SkillName": "建筑工S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 184,
+        "EffectIds": [
+            10965
+        ],
+        "ID": 402025,
+        "Name": "建筑工S"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少2%",
+        "SkillName": "金币收藏家D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 185,
+        "EffectIds": [
+            10971
+        ],
+        "ID": 402031,
+        "Name": "金币收藏家D"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少4%",
+        "SkillName": "金币收藏家C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 185,
+        "EffectIds": [
+            10972
+        ],
+        "ID": 402032,
+        "Name": "金币收藏家C"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少6%",
+        "SkillName": "金币收藏家B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 185,
+        "EffectIds": [
+            10973
+        ],
+        "ID": 402033,
+        "Name": "金币收藏家B"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少8%",
+        "SkillName": "金币收藏家A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 185,
+        "EffectIds": [
+            10974
+        ],
+        "ID": 402034,
+        "Name": "金币收藏家A"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少10%",
+        "SkillName": "金币收藏家S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 185,
+        "EffectIds": [
+            10975
+        ],
+        "ID": 402035,
+        "Name": "金币收藏家S"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "心灵手巧D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 186,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 402041,
+        "Name": "心灵手巧D"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少4%",
+        "SkillName": "心灵手巧C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 186,
+        "EffectIds": [
+            10982
+        ],
+        "ID": 402042,
+        "Name": "心灵手巧C"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少6%",
+        "SkillName": "心灵手巧B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 186,
+        "EffectIds": [
+            10983
+        ],
+        "ID": 402043,
+        "Name": "心灵手巧B"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少8%",
+        "SkillName": "心灵手巧A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 186,
+        "EffectIds": [
+            10984
+        ],
+        "ID": 402044,
+        "Name": "心灵手巧A"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少10%",
+        "SkillName": "心灵手巧S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 186,
+        "EffectIds": [
+            10985
+        ],
+        "ID": 402045,
+        "Name": "心灵手巧S"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高2%",
+        "SkillName": "幸运星D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 187,
+        "EffectIds": [
+            10791
+        ],
+        "ID": 403011,
+        "Name": "幸运星D"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高4%",
+        "SkillName": "幸运星C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 187,
+        "EffectIds": [
+            10792
+        ],
+        "ID": 403012,
+        "Name": "幸运星C"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高6%",
+        "SkillName": "幸运星B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 187,
+        "EffectIds": [
+            10793
+        ],
+        "ID": 403013,
+        "Name": "幸运星B"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高8%",
+        "SkillName": "幸运星A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 187,
+        "EffectIds": [
+            10794
+        ],
+        "ID": 403014,
+        "Name": "幸运星A"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高10%",
+        "SkillName": "幸运星S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 187,
+        "EffectIds": [
+            10795
+        ],
+        "ID": 403015,
+        "Name": "幸运星S"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻时，金币获得量提高百分比2%",
+        "SkillName": "黄金挖掘者D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 85000118,
+        "SkillGroup": 188,
+        "EffectIds": [
+            10801
+        ],
+        "ID": 403021,
+        "Name": "黄金挖掘者D"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻时，金币获得量提高百分比4%",
+        "SkillName": "黄金挖掘者C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 85000118,
+        "SkillGroup": 188,
+        "EffectIds": [
+            10802
+        ],
+        "ID": 403022,
+        "Name": "黄金挖掘者C"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻时，金币获得量提高百分比6%",
+        "SkillName": "黄金挖掘者B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 85000118,
+        "SkillGroup": 188,
+        "EffectIds": [
+            10803
+        ],
+        "ID": 403023,
+        "Name": "黄金挖掘者B"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻时，金币获得量提高百分比8%",
+        "SkillName": "黄金挖掘者A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 85000118,
+        "SkillGroup": 188,
+        "EffectIds": [
+            10804
+        ],
+        "ID": 403024,
+        "Name": "黄金挖掘者A"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻时，金币获得量提高百分比10%",
+        "SkillName": "黄金挖掘者S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 85000118,
+        "SkillGroup": 188,
+        "EffectIds": [
+            10805
+        ],
+        "ID": 403025,
+        "Name": "黄金挖掘者S"
+    },
+    {
+        "SkillDesc": "通过回收室回收钻石时，获得量提高百分比2%",
+        "SkillName": "亮晶晶D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 189,
+        "EffectIds": [
+            10811
+        ],
+        "ID": 403031,
+        "Name": "亮晶晶D"
+    },
+    {
+        "SkillDesc": "通过回收室回收钻石时，获得量提高百分比4%",
+        "SkillName": "亮晶晶C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 189,
+        "EffectIds": [
+            10812
+        ],
+        "ID": 403032,
+        "Name": "亮晶晶C"
+    },
+    {
+        "SkillDesc": "通过回收室回收钻石时，获得量提高百分比6%",
+        "SkillName": "亮晶晶B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 189,
+        "EffectIds": [
+            10813
+        ],
+        "ID": 403033,
+        "Name": "亮晶晶B"
+    },
+    {
+        "SkillDesc": "通过回收室回收钻石时，获得量提高百分比8%",
+        "SkillName": "亮晶晶A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 189,
+        "EffectIds": [
+            10814
+        ],
+        "ID": 403034,
+        "Name": "亮晶晶A"
+    },
+    {
+        "SkillDesc": "通过回收室回收钻石时，获得量提高百分比10%",
+        "SkillName": "亮晶晶S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 189,
+        "EffectIds": [
+            10815
+        ],
+        "ID": 403035,
+        "Name": "亮晶晶S"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源时，获得量提高百分比2%",
+        "SkillName": "净水专家D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 190,
+        "EffectIds": [
+            10821
+        ],
+        "ID": 403041,
+        "Name": "净水专家D"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源时，获得量提高百分比4%",
+        "SkillName": "净水专家C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 190,
+        "EffectIds": [
+            10822
+        ],
+        "ID": 403042,
+        "Name": "净水专家C"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源时，获得量提高百分比6%",
+        "SkillName": "净水专家B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 190,
+        "EffectIds": [
+            10823
+        ],
+        "ID": 403043,
+        "Name": "净水专家B"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源时，获得量提高百分比8%",
+        "SkillName": "净水专家A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 190,
+        "EffectIds": [
+            10824
+        ],
+        "ID": 403044,
+        "Name": "净水专家A"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源时，获得量提高百分比10%",
+        "SkillName": "净水专家S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 190,
+        "EffectIds": [
+            10825
+        ],
+        "ID": 403045,
+        "Name": "净水专家S"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物时，获得量提高百分比2%",
+        "SkillName": "美食品鉴家D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 191,
+        "EffectIds": [
+            10831
+        ],
+        "ID": 403051,
+        "Name": "美食品鉴家D"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物时，获得量提高百分比4%",
+        "SkillName": "美食品鉴家C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 191,
+        "EffectIds": [
+            10832
+        ],
+        "ID": 403052,
+        "Name": "美食品鉴家C"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物时，获得量提高百分比6%",
+        "SkillName": "美食品鉴家B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 191,
+        "EffectIds": [
+            10833
+        ],
+        "ID": 403053,
+        "Name": "美食品鉴家B"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物时，获得量提高百分比8%",
+        "SkillName": "美食品鉴家A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 191,
+        "EffectIds": [
+            10834
+        ],
+        "ID": 403054,
+        "Name": "美食品鉴家A"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物时，获得量提高百分比10%",
+        "SkillName": "美食品鉴家S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 191,
+        "EffectIds": [
+            10835
+        ],
+        "ID": 403055,
+        "Name": "美食品鉴家S"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比2%",
+        "SkillName": "感电D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 192,
+        "EffectIds": [
+            10841
+        ],
+        "ID": 403061,
+        "Name": "感电D"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比4%",
+        "SkillName": "感电C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 192,
+        "EffectIds": [
+            10842
+        ],
+        "ID": 403062,
+        "Name": "感电C"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比6%",
+        "SkillName": "感电B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 192,
+        "EffectIds": [
+            10843
+        ],
+        "ID": 403063,
+        "Name": "感电B"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比8%",
+        "SkillName": "感电A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 192,
+        "EffectIds": [
+            10844
+        ],
+        "ID": 403064,
+        "Name": "感电A"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比10%",
+        "SkillName": "感电S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 192,
+        "EffectIds": [
+            10845
+        ],
+        "ID": 403065,
+        "Name": "感电S"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子时，获得量提高百分比2%",
+        "SkillName": "黑市商人D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 193,
+        "EffectIds": [
+            10851
+        ],
+        "ID": 403071,
+        "Name": "黑市商人D"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子时，获得量提高百分比4%",
+        "SkillName": "黑市商人C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 193,
+        "EffectIds": [
+            10852
+        ],
+        "ID": 403072,
+        "Name": "黑市商人C"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子时，获得量提高百分比6%",
+        "SkillName": "黑市商人B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 193,
+        "EffectIds": [
+            10853
+        ],
+        "ID": 403073,
+        "Name": "黑市商人B"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子时，获得量提高百分比8%",
+        "SkillName": "黑市商人A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 193,
+        "EffectIds": [
+            10854
+        ],
+        "ID": 403074,
+        "Name": "黑市商人A"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子时，获得量提高百分比10%",
+        "SkillName": "黑市商人S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 193,
+        "EffectIds": [
+            10855
+        ],
+        "ID": 403075,
+        "Name": "黑市商人S"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比2%",
+        "SkillName": "仔细挑选D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 194,
+        "EffectIds": [
+            10861
+        ],
+        "ID": 403081,
+        "Name": "仔细挑选D"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比4%",
+        "SkillName": "仔细挑选C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 194,
+        "EffectIds": [
+            10862
+        ],
+        "ID": 403082,
+        "Name": "仔细挑选C"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比6%",
+        "SkillName": "仔细挑选B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 194,
+        "EffectIds": [
+            10863
+        ],
+        "ID": 403083,
+        "Name": "仔细挑选B"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比8%",
+        "SkillName": "仔细挑选A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 194,
+        "EffectIds": [
+            10864
+        ],
+        "ID": 403084,
+        "Name": "仔细挑选A"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比10%",
+        "SkillName": "仔细挑选S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 194,
+        "EffectIds": [
+            10865
+        ],
+        "ID": 403085,
+        "Name": "仔细挑选S"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比2%",
+        "SkillName": "积极工作者D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 195,
+        "EffectIds": [
+            11051
+        ],
+        "ID": 403091,
+        "Name": "积极工作者D"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比4%",
+        "SkillName": "积极工作者C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 195,
+        "EffectIds": [
+            11052
+        ],
+        "ID": 403092,
+        "Name": "积极工作者C"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比6%",
+        "SkillName": "积极工作者B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 195,
+        "EffectIds": [
+            11053
+        ],
+        "ID": 403093,
+        "Name": "积极工作者B"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比8%",
+        "SkillName": "积极工作者A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 195,
+        "EffectIds": [
+            11054
+        ],
+        "ID": 403094,
+        "Name": "积极工作者A"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比10%",
+        "SkillName": "积极工作者S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 195,
+        "EffectIds": [
+            11055
+        ],
+        "ID": 403095,
+        "Name": "积极工作者S"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源存储箱订单时，时间缩短百分比2%",
+        "SkillName": "美人鱼D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 196,
+        "EffectIds": [
+            11061
+        ],
+        "ID": 403101,
+        "Name": "美人鱼D"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源存储箱订单时，时间缩短百分比4%",
+        "SkillName": "美人鱼C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 196,
+        "EffectIds": [
+            11062
+        ],
+        "ID": 403102,
+        "Name": "美人鱼C"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源存储箱订单时，时间缩短百分比6%",
+        "SkillName": "美人鱼B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 196,
+        "EffectIds": [
+            11063
+        ],
+        "ID": 403103,
+        "Name": "美人鱼B"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源存储箱订单时，时间缩短百分比8%",
+        "SkillName": "美人鱼A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 196,
+        "EffectIds": [
+            11064
+        ],
+        "ID": 403104,
+        "Name": "美人鱼A"
+    },
+    {
+        "SkillDesc": "通过回收室回收水源存储箱订单时，时间缩短百分比10%",
+        "SkillName": "美人鱼S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 196,
+        "EffectIds": [
+            11065
+        ],
+        "ID": 403105,
+        "Name": "美人鱼S"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比2%",
+        "SkillName": "快餐D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 197,
+        "EffectIds": [
+            11071
+        ],
+        "ID": 403111,
+        "Name": "快餐D"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比4%",
+        "SkillName": "快餐C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 197,
+        "EffectIds": [
+            11072
+        ],
+        "ID": 403112,
+        "Name": "快餐C"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比6%",
+        "SkillName": "快餐B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 197,
+        "EffectIds": [
+            11073
+        ],
+        "ID": 403113,
+        "Name": "快餐B"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比8%",
+        "SkillName": "快餐A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 197,
+        "EffectIds": [
+            11074
+        ],
+        "ID": 403114,
+        "Name": "快餐A"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比10%",
+        "SkillName": "快餐S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 197,
+        "EffectIds": [
+            11075
+        ],
+        "ID": 403115,
+        "Name": "快餐S"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比2%",
+        "SkillName": "绝缘体D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 198,
+        "EffectIds": [
+            11081
+        ],
+        "ID": 403121,
+        "Name": "绝缘体D"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比4%",
+        "SkillName": "绝缘体C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 198,
+        "EffectIds": [
+            11082
+        ],
+        "ID": 403122,
+        "Name": "绝缘体C"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比6%",
+        "SkillName": "绝缘体B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 198,
+        "EffectIds": [
+            11083
+        ],
+        "ID": 403123,
+        "Name": "绝缘体B"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比8%",
+        "SkillName": "绝缘体A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 198,
+        "EffectIds": [
+            11084
+        ],
+        "ID": 403124,
+        "Name": "绝缘体A"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比10%",
+        "SkillName": "绝缘体S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 198,
+        "EffectIds": [
+            11085
+        ],
+        "ID": 403125,
+        "Name": "绝缘体S"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子订单时，时间缩短百分比2%",
+        "SkillName": "窥宝奇兵D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 199,
+        "EffectIds": [
+            11091
+        ],
+        "ID": 403131,
+        "Name": "窥宝奇兵D"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子订单时，时间缩短百分比4%",
+        "SkillName": "窥宝奇兵C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 199,
+        "EffectIds": [
+            11092
+        ],
+        "ID": 403132,
+        "Name": "窥宝奇兵C"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子订单时，时间缩短百分比6%",
+        "SkillName": "窥宝奇兵B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 199,
+        "EffectIds": [
+            11093
+        ],
+        "ID": 403133,
+        "Name": "窥宝奇兵B"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子订单时，时间缩短百分比8%",
+        "SkillName": "窥宝奇兵A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 199,
+        "EffectIds": [
+            11094
+        ],
+        "ID": 403134,
+        "Name": "窥宝奇兵A"
+    },
+    {
+        "SkillDesc": "通过回收室回收素材箱子订单时，时间缩短百分比10%",
+        "SkillName": "窥宝奇兵S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 199,
+        "EffectIds": [
+            11095
+        ],
+        "ID": 403135,
+        "Name": "窥宝奇兵S"
+    },
+    {
+        "SkillDesc": "通过回收室回收部件连接器订单时，时间缩短百分比2%",
+        "SkillName": "智械D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 200,
+        "EffectIds": [
+            11101
+        ],
+        "ID": 403141,
+        "Name": "智械D"
+    },
+    {
+        "SkillDesc": "通过回收室回收部件连接器订单时，时间缩短百分比4%",
+        "SkillName": "智械C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 200,
+        "EffectIds": [
+            11102
+        ],
+        "ID": 403142,
+        "Name": "智械C"
+    },
+    {
+        "SkillDesc": "通过回收室回收部件连接器订单时，时间缩短百分比6%",
+        "SkillName": "智械B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 200,
+        "EffectIds": [
+            11103
+        ],
+        "ID": 403143,
+        "Name": "智械B"
+    },
+    {
+        "SkillDesc": "通过回收室回收部件连接器订单时，时间缩短百分比8%",
+        "SkillName": "智械A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 200,
+        "EffectIds": [
+            11104
+        ],
+        "ID": 403144,
+        "Name": "智械A"
+    },
+    {
+        "SkillDesc": "通过回收室回收部件连接器订单时，时间缩短百分比10%",
+        "SkillName": "智械S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 200,
+        "EffectIds": [
+            11105
+        ],
+        "ID": 403145,
+        "Name": "智械S"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升2%",
+        "SkillName": "基础科学D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 201,
+        "EffectIds": [
+            11011
+        ],
+        "ID": 404011,
+        "Name": "基础科学D"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升4%",
+        "SkillName": "基础科学C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 201,
+        "EffectIds": [
+            11012
+        ],
+        "ID": 404012,
+        "Name": "基础科学C"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升6%",
+        "SkillName": "基础科学B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 201,
+        "EffectIds": [
+            11013
+        ],
+        "ID": 404013,
+        "Name": "基础科学B"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升8%",
+        "SkillName": "基础科学A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 201,
+        "EffectIds": [
+            11014
+        ],
+        "ID": 404014,
+        "Name": "基础科学A"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升10%",
+        "SkillName": "基础科学S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 201,
+        "EffectIds": [
+            11015
+        ],
+        "ID": 404015,
+        "Name": "基础科学S"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单时间减少2%",
+        "SkillName": "兵器爱好者D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 202,
+        "EffectIds": [
+            11021
+        ],
+        "ID": 404021,
+        "Name": "兵器爱好者D"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单时间减少4%",
+        "SkillName": "兵器爱好者C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 202,
+        "EffectIds": [
+            11022
+        ],
+        "ID": 404022,
+        "Name": "兵器爱好者C"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单时间减少6%",
+        "SkillName": "兵器爱好者B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 202,
+        "EffectIds": [
+            11023
+        ],
+        "ID": 404023,
+        "Name": "兵器爱好者B"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单时间减少8%",
+        "SkillName": "兵器爱好者A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 202,
+        "EffectIds": [
+            11024
+        ],
+        "ID": 404024,
+        "Name": "兵器爱好者A"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单时间减少10%",
+        "SkillName": "兵器爱好者S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 202,
+        "EffectIds": [
+            11025
+        ],
+        "ID": 404025,
+        "Name": "兵器爱好者S"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少2%",
+        "SkillName": "汽修达人D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 203,
+        "EffectIds": [
+            11031
+        ],
+        "ID": 404031,
+        "Name": "汽修达人D"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少4%",
+        "SkillName": "汽修达人C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 203,
+        "EffectIds": [
+            11032
+        ],
+        "ID": 404032,
+        "Name": "汽修达人C"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少6%",
+        "SkillName": "汽修达人B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 203,
+        "EffectIds": [
+            11033
+        ],
+        "ID": 404033,
+        "Name": "汽修达人B"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少8%",
+        "SkillName": "汽修达人A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 203,
+        "EffectIds": [
+            11034
+        ],
+        "ID": 404034,
+        "Name": "汽修达人A"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少10%",
+        "SkillName": "汽修达人S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 203,
+        "EffectIds": [
+            11035
+        ],
+        "ID": 404035,
+        "Name": "汽修达人S"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少2%",
+        "SkillName": "探险家D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 204,
+        "EffectIds": [
+            11041
+        ],
+        "ID": 404041,
+        "Name": "探险家D"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少4%",
+        "SkillName": "探险家C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 204,
+        "EffectIds": [
+            11042
+        ],
+        "ID": 404042,
+        "Name": "探险家C"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少6%",
+        "SkillName": "探险家B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 204,
+        "EffectIds": [
+            11043
+        ],
+        "ID": 404043,
+        "Name": "探险家B"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少8%",
+        "SkillName": "探险家A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 204,
+        "EffectIds": [
+            11044
+        ],
+        "ID": 404044,
+        "Name": "探险家A"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少10%",
+        "SkillName": "探险家S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 204,
+        "EffectIds": [
+            11045
+        ],
+        "ID": 404045,
+        "Name": "探险家S"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高2%",
+        "SkillName": "战争研究员D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 205,
+        "EffectIds": [
+            11131
+        ],
+        "ID": 404051,
+        "Name": "战争研究员D"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高4%",
+        "SkillName": "战争研究员C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 205,
+        "EffectIds": [
+            11132
+        ],
+        "ID": 404052,
+        "Name": "战争研究员C"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高6%",
+        "SkillName": "战争研究员B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 205,
+        "EffectIds": [
+            11133
+        ],
+        "ID": 404053,
+        "Name": "战争研究员B"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高8%",
+        "SkillName": "战争研究员A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 205,
+        "EffectIds": [
+            11134
+        ],
+        "ID": 404054,
+        "Name": "战争研究员A"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高10%",
+        "SkillName": "战争研究员S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 205,
+        "EffectIds": [
+            11135
+        ],
+        "ID": 404055,
+        "Name": "战争研究员S"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高2%",
+        "SkillName": "载具研究D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 206,
+        "EffectIds": [
+            11141
+        ],
+        "ID": 404061,
+        "Name": "载具研究D"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高4%",
+        "SkillName": "载具研究C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 206,
+        "EffectIds": [
+            11142
+        ],
+        "ID": 404062,
+        "Name": "载具研究C"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高6%",
+        "SkillName": "载具研究B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 206,
+        "EffectIds": [
+            11143
+        ],
+        "ID": 404063,
+        "Name": "载具研究B"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高8%",
+        "SkillName": "载具研究A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 206,
+        "EffectIds": [
+            11144
+        ],
+        "ID": 404064,
+        "Name": "载具研究A"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高10%",
+        "SkillName": "载具研究S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 206,
+        "EffectIds": [
+            11145
+        ],
+        "ID": 404065,
+        "Name": "载具研究S"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单的科技核心的获取量提高2%",
+        "SkillName": "荒野挖掘机D",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": 207,
+        "EffectIds": [
+            11151
+        ],
+        "ID": 404071,
+        "Name": "荒野挖掘机D"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单的科技核心的获取量提高4%",
+        "SkillName": "荒野挖掘机C",
+        "SkillIcon": "85000120",
+        "SkillLevel": 2,
+        "SkillGroup": 207,
+        "EffectIds": [
+            11152
+        ],
+        "ID": 404072,
+        "Name": "荒野挖掘机C"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单的科技核心的获取量提高6%",
+        "SkillName": "荒野挖掘机B",
+        "SkillIcon": "85000120",
+        "SkillLevel": 3,
+        "SkillGroup": 207,
+        "EffectIds": [
+            11153
+        ],
+        "ID": 404073,
+        "Name": "荒野挖掘机B"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单的科技核心的获取量提高8%",
+        "SkillName": "荒野挖掘机A",
+        "SkillIcon": "85000120",
+        "SkillLevel": 4,
+        "SkillGroup": 207,
+        "EffectIds": [
+            11154
+        ],
+        "ID": 404074,
+        "Name": "荒野挖掘机A"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单的科技核心的获取量提高10%",
+        "SkillName": "荒野挖掘机S",
+        "SkillIcon": "85000120",
+        "SkillLevel": 5,
+        "SkillGroup": 207,
+        "EffectIds": [
+            11155
+        ],
+        "ID": 404075,
+        "Name": "荒野挖掘机S"
+    },
+    {
+        "SkillDesc": "在科研室内，进行战备研究的活力消耗减少5%",
+        "SkillName": "战力科调员D",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": 208,
+        "EffectIds": [
+            11161
+        ],
+        "ID": 404081,
+        "Name": "战力科调员D"
+    },
+    {
+        "SkillDesc": "在科研室内，进行战备研究的活力消耗减少10%",
+        "SkillName": "战力科调员C",
+        "SkillIcon": "85000121",
+        "SkillLevel": 2,
+        "SkillGroup": 208,
+        "EffectIds": [
+            11162
+        ],
+        "ID": 404082,
+        "Name": "战力科调员C"
+    },
+    {
+        "SkillDesc": "在科研室内，进行战备研究的活力消耗减少15%",
+        "SkillName": "战力科调员B",
+        "SkillIcon": "85000121",
+        "SkillLevel": 3,
+        "SkillGroup": 208,
+        "EffectIds": [
+            11163
+        ],
+        "ID": 404083,
+        "Name": "战力科调员B"
+    },
+    {
+        "SkillDesc": "在科研室内，进行战备研究的活力消耗减少20%",
+        "SkillName": "战力科调员A",
+        "SkillIcon": "85000121",
+        "SkillLevel": 4,
+        "SkillGroup": 208,
+        "EffectIds": [
+            11164
+        ],
+        "ID": 404084,
+        "Name": "战力科调员A"
+    },
+    {
+        "SkillDesc": "在科研室内，进行战备研究的活力消耗减少25%",
+        "SkillName": "战力科调员S",
+        "SkillIcon": "85000121",
+        "SkillLevel": 5,
+        "SkillGroup": 208,
+        "EffectIds": [
+            11165
+        ],
+        "ID": 404085,
+        "Name": "战力科调员S"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少5%",
+        "SkillName": "科室安保员D",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": 209,
+        "EffectIds": [
+            11171
+        ],
+        "ID": 404091,
+        "Name": "科室安保员D"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少10%",
+        "SkillName": "科室安保员C",
+        "SkillIcon": "85000121",
+        "SkillLevel": 2,
+        "SkillGroup": 209,
+        "EffectIds": [
+            11172
+        ],
+        "ID": 404092,
+        "Name": "科室安保员C"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少15%",
+        "SkillName": "科室安保员B",
+        "SkillIcon": "85000121",
+        "SkillLevel": 3,
+        "SkillGroup": 209,
+        "EffectIds": [
+            11173
+        ],
+        "ID": 404093,
+        "Name": "科室安保员B"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少20%",
+        "SkillName": "科室安保员A",
+        "SkillIcon": "85000121",
+        "SkillLevel": 4,
+        "SkillGroup": 209,
+        "EffectIds": [
+            11174
+        ],
+        "ID": 404094,
+        "Name": "科室安保员A"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少25%",
+        "SkillName": "科室安保员S",
+        "SkillIcon": "85000121",
+        "SkillLevel": 5,
+        "SkillGroup": 209,
+        "EffectIds": [
+            11175
+        ],
+        "ID": 404095,
+        "Name": "科室安保员S"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少5%",
+        "SkillName": "完全实验体D",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": 210,
+        "EffectIds": [
+            11181
+        ],
+        "ID": 404101,
+        "Name": "完全实验体D"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少10%",
+        "SkillName": "完全实验体C",
+        "SkillIcon": "85000121",
+        "SkillLevel": 2,
+        "SkillGroup": 210,
+        "EffectIds": [
+            11182
+        ],
+        "ID": 404102,
+        "Name": "完全实验体C"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少15%",
+        "SkillName": "完全实验体B",
+        "SkillIcon": "85000121",
+        "SkillLevel": 3,
+        "SkillGroup": 210,
+        "EffectIds": [
+            11183
+        ],
+        "ID": 404103,
+        "Name": "完全实验体B"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少20%",
+        "SkillName": "完全实验体A",
+        "SkillIcon": "85000121",
+        "SkillLevel": 4,
+        "SkillGroup": 210,
+        "EffectIds": [
+            11184
+        ],
+        "ID": 404104,
+        "Name": "完全实验体A"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少25%",
+        "SkillName": "完全实验体S",
+        "SkillIcon": "85000121",
+        "SkillLevel": 5,
+        "SkillGroup": 210,
+        "EffectIds": [
+            11185
+        ],
+        "ID": 404105,
+        "Name": "完全实验体S"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短2%",
+        "SkillName": "亲水体质D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 211,
+        "EffectIds": [
+            10921
+        ],
+        "ID": 201011,
+        "Name": "亲水体质D"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短4%",
+        "SkillName": "亲水体质C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 211,
+        "EffectIds": [
+            10922
+        ],
+        "ID": 201012,
+        "Name": "亲水体质C"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短6%",
+        "SkillName": "亲水体质B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 211,
+        "EffectIds": [
+            10923
+        ],
+        "ID": 201013,
+        "Name": "亲水体质B"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短8%",
+        "SkillName": "亲水体质A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 211,
+        "EffectIds": [
+            10924
+        ],
+        "ID": 201014,
+        "Name": "亲水体质A"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短10%",
+        "SkillName": "亲水体质S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 211,
+        "EffectIds": [
+            10925
+        ],
+        "ID": 201015,
+        "Name": "亲水体质S"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产量增加2%",
+        "SkillName": "超金过滤D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 212,
+        "EffectIds": [
+            11191
+        ],
+        "ID": 201021,
+        "Name": "超金过滤D"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产量增加4%",
+        "SkillName": "超金过滤C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 212,
+        "EffectIds": [
+            11192
+        ],
+        "ID": 201022,
+        "Name": "超金过滤C"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产量增加6%",
+        "SkillName": "超金过滤B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 212,
+        "EffectIds": [
+            11193
+        ],
+        "ID": 201023,
+        "Name": "超金过滤B"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产量增加8%",
+        "SkillName": "超金过滤A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 212,
+        "EffectIds": [
+            11194
+        ],
+        "ID": 201024,
+        "Name": "超金过滤A"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产量增加10%",
+        "SkillName": "超金过滤S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 212,
+        "EffectIds": [
+            11195
+        ],
+        "ID": 201025,
+        "Name": "超金过滤S"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加5%",
+        "SkillName": "只有水知道D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 213,
+        "EffectIds": [
+            11201
+        ],
+        "ID": 201031,
+        "Name": "只有水知道D"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加10%",
+        "SkillName": "只有水知道C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 213,
+        "EffectIds": [
+            11202
+        ],
+        "ID": 201032,
+        "Name": "只有水知道C"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加15%",
+        "SkillName": "只有水知道B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 213,
+        "EffectIds": [
+            11203
+        ],
+        "ID": 201033,
+        "Name": "只有水知道B"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加20%",
+        "SkillName": "只有水知道A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 213,
+        "EffectIds": [
+            11204
+        ],
+        "ID": 201034,
+        "Name": "只有水知道A"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加25%",
+        "SkillName": "只有水知道S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 213,
+        "EffectIds": [
+            11205
+        ],
+        "ID": 201035,
+        "Name": "只有水知道S"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短2%",
+        "SkillName": "首席厨师D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 214,
+        "EffectIds": [
+            10931
+        ],
+        "ID": 202011,
+        "Name": "首席厨师D"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短4%",
+        "SkillName": "首席厨师C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 214,
+        "EffectIds": [
+            10932
+        ],
+        "ID": 202012,
+        "Name": "首席厨师C"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短6%",
+        "SkillName": "首席厨师B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 214,
+        "EffectIds": [
+            10933
+        ],
+        "ID": 202013,
+        "Name": "首席厨师B"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短8%",
+        "SkillName": "首席厨师A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 214,
+        "EffectIds": [
+            10934
+        ],
+        "ID": 202014,
+        "Name": "首席厨师A"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短10%",
+        "SkillName": "首席厨师S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 214,
+        "EffectIds": [
+            10935
+        ],
+        "ID": 202015,
+        "Name": "首席厨师S"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产量增加2%",
+        "SkillName": "食材高手D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 215,
+        "EffectIds": [
+            11211
+        ],
+        "ID": 202021,
+        "Name": "食材高手D"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产量增加4%",
+        "SkillName": "食材高手C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 215,
+        "EffectIds": [
+            11212
+        ],
+        "ID": 202022,
+        "Name": "食材高手C"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产量增加6%",
+        "SkillName": "食材高手B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 215,
+        "EffectIds": [
+            11213
+        ],
+        "ID": 202023,
+        "Name": "食材高手B"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产量增加8%",
+        "SkillName": "食材高手A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 215,
+        "EffectIds": [
+            11214
+        ],
+        "ID": 202024,
+        "Name": "食材高手A"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产量增加10%",
+        "SkillName": "食材高手S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 215,
+        "EffectIds": [
+            11215
+        ],
+        "ID": 202025,
+        "Name": "食材高手S"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加5%",
+        "SkillName": "大力士D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 216,
+        "EffectIds": [
+            11221
+        ],
+        "ID": 202031,
+        "Name": "大力士D"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加10%",
+        "SkillName": "大力士C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 216,
+        "EffectIds": [
+            11222
+        ],
+        "ID": 202032,
+        "Name": "大力士C"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加15%",
+        "SkillName": "大力士B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 216,
+        "EffectIds": [
+            11223
+        ],
+        "ID": 202033,
+        "Name": "大力士B"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加20%",
+        "SkillName": "大力士A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 216,
+        "EffectIds": [
+            11224
+        ],
+        "ID": 202034,
+        "Name": "大力士A"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加25%",
+        "SkillName": "大力士S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 216,
+        "EffectIds": [
+            11225
+        ],
+        "ID": 202035,
+        "Name": "大力士S"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短2%",
+        "SkillName": "热能检修工D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 217,
+        "EffectIds": [
+            10941
+        ],
+        "ID": 203011,
+        "Name": "热能检修工D"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短4%",
+        "SkillName": "热能检修工C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 217,
+        "EffectIds": [
+            10942
+        ],
+        "ID": 203012,
+        "Name": "热能检修工C"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短6%",
+        "SkillName": "热能检修工B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 217,
+        "EffectIds": [
+            10943
+        ],
+        "ID": 203013,
+        "Name": "热能检修工B"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短8%",
+        "SkillName": "热能检修工A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 217,
+        "EffectIds": [
+            10944
+        ],
+        "ID": 203014,
+        "Name": "热能检修工A"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短10%",
+        "SkillName": "热能检修工S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 217,
+        "EffectIds": [
+            10945
+        ],
+        "ID": 203015,
+        "Name": "热能检修工S"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加2%",
+        "SkillName": "全能改造人D",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": 218,
+        "EffectIds": [
+            11231
+        ],
+        "ID": 203021,
+        "Name": "全能改造人D"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加4%",
+        "SkillName": "全能改造人C",
+        "SkillIcon": "85000119",
+        "SkillLevel": 2,
+        "SkillGroup": 218,
+        "EffectIds": [
+            11232
+        ],
+        "ID": 203022,
+        "Name": "全能改造人C"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加6%",
+        "SkillName": "全能改造人B",
+        "SkillIcon": "85000119",
+        "SkillLevel": 3,
+        "SkillGroup": 218,
+        "EffectIds": [
+            11233
+        ],
+        "ID": 203023,
+        "Name": "全能改造人B"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加8%",
+        "SkillName": "全能改造人A",
+        "SkillIcon": "85000119",
+        "SkillLevel": 4,
+        "SkillGroup": 218,
+        "EffectIds": [
+            11234
+        ],
+        "ID": 203024,
+        "Name": "全能改造人A"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加10%",
+        "SkillName": "全能改造人S",
+        "SkillIcon": "85000119",
+        "SkillLevel": 5,
+        "SkillGroup": 218,
+        "EffectIds": [
+            11235
+        ],
+        "ID": 203025,
+        "Name": "全能改造人S"
+    },
+    {
+        "SkillDesc": "在电力资源房间获得体质天性时，获得量额外增加5%",
+        "SkillName": "静电体质D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 219,
+        "EffectIds": [
+            11241
+        ],
+        "ID": 203031,
+        "Name": "静电体质D"
+    },
+    {
+        "SkillDesc": "在电力资源房间获得体质天性时，获得量额外增加10%",
+        "SkillName": "静电体质C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 219,
+        "EffectIds": [
+            11242
+        ],
+        "ID": 203032,
+        "Name": "静电体质C"
+    },
+    {
+        "SkillDesc": "在电力资源房间获得体质天性时，获得量额外增加15%",
+        "SkillName": "静电体质B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 219,
+        "EffectIds": [
+            11243
+        ],
+        "ID": 203033,
+        "Name": "静电体质B"
+    },
+    {
+        "SkillDesc": "在电力资源房间获得体质天性时，获得量额外增加20%",
+        "SkillName": "静电体质A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 219,
+        "EffectIds": [
+            11244
+        ],
+        "ID": 203034,
+        "Name": "静电体质A"
+    },
+    {
+        "SkillDesc": "在电力资源房间获得体质天性时，获得量额外增加25%",
+        "SkillName": "静电体质S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 219,
+        "EffectIds": [
+            11245
+        ],
+        "ID": 203035,
+        "Name": "静电体质S"
+    },
+    {
+        "SkillDesc": "打游戏的时候活力百倍，工作就完全没力气",
+        "SkillName": "AI的日常生活D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 220,
+        "EffectIds": [],
+        "ID": 1011,
+        "Name": "AI的日常生活D"
+    },
+    {
+        "SkillDesc": "打游戏的时候活力百倍，工作就完全没力气",
+        "SkillName": "AI的日常生活C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 220,
+        "EffectIds": [],
+        "ID": 1012,
+        "Name": "AI的日常生活C"
+    },
+    {
+        "SkillDesc": "打游戏的时候活力百倍，工作就完全没力气",
+        "SkillName": "AI的日常生活B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 220,
+        "EffectIds": [],
+        "ID": 1013,
+        "Name": "AI的日常生活B"
+    },
+    {
+        "SkillDesc": "打游戏的时候活力百倍，工作就完全没力气",
+        "SkillName": "AI的日常生活A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 220,
+        "EffectIds": [],
+        "ID": 1014,
+        "Name": "AI的日常生活A"
+    },
+    {
+        "SkillDesc": "打游戏的时候活力百倍，工作就完全没力气",
+        "SkillName": "AI的日常生活S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 220,
+        "EffectIds": [],
+        "ID": 1015,
+        "Name": "AI的日常生活S"
+    },
+    {
+        "SkillDesc": "打游戏更容易通关",
+        "SkillName": "伊芙琳的天赋D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 221,
+        "EffectIds": [],
+        "ID": 1021,
+        "Name": "伊芙琳的天赋D"
+    },
+    {
+        "SkillDesc": "打游戏更容易通关",
+        "SkillName": "伊芙琳的天赋C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 221,
+        "EffectIds": [],
+        "ID": 1022,
+        "Name": "伊芙琳的天赋C"
+    },
+    {
+        "SkillDesc": "打游戏更容易通关",
+        "SkillName": "伊芙琳的天赋B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 221,
+        "EffectIds": [],
+        "ID": 1023,
+        "Name": "伊芙琳的天赋B"
+    },
+    {
+        "SkillDesc": "打游戏更容易通关",
+        "SkillName": "伊芙琳的天赋A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 221,
+        "EffectIds": [],
+        "ID": 1024,
+        "Name": "伊芙琳的天赋A"
+    },
+    {
+        "SkillDesc": "打游戏更容易通关",
+        "SkillName": "伊芙琳的天赋S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 221,
+        "EffectIds": [],
+        "ID": 1025,
+        "Name": "伊芙琳的天赋S"
+    },
+    {
+        "SkillDesc": "制造？制造游戏机吗？",
+        "SkillName": "沉迷游戏D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 222,
+        "EffectIds": [],
+        "ID": 1031,
+        "Name": "沉迷游戏D"
+    },
+    {
+        "SkillDesc": "制造？制造游戏机吗？",
+        "SkillName": "沉迷游戏C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 222,
+        "EffectIds": [],
+        "ID": 1032,
+        "Name": "沉迷游戏C"
+    },
+    {
+        "SkillDesc": "制造？制造游戏机吗？",
+        "SkillName": "沉迷游戏B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 222,
+        "EffectIds": [],
+        "ID": 1033,
+        "Name": "沉迷游戏B"
+    },
+    {
+        "SkillDesc": "制造？制造游戏机吗？",
+        "SkillName": "沉迷游戏A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 222,
+        "EffectIds": [],
+        "ID": 1034,
+        "Name": "沉迷游戏A"
+    },
+    {
+        "SkillDesc": "制造？制造游戏机吗？",
+        "SkillName": "沉迷游戏S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 222,
+        "EffectIds": [],
+        "ID": 1035,
+        "Name": "沉迷游戏S"
+    },
+    {
+        "SkillDesc": "偷懒更加不易被发现",
+        "SkillName": "灵活的家伙D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 223,
+        "EffectIds": [],
+        "ID": 1041,
+        "Name": "灵活的家伙D"
+    },
+    {
+        "SkillDesc": "偷懒更加不易被发现",
+        "SkillName": "灵活的家伙C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 223,
+        "EffectIds": [],
+        "ID": 1042,
+        "Name": "灵活的家伙C"
+    },
+    {
+        "SkillDesc": "偷懒更加不易被发现",
+        "SkillName": "灵活的家伙B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 223,
+        "EffectIds": [],
+        "ID": 1043,
+        "Name": "灵活的家伙B"
+    },
+    {
+        "SkillDesc": "偷懒更加不易被发现",
+        "SkillName": "灵活的家伙A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 223,
+        "EffectIds": [],
+        "ID": 1044,
+        "Name": "灵活的家伙A"
+    },
+    {
+        "SkillDesc": "偷懒更加不易被发现",
+        "SkillName": "灵活的家伙S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 223,
+        "EffectIds": [],
+        "ID": 1045,
+        "Name": "灵活的家伙S"
+    },
+    {
+        "SkillDesc": "AI没有身体，体质又怎么会有上限那？",
+        "SkillName": "超级体能D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 224,
+        "EffectIds": [],
+        "ID": 1051,
+        "Name": "超级体能D"
+    },
+    {
+        "SkillDesc": "AI没有身体，体质又怎么会有上限那？",
+        "SkillName": "超级体能C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 224,
+        "EffectIds": [],
+        "ID": 1052,
+        "Name": "超级体能C"
+    },
+    {
+        "SkillDesc": "AI没有身体，体质又怎么会有上限那？",
+        "SkillName": "超级体能B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 224,
+        "EffectIds": [],
+        "ID": 1053,
+        "Name": "超级体能B"
+    },
+    {
+        "SkillDesc": "AI没有身体，体质又怎么会有上限那？",
+        "SkillName": "超级体能A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 224,
+        "EffectIds": [],
+        "ID": 1054,
+        "Name": "超级体能A"
+    },
+    {
+        "SkillDesc": "AI没有身体，体质又怎么会有上限那？",
+        "SkillName": "超级体能S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 224,
+        "EffectIds": [],
+        "ID": 1055,
+        "Name": "超级体能S"
+    },
+    {
+        "SkillDesc": "觉得任何事情都很麻烦",
+        "SkillName": "有效率的偷懒D",
+        "SkillIcon": "71000010",
+        "SkillLevel": 1,
+        "SkillGroup": 225,
+        "EffectIds": [],
+        "ID": 1061,
+        "Name": "有效率的偷懒D"
+    },
+    {
+        "SkillDesc": "觉得任何事情都很麻烦",
+        "SkillName": "有效率的偷懒C",
+        "SkillIcon": "71000010",
+        "SkillLevel": 2,
+        "SkillGroup": 225,
+        "EffectIds": [],
+        "ID": 1062,
+        "Name": "有效率的偷懒C"
+    },
+    {
+        "SkillDesc": "觉得任何事情都很麻烦",
+        "SkillName": "有效率的偷懒B",
+        "SkillIcon": "71000010",
+        "SkillLevel": 3,
+        "SkillGroup": 225,
+        "EffectIds": [],
+        "ID": 1063,
+        "Name": "有效率的偷懒B"
+    },
+    {
+        "SkillDesc": "觉得任何事情都很麻烦",
+        "SkillName": "有效率的偷懒A",
+        "SkillIcon": "71000010",
+        "SkillLevel": 4,
+        "SkillGroup": 225,
+        "EffectIds": [],
+        "ID": 1064,
+        "Name": "有效率的偷懒A"
+    },
+    {
+        "SkillDesc": "觉得任何事情都很麻烦",
+        "SkillName": "有效率的偷懒S",
+        "SkillIcon": "71000010",
+        "SkillLevel": 5,
+        "SkillGroup": 225,
+        "EffectIds": [],
+        "ID": 1065,
+        "Name": "有效率的偷懒S"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高2%",
+        "SkillName": "收藏癖",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10791
+        ],
+        "ID": 9001,
+        "Name": "收藏癖"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少2%",
+        "SkillName": "情报通",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 9002,
+        "Name": "情报通"
+    },
+    {
+        "SkillDesc": "在收集类远征中，获得的金币提高2%",
+        "SkillName": "掠夺",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10671
+        ],
+        "ID": 9003,
+        "Name": "掠夺"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高1%",
+        "SkillName": "资源获取：水",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10271
+        ],
+        "ID": 9004,
+        "Name": "资源获取：水"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高1%",
+        "SkillName": "资源获取：金币",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10251
+        ],
+        "ID": 9005,
+        "Name": "资源获取：金币"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高1%",
+        "SkillName": "集中",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10231
+        ],
+        "ID": 9006,
+        "Name": "集中"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高1%",
+        "SkillName": "耐久力",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10241
+        ],
+        "ID": 9007,
+        "Name": "耐久力"
+    },
+    {
+        "SkillDesc": "通过回收室回收充沛矿钻订单时，时间缩短百分比2%",
+        "SkillName": "矿钻回收效率",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11051
+        ],
+        "ID": 9008,
+        "Name": "矿钻回收效率"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短2%",
+        "SkillName": "生产效率：水",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10921
+        ],
+        "ID": 9009,
+        "Name": "生产效率：水"
+    },
+    {
+        "SkillDesc": "科研室内，战备订单的科技核心的获取量提高2%",
+        "SkillName": "核心获取",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11131
+        ],
+        "ID": 9010,
+        "Name": "核心获取"
+    },
+    {
+        "SkillDesc": "情报室内，获取的智慧提高5%",
+        "SkillName": "潜能",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11111
+        ],
+        "ID": 9011,
+        "Name": "潜能"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高1%",
+        "SkillName": "料理精通",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10281
+        ],
+        "ID": 9012,
+        "Name": "料理精通"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比2%",
+        "SkillName": "零件收集",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10861
+        ],
+        "ID": 9013,
+        "Name": "零件收集"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短2%",
+        "SkillName": "生产效率：食物",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10931
+        ],
+        "ID": 9014,
+        "Name": "生产效率：食物"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高2%",
+        "SkillName": "记者嗅觉",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10611
+        ],
+        "ID": 9015,
+        "Name": "记者嗅觉"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "科学家",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9016,
+        "Name": "科学家"
+    },
+    {
+        "SkillDesc": "车间内，合成贵金属箱的时间减少2%",
+        "SkillName": "搬运",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10971
+        ],
+        "ID": 9017,
+        "Name": "搬运"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少2%",
+        "SkillName": "黑客",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 9018,
+        "Name": "黑客"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高2%",
+        "SkillName": "天才",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10731
+        ],
+        "ID": 9019,
+        "Name": "天才"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短1%",
+        "SkillName": "战略家",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10121
+        ],
+        "ID": 9020,
+        "Name": "战略家"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短1%",
+        "SkillName": "经验老道",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10121
+        ],
+        "ID": 9021,
+        "Name": "经验老道"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "情报处理",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 9022,
+        "Name": "情报处理"
+    },
+    {
+        "SkillDesc": "在战斗类远征中，获得的金币提高2%",
+        "SkillName": "天才",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10731
+        ],
+        "ID": 9023,
+        "Name": "天才"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加5%",
+        "SkillName": "虔诚",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11201
+        ],
+        "ID": 9024,
+        "Name": "虔诚"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少2%",
+        "SkillName": "助手",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10961
+        ],
+        "ID": 9025,
+        "Name": "助手"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "女仆",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9026,
+        "Name": "女仆"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "侦探",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 9027,
+        "Name": "侦探"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "心灵感应",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 9028,
+        "Name": "心灵感应"
+    },
+    {
+        "SkillDesc": "在食物室类房间内，使食物资源的生产周期缩短2%",
+        "SkillName": "生产效率：食物",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10931
+        ],
+        "ID": 9029,
+        "Name": "生产效率：食物"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "机械师",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9030,
+        "Name": "机械师"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高2%",
+        "SkillName": "战斗天赋",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10161
+        ],
+        "ID": 9031,
+        "Name": "战斗天赋"
+    },
+    {
+        "SkillDesc": "在回收室中获得额外奖励的几率提高2%",
+        "SkillName": "效率至上",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10791
+        ],
+        "ID": 9032,
+        "Name": "效率至上"
+    },
+    {
+        "SkillDesc": "通过回收室回收零件时，获得量提高百分比2%",
+        "SkillName": "零件处理",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10861
+        ],
+        "ID": 9033,
+        "Name": "零件处理"
+    },
+    {
+        "SkillDesc": "在食物资源房间获得体质天性时，获得量额外增加5%",
+        "SkillName": "修行",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11221
+        ],
+        "ID": 9034,
+        "Name": "修行"
+    },
+    {
+        "SkillDesc": "车间内，合成建造材料的时间减少2%",
+        "SkillName": "好奇心",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10961
+        ],
+        "ID": 9035,
+        "Name": "好奇心"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短2%",
+        "SkillName": "生产效率：电力",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10941
+        ],
+        "ID": 9036,
+        "Name": "生产效率：电力"
+    },
+    {
+        "SkillDesc": "科研室内，科技核心获取量提升2%",
+        "SkillName": "人造人",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11011
+        ],
+        "ID": 9037,
+        "Name": "人造人"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时自己消耗的活力减少2%",
+        "SkillName": "后勤专精",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10991
+        ],
+        "ID": 9038,
+        "Name": "后勤专精"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少2%",
+        "SkillName": "随性",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11041
+        ],
+        "ID": 9039,
+        "Name": "随性"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高2%",
+        "SkillName": "辅佐",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10611
+        ],
+        "ID": 9040,
+        "Name": "辅佐"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单时间减少2%",
+        "SkillName": "神秘",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11031
+        ],
+        "ID": 9041,
+        "Name": "神秘"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力时，获得量提高百分比2%",
+        "SkillName": "精细",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10841
+        ],
+        "ID": 9042,
+        "Name": "精细"
+    },
+    {
+        "SkillDesc": "在水资源房间获得情感天性时，获得量额外增加5%",
+        "SkillName": "魔法少女",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11201
+        ],
+        "ID": 9043,
+        "Name": "魔法少女"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少5%",
+        "SkillName": "科研精通",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11171
+        ],
+        "ID": 9044,
+        "Name": "科研精通"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "指挥者",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9045,
+        "Name": "指挥者"
+    },
+    {
+        "SkillDesc": "在调查类远征中，获得的金币提高2%",
+        "SkillName": "偶像",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10611
+        ],
+        "ID": 9046,
+        "Name": "偶像"
+    },
+    {
+        "SkillDesc": "调查类远征的时间缩短1%",
+        "SkillName": "情报处理",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10101
+        ],
+        "ID": 9047,
+        "Name": "情报处理"
+    },
+    {
+        "SkillDesc": "车间内，合成基础素材类订单的时间减少2%",
+        "SkillName": "订单分发",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10951
+        ],
+        "ID": 9048,
+        "Name": "订单分发"
+    },
+    {
+        "SkillDesc": "科研室内，设施订单时间减少2%",
+        "SkillName": "订单处理",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11041
+        ],
+        "ID": 9049,
+        "Name": "订单处理"
+    },
+    {
+        "SkillDesc": "通过远征获得的水源提高1%",
+        "SkillName": "远征获取：水",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10271
+        ],
+        "ID": 9050,
+        "Name": "远征获取：水"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "远征效率：探索",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 9051,
+        "Name": "远征效率：探索"
+    },
+    {
+        "SkillDesc": "科研室内，通用订单的科技核心的获取量提高2%",
+        "SkillName": "魔术戏法",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11141
+        ],
+        "ID": 9052,
+        "Name": "魔术戏法"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比2%",
+        "SkillName": "模块回收",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11081
+        ],
+        "ID": 9053,
+        "Name": "模块回收"
+    },
+    {
+        "SkillDesc": "通过回收室回收电力容纳模块订单时，时间缩短百分比2%",
+        "SkillName": "模块回收",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11081
+        ],
+        "ID": 9054,
+        "Name": "模块回收"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "指挥者",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9055,
+        "Name": "指挥者"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产周期缩短2%",
+        "SkillName": "生产效率：电力",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10941
+        ],
+        "ID": 9056,
+        "Name": "生产效率：电力"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少2%",
+        "SkillName": "情报处理",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 9057,
+        "Name": "情报处理"
+    },
+    {
+        "SkillDesc": "自己或队友是轰炸机师时，远征大成功率提高2%",
+        "SkillName": "契合性",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10221
+        ],
+        "ID": 9058,
+        "Name": "契合性"
+    },
+    {
+        "SkillDesc": "基础时长大于3小时的远征，远征大成功率提高1%",
+        "SkillName": "耐久力",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10241
+        ],
+        "ID": 9059,
+        "Name": "耐久力"
+    },
+    {
+        "SkillDesc": "战斗类远征的大成功几率提高2%",
+        "SkillName": "战斗回避",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10161
+        ],
+        "ID": 9060,
+        "Name": "战斗回避"
+    },
+    {
+        "SkillDesc": "通过回收室回收食物纤维罐订单时，时间缩短百分比2%",
+        "SkillName": "食物爱好者",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11071
+        ],
+        "ID": 9061,
+        "Name": "食物爱好者"
+    },
+    {
+        "SkillDesc": "搜索类远征的时间缩短1%",
+        "SkillName": "远征效率：探索",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10091
+        ],
+        "ID": 9062,
+        "Name": "远征效率：探索"
+    },
+    {
+        "SkillDesc": "在水源室类房间内，使水资源的生产周期缩短2%",
+        "SkillName": "生产效率：水",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10921
+        ],
+        "ID": 9063,
+        "Name": "生产效率：水"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高1%",
+        "SkillName": "机械士兵",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10291
+        ],
+        "ID": 9064,
+        "Name": "机械士兵"
+    },
+    {
+        "SkillDesc": "通过远征获得的金币提高1%",
+        "SkillName": "远征获取：金币",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10251
+        ],
+        "ID": 9065,
+        "Name": "远征获取：金币"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "指挥者",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9066,
+        "Name": "指挥者"
+    },
+    {
+        "SkillDesc": "基础时长小于3小时的远征，远征大成功率提高1%",
+        "SkillName": "集中",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10231
+        ],
+        "ID": 9067,
+        "Name": "集中"
+    },
+    {
+        "SkillDesc": "情报室内，处理情报时消耗的时间减少2%",
+        "SkillName": "情报处理",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 9068,
+        "Name": "情报处理"
+    },
+    {
+        "SkillDesc": "在科研室内，进行通用研究的活力消耗减少5%",
+        "SkillName": "高效",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11171
+        ],
+        "ID": 9069,
+        "Name": "高效"
+    },
+    {
+        "SkillDesc": "在科研室内，进行设施研究的活力消耗减少5%",
+        "SkillName": "齐心",
+        "SkillIcon": "85000121",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11181
+        ],
+        "ID": 9070,
+        "Name": "齐心"
+    },
+    {
+        "SkillDesc": "在电力室类房间内，使电力资源的生产量增加2%",
+        "SkillName": "暴力",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11231
+        ],
+        "ID": 9071,
+        "Name": "暴力"
+    },
+    {
+        "SkillDesc": "通过远征获得的电力提高1%",
+        "SkillName": "远征获取：电力",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10291
+        ],
+        "ID": 9072,
+        "Name": "远征获取：电力"
+    },
+    {
+        "SkillDesc": "战斗类远征的时间缩短1%",
+        "SkillName": "远征效率：战斗",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10121
+        ],
+        "ID": 9073,
+        "Name": "远征效率：战斗"
+    },
+    {
+        "SkillDesc": "通过远征获得的食物提高1%",
+        "SkillName": "远征获取：食物",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10281
+        ],
+        "ID": 9074,
+        "Name": "远征获取：食物"
+    },
+    {
+        "SkillDesc": "车间内，合成零件单元的时间减少2%",
+        "SkillName": "指挥者",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9075,
+        "Name": "指挥者"
+    },
+    {
+        "SkillDesc": "在搜索类远征中，获得的食物提高2%",
+        "SkillName": "实用主义",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10581
+        ],
+        "ID": 9076,
+        "Name": "实用主义"
+    }
+]
