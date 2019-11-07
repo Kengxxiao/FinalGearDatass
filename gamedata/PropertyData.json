@@ -592,5 +592,83 @@
         "UiDesc": "减伤",
         "ID": 99,
         "Name": "整体减伤"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "对精英增伤",
+        "ID": 100,
+        "Name": "对精英增伤百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "对头领增伤",
+        "ID": 101,
+        "Name": "对BOSS增伤百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "对精英减伤",
+        "ID": 102,
+        "Name": "受精英伤害减少百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "对头领减伤",
+        "ID": 103,
+        "Name": "受BOSS伤害减少百分比"
+    },
+    {
+        "DateType": "int",
+        "UiDesc": "额外弹量",
+        "ID": 104,
+        "Name": "额外弹量"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "技能增伤",
+        "ID": 105,
+        "Name": "技能伤害提升百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "受技能伤害增加",
+        "ID": 106,
+        "Name": "受到技能伤害增加百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "治疗提升",
+        "ID": 107,
+        "Name": "自身治疗效果提示百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "能耗减少",
+        "ID": 108,
+        "Name": "能量消耗减少百分比"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "召唤物伤害提升",
+        "ID": 109,
+        "Name": "召唤物伤害提升百分比"
+    },
+    {
+        "DateType": "int",
+        "UiDesc": "召唤物个数提升",
+        "ID": 110,
+        "Name": "召唤物个数上限"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "召唤物时间",
+        "ID": 111,
+        "Name": "召唤物存在时间"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "召唤单位耐久增加",
+        "ID": 112,
+        "Name": "召唤单位耐久增加百分比"
     }
 ]

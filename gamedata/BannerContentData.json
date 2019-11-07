@@ -181,10 +181,10 @@
     },
     {
         "BannerName": "皮肤特惠",
-        "OpenTime": "2019/9/26 14:30:00",
-        "CloseTime": "2019/10/10 13:59:59",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
         "Device": 0,
-        "PictureName": "gameActivity27",
+        "PictureName": "gameActivity37",
         "LinkPage": 1,
         "ID": 37,
         "Name": null
@@ -220,23 +220,73 @@
         "Name": null
     },
     {
+        "BannerName": "十连开发-PN26伊莉希斯",
+        "OpenTime": "2019/10/24 14:30:00",
+        "CloseTime": "2019/11/7 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity31",
+        "LinkPage": 4,
+        "ID": 45,
+        "Name": null
+    },
+    {
         "BannerName": "十连招募-诺娃",
         "OpenTime": "2019/10/24 14:30:00",
         "CloseTime": "2019/11/7 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity32",
         "LinkPage": 3,
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-妮娅",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity30",
+        "LinkPage": 4,
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-辛西娅",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity33",
+        "LinkPage": 3,
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-泰西娅",
+        "OpenTime": "2019/11/21 14:30:00",
+        "CloseTime": "2019/12/5 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity35",
+        "LinkPage": 4,
         "ID": 50,
         "Name": null
     },
     {
-        "BannerName": "十连开发-漆黑之华",
-        "OpenTime": "2019/10/24 14:30:00",
-        "CloseTime": "2019/11/7 13:59:59",
+        "BannerName": "十连招募-帕蒂",
+        "OpenTime": "2019/11/21 14:30:00",
+        "CloseTime": "2019/12/5 13:59:59",
         "Device": 0,
-        "PictureName": "gameActivity31",
-        "LinkPage": 4,
-        "ID": 52,
+        "PictureName": "gameActivity34",
+        "LinkPage": 3,
+        "ID": 51,
+        "Name": null
+    },
+    {
+        "BannerName": "万圣狂欢",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/14 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity36",
+        "LinkPage": 11,
+        "ID": 59,
         "Name": null
     },
     {
@@ -421,10 +471,10 @@
     },
     {
         "BannerName": "皮肤特惠",
-        "OpenTime": "2019/9/26 14:30:00",
-        "CloseTime": "2019/10/10 13:59:59",
-        "Device": 1,
-        "PictureName": "gameActivity27",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity37",
         "LinkPage": 1,
         "ID": 38,
         "Name": null
@@ -460,23 +510,73 @@
         "Name": null
     },
     {
+        "BannerName": "十连开发-PN26伊莉希斯",
+        "OpenTime": "2019/10/24 14:30:00",
+        "CloseTime": "2019/11/7 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity31",
+        "LinkPage": 4,
+        "ID": 52,
+        "Name": null
+    },
+    {
         "BannerName": "十连招募-诺娃",
         "OpenTime": "2019/10/24 14:30:00",
         "CloseTime": "2019/11/7 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity32",
         "LinkPage": 3,
-        "ID": 51,
+        "ID": 53,
         "Name": null
     },
     {
-        "BannerName": "十连开发-漆黑之华",
-        "OpenTime": "2019/10/24 14:30:00",
-        "CloseTime": "2019/11/7 13:59:59",
+        "BannerName": "十连开发-妮娅",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
         "Device": 1,
-        "PictureName": "gameActivity31",
+        "PictureName": "gameActivity30",
         "LinkPage": 4,
-        "ID": 53,
+        "ID": 54,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-辛西娅",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/21 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity33",
+        "LinkPage": 3,
+        "ID": 56,
+        "Name": null
+    },
+    {
+        "BannerName": "十连开发-泰西娅",
+        "OpenTime": "2019/11/21 14:30:00",
+        "CloseTime": "2019/12/5 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity35",
+        "LinkPage": 4,
+        "ID": 57,
+        "Name": null
+    },
+    {
+        "BannerName": "十连招募-帕蒂",
+        "OpenTime": "2019/11/21 14:30:00",
+        "CloseTime": "2019/12/5 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity34",
+        "LinkPage": 3,
+        "ID": 58,
+        "Name": null
+    },
+    {
+        "BannerName": "万圣狂欢",
+        "OpenTime": "2019/11/7 14:30:00",
+        "CloseTime": "2019/11/14 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity36",
+        "LinkPage": 11,
+        "ID": 60,
         "Name": null
     }
 ]

@@ -15330,11 +15330,11 @@
                 18
             ],
             "values": [
+                33.0,
                 32.0,
-                32.0,
-                42.0,
-                45.0,
-                42.0
+                37.0,
+                43.0,
+                45.0
             ],
             "propertys": null
         },
@@ -15363,11 +15363,11 @@
                 18
             ],
             "values": [
+                66.0,
                 64.0,
-                65.0,
-                85.0,
-                91.0,
-                84.0
+                73.0,
+                87.0,
+                89.0
             ],
             "propertys": null
         },
@@ -15396,11 +15396,11 @@
                 18
             ],
             "values": [
-                96.0,
+                98.0,
                 97.0,
-                127.0,
-                136.0,
-                127.0
+                110.0,
+                130.0,
+                134.0
             ],
             "propertys": null
         },
@@ -15429,11 +15429,11 @@
                 18
             ],
             "values": [
-                160.0,
-                162.0,
-                212.0,
-                227.0,
-                211.0
+                164.0,
+                161.0,
+                183.0,
+                217.0,
+                223.0
             ],
             "propertys": null
         },
@@ -15462,11 +15462,11 @@
                 18
             ],
             "values": [
-                255.0,
-                259.0,
-                339.0,
-                364.0,
-                338.0
+                262.0,
+                257.0,
+                293.0,
+                348.0,
+                357.0
             ],
             "propertys": null
         },
@@ -15486,11 +15486,11 @@
                 18
             ],
             "values": [
-                383.0,
-                388.0,
-                508.0,
-                545.0,
-                507.0
+                393.0,
+                386.0,
+                440.0,
+                522.0,
+                535.0
             ],
             "propertys": null
         },
@@ -17007,6 +17007,573 @@
             "propertys": null
         },
         "ID": 540,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 1,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                42.0,
+                41.0,
+                43.0,
+                37.0,
+                43.0
+            ],
+            "propertys": null
+        },
+        "ID": 541,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 2,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                10
+            ],
+            [
+                10600000,
+                50
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                85.0,
+                83.0,
+                85.0,
+                74.0,
+                87.0
+            ],
+            "propertys": null
+        },
+        "ID": 542,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 3,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                20
+            ],
+            [
+                10600000,
+                100
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                127.0,
+                124.0,
+                128.0,
+                111.0,
+                130.0
+            ],
+            "propertys": null
+        },
+        "ID": 543,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 4,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                30
+            ],
+            [
+                10600000,
+                150
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                212.0,
+                207.0,
+                214.0,
+                186.0,
+                216.0
+            ],
+            "propertys": null
+        },
+        "ID": 544,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 5,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                50
+            ],
+            [
+                10600000,
+                250
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                339.0,
+                331.0,
+                342.0,
+                297.0,
+                346.0
+            ],
+            "propertys": null
+        },
+        "ID": 545,
+        "Name": null
+    },
+    {
+        "GirlId": 84,
+        "GirlStar": 6,
+        "UpStarPieceCost": [],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                509.0,
+                497.0,
+                513.0,
+                445.0,
+                519.0
+            ],
+            "propertys": null
+        },
+        "ID": 546,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 1,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                42.0,
+                42.0,
+                37.0,
+                41.0,
+                38.0
+            ],
+            "propertys": null
+        },
+        "ID": 547,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 2,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                10
+            ],
+            [
+                10600000,
+                50
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                85.0,
+                84.0,
+                73.0,
+                82.0,
+                76.0
+            ],
+            "propertys": null
+        },
+        "ID": 548,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 3,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                20
+            ],
+            [
+                10600000,
+                100
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                127.0,
+                127.0,
+                110.0,
+                124.0,
+                114.0
+            ],
+            "propertys": null
+        },
+        "ID": 549,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 4,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                30
+            ],
+            [
+                10600000,
+                150
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                212.0,
+                211.0,
+                183.0,
+                206.0,
+                190.0
+            ],
+            "propertys": null
+        },
+        "ID": 550,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 5,
+        "UpStarPieceCost": [
+            [
+                11200004,
+                50
+            ],
+            [
+                10600000,
+                250
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                340.0,
+                337.0,
+                294.0,
+                330.0,
+                304.0
+            ],
+            "propertys": null
+        },
+        "ID": 551,
+        "Name": null
+    },
+    {
+        "GirlId": 91,
+        "GirlStar": 6,
+        "UpStarPieceCost": [],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                509.0,
+                506.0,
+                440.0,
+                494.0,
+                456.0
+            ],
+            "propertys": null
+        },
+        "ID": 552,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 1,
+        "UpStarPieceCost": [
+            [
+                11200002,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                26.0,
+                25.0,
+                38.0,
+                41.0,
+                47.0
+            ],
+            "propertys": null
+        },
+        "ID": 553,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 2,
+        "UpStarPieceCost": [
+            [
+                11200002,
+                10
+            ],
+            [
+                10600000,
+                50
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                52.0,
+                50.0,
+                76.0,
+                83.0,
+                94.0
+            ],
+            "propertys": null
+        },
+        "ID": 554,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 3,
+        "UpStarPieceCost": [
+            [
+                11200002,
+                20
+            ],
+            [
+                10600000,
+                100
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                78.0,
+                75.0,
+                114.0,
+                124.0,
+                141.0
+            ],
+            "propertys": null
+        },
+        "ID": 555,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 4,
+        "UpStarPieceCost": [
+            [
+                11200002,
+                30
+            ],
+            [
+                10600000,
+                150
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                130.0,
+                125.0,
+                191.0,
+                206.0,
+                235.0
+            ],
+            "propertys": null
+        },
+        "ID": 556,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 5,
+        "UpStarPieceCost": [
+            [
+                11200002,
+                50
+            ],
+            [
+                10600000,
+                250
+            ]
+        ],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                207.0,
+                200.0,
+                305.0,
+                330.0,
+                376.0
+            ],
+            "propertys": null
+        },
+        "ID": 557,
+        "Name": null
+    },
+    {
+        "GirlId": 97,
+        "GirlStar": 6,
+        "UpStarPieceCost": [],
+        "GirlStarProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                311.0,
+                300.0,
+                457.0,
+                496.0,
+                564.0
+            ],
+            "propertys": null
+        },
+        "ID": 558,
         "Name": null
     }
 ]

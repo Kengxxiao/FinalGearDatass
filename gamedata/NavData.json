@@ -1060,6 +1060,126 @@
         "Name": null
     },
     {
+        "prefabCheckerName": "60101",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60102",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60102,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60104",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60104,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60201",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60201,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60202",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60202,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60204",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60204,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60301",
+        "strategyMapType": 3,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60302",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60304",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60304,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60401",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60402",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60402,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "60404",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 60404,
+        "Name": null
+    },
+    {
         "prefabCheckerName": "0_Ada_2",
         "strategyMapType": 11,
         "beforeBattleDialog": 12100001,
@@ -1382,40 +1502,40 @@
     {
         "prefabCheckerName": "0_Margaret_5_1",
         "strategyMapType": 1,
-        "beforeBattleDialog": 0,
+        "beforeBattleDialog": 92000005,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 0,
         "ID": 903209,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Margaret_5_2",
-        "strategyMapType": 1,
+        "strategyMapType": 2,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 0,
         "ID": 903210,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Margaret_6_1",
         "strategyMapType": 1,
-        "beforeBattleDialog": 0,
+        "beforeBattleDialog": 92000006,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 0,
         "ID": 903211,
         "Name": null
     },
     {
         "prefabCheckerName": "0_Margaret_6_2",
-        "strategyMapType": 1,
+        "strategyMapType": 2,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 10000054,
+        "afterBattleDialog": 0,
         "ID": 903212,
         "Name": null
     },
@@ -1437,6 +1557,26 @@
         "afterDeployDialog": 0,
         "afterBattleDialog": 20000025,
         "ID": 903251,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "0_Margaret_5_1_1",
+        "strategyMapType": 3,
+        "beforeBattleDialog": 20000055,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 20000056,
+        "ID": 903254,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "0_Margaret_5_1_2",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 10000054,
+        "ID": 903255,
         "Name": null
     },
     {

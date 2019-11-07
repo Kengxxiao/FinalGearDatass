@@ -96,6 +96,18 @@
         "Name": "诺娃"
     },
     {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/11/7 14:30:00",
+        "IosCloseTime": "2019/11/21 13:59:59",
+        "AndOpenTime": "2019/11/7 14:30:00",
+        "AndCloseTime": "2019/11/21 13:59:59",
+        "ResourceName": "91,limitRecruitRight11,RecruitRight11,SquareHead_Pilot_000910",
+        "ListOrder": 1,
+        "LibraryID": 9,
+        "ID": 10009,
+        "Name": "辛西娅"
+    },
+    {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/7/16 00:00:00",
         "IosCloseTime": "2019/7/30 13:59:59",
@@ -190,5 +202,17 @@
         "LibraryID": 20008,
         "ID": 20008,
         "Name": "PN26伊莉希斯"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2019/11/7 14:30:00",
+        "IosCloseTime": "2019/11/21 13:59:59",
+        "AndOpenTime": "2019/11/7 14:30:00",
+        "AndCloseTime": "2019/11/21 13:59:59",
+        "ResourceName": "43,limitDevelopRight9,DevelopRight9,SquareHead_Pilot_000430",
+        "ListOrder": 1,
+        "LibraryID": 20015,
+        "ID": 20009,
+        "Name": "妮娅"
     }
 ]

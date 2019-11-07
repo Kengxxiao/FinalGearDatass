@@ -1941,7 +1941,7 @@
         "GirlName": "玛格丽特",
         "GirlID": 32,
         "GirlLevel": 60,
-        "GirlSkin": 3201,
+        "GirlSkin": 3203,
         "StarLevel": 5,
         "SkillsLevel": [
             5,
@@ -1975,7 +1975,7 @@
         "GirlName": "玛格丽特",
         "GirlID": 32,
         "GirlLevel": 60,
-        "GirlSkin": 3201,
+        "GirlSkin": 3203,
         "StarLevel": 5,
         "SkillsLevel": [
             5,
@@ -2037,6 +2037,74 @@
         "RecommendAbility": 17409,
         "NPCType": 0,
         "ID": 11110,
+        "Name": null
+    },
+    {
+        "GirlName": "夜喰",
+        "GirlID": 45,
+        "GirlLevel": 60,
+        "GirlSkin": 4501,
+        "StarLevel": 5,
+        "SkillsLevel": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "SuitID": 304501,
+        "BaseEquip1": [
+            230451401,
+            60
+        ],
+        "BaseEquip2": [
+            230452301,
+            60
+        ],
+        "BaseEquip3": [
+            230453301,
+            60
+        ],
+        "BaseEquip4": [
+            230454301,
+            60
+        ],
+        "RecommendAbility": 34818,
+        "NPCType": 0,
+        "ID": 90320902,
+        "Name": null
+    },
+    {
+        "GirlName": "伊芙琳01",
+        "GirlID": 1,
+        "GirlLevel": 60,
+        "GirlSkin": 101,
+        "StarLevel": 6,
+        "SkillsLevel": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "SuitID": 300101,
+        "BaseEquip1": [
+            230011305,
+            60
+        ],
+        "BaseEquip2": [
+            230012105,
+            60
+        ],
+        "BaseEquip3": [
+            230013105,
+            60
+        ],
+        "BaseEquip4": [
+            230014105,
+            60
+        ],
+        "RecommendAbility": 52227,
+        "NPCType": 0,
+        "ID": 90321102,
         "Name": null
     }
 ]

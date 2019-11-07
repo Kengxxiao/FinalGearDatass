@@ -229,24 +229,24 @@
         "SuitName": "刻耳柏洛斯",
         "SuitType": 2,
         "SuitWeaponID": [
+            2302018,
             230201801,
-            2402018,
-            2302018
+            2402018
         ],
         "SuitChestID": [
+            2302022,
             230202201,
-            2402022,
-            2302022
+            2402022
         ],
         "SuitLegID": [
+            2302032,
             230203201,
-            2402032,
-            2302032
+            2402032
         ],
         "SuitBackpackID": [
+            2302042,
             230204201,
-            2402042,
-            2302042
+            2402042
         ],
         "SuitGirlID": [
             20
@@ -300,23 +300,23 @@
         "SuitName": "流浪武士",
         "SuitType": 2,
         "SuitWeaponID": [
-            230241401,
             2302414,
+            230241401,
             230241402
         ],
         "SuitChestID": [
-            230242301,
             2302423,
+            230242301,
             230242302
         ],
         "SuitLegID": [
-            230243301,
             2302433,
+            230243301,
             230243302
         ],
         "SuitBackpackID": [
-            230244301,
             2302443,
+            230244301,
             230244302
         ],
         "SuitGirlID": [
@@ -369,20 +369,20 @@
         "SuitName": "漆黑之华",
         "SuitType": 2,
         "SuitWeaponID": [
-            2402918,
-            2302918
+            2302918,
+            2402918
         ],
         "SuitChestID": [
-            2402922,
-            2302922
+            2302922,
+            2402922
         ],
         "SuitLegID": [
-            2402932,
-            2302932
+            2302932,
+            2402932
         ],
         "SuitBackpackID": [
-            2402942,
-            2302942
+            2302942,
+            2402942
         ],
         "SuitGirlID": [
             29
@@ -399,14 +399,14 @@
         "Suit2Desc": "·机甲攻击提高5%",
         "Suit4Add": {
             "keys": [
-                54
+                68
             ],
             "values": [
                 0.05
             ],
             "propertys": null
         },
-        "Suit4Desc": "·机甲暴击几率提高5%",
+        "Suit4Desc": "·机甲受到的伤害降低5%",
         "Suit5Add": {
             "keys": [
                 65
@@ -416,7 +416,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "·激活后PN26伊莉希斯技能强化\n·机甲伤害提高10%\n·激活专属机甲模型",
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
         "MachineArmorID": 2901,
         "WidgetCamp": 3,
         "Designer": "艾格尼丝",
@@ -934,34 +934,34 @@
         ],
         "Suit2Add": {
             "keys": [
-                54
-            ],
-            "values": [
-                0.05
-            ],
-            "propertys": null
-        },
-        "Suit2Desc": "·机甲暴击几率提高5%",
-        "Suit4Add": {
-            "keys": [
-                52
-            ],
-            "values": [
-                0.05
-            ],
-            "propertys": null
-        },
-        "Suit4Desc": "·机甲闪避几率提高5%",
-        "Suit5Add": {
-            "keys": [
-                65
+                50
             ],
             "values": [
                 0.1
             ],
             "propertys": null
         },
-        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "Suit2Desc": "·机甲命中几率提高10%",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲伤害提高5%",
+        "Suit5Add": {
+            "keys": [
+                104
+            ],
+            "values": [
+                2.0
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后妮娅技能强化\n·武器弹量额外增加\n·一体机激活后，子弹穿透能力增加\n·可激活专属机甲模型",
         "MachineArmorID": 4301,
         "WidgetCamp": 5,
         "Designer": "？？？",
@@ -1040,24 +1040,24 @@
         "SuitName": "弹幕机甲KT-01",
         "SuitType": 2,
         "SuitWeaponID": [
+            2309619,
             230961901,
-            230961902,
-            2309619
+            230961902
         ],
         "SuitChestID": [
+            2309623,
             230962301,
-            230962302,
-            2309623
+            230962302
         ],
         "SuitLegID": [
+            2309633,
             230963301,
-            230963302,
-            2309633
+            230963302
         ],
         "SuitBackpackID": [
+            2309643,
             230964301,
-            230964302,
-            2309643
+            230964302
         ],
         "SuitGirlID": [
             96
@@ -1164,6 +1164,193 @@
         "HitRate": 9,
         "ArmorRate": 9,
         "ID": 307401,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "阿拉密斯",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2308113
+        ],
+        "SuitChestID": [
+            2308121
+        ],
+        "SuitLegID": [
+            2308131
+        ],
+        "SuitBackpackID": [
+            2308141
+        ],
+        "SuitGirlID": [
+            81
+        ],
+        "Suit2Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲伤害提高5%",
+        "Suit4Add": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲闪避几率提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后泰西娅·格拉芙特技能强化\n·机甲伤害提高10%\n·可激活专属机甲模型",
+        "MachineArmorID": 8101,
+        "WidgetCamp": 7,
+        "Designer": "贝里尔",
+        "Manufacturer": "？？？",
+        "Disc": "这是一台为泰西娅专门制作的轻型机甲，出自格拉芙特家族专属机械师之手。",
+        "HpRate": 8,
+        "AtkRate": 10,
+        "DodgeRate": 10,
+        "HitRate": 10,
+        "ArmorRate": 8,
+        "ID": 308101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "变异仆从",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2306818,
+            230681801
+        ],
+        "SuitChestID": [
+            2306822,
+            230682201
+        ],
+        "SuitLegID": [
+            2306832,
+            230683201
+        ],
+        "SuitBackpackID": [
+            2306842,
+            230684201
+        ],
+        "SuitGirlID": [
+            68
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲暴击几率提高5%",
+        "Suit4Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲耐久提高5%",
+        "Suit5Add": {
+            "keys": [
+                89
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·激活后什米丽技能强化\n·机甲耐久恢复时额外增加10%的恢复量\n·可激活专属机甲模型",
+        "MachineArmorID": 6801,
+        "WidgetCamp": 8,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "米迦勒监狱实验期间被感染的量产型机体，后被什米丽回收。",
+        "HpRate": 8,
+        "AtkRate": 7,
+        "DodgeRate": 7,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 306801,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "谜之机体",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2304514
+        ],
+        "SuitChestID": [
+            2304523
+        ],
+        "SuitLegID": [
+            2304533
+        ],
+        "SuitBackpackID": [
+            2304543
+        ],
+        "SuitGirlID": [
+            24
+        ],
+        "Suit2Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "·机甲攻击提高5%",
+        "Suit4Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "·机甲耐久提高5%",
+        "Suit5Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
+        "MachineArmorID": 2401,
+        "WidgetCamp": 8,
+        "Designer": "？？？",
+        "Manufacturer": "？？？",
+        "Disc": "？？？",
+        "HpRate": 9,
+        "AtkRate": 10,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 8,
+        "ID": 304501,
         "Name": "套装数据"
     }
 ]

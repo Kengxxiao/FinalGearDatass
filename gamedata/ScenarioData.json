@@ -612,6 +612,18 @@
                 "Type": 2,
                 "Desc": "",
                 "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "stageIndex": 903254,
+                "Type": 2,
+                "Desc": "",
+                "nodeIndex": 1,
                 "transitions": []
             }
         ],
@@ -642,7 +654,59 @@
                 "Type": 2,
                 "Desc": "",
                 "nodeIndex": 0,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 20000062,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 1,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 2
+                    },
+                    {
+                        "contrast": 1,
+                        "target": 4
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 92000010,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 2,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 3
+                    }
+                ]
+            },
+            {
+                "dialogIndex": 20000063,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 3,
                 "transitions": []
+            },
+            {
+                "dialogIndex": 92000010,
+                "Type": 1,
+                "Desc": "",
+                "nodeIndex": 4,
+                "transitions": [
+                    {
+                        "contrast": 0,
+                        "target": 5
+                    }
+                ]
             }
         ],
         "ID": 903211,

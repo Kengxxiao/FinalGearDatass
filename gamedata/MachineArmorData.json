@@ -428,11 +428,11 @@
         "AccumulatingTime": 0,
         "ShootInterval": 0,
         "AttackSpeed": 1.0,
-        "WeaponSpeed": 1.72,
-        "Trigger": 0.58,
+        "WeaponSpeed": 1.54,
+        "Trigger": 0.65,
         "AnimationCycleType": 1,
         "BulletlAggRatio": [
-            0.36
+            0.42
         ],
         "BulletAggValue": 0,
         "InjuryAddEffectType": 0,
@@ -537,6 +537,96 @@
             "propertys": null
         },
         "ID": 7401,
+        "Name": null
+    },
+    {
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 6.67,
+        "Trigger": 0.15,
+        "AnimationCycleType": 2,
+        "BulletlAggRatio": [
+            0.18
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [
+            0.0
+        ],
+        "HitGrade": 0,
+        "WeaponAI": "",
+        "AddProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "ID": 8101,
+        "Name": null
+    },
+    {
+        "DistanceType": 2,
+        "Clip": 5,
+        "ReloadType": 1,
+        "ReloadTime": 866,
+        "ReloadRecover": 5,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.15,
+        "Trigger": 0.87,
+        "AnimationCycleType": 1,
+        "BulletlAggRatio": [
+            0.46
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [
+            0.0
+        ],
+        "HitGrade": 0,
+        "WeaponAI": "",
+        "AddProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "ID": 6801,
+        "Name": null
+    },
+    {
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 4.5,
+        "Trigger": 0.22,
+        "AnimationCycleType": 1,
+        "BulletlAggRatio": [
+            0.51
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [
+            0.0
+        ],
+        "HitGrade": 0,
+        "WeaponAI": "",
+        "AddProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "ID": 4501,
         "Name": null
     }
 ]

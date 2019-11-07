@@ -1285,5 +1285,27 @@
         "ShowArrow": 0,
         "ID": 903206,
         "Name": null
+    },
+    {
+        "Icon": "AStageHead_Pilot_902024",
+        "BasicSpeed": 0.4,
+        "LookRange": 4.5,
+        "LookConeAngle": 60.0,
+        "WarningRange": 5.0,
+        "BehaviorTreePath": "",
+        "ShowArrow": 0,
+        "ID": 903209,
+        "Name": null
+    },
+    {
+        "Icon": "BOSS头像",
+        "BasicSpeed": 0.4,
+        "LookRange": 0.0,
+        "LookConeAngle": 0.0,
+        "WarningRange": 0.0,
+        "BehaviorTreePath": "NavAI_3goto_1point",
+        "ShowArrow": 1,
+        "ID": 90321101,
+        "Name": null
     }
 ]

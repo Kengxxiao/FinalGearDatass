@@ -6211,25 +6211,25 @@
         ],
         "SuitID": 306401,
         "BaseEquip1": [
-            2100112,
+            2100111,
             1,
             1,
             0
         ],
         "BaseEquip2": [
-            2100122,
+            2100123,
             1,
             1,
             0
         ],
         "BaseEquip3": [
-            2100132,
+            2100133,
             1,
             1,
             0
         ],
         "BaseEquip4": [
-            2100142,
+            2100143,
             1,
             1,
             0
@@ -6252,17 +6252,17 @@
         "LikeThing": "坚果、机械设计",
         "GirlHate": "自己无法理解的东西",
         "GoodwillSkill": [],
-        "WeaponRecommend": 1,
-        "ChestRecommend": 10,
-        "LegRecommend": 15,
-        "BagRecommend": 20,
+        "WeaponRecommend": 0,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
         "BigTech": [
             3
         ],
         "BigGev": 2,
         "ExpertSkillWeapeon": 2064010,
         "ExpertSkillEquip": 2064020,
-        "GirlGood": "片手武器专精；中型部件专精",
+        "GirlGood": "壁垒武器专精；重型部件专精",
         "GirlChangePara": {
             "keys": [
                 83,
@@ -6590,7 +6590,7 @@
                 25
             ]
         ],
-        "SuitID": 0,
+        "SuitID": 306801,
         "BaseEquip1": [
             2100118,
             1,
@@ -7350,7 +7350,7 @@
                 80
             ]
         ],
-        "SuitID": 0,
+        "SuitID": 308101,
         "BaseEquip1": [
             2100113,
             1,
@@ -7909,5 +7909,484 @@
         "Autobiography": "在中立地区的某处遗迹中，主角发现了一处年代已久却保存得十分完整的实验室。主角的闯入触发了33的警报，唤醒了她与姐姐22。\n22与33掌握着古老的未知科技，却对现时点的世界一无所知。为了学习适应现代社会，姐妹与主角团队达成一致，夺取了实验室的控制权，开始以实验室为据点不断学习。\n22和33并非真的双胞胎，22阳光元气，十分乐于助人。不过由于性格有些冒失，常常弄巧成拙。作为姐姐，22对妹妹有着强烈的保护欲，但往往最后被保护的反而是她自己。比如22没事喜欢修修软件BUG，结果就是会冒出许多新BUG需要33的二次修复。\n33性格沉默，情感冷静少有起伏，拥有惊人的知识量和能力，是个程序员。33是个不善表达的人，别看她平时会因为姐姐的冒失吐槽，或者偶尔对姐姐进行个小恶作剧，但她对姐姐的爱也都隐藏在这些细小点滴的行为之中。也不知为何，33总是会控制不住自己去啃插座或者电池。",
         "ID": 96,
         "Name": "22&33"
+    },
+    {
+        "BasicSkin": 7601,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 2,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200003,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100114,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.4864,
+        "FiveDimenBL": 0.472,
+        "FiveDimenRN": 0.5805,
+        "FiveDimenFY": 0.7433,
+        "FiveDimenXY": 0.771,
+        "Birthday": "8.3",
+        "Constellation": "狮子座",
+        "BloodType": "O",
+        "Hobby": "看拳击比赛、练习拳击",
+        "BirthLocal": "？？？",
+        "OwnStory": "首都德里安军队少校之一。\n克丽丝塔将军的部下。\n战斗风格极为暴力，其属下也完美继承了她的特点。\n艾格尼丝制作的傀儡师之一。",
+        "EnglishName": "Phoenix",
+        "GirlCamp": 5,
+        "GirlCampIcon": "Kegha",
+        "GirlHeight": "162cm",
+        "LikeThing": "拳击",
+        "GirlHate": "看书",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 3,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            3
+        ],
+        "BigGev": -2,
+        "ExpertSkillWeapeon": 2076010,
+        "ExpertSkillEquip": 2076020,
+        "GirlGood": "强袭武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "傀儡师",
+        "ItemID": 10500076,
+        "Age": 20,
+        "Gender": "女",
+        "CV": "東山奈央",
+        "Autobiography": "与伊莉希斯相同，菲妮克丝也是出自于艾格尼丝之手的傀儡师，是融合了最高级黑陨石的机械人类，不过菲妮克丝属于中期制作的人形，所以在性能上远远超过了伊莉希斯，最终被艾格尼丝以人类社会适应性测试为由分配到了克格亚军队中，并且一路攀升至少校的位置，可以说她已经完美融入了人类社会，不但表现良好，甚至学会如何隐藏自己远超人类的大脑以及身体性能，艾格尼丝的实验很快就会进行到下一阶段了吧。\n菲妮克丝在接受改造之前是个豪爽中略带点暴躁，强势而又积极的少女，成为傀儡师之后虽然保留了大部分生前的个性，但由于大脑的一部分被机械取代，所以变得冷静许多，本人也没有因此而感到不满。\n菲妮克丝是艾格尼丝捡来并且抚养成人的小孩之一，不如说艾格尼丝的实验体几乎全部具有孤儿的特征，他们基本上都是自愿跟随着艾格尼丝生活的人类。\n菲妮克丝与她的观测者赫普妮格关系不太好，水火不容的状态大概就是指他们两个吧。",
+        "ID": 76,
+        "Name": "菲妮克丝"
+    },
+    {
+        "BasicSkin": 8401,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 2,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100116,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.7177,
+        "FiveDimenBL": 0.6942,
+        "FiveDimenRN": 0.7256,
+        "FiveDimenFY": 0.5907,
+        "FiveDimenXY": 0.7387,
+        "Birthday": "4.22",
+        "Constellation": "金牛座",
+        "BloodType": "O",
+        "Hobby": "拍照",
+        "BirthLocal": "海克赛尔",
+        "OwnStory": "海克塞尔执法家族最高领袖。\n有着过目不忘的能力，思维逻辑清晰。\n喜欢吃甜食，讨厌苦的东西。\n衣着穿戴十分不整齐。",
+        "EnglishName": "Patti",
+        "GirlCamp": 3,
+        "GirlCampIcon": "Haxel",
+        "GirlHeight": "145cm",
+        "LikeThing": "甜食、泡泡糖",
+        "GirlHate": "苦的东西",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 5,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 1,
+        "ExpertSkillWeapeon": 2084010,
+        "ExpertSkillEquip": 2084020,
+        "GirlGood": "冲锋武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                1.6505,
+                2.3711,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "执法者",
+        "ItemID": 10500084,
+        "Age": 20,
+        "Gender": "女",
+        "CV": "佐倉綾音",
+        "Autobiography": "海克塞尔原住民之一，“Sweet Queen”的首领，是在钢铁魔女时代来临之前，当地势力最为强大的团体之一，是当时为数不多能够与辛西娅所引领的“审判之星”相提并论的原生势力。\n帕蒂自幼年起便拥有了能够对任何事物过目不忘的能力，而她那乐观积极的性格则成为了使她寻求刺激事物的导火索。帕蒂加入了当地的武装势力并凭借着超常的记忆能力以及学习能力迅速得到了地头蛇的重视，最终在他死后接管了整个武装势力的领导权，直到这个瞬间为止，他们还只是个名不见经传的小团体罢了。\n帕蒂十分喜欢甜食，而且口中总是咀嚼着泡泡糖，她喜欢轻便的服装，喜欢露出肌肤的感觉，也喜欢为自己所见到的美丽风景进行拍照记录。\n在钢铁魔女时代到来之后，帕蒂作为海克塞尔成员之一，成为了执法者家族的领导者，如今也依旧在为自己的家族和国家贡献着力量。",
+        "ID": 84,
+        "Name": "帕蒂"
+    },
+    {
+        "BasicSkin": 9101,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 5,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100119,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.7188,
+        "FiveDimenBL": 0.7122,
+        "FiveDimenRN": 0.5806,
+        "FiveDimenFY": 0.6888,
+        "FiveDimenXY": 0.6111,
+        "Birthday": "3.1",
+        "Constellation": "双鱼座",
+        "BloodType": "AB",
+        "Hobby": "摩托车改装、捉弄下属",
+        "BirthLocal": "海克赛尔",
+        "OwnStory": "辛西娅·执刑者，为海克塞尔执刑者家族最高领袖。\n战术鬼才，但性格恶劣，喜欢捉弄手下。\n心情阴晴不定，会因为一些奇怪的事情而暴走。\n痴迷于改造自己的摩托车，在这件事上花费了不少时间。",
+        "EnglishName": "Cynthia",
+        "GirlCamp": 3,
+        "GirlCampIcon": "Haxel",
+        "GirlHeight": "147cm",
+        "LikeThing": "摩托车、洋装",
+        "GirlHate": "不听话的下属",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 8,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            1
+        ],
+        "BigGev": -3,
+        "ExpertSkillWeapeon": 2091010,
+        "ExpertSkillEquip": 2091020,
+        "GirlGood": "投射武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.5,
+                1.6505,
+                1.6505,
+                2.5
+            ],
+            "propertys": null
+        },
+        "GirlJob": "执刑者",
+        "ItemID": 10500091,
+        "Age": 20,
+        "Gender": "女",
+        "CV": "東山奈央",
+        "Autobiography": "海克塞尔原住民之一，“审判之星”的首领。\n原本是古老家族布拉德伦家的次女，在自己的父亲死后被自己的伯父陷害，她的姐姐也惨死于自己的伯父之手。伯父以辛西娅妹妹的生命威胁其放弃家族的继承权使得布拉德伦家落入了伯父的手中，自己的妹妹作为傀儡被注射了大量药物后关在大宅里而自己则被流放到贫民窟，孤独无助的少女内心逐渐被仇恨填满，并发誓总有一天会完成自己的复仇。\n最终，古老的家族布拉德伦家从海克塞尔上消失，没人知道发生了什么，也再没有人见到过辛西娅·布拉德伦与她的妹妹。\n执刑者家族的首领，言行谈吐中透露出一种出自名门的优雅，然而没有任何人知道她的过去甚至连她的姓氏都是一个谜，唯一可以知道的就是她还有一个得了重病一直住在中央医院的妹妹。喜欢捉弄自己的队员，甚至在作战中也是如此。十分看重自己的每一名队员，对她来说每一个队员都是家人一般的存在。喜欢的东西是红茶，然而她泡的红茶没有任何人在喝完之后能保持神志清醒的都会因为其柔和的味道而陷入梦乡。讨厌的东西是咖啡与其他带有咖啡味道的食物。兴趣是制作糕点与泡红茶还有制作红茶味的糕点。\n擅长指挥小团队的斩首作战，经常制定一些奇怪的战术将队友与对手玩弄在股掌之中，在队伍中担当冲锋手，只要亲自上场就永远冲在第一个。",
+        "ID": 91,
+        "Name": "辛西娅"
+    },
+    {
+        "BasicSkin": 9701,
+        "BasicStarLevel": 2,
+        "GirlQualityType": 1,
+        "ProfessionType": 3,
+        "RepeatTransform": [
+            [
+                11200002,
+                5
+            ],
+            [
+                10600000,
+                10
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100118,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.3221,
+        "FiveDimenBL": 0.2997,
+        "FiveDimenRN": 0.6145,
+        "FiveDimenFY": 0.6911,
+        "FiveDimenXY": 0.8284,
+        "Birthday": "1.1",
+        "Constellation": "摩羯座",
+        "BloodType": "B",
+        "Hobby": "发呆",
+        "BirthLocal": "海克赛尔",
+        "OwnStory": "总是随身携带着一把扫把。\n家里养着一只黑猫。\n出生于海克塞尔大沙漠。\n有着萝莉的体型但内心是个大叔。",
+        "EnglishName": "Sura",
+        "GirlCamp": 3,
+        "GirlCampIcon": "Haxel",
+        "GirlHeight": "150cm",
+        "LikeThing": "南瓜",
+        "GirlHate": "读书、看文字",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 7,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            2,
+            1
+        ],
+        "BigGev": 3,
+        "ExpertSkillWeapeon": 2097010,
+        "ExpertSkillEquip": 2097020,
+        "GirlGood": "火炮武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                2.3711,
+                1.6505,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "万圣节女巫",
+        "ItemID": 10500097,
+        "Age": 20,
+        "Gender": "女",
+        "CV": "集貝はな",
+        "Autobiography": "出生于海克塞尔大沙漠附近的孤儿少女，从小受到排挤，相传她自出生便遭受诅咒，会使靠近她的人深陷不幸，她的双亲也是因为这个原因才死去的。虽然这一切只是毫无根据的传言，却对苏拉的童年产生了很大的影响，孤独抑郁的她几乎已经快要放弃了继续生存下去的希望，然而这一点在她加入了海克塞尔执刑队之后得到了明显的好转。海克塞尔执刑队的军人并不会在意这种鸡毛蒜皮的小事情。\n苏拉是个安静的人物，不喜欢吵闹，话也不是很多，但经常语出惊人，并且有些腹黑。\n不知道为什么喜欢收集那些传统魔女相关的物件，扫把是她随身携带的物品，甚至还在家中养了一只黑猫，说不定家中还会有描绘着魔法阵的地板以及写满咒语的书籍。\n苏拉看似体型很小但内心却像个大叔一般，也许是因为她在如此小的年龄就经历了许多人间疾苦的关系吧。",
+        "ID": 97,
+        "Name": "苏拉"
+    },
+    {
+        "BasicSkin": 4501,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 2,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200003,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "SuitID": 304501,
+        "BaseEquip1": [
+            2100114,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.4471,
+        "FiveDimenBL": 0.4667,
+        "FiveDimenRN": 0.8793,
+        "FiveDimenFY": 0.808,
+        "FiveDimenXY": 0.8392,
+        "Birthday": "5.8",
+        "Constellation": "金牛座",
+        "BloodType": "AB",
+        "Hobby": "折磨他人、制作刑具",
+        "BirthLocal": "克格亚",
+        "OwnStory": "地下佣兵团『帕拉诺伊德』成员之一。\n以他人的痛苦与不幸为乐，是个极端恶趣味的人。\n喜欢折磨别人，无论是通过何种方式。\n意外的是个音乐天才。",
+        "EnglishName": "PN72Yogui",
+        "GirlCamp": 1,
+        "GirlCampIcon": "Paranoid",
+        "GirlHeight": "160cm",
+        "LikeThing": "看他人痛苦的样子",
+        "GirlHate": "说教",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 3,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            1,
+            3,
+            2,
+            4
+        ],
+        "BigGev": -5,
+        "ExpertSkillWeapeon": 2045010,
+        "ExpertSkillEquip": 2045020,
+        "GirlGood": "强袭武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "人形恶魔",
+        "ItemID": 10500045,
+        "Age": 0,
+        "Gender": "女",
+        "CV": "集貝はな",
+        "Autobiography": "出生于海克塞尔大沙漠附近的孤儿少女，从小受到排挤，相传她自出生便遭受诅咒，会使靠近她的人深陷不幸，她的双亲也是因为这个原因才死去的。虽然这一切只是毫无根据的传言，却对苏拉的童年产生了很大的影响，孤独抑郁的她几乎已经快要放弃了继续生存下去的希望，然而这一点在她加入了海克塞尔执刑队之后得到了明显的好转。海克塞尔执刑队的军人并不会在意这种鸡毛蒜皮的小事情。\n苏拉是个安静的人物，不喜欢吵闹，话也不是很多，但经常语出惊人，并且有些腹黑。\n不知道为什么喜欢收集那些传统魔女相关的物件，扫把是她随身携带的物品，甚至还在家中养了一只黑猫，说不定家中还会有描绘着魔法阵的地板以及写满咒语的书籍。\n苏拉看似体型很小但内心却像个大叔一般，也许是因为她在如此小的年龄就经历了许多人间疾苦的关系吧。",
+        "ID": 45,
+        "Name": "谜之影"
     }
 ]

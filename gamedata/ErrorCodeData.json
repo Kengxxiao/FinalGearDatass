@@ -1161,6 +1161,438 @@
         "Name": null
     },
     {
+        "Disc": "基地车等级上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVLevelLimit",
+        "Memo": "",
+        "ID": 709,
+        "Name": null
+    },
+    {
+        "Disc": "基地车房间等级上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomLevelLimit",
+        "Memo": "",
+        "ID": 710,
+        "Name": null
+    },
+    {
+        "Disc": "当前非升级状态",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CurStatusIsNotLevelUp",
+        "Memo": "",
+        "ID": 711,
+        "Name": null
+    },
+    {
+        "Disc": "当前状态不可执行当前操作",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CurStatusCanNotAction",
+        "Memo": "",
+        "ID": 712,
+        "Name": null
+    },
+    {
+        "Disc": "基础房间不可以拆除",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "CannotDestroyRoom",
+        "Memo": "",
+        "ID": 713,
+        "Name": null
+    },
+    {
+        "Disc": "机娘条件不满足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlCondNotOK",
+        "Memo": "",
+        "ID": 714,
+        "Name": null
+    },
+    {
+        "Disc": "基地车条件不满足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVBaseCondNotOK",
+        "Memo": "",
+        "ID": 715,
+        "Name": null
+    },
+    {
+        "Disc": "基地车房间条件不满足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomCondNotOK",
+        "Memo": "",
+        "ID": 716,
+        "Name": null
+    },
+    {
+        "Disc": "基地车房间互斥，当前改造操作无法进行",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomOppsite",
+        "Memo": "",
+        "ID": 717,
+        "Name": null
+    },
+    {
+        "Disc": "超过当前房间机娘最大派遣数量",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomDispatchLimit",
+        "Memo": "",
+        "ID": 718,
+        "Name": null
+    },
+    {
+        "Disc": "当前房间没有此机娘的派遣信息",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomDonotDispatchGirl",
+        "Memo": "",
+        "ID": 719,
+        "Name": null
+    },
+    {
+        "Disc": "可下订单已达上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsFull",
+        "Memo": "",
+        "ID": 720,
+        "Name": null
+    },
+    {
+        "Disc": "订单不属于当前房间订单组",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotBelong2Group",
+        "Memo": "",
+        "ID": 721,
+        "Name": null
+    },
+    {
+        "Disc": "当前房间不是订单类房间",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVRoomIsNotOrderRoom",
+        "Memo": "",
+        "ID": 722,
+        "Name": null
+    },
+    {
+        "Disc": "订单不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotExists",
+        "Memo": "",
+        "ID": 723,
+        "Name": null
+    },
+    {
+        "Disc": "不能改变完成状态的订单",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVCannotChangeCompleteOrder",
+        "Memo": "",
+        "ID": 724,
+        "Name": null
+    },
+    {
+        "Disc": "订单未完成，不可收获",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVOrderCannotGather",
+        "Memo": "",
+        "ID": 725,
+        "Name": null
+    },
+    {
+        "Disc": "基地车当前状态不能执行升级操作",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVBaseStatusCannotLvlUp",
+        "Memo": "",
+        "ID": 726,
+        "Name": null
+    },
+    {
+        "Disc": "基地车已经是低功耗状态，不能重复进入低功耗",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVCannotEnterLowCostStatus",
+        "Memo": "",
+        "ID": 727,
+        "Name": null
+    },
+    {
+        "Disc": "低功耗可用时长不足",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVLowCostHourLeak",
+        "Memo": "",
+        "ID": 728,
+        "Name": null
+    },
+    {
+        "Disc": "基地车当前不是低功耗状态，不能结束",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVIsNotLowCostStatus",
+        "Memo": "",
+        "ID": 729,
+        "Name": null
+    },
+    {
+        "Disc": "基地车低功耗奖励已经结算过了",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVLowCostHaveCalced",
+        "Memo": "",
+        "ID": 730,
+        "Name": null
+    },
+    {
+        "Disc": "只能改变进行中的订单",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotProcess",
+        "Memo": "",
+        "ID": 731,
+        "Name": null
+    },
+    {
+        "Disc": "当前气泡进度不能执行随机气泡的操作",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BubbleStatusCannotRandom",
+        "Memo": "",
+        "ID": 732,
+        "Name": null
+    },
+    {
+        "Disc": "超过随机气泡最大可刷新次数",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BubbleRefreshNumLimit",
+        "Memo": "",
+        "ID": 733,
+        "Name": null
+    },
+    {
+        "Disc": "气泡列表处于未随机状态，不能选择气泡",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BubbleNotAlreadyRandom",
+        "Memo": "",
+        "ID": 734,
+        "Name": null
+    },
+    {
+        "Disc": "当前气泡槽位没有气泡可以选择",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SlotDonotHaveBubble",
+        "Memo": "",
+        "ID": 735,
+        "Name": null
+    },
+    {
+        "Disc": "当前气泡已经领取过奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BubbleHaveRecievedAward",
+        "Memo": "",
+        "ID": 736,
+        "Name": null
+    },
+    {
+        "Disc": "时间未到，不能领取奖励",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "RecievedTimeIsNotOK",
+        "Memo": "",
+        "ID": 737,
+        "Name": null
+    },
+    {
+        "Disc": "机娘技能不存在",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlMCVSkillNotExists",
+        "Memo": "",
+        "ID": 738,
+        "Name": null
+    },
+    {
+        "Disc": "只能切换到宿舍类的房间",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SwitchGirlOnly2RestRoom",
+        "Memo": "",
+        "ID": 739,
+        "Name": null
+    },
+    {
+        "Disc": "当前状态不可执行当前操作",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVPreTaskCurStatusCanNotAction",
+        "Memo": "",
+        "ID": 740,
+        "Name": null
+    },
+    {
+        "Disc": "机娘当前是远征状态,不能被派遣",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlIsInExpeditionCannotDispatch",
+        "Memo": "",
+        "ID": 741,
+        "Name": null
+    },
+    {
+        "Disc": "编队状态不可以被派遣",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlIsInBattleGroupCannotDispatch",
+        "Memo": "",
+        "ID": 742,
+        "Name": null
+    },
+    {
+        "Disc": "机娘已经被派遣去其他房间了",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlHasDispatched",
+        "Memo": "",
+        "ID": 743,
+        "Name": null
+    },
+    {
+        "Disc": "当前科技树节点尚未解锁",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TechTreeNodeUnlock",
+        "Memo": "",
+        "ID": 744,
+        "Name": null
+    },
+    {
+        "Disc": "科技树等级已达上限",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "TechTreeNodeLevelLimit",
+        "Memo": "",
+        "ID": 745,
+        "Name": null
+    },
+    {
+        "Disc": "不是机师技能书道具",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "ItemIsNotSkillType",
+        "Memo": "",
+        "ID": 746,
+        "Name": null
+    },
+    {
+        "Disc": "不能重复学习同一个技能",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlSkillDuplicate",
+        "Memo": "",
+        "ID": 747,
+        "Name": null
+    },
+    {
+        "Disc": "机娘技能无变化，不用切换",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SwitchSkillIsNotChange",
+        "Memo": "",
+        "ID": 748,
+        "Name": null
+    },
+    {
+        "Disc": "好感度等级不符合要求",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GoodWillNotEnough",
+        "Memo": "",
+        "ID": 749,
+        "Name": null
+    },
+    {
+        "Disc": "生日送礼没有激活",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BirthdayNotActive",
+        "Memo": "",
+        "ID": 750,
+        "Name": null
+    },
+    {
+        "Disc": "生日时间未到",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "BirthdayNotTime",
+        "Memo": "",
+        "ID": 751,
+        "Name": null
+    },
+    {
+        "Disc": "只有科研室可以刷新订单配置",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "OnlyTechRoomCanRefresh",
+        "Memo": "",
+        "ID": 752,
+        "Name": null
+    },
+    {
+        "Disc": "已达资源存储上限，无法收取资源",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "SourceStoreLimit",
+        "Memo": "",
+        "ID": 753,
+        "Name": null
+    },
+    {
+        "Disc": "基地车当前不是资源紧缺状态",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "MCVIsNotLeakSourceStatus",
+        "Memo": "",
+        "ID": 754,
+        "Name": null
+    },
+    {
+        "Disc": "机师已经学会了该技能！",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlMCVSkillHaveLearned",
+        "Memo": "",
+        "ID": 755,
+        "Name": null
+    },
+    {
+        "Disc": "该机师已经学会了更强大的技能！",
+        "Title": "系统提示",
+        "IsShow": true,
+        "ParaName": "GirlMCVHighSkillHaveLearned",
+        "Memo": "",
+        "ID": 756,
+        "Name": null
+    },
+    {
         "Disc": "服务器不存在",
         "Title": "系统提示",
         "IsShow": true,

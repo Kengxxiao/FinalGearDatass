@@ -496,5 +496,1037 @@
         "Parameter": 1,
         "ID": 83,
         "Name": null
+    },
+    {
+        "Chat": "嗨，想要喝杯我调的鸡尾酒吗？",
+        "Parameter": -1,
+        "ID": 900,
+        "Name": null
+    },
+    {
+        "Chat": "学霸？我经常听人这么说，哈哈，总之谢谢啦。",
+        "Parameter": -1,
+        "ID": 901,
+        "Name": null
+    },
+    {
+        "Chat": "呦，吃饱喝足了，我们什么时候出发？",
+        "Parameter": -1,
+        "ID": 902,
+        "Name": null
+    },
+    {
+        "Chat": "我昨天做了个美梦，是，是关于你的……还有大家，哈哈。",
+        "Parameter": -1,
+        "ID": 903,
+        "Name": null
+    },
+    {
+        "Chat": "哈，想要喝杯咖啡吗？",
+        "Parameter": -1,
+        "ID": 904,
+        "Name": null
+    },
+    {
+        "Chat": "你问我战斗问题？劝你最好还是听爱塔的建议比较好，嘿嘿。",
+        "Parameter": -1,
+        "ID": 905,
+        "Name": null
+    },
+    {
+        "Chat": "嗯嗯，这份情报很有价值。",
+        "Parameter": -1,
+        "ID": 906,
+        "Name": null
+    },
+    {
+        "Chat": "别碰我，我正在忙，请走开。",
+        "Parameter": -1,
+        "ID": 907,
+        "Name": null
+    },
+    {
+        "Chat": "抱，抱歉，又搞砸了。",
+        "Parameter": -1,
+        "ID": 908,
+        "Name": null
+    },
+    {
+        "Chat": "问我的兴趣爱好是什么？当然是边整理文件边听轻音乐了。",
+        "Parameter": -1,
+        "ID": 909,
+        "Name": null
+    },
+    {
+        "Chat": "你问我在干什么？当然是在画机甲设计图啦。",
+        "Parameter": -1,
+        "ID": 910,
+        "Name": null
+    },
+    {
+        "Chat": "冷兵器时代可是有很多著名的战役的，要听听吗？",
+        "Parameter": -1,
+        "ID": 911,
+        "Name": null
+    },
+    {
+        "Chat": "友情提醒，有关战斗的事情，千万不要去找海莲娜哦。",
+        "Parameter": -1,
+        "ID": 912,
+        "Name": null
+    },
+    {
+        "Chat": "别急，别急，这里很快就可以真正派上用场了。",
+        "Parameter": -1,
+        "ID": 913,
+        "Name": null
+    },
+    {
+        "Chat": "团长大人辛苦了，请点击右下角按钮开始修复工作吧！",
+        "Parameter": -1,
+        "ID": 950,
+        "Name": null
+    },
+    {
+        "Chat": "各位。",
+        "Parameter": 1,
+        "ID": 1000,
+        "Name": null
+    },
+    {
+        "Chat": "维洛妮卡，你找我吗？",
+        "Parameter": 2,
+        "ID": 1001,
+        "Name": null
+    },
+    {
+        "Chat": "不是...我是在找你们。",
+        "Parameter": 1,
+        "ID": 1002,
+        "Name": null
+    },
+    {
+        "Chat": "额，伊芙琳正在那边打游戏啦，我叫她来。",
+        "Parameter": 2,
+        "ID": 1003,
+        "Name": null
+    },
+    {
+        "Chat": "不用了，早就听到了你们的动静",
+        "Parameter": 3,
+        "ID": 1004,
+        "Name": null
+    },
+    {
+        "Chat": "怎么了吗？匆匆忙忙的叫我们。",
+        "Parameter": 3,
+        "ID": 1005,
+        "Name": null
+    },
+    {
+        "Chat": "外面的机甲零件还没有收集完，你们居然开始休息了？",
+        "Parameter": 1,
+        "ID": 1006,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈哈，劳逸结合，才能更有效率嘛。",
+        "Parameter": 2,
+        "ID": 1007,
+        "Name": null
+    },
+    {
+        "Chat": "嗯，没错。",
+        "Parameter": 3,
+        "ID": 1008,
+        "Name": null
+    },
+    {
+        "Chat": "．．．．．．",
+        "Parameter": 1,
+        "ID": 1009,
+        "Name": null
+    },
+    {
+        "Chat": "算了，我找你们不是因为这个事情。",
+        "Parameter": 1,
+        "ID": 1010,
+        "Name": null
+    },
+    {
+        "Chat": "咦？那是因为什么？",
+        "Parameter": 2,
+        "ID": 1011,
+        "Name": null
+    },
+    {
+        "Chat": "我们刚刚接收了个大家伙。",
+        "Parameter": 1,
+        "ID": 1012,
+        "Name": null
+    },
+    {
+        "Chat": "也许你们会很高兴看到它。",
+        "Parameter": 1,
+        "ID": 1013,
+        "Name": null
+    },
+    {
+        "Chat": "这，这，这是……",
+        "Parameter": 1,
+        "ID": 2000,
+        "Name": null
+    },
+    {
+        "Chat": "没错，是基地车。",
+        "Parameter": 2,
+        "ID": 2001,
+        "Name": null
+    },
+    {
+        "Chat": "现在是我们的基地车了，只不过战后损毁严重。",
+        "Parameter": 2,
+        "ID": 2002,
+        "Name": null
+    },
+    {
+        "Chat": "所以是送我们了个破烂留作纪念吗？",
+        "Parameter": 4,
+        "ID": 2003,
+        "Name": null
+    },
+    {
+        "Chat": "…也不是损毁到不能修复。",
+        "Parameter": 2,
+        "ID": 2004,
+        "Name": null
+    },
+    {
+        "Chat": "原来如此，不过这里怎么黑漆漆的，请开灯。",
+        "Parameter": 4,
+        "ID": 2005,
+        "Name": null
+    },
+    {
+        "Chat": "抱歉，电力也损毁了。",
+        "Parameter": 2,
+        "ID": 2006,
+        "Name": null
+    },
+    {
+        "Chat": "怪不得会免费送给我们。",
+        "Parameter": 1,
+        "ID": 2007,
+        "Name": null
+    },
+    {
+        "Chat": "不过一般在电影里出现这种情况，深处都可能埋藏着什么宝藏哦。",
+        "Parameter": 1,
+        "ID": 2008,
+        "Name": null
+    },
+    {
+        "Chat": "……有什么宝藏我不知道，但我知道你有些过于亢奋了。",
+        "Parameter": 4,
+        "ID": 2009,
+        "Name": null
+    },
+    {
+        "Chat": "冷静，蕾贝莉卡。",
+        "Parameter": 2,
+        "ID": 2010,
+        "Name": null
+    },
+    {
+        "Chat": "好吧，好吧，电力制造室损毁了。",
+        "Parameter": 1,
+        "ID": 2011,
+        "Name": null
+    },
+    {
+        "Chat": "看来我们只能继续在黑暗中摸索了。",
+        "Parameter": 1,
+        "ID": 2012,
+        "Name": null
+    },
+    {
+        "Chat": "虽然你这么说，但我看不出你有在遗憾啊。",
+        "Parameter": 4,
+        "ID": 2013,
+        "Name": null
+    },
+    {
+        "Chat": "不过话说回来，电力制造室也不是不可修复。",
+        "Parameter": 2,
+        "ID": 2014,
+        "Name": null
+    },
+    {
+        "Chat": "哦？那么说说吧，要怎么修复这里。",
+        "Parameter": 4,
+        "ID": 2015,
+        "Name": null
+    },
+    {
+        "Chat": "要修复这里还需要一些帮手。",
+        "Parameter": 2,
+        "ID": 2016,
+        "Name": null
+    },
+    {
+        "Chat": "嗨，伊芙琳，我来帮忙了。",
+        "Parameter": 3,
+        "ID": 2017,
+        "Name": null
+    },
+    {
+        "Chat": "我们正好缺人手。",
+        "Parameter": 4,
+        "ID": 2018,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈，那么开始吧，修复电力制造室需要晶矿、气凝胶、源金属。",
+        "Parameter": 3,
+        "ID": 2019,
+        "Name": null
+    },
+    {
+        "Chat": "终于通电了。",
+        "Parameter": 4,
+        "ID": 2080,
+        "Name": null
+    },
+    {
+        "Chat": "虽然通电了，但其他地方恐怕也多少都有损毁，请做好心理准备。",
+        "Parameter": 3,
+        "ID": 2081,
+        "Name": null
+    },
+    {
+        "Chat": "这也是没办法的，只希望情况不要比这里更糟。",
+        "Parameter": 4,
+        "ID": 2082,
+        "Name": null
+    },
+    {
+        "Chat": "那请继续出发吧，我将帮你照看好电力制造室的。",
+        "Parameter": 3,
+        "ID": 2083,
+        "Name": null
+    },
+    {
+        "Chat": "多谢啦。",
+        "Parameter": 4,
+        "ID": 2084,
+        "Name": null
+    },
+    {
+        "Chat": "天啊，我就知道…",
+        "Parameter": 3,
+        "ID": 3000,
+        "Name": null
+    },
+    {
+        "Chat": "损毁程度只增不减啊。",
+        "Parameter": 1,
+        "ID": 3001,
+        "Name": null
+    },
+    {
+        "Chat": "唉！这天下果然没有免费的馅饼。",
+        "Parameter": 3,
+        "ID": 3002,
+        "Name": null
+    },
+    {
+        "Chat": "看来这里是水源制造室。",
+        "Parameter": 1,
+        "ID": 3003,
+        "Name": null
+    },
+    {
+        "Chat": "自动化设备很齐全。",
+        "Parameter": 1,
+        "ID": 3004,
+        "Name": null
+    },
+    {
+        "Chat": "不过水源循环系统已经彻底报废了。",
+        "Parameter": 1,
+        "ID": 3005,
+        "Name": null
+    },
+    {
+        "Chat": "那就是没救了？",
+        "Parameter": 2,
+        "ID": 3006,
+        "Name": null
+    },
+    {
+        "Chat": "也不是没得救，对吧？维洛妮卡。",
+        "Parameter": 3,
+        "ID": 3007,
+        "Name": null
+    },
+    {
+        "Chat": "是的，既然你这么问了，那么这里的修复就交给你了。",
+        "Parameter": 1,
+        "ID": 3008,
+        "Name": null
+    },
+    {
+        "Chat": "哎？？？",
+        "Parameter": 3,
+        "ID": 3009,
+        "Name": null
+    },
+    {
+        "Chat": "嗯，我认为这安排很不错。",
+        "Parameter": 2,
+        "ID": 3010,
+        "Name": null
+    },
+    {
+        "Chat": "…那好吧。",
+        "Parameter": 3,
+        "ID": 3011,
+        "Name": null
+    },
+    {
+        "Chat": "要修复这里需要系统磁盘、纳米管、设计图纸。",
+        "Parameter": 3,
+        "ID": 3012,
+        "Name": null
+    },
+    {
+        "Chat": "居然…真的可以。",
+        "Parameter": 3,
+        "ID": 3080,
+        "Name": null
+    },
+    {
+        "Chat": "按照维妮说的：自动生产系统都是共通的，只是用法不同而已。",
+        "Parameter": 2,
+        "ID": 3081,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈，伊芙琳，你学维洛妮卡说话太可笑了，哈哈哈。",
+        "Parameter": 3,
+        "ID": 3082,
+        "Name": null
+    },
+    {
+        "Chat": "……是吗？",
+        "Parameter": 2,
+        "ID": 3083,
+        "Name": null
+    },
+    {
+        "Chat": "额…",
+        "Parameter": 3,
+        "ID": 3084,
+        "Name": null
+    },
+    {
+        "Chat": "我还是再去检查下这水源循环系统的性能吧。",
+        "Parameter": 3,
+        "ID": 3085,
+        "Name": null
+    },
+    {
+        "Chat": "这里……",
+        "Parameter": 1,
+        "ID": 4000,
+        "Name": null
+    },
+    {
+        "Chat": "这里不用说我也知道，一定是宿舍吧。",
+        "Parameter": 2,
+        "ID": 4001,
+        "Name": null
+    },
+    {
+        "Chat": "这谁都看得出来吧。",
+        "Parameter": 4,
+        "ID": 4002,
+        "Name": null
+    },
+    {
+        "Chat": "是宿舍没错。",
+        "Parameter": 1,
+        "ID": 4003,
+        "Name": null
+    },
+    {
+        "Chat": "那我们赶紧把这里修复好，然后住在这里吧。",
+        "Parameter": 2,
+        "ID": 4004,
+        "Name": null
+    },
+    {
+        "Chat": "希望你的积极性维持到打扫房间的时候。",
+        "Parameter": 4,
+        "ID": 4005,
+        "Name": null
+    },
+    {
+        "Chat": "……以后的事情以后再说啦。",
+        "Parameter": 2,
+        "ID": 4006,
+        "Name": null
+    },
+    {
+        "Chat": "既然我们获得这么个大家伙，当然要修复好，好好利用啦。",
+        "Parameter": 2,
+        "ID": 4007,
+        "Name": null
+    },
+    {
+        "Chat": "你说是吧，团长大人。",
+        "Parameter": 2,
+        "ID": 4008,
+        "Name": null
+    },
+    {
+        "Chat": "这时候如果有个专业人士就好了。",
+        "Parameter": 1,
+        "ID": 4009,
+        "Name": null
+    },
+    {
+        "Chat": "嗨，各位，这里可真是太乱了，请无论如何让我帮忙吧。",
+        "Parameter": 3,
+        "ID": 4010,
+        "Name": null
+    },
+    {
+        "Chat": "打理房间可是我的强项哦。",
+        "Parameter": 3,
+        "ID": 4011,
+        "Name": null
+    },
+    {
+        "Chat": "修复宿舍需要超压钢丝、液态金属、绒花棉。",
+        "Parameter": 3,
+        "ID": 4012,
+        "Name": null
+    },
+    {
+        "Chat": "终于搞定了，累死我了。",
+        "Parameter": 2,
+        "ID": 4080,
+        "Name": null
+    },
+    {
+        "Chat": "不过，那绒花棉用在哪里了？那可是我们费了大力气才取回来的。",
+        "Parameter": 2,
+        "ID": 4081,
+        "Name": null
+    },
+    {
+        "Chat": "用来做被子了呀。",
+        "Parameter": 3,
+        "ID": 4082,
+        "Name": null
+    },
+    {
+        "Chat": "做…做被子？",
+        "Parameter": 2,
+        "ID": 4083,
+        "Name": null
+    },
+    {
+        "Chat": "我…我以为千辛万苦取回的，会有特别的用处。",
+        "Parameter": 2,
+        "ID": 4084,
+        "Name": null
+    },
+    {
+        "Chat": "最轻最柔软最珍贵的绒花棉，当然是用来做被子啦。",
+        "Parameter": 3,
+        "ID": 4085,
+        "Name": null
+    },
+    {
+        "Chat": "可是伊芙琳是用自己的小熊交换，咦？？？",
+        "Parameter": 2,
+        "ID": 4086,
+        "Name": null
+    },
+    {
+        "Chat": "伊芙琳，为什么你的小熊还在？",
+        "Parameter": 2,
+        "ID": 4087,
+        "Name": null
+    },
+    {
+        "Chat": "我有很多只啊，笨蛋蕾莉。",
+        "Parameter": 4,
+        "ID": 4088,
+        "Name": null
+    },
+    {
+        "Chat": "...伊芙琳好过分！！！",
+        "Parameter": 2,
+        "ID": 4089,
+        "Name": null
+    },
+    {
+        "Chat": "这里可不是一般的脏乱啊。",
+        "Parameter": 1,
+        "ID": 5000,
+        "Name": null
+    },
+    {
+        "Chat": "还有好多器械都损毁了。",
+        "Parameter": 1,
+        "ID": 5001,
+        "Name": null
+    },
+    {
+        "Chat": "嗯？维洛妮卡，你怎么啦？",
+        "Parameter": 1,
+        "ID": 5002,
+        "Name": null
+    },
+    {
+        "Chat": "这里…是情报室。",
+        "Parameter": 3,
+        "ID": 5003,
+        "Name": null
+    },
+    {
+        "Chat": "伊芙琳，快看，你的维妮眼睛都在发光了。",
+        "Parameter": 1,
+        "ID": 5004,
+        "Name": null
+    },
+    {
+        "Chat": "跟情报有关的话，她就是这样。",
+        "Parameter": 2,
+        "ID": 5005,
+        "Name": null
+    },
+    {
+        "Chat": "这些设备损毁并不严重，只要稍加修理就好了。",
+        "Parameter": 3,
+        "ID": 5006,
+        "Name": null
+    },
+    {
+        "Chat": "那我帮你打扫整理一下吧。",
+        "Parameter": 1,
+        "ID": 5007,
+        "Name": null
+    },
+    {
+        "Chat": "这些我来整理就好，你们插手的话，我会找不到我需要的东西。",
+        "Parameter": 3,
+        "ID": 5008,
+        "Name": null
+    },
+    {
+        "Chat": "好，好的。",
+        "Parameter": 1,
+        "ID": 5009,
+        "Name": null
+    },
+    {
+        "Chat": "不过机械的维修需要一些零件材料，你们能帮我找来吗？",
+        "Parameter": 3,
+        "ID": 5010,
+        "Name": null
+    },
+    {
+        "Chat": "只要这些机械能够运转起来，将会对我们大有帮助。",
+        "Parameter": 3,
+        "ID": 5011,
+        "Name": null
+    },
+    {
+        "Chat": "修复情报室需要超芯片、超材料、修复液。",
+        "Parameter": 3,
+        "ID": 5012,
+        "Name": null
+    },
+    {
+        "Chat": "成功了。",
+        "Parameter": 3,
+        "ID": 5080,
+        "Name": null
+    },
+    {
+        "Chat": "那就好。",
+        "Parameter": 2,
+        "ID": 5081,
+        "Name": null
+    },
+    {
+        "Chat": "快让我看看它是如何获取情报的吧！",
+        "Parameter": 2,
+        "ID": 5082,
+        "Name": null
+    },
+    {
+        "Chat": "伊芙琳这么早啊，我倒是贪床了。",
+        "Parameter": 1,
+        "ID": 6000,
+        "Name": null
+    },
+    {
+        "Chat": "都怪绒花棉做的床铺太柔软舒服了！",
+        "Parameter": 1,
+        "ID": 6001,
+        "Name": null
+    },
+    {
+        "Chat": "这次是什么工作呢？",
+        "Parameter": 2,
+        "ID": 6002,
+        "Name": null
+    },
+    {
+        "Chat": "不知道啊，维洛妮卡估计还沉浸在情报室呐，以前就是这样啊。",
+        "Parameter": 1,
+        "ID": 6003,
+        "Name": null
+    },
+    {
+        "Chat": "真是要成情报女魔头了。",
+        "Parameter": 2,
+        "ID": 6004,
+        "Name": null
+    },
+    {
+        "Chat": "女魔头，哈哈哈，亏你想得出来。",
+        "Parameter": 1,
+        "ID": 6005,
+        "Name": null
+    },
+    {
+        "Chat": "女魔头来了。",
+        "Parameter": 1,
+        "ID": 6006,
+        "Name": null
+    },
+    {
+        "Chat": "什么？？？",
+        "Parameter": 4,
+        "ID": 6007,
+        "Name": null
+    },
+    {
+        "Chat": "没什么，维妮不用管她，那么需要做什么呐？",
+        "Parameter": 2,
+        "ID": 6008,
+        "Name": null
+    },
+    {
+        "Chat": "嗯，除了日常的工作之外，我们需要继续修复房间。",
+        "Parameter": 4,
+        "ID": 6009,
+        "Name": null
+    },
+    {
+        "Chat": "一直以来，有大家的帮忙，修复工作都还算顺利。",
+        "Parameter": 4,
+        "ID": 6010,
+        "Name": null
+    },
+    {
+        "Chat": "这回要修复的是回收室，这方面的帮手我也已经找来了。",
+        "Parameter": 4,
+        "ID": 6011,
+        "Name": null
+    },
+    {
+        "Chat": "真好奇她会是谁？",
+        "Parameter": 2,
+        "ID": 6012,
+        "Name": null
+    },
+    {
+        "Chat": "伊芙琳，我来帮忙了。",
+        "Parameter": 3,
+        "ID": 6013,
+        "Name": null
+    },
+    {
+        "Chat": "是米丽娜。",
+        "Parameter": 2,
+        "ID": 6014,
+        "Name": null
+    },
+    {
+        "Chat": "是我，希望能够帮到你。",
+        "Parameter": 3,
+        "ID": 6015,
+        "Name": null
+    },
+    {
+        "Chat": "那么要修复回收室的话，我需要气凝胶、纳米管、设计图纸。",
+        "Parameter": 3,
+        "ID": 6016,
+        "Name": null
+    },
+    {
+        "Chat": "修复完成。",
+        "Parameter": 3,
+        "ID": 6080,
+        "Name": null
+    },
+    {
+        "Chat": "不愧是米丽娜。",
+        "Parameter": 2,
+        "ID": 6081,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈，能够帮到你们真的很开心啦。",
+        "Parameter": 3,
+        "ID": 6082,
+        "Name": null
+    },
+    {
+        "Chat": "快来试试回收室的最终效果如何吧！",
+        "Parameter": 3,
+        "ID": 6083,
+        "Name": null
+    },
+    {
+        "Chat": "维妮，你叫我？",
+        "Parameter": 1,
+        "ID": 7000,
+        "Name": null
+    },
+    {
+        "Chat": "是的，伊芙琳。",
+        "Parameter": 2,
+        "ID": 7001,
+        "Name": null
+    },
+    {
+        "Chat": "这里也是要修复的区域吗？",
+        "Parameter": 1,
+        "ID": 7002,
+        "Name": null
+    },
+    {
+        "Chat": "没错，不过蕾贝莉卡呐？",
+        "Parameter": 2,
+        "ID": 7003,
+        "Name": null
+    },
+    {
+        "Chat": "这几天高强度工作，似乎是累了，还在睡。",
+        "Parameter": 1,
+        "ID": 7004,
+        "Name": null
+    },
+    {
+        "Chat": "来了，来了，抱歉，睡过了头。",
+        "Parameter": 4,
+        "ID": 7005,
+        "Name": null
+    },
+    {
+        "Chat": "辛苦了，要不先休息一下吧。",
+        "Parameter": 2,
+        "ID": 7006,
+        "Name": null
+    },
+    {
+        "Chat": "没关系的，我很清楚正在做的事情有多重要。",
+        "Parameter": 4,
+        "ID": 7007,
+        "Name": null
+    },
+    {
+        "Chat": "所以，咱们还是尽快开始吧。",
+        "Parameter": 4,
+        "ID": 7008,
+        "Name": null
+    },
+    {
+        "Chat": "没错，继续吧，维妮。",
+        "Parameter": 1,
+        "ID": 7009,
+        "Name": null
+    },
+    {
+        "Chat": "既然你们已经决定了，那么这里是组装车间。",
+        "Parameter": 2,
+        "ID": 7010,
+        "Name": null
+    },
+    {
+        "Chat": "而且我们也很幸运，有一位神秘嘉宾要来帮助我们。",
+        "Parameter": 2,
+        "ID": 7011,
+        "Name": null
+    },
+    {
+        "Chat": "你好，受到邀请前来帮助你们。",
+        "Parameter": 3,
+        "ID": 7012,
+        "Name": null
+    },
+    {
+        "Chat": "居然是格蕾芙？",
+        "Parameter": 1,
+        "ID": 7013,
+        "Name": null
+    },
+    {
+        "Chat": "在管理军事之余做一些小小的修复任务，似乎也很不错。",
+        "Parameter": 3,
+        "ID": 7014,
+        "Name": null
+    },
+    {
+        "Chat": "…小小。",
+        "Parameter": 1,
+        "ID": 7015,
+        "Name": null
+    },
+    {
+        "Chat": "那么开始吧，要修复车间需要超材料、晶矿、修复液。",
+        "Parameter": 3,
+        "ID": 7016,
+        "Name": null
+    },
+    {
+        "Chat": "不愧是格蕾芙！这么快就修复成功了啊。",
+        "Parameter": 1,
+        "ID": 7080,
+        "Name": null
+    },
+    {
+        "Chat": "这很简单，那么试试效果吧。",
+        "Parameter": 3,
+        "ID": 7081,
+        "Name": null
+    },
+    {
+        "Chat": "嗯，现在就来启动试试吧。",
+        "Parameter": 1,
+        "ID": 7082,
+        "Name": null
+    },
+    {
+        "Chat": "最后一处了，各位。",
+        "Parameter": 1,
+        "ID": 8000,
+        "Name": null
+    },
+    {
+        "Chat": "终于……",
+        "Parameter": 2,
+        "ID": 8001,
+        "Name": null
+    },
+    {
+        "Chat": "把这里也修复好了，才算是真正的基地车。",
+        "Parameter": 4,
+        "ID": 8002,
+        "Name": null
+    },
+    {
+        "Chat": "没错，这里以后就是我们的大本营了。",
+        "Parameter": 1,
+        "ID": 8003,
+        "Name": null
+    },
+    {
+        "Chat": "为了黑色方舟，为了团长，大家一起完成它吧。",
+        "Parameter": 1,
+        "ID": 8004,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈哈，还挺热血的，我现在可是干劲十足。",
+        "Parameter": 2,
+        "ID": 8005,
+        "Name": null
+    },
+    {
+        "Chat": "那不要浪费时间了，快点叫出这次的嘉宾吧。",
+        "Parameter": 4,
+        "ID": 8006,
+        "Name": null
+    },
+    {
+        "Chat": "……",
+        "Parameter": 1,
+        "ID": 8007,
+        "Name": null
+    },
+    {
+        "Chat": "修复研发室怎么少得了我。",
+        "Parameter": 3,
+        "ID": 8008,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈，早就想要找个地方试试我的想法了。",
+        "Parameter": 3,
+        "ID": 8009,
+        "Name": null
+    },
+    {
+        "Chat": "……",
+        "Parameter": 4,
+        "ID": 8010,
+        "Name": null
+    },
+    {
+        "Chat": "快帮我找来液态金属、超芯片、源金属。",
+        "Parameter": 3,
+        "ID": 8011,
+        "Name": null
+    },
+    {
+        "Chat": "终于完成了，耶！！！",
+        "Parameter": 2,
+        "ID": 8080,
+        "Name": null
+    },
+    {
+        "Chat": "看上去是很不错。",
+        "Parameter": 4,
+        "ID": 8081,
+        "Name": null
+    },
+    {
+        "Chat": "哈哈，那么恭喜我们终于完成了这不可能完成的任务。",
+        "Parameter": 2,
+        "ID": 8082,
+        "Name": null
+    },
+    {
+        "Chat": "团长，这以后就是属于我们的家了。",
+        "Parameter": 4,
+        "ID": 8083,
+        "Name": null
+    },
+    {
+        "Chat": "还有我，还有我！",
+        "Parameter": 2,
+        "ID": 8084,
+        "Name": null
+    },
+    {
+        "Chat": "……",
+        "Parameter": 1,
+        "ID": 8085,
+        "Name": null
+    },
+    {
+        "Chat": "也请加上我！",
+        "Parameter": 1,
+        "ID": 8086,
+        "Name": null
     }
 ]

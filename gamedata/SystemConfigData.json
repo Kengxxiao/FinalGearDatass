@@ -1219,14 +1219,14 @@
     },
     {
         "Key": "部件数量上限",
-        "Value": "330",
+        "Value": "338",
         "Desc": "",
         "ID": 175,
         "Name": null
     },
     {
         "Key": "机师数量上限",
-        "Value": "73",
+        "Value": "77",
         "Desc": "",
         "ID": 176,
         "Name": null
@@ -1338,7 +1338,7 @@
     },
     {
         "Key": "紧急任务刷新概率",
-        "Value": "0.1",
+        "Value": "0.5",
         "Desc": "",
         "ID": 192,
         "Name": null
@@ -1352,7 +1352,7 @@
     },
     {
         "Key": "紧急任务每日限定次数",
-        "Value": "3",
+        "Value": "1",
         "Desc": "",
         "ID": 194,
         "Name": null
@@ -1597,7 +1597,7 @@
     },
     {
         "Key": "月卡金币数量增加",
-        "Value": "0.3",
+        "Value": "0.5",
         "Desc": "",
         "ID": 229,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200005,200006",
+        "Value": "200007",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,28 +1730,28 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100016",
+        "Value": "10100017",
         "Desc": "",
         "ID": 248,
         "Name": null
     },
     {
         "Key": "部件兑换商店2代币id",
-        "Value": "10100016",
+        "Value": "10100017",
         "Desc": "",
         "ID": 249,
         "Name": null
     },
     {
         "Key": "部件兑换商店3代币id",
-        "Value": "10100016",
+        "Value": "10100017",
         "Desc": "",
         "ID": 250,
         "Name": null
     },
     {
         "Key": "部件兑换商店4代币id",
-        "Value": "10100016",
+        "Value": "10100017",
         "Desc": "",
         "ID": 251,
         "Name": null
@@ -1838,6 +1838,216 @@
         "Value": "13200011,5",
         "Desc": "",
         "ID": 263,
+        "Name": null
+    },
+    {
+        "Key": "周常副本邮件功能开启时间",
+        "Value": "2019/10/13 23:59:59",
+        "Desc": "",
+        "ID": 264,
+        "Name": null
+    },
+    {
+        "Key": "万圣节商店1代币id",
+        "Value": "11400010",
+        "Desc": "",
+        "ID": 265,
+        "Name": null
+    },
+    {
+        "Key": "万圣节商店2代币id",
+        "Value": "11400011",
+        "Desc": "",
+        "ID": 266,
+        "Name": null
+    },
+    {
+        "Key": "契约戒指",
+        "Value": "15000001,1",
+        "Desc": "",
+        "ID": 267,
+        "Name": null
+    },
+    {
+        "Key": "BaseCarRoomLevelLimit",
+        "Value": "5",
+        "Desc": "",
+        "ID": 268,
+        "Name": null
+    },
+    {
+        "Key": "好感度喜欢礼物加成",
+        "Value": "0.25",
+        "Desc": "",
+        "ID": 269,
+        "Name": null
+    },
+    {
+        "Key": "生日礼物",
+        "Value": "10100002,5000;10810001,10;10810002,20",
+        "Desc": "",
+        "ID": 270,
+        "Name": null
+    },
+    {
+        "Key": "MCVSkillUsedNumLimit",
+        "Value": "4",
+        "Desc": "可使用的技能个数上限",
+        "ID": 271,
+        "Name": null
+    },
+    {
+        "Key": "ReduceCyclePercentLimit",
+        "Value": "50",
+        "Desc": "周期缩短百分比上限",
+        "ID": 272,
+        "Name": null
+    },
+    {
+        "Key": "ReduceEnergyPercentLimit",
+        "Value": "50",
+        "Desc": "活力扣减百分比上限",
+        "ID": 273,
+        "Name": null
+    },
+    {
+        "Key": "BubbleRefreshNumLimit",
+        "Value": "1",
+        "Desc": "重新随机气泡的次数上限",
+        "ID": 274,
+        "Name": null
+    },
+    {
+        "Key": "LowCostPerDayLimit",
+        "Value": "6",
+        "Desc": "每日可进入低功耗的小时数上限",
+        "ID": 275,
+        "Name": null
+    },
+    {
+        "Key": "SwitchGirlSkillCostItemId",
+        "Value": "14100002",
+        "Desc": "切换使用的技能消耗道具id",
+        "ID": 276,
+        "Name": null
+    },
+    {
+        "Key": "SwitchGirlSkillCostNum",
+        "Value": "1",
+        "Desc": "切换使用的技能消耗道具num",
+        "ID": 277,
+        "Name": null
+    },
+    {
+        "Key": "TechRoomOrderRoomConfLimit",
+        "Value": "3",
+        "Desc": "科研室最大可选择订单数量",
+        "ID": 278,
+        "Name": null
+    },
+    {
+        "Key": "WaterItemId",
+        "Value": "10100012",
+        "Desc": "基地车水资源",
+        "ID": 279,
+        "Name": null
+    },
+    {
+        "Key": "FoodItemId",
+        "Value": "10100013",
+        "Desc": "基地车食物资源",
+        "ID": 280,
+        "Name": null
+    },
+    {
+        "Key": "PowerItemId",
+        "Value": "10100014",
+        "Desc": "基地车电力资源",
+        "ID": 281,
+        "Name": null
+    },
+    {
+        "Key": "TechItemId",
+        "Value": "10100015",
+        "Desc": "科技树科研点数",
+        "ID": 282,
+        "Name": null
+    },
+    {
+        "Key": "MCVSpeedUp",
+        "Value": "10",
+        "Desc": "基地车加速时间（分钟）",
+        "ID": 283,
+        "Name": null
+    },
+    {
+        "Key": "MCVSpeedUpItem",
+        "Value": "10100018",
+        "Desc": "基地车加速道具",
+        "ID": 284,
+        "Name": null
+    },
+    {
+        "Key": "HalloweenText",
+        "Value": "第一天,9300001;第二天,9300002;第三天,9300003;第四天,9300004;第五天,9300005;第六天,9300006;第七天,9300007",
+        "Desc": "万圣节对话",
+        "ID": 285,
+        "Name": null
+    },
+    {
+        "Key": "MCVJQRoomPos",
+        "Value": "22",
+        "Desc": "舰桥房间位置",
+        "ID": 286,
+        "Name": null
+    },
+    {
+        "Key": "MCVJQRoomId",
+        "Value": "1000",
+        "Desc": "舰桥房间Id",
+        "ID": 287,
+        "Name": null
+    },
+    {
+        "Key": "加速最大消耗",
+        "Value": "1000",
+        "Desc": "",
+        "ID": 288,
+        "Name": null
+    },
+    {
+        "Key": "加速单位时长",
+        "Value": "10",
+        "Desc": "",
+        "ID": 289,
+        "Name": null
+    },
+    {
+        "Key": "加速时长倍率",
+        "Value": "10",
+        "Desc": "",
+        "ID": 290,
+        "Name": null
+    },
+    {
+        "Key": "维护时间间隔",
+        "Value": "60",
+        "Desc": "基地车维护时间间隔（单位：分钟）",
+        "ID": 291,
+        "Name": null
+    },
+    {
+        "Key": "GirlMCVSkillHaveLearnedItemId",
+        "Value": "14100002",
+        "Desc": "技能重复时发放的道具ID",
+        "ID": 292,
+        "Name": null
+    },
+    {
+        "Key": "GirlMCVSkillHaveLearnedItemNum",
+        "Value": "1",
+        "Desc": "技能重复时发放的道具数量",
+        "ID": 293,
         "Name": null
     }
 ]

@@ -43,8 +43,8 @@
     },
     {
         "Remarks": "基地",
-        "OpenCondition": 2,
-        "Value": 40104,
+        "OpenCondition": 1,
+        "Value": 40,
         "ID": 7,
         "Name": null
     },
@@ -319,6 +319,13 @@
         "OpenCondition": 2,
         "Value": 900113,
         "ID": 46,
+        "Name": null
+    },
+    {
+        "Remarks": "万圣狂欢",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 47,
         "Name": null
     }
 ]

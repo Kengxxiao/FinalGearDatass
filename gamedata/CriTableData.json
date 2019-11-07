@@ -1235,6 +1235,17 @@
         "Description": "",
         "GroupTag": "武器/加农",
         "CueSheet": "WP",
+        "CueName": "WP_Cannon_Poison",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200060700,
+        "Name": "加农-毒"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/加农",
+        "CueSheet": "WP",
         "CueName": "WP_Cannon_Grenade",
         "Loop": false,
         "Volume": 1.0,
@@ -2665,7 +2676,7 @@
         "Description": "",
         "GroupTag": "击中/爆炸",
         "CueSheet": "HIT",
-        "CueName": "HIT_Boom_Energy_2",
+        "CueName": "HIT_Boom_Poison_L",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
@@ -3237,6 +3248,17 @@
         "Description": "",
         "GroupTag": "技能/发动",
         "CueSheet": "SP",
+        "CueName": "SP_Atk_Sonic",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400400035,
+        "Name": "发射-音波"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/发动",
+        "CueSheet": "SP",
         "CueName": "SP_Atk_Lighting",
         "Loop": false,
         "Volume": 1.0,
@@ -3320,6 +3342,17 @@
         "Pitch": 0,
         "ID": 400400110,
         "Name": "召唤-出现"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/发动",
+        "CueSheet": "SP",
+        "CueName": "SP_Summon_Bubble",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400400115,
+        "Name": "召唤-出现-泡泡"
     },
     {
         "Description": "",
@@ -3517,6 +3550,17 @@
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 400500090,
+        "Name": "人类跳跃腾空-卡通"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/动作",
+        "CueSheet": "SK",
+        "CueName": "act_000170",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400500095,
         "Name": "人类跳跃腾空"
     },
     {
@@ -3550,7 +3594,7 @@
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 400500120,
-        "Name": "摩托-行驶"
+        "Name": "摩托-行驶-循环"
     },
     {
         "Description": "",
@@ -3682,7 +3726,7 @@
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 440060000,
-        "Name": "履带行驶"
+        "Name": "履带行驶（未用）"
     },
     {
         "Description": "",
@@ -3737,7 +3781,7 @@
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 440110000,
-        "Name": "摩托行驶"
+        "Name": "摩托行驶（未用）"
     },
     {
         "Description": "",
@@ -3749,17 +3793,6 @@
         "Pitch": 0,
         "ID": 440120000,
         "Name": "越野车行驶"
-    },
-    {
-        "Description": "",
-        "GroupTag": "动作",
-        "CueSheet": "ACT",
-        "CueName": "ACT_SUVDash",
-        "Loop": true,
-        "Volume": 1.0,
-        "Pitch": 0,
-        "ID": 440130000,
-        "Name": "越野车冲刺"
     },
     {
         "Description": "",
@@ -4942,6 +4975,28 @@
         "Description": "",
         "GroupTag": "角色",
         "CueSheet": "SK",
+        "CueName": "SK_Taysia_StarSlash",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007052,
+        "Name": "泰西娅-技能-五星斩"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Taysia_02",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550007055,
+        "Name": "泰西娅-技能-斩&爆炸"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
         "CueName": "SK_Viola_01",
         "Loop": false,
         "Volume": 1.0,
@@ -4981,6 +5036,39 @@
         "Pitch": 0,
         "ID": 550007090,
         "Name": "白鸦M2-技能-刀光"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Fire_3s",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008010,
+        "Name": "技能-火焰-3秒"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Fire_4s",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008020,
+        "Name": "技能-火焰-4秒"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Shmily_Start",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008030,
+        "Name": "变异仆从-登场"
     },
     {
         "Description": "瞬闪-出现",
@@ -7085,6 +7173,39 @@
     },
     {
         "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Cheer",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100140,
+        "Name": "欢呼声"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_PaPa",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100150,
+        "Name": "喷花筒啪啪声"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_Bells",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100160,
+        "Name": "教堂钟声"
+    },
+    {
+        "Description": "",
         "GroupTag": "BGM/界面",
         "CueSheet": "BGM_UI_Login",
         "CueName": "BGM_UI_Login",
@@ -7346,6 +7467,17 @@
         "Pitch": 0,
         "ID": 910080000,
         "Name": "战斗-PVP"
+    },
+    {
+        "Description": "",
+        "GroupTag": "BGM/战斗",
+        "CueSheet": "BGM_Halloween_Battle",
+        "CueName": "BGM_Halloween_Battle",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 910090000,
+        "Name": "万圣节战斗"
     },
     {
         "Description": "",

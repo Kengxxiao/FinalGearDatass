@@ -364,6 +364,20 @@
         "Name": null
     },
     {
+        "BackGroundName": "万圣狂欢",
+        "BackGroundType": 3,
+        "BackGroundDesc": "万圣狂欢",
+        "Image": "D04",
+        "GetWay": "万圣节活动获取",
+        "PublishTime": "2019.11",
+        "BackGroundRes": "cg_Pilot_800040",
+        "Array": 9,
+        "GirlID": 0,
+        "CgGirlSkinID": 0,
+        "ID": 30004,
+        "Name": null
+    },
+    {
         "BackGroundName": "海边小憩 涅普莉姆",
         "BackGroundType": 2,
         "BackGroundDesc": "平日里忙碌的少女偶尔也需要休息一下，\n顺带一提，最好不要去询问冲浪板的价格比较好哦。",
@@ -403,6 +417,62 @@
         "GirlID": 17,
         "CgGirlSkinID": 1702,
         "ID": 20051,
+        "Name": null
+    },
+    {
+        "BackGroundName": "灵魂誓约 贝尔娜黛特",
+        "BackGroundType": 2,
+        "BackGroundDesc": "这份契约，否能触及少女的灵魂深处？她眼角的泪滴又意味着什么？",
+        "Image": "C24",
+        "GetWay": "皮肤特惠获得",
+        "PublishTime": "2019.10",
+        "BackGroundRes": "cg_Pilot_000202",
+        "Array": 22,
+        "GirlID": 20,
+        "CgGirlSkinID": 2003,
+        "ID": 21020,
+        "Name": null
+    },
+    {
+        "BackGroundName": "纯白无垢 九条绫",
+        "BackGroundType": 2,
+        "BackGroundDesc": "无论是武力亦或是内心都无比强大的少女，在这重要的时刻也会露出柔软的一面，等待着你的到来。",
+        "Image": "C25",
+        "GetWay": "皮肤特惠获得",
+        "PublishTime": "2019.10",
+        "BackGroundRes": "cg_Pilot_000243",
+        "Array": 23,
+        "GirlID": 24,
+        "CgGirlSkinID": 2404,
+        "ID": 22024,
+        "Name": null
+    },
+    {
+        "BackGroundName": "复仇欲望 玛格丽特",
+        "BackGroundType": 2,
+        "BackGroundDesc": "被浑浊的情感侵占了内心的骑士，唯有用复仇的鲜血来麻痹自己。",
+        "Image": "C26",
+        "GetWay": "皮肤特惠获得",
+        "PublishTime": "2019.10",
+        "BackGroundRes": "cg_Pilot_000322",
+        "Array": 24,
+        "GirlID": 32,
+        "CgGirlSkinID": 3203,
+        "ID": 21032,
+        "Name": null
+    },
+    {
+        "BackGroundName": "命中红心 泰西娅",
+        "BackGroundType": 2,
+        "BackGroundDesc": "少女放下了细剑，拿起了捧花，却仍可以用一个微笑，轻松命中你的心。",
+        "Image": "C27",
+        "GetWay": "皮肤特惠获得",
+        "PublishTime": "2019.10",
+        "BackGroundRes": "cg_Pilot_000812",
+        "Array": 25,
+        "GirlID": 81,
+        "CgGirlSkinID": 8103,
+        "ID": 21081,
         "Name": null
     }
 ]

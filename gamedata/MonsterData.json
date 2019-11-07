@@ -6090,5 +6090,498 @@
         "BodySize": 20,
         "ID": 10401,
         "Name": "菲比亚"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41002031,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 万圣节章",
+        "BodySize": 10,
+        "ID": 10201,
+        "Name": "艾达强盗团_南瓜机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41003011,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 万圣节章",
+        "BodySize": 10,
+        "ID": 10202,
+        "Name": "帝国地方军_南瓜士兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41004021,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 万圣节章",
+        "BodySize": 10,
+        "ID": 10203,
+        "Name": "联邦军_南瓜浮游器"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型格斗",
+        "ModelID": 41005101,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "05 万圣节章",
+        "BodySize": 10,
+        "ID": 10204,
+        "Name": "执作者-南瓜格斗精英"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000005,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3105110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9907,
+        "Name": "召唤-帕蒂"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型格斗",
+        "ModelID": 41003012,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                15100.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3200110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 10,
+        "ID": 11101,
+        "Name": "玛格丽特_装甲士兵"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41003021,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                2500.0,
+                5800.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3201110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 10,
+        "ID": 11102,
+        "Name": "玛格丽特_巡逻队机器人"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型狙击",
+        "ModelID": 41003031,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                6700.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3202110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11201,
+        "Name": "玛格丽特_狙击"
+    },
+    {
+        "Icon": "",
+        "Disc": "中型守护",
+        "ModelID": 41003041,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                6700.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3203110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11202,
+        "Name": "玛格丽特_屏障"
+    },
+    {
+        "Icon": "",
+        "Disc": "轻型射击",
+        "ModelID": 41003051,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3204110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11203,
+        "Name": "玛格丽特_机枪"
+    },
+    {
+        "Icon": "",
+        "Disc": "重型投射",
+        "ModelID": 41003111,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3205110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11204,
+        "Name": "玛格丽特_投射"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英格斗",
+        "ModelID": 41003082,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                24300.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3206110,
+            3206210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11301,
+        "Name": "玛格丽特_骑士"
+    },
+    {
+        "Icon": "",
+        "Disc": "精英射击",
+        "ModelID": 41003092,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                30000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3207110,
+            3207210,
+            3207310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 20,
+        "ID": 11302,
+        "Name": "玛格丽特_射手"
+    },
+    {
+        "Icon": "",
+        "Disc": "BOSS",
+        "ModelID": 42000034,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3208110,
+            3208210,
+            3208310,
+            3208410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 玛格丽特章",
+        "BodySize": 30,
+        "ID": 11401,
+        "Name": "贝伦福德伯爵"
+    },
+    {
+        "Icon": "",
+        "Disc": "测试",
+        "ModelID": 43000008,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3105210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9908,
+        "Name": "召唤-华兰"
     }
 ]

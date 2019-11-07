@@ -546,6 +546,134 @@
                     "powerData": null,
                     "effectData": {
                         "path": {
+                            "asset": "actioneffect/03Buff_音乐",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000502,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_音乐",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 1,
+                    "useTargetZPosition": false,
+                    "positionType": 1,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000503,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "powerData": null,
+                    "effectData": {
+                        "path": {
                             "asset": "actioneffect/01其他_魔法球护盾",
                             "scale": 1.0
                         },
@@ -1904,6 +2032,133 @@
             "currentStatus": 0
         },
         "ID": 36100321,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/01其他_锤子",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": false,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 0
+                    },
+                    "fireEventEnabled": true,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 5,
+                    "useTargetZPosition": false,
+                    "positionType": 5,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": {
+                        "expressionType": 1,
+                        "PowerLevel": 490,
+                        "AntitankPower": 1,
+                        "BulletRandomY": 0.0,
+                        "RandomRotate": 0.0,
+                        "BulletFollowBoneRotate": false,
+                        "BulletNum": 6,
+                        "powerRatioList": null,
+                        "StateLengths": null,
+                        "attackperforms": null,
+                        "fireData": {
+                            "randomBullet": false,
+                            "bulletDatas": [
+                                {
+                                    "ID": 20000132,
+                                    "isFake": false,
+                                    "range": 0.0,
+                                    "segmentNumber": 0,
+                                    "attackInterval": 0.0,
+                                    "attackDuration": 0.0,
+                                    "explodeOnGroundData": null,
+                                    "followBone": false,
+                                    "effectFollowBone": false,
+                                    "effectFollowBoneRotation": false,
+                                    "extraSortingOrder": 0,
+                                    "fireEffectIDs": []
+                                }
+                            ],
+                            "FirstBulletID": 0
+                        },
+                        "Recoil": {
+                            "BackSpeed": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "Damping": 0,
+                            "confuseTime": 0.0,
+                            "bombMode": false,
+                            "dragMode": false,
+                            "freezingDurationSelf": 0.0,
+                            "freezingDurationEnemy": 0.0
+                        },
+                        "ShellData": {
+                            "eventName": null,
+                            "boneName": null,
+                            "followBone": false,
+                            "followBoneRotation": false,
+                            "followDirection": false,
+                            "extraSortingOrder": 0,
+                            "resourceIDs": null,
+                            "screenShakeIDs": null,
+                            "soundID": null
+                        },
+                        "ClipData": {
+                            "eventName": "",
+                            "boneName": "",
+                            "followBone": false,
+                            "followBoneRotation": false,
+                            "followDirection": false,
+                            "extraSortingOrder": 10,
+                            "resourceIDs": [],
+                            "screenShakeIDs": null,
+                            "soundID": null
+                        },
+                        "subEquipAI": null,
+                        "getPowerRatio": 1.0,
+                        "active": true,
+                        "movieChannel": 0,
+                        "animationEffectData": null,
+                        "scriptType": null,
+                        "type": 0
+                    },
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36100450,
         "Name": null
     },
     {

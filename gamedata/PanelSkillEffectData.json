@@ -2008,11 +2008,11 @@
     {
         "SpecialContdition": 1,
         "SpecialContditionPara": [
-            1
+            0
         ],
         "PassivePropertyAdd": {
             "keys": [
-                65
+                27
             ],
             "values": [
                 0.1
@@ -2025,11 +2025,11 @@
     {
         "SpecialContdition": 2,
         "SpecialContditionPara": [
-            2
+            3
         ],
         "PassivePropertyAdd": {
             "keys": [
-                68
+                23
             ],
             "values": [
                 0.1
@@ -2717,6 +2717,108 @@
             "propertys": null
         },
         "ID": 2096020,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 1,
+        "SpecialContditionPara": [
+            5
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2084010,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 2,
+        "SpecialContditionPara": [
+            1
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                52
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2084020,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 1,
+        "SpecialContditionPara": [
+            8
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2091010,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 2,
+        "SpecialContditionPara": [
+            3
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2091020,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 1,
+        "SpecialContditionPara": [
+            7
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2097010,
+        "Name": null
+    },
+    {
+        "SpecialContdition": 2,
+        "SpecialContditionPara": [
+            2
+        ],
+        "PassivePropertyAdd": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "ID": 2097020,
         "Name": null
     },
     {

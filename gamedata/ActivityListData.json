@@ -76,5 +76,44 @@
         "ActivityOpenLimitPara": "20104",
         "ID": 6,
         "Name": null
+    },
+    {
+        "ActivityType": 8,
+        "ActivityName": "",
+        "ActivityEngName": "",
+        "ActivityDesc": "",
+        "ActivityOpenTime": "2018/10/31 14:30:00",
+        "ActivityCloseTime": "2099/12/30 13:59:59",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 1,
+        "ActivityOpenLimitPara": "40",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "ActivityType": 9,
+        "ActivityName": "",
+        "ActivityEngName": "",
+        "ActivityDesc": "",
+        "ActivityOpenTime": "2019/10/31 14:30:00",
+        "ActivityCloseTime": "2099/12/30 13:59:59",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 0,
+        "ActivityOpenLimitPara": "",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "ActivityType": 10,
+        "ActivityName": "万圣狂欢",
+        "ActivityEngName": "Happy Halloween",
+        "ActivityDesc": "无",
+        "ActivityOpenTime": "2019/11/7 14:30:00",
+        "ActivityCloseTime": "2019/11/14 13:59:59",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 2,
+        "ActivityOpenLimitPara": "10108",
+        "ID": 10,
+        "Name": null
     }
 ]
