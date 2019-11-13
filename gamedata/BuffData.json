@@ -11102,6 +11102,116 @@
         "Name": "妮娅之力"
     },
     {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000019",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            27.0,
+            0.125
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10431210,
+        "Name": "啪啦啪啦"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000019",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            27.0,
+            0.15
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10431220,
+        "Name": "啪啦啪啦"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000019",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            27.0,
+            0.175
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10431230,
+        "Name": "啪啦啪啦"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000019",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            27.0,
+            0.2
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10431240,
+        "Name": "啪啦啪啦"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000019",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            27.0,
+            0.25
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10431250,
+        "Name": "啪啦啪啦"
+    },
+    {
         "BuffEffectType": 3,
         "BuffDuration": 3000,
         "BuffIcon": "60000005",
