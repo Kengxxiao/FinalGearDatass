@@ -25008,5 +25008,215 @@
         "SuitType": 3,
         "ID": 230454301,
         "Name": "未知部件"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001691,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "能够自动防止针对弱点的打击，从而减少装甲所受到的损伤。",
+        "Model": 0,
+        "Icon": "81000093",
+        "Icon_Large": "81000093",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400651,
+        "Name": "弱点遮蔽系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 24,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001761,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "当机体系统陷入被干扰的状态时，可以紧急启用防护功能来减弱自己所受到的伤害。",
+        "Model": 0,
+        "Icon": "81000091",
+        "Icon_Large": "81000091",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400751,
+        "Name": "异常防护系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 25,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001791,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "一种能够提升武器侵蚀能力的芯片，使得持续伤害效果大幅增加。",
+        "Model": 0,
+        "Icon": "81000096",
+        "Icon_Large": "81000096",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400852,
+        "Name": "侵蚀芯片"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 25,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001851,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "能够提供机体额外的能量，增加机体的攻击性能。",
+        "Model": 0,
+        "Icon": "81000097",
+        "Icon_Large": "81000097",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2400952,
+        "Name": "狂热芯片"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 1,
+        "EquipType": 4,
+        "EquipSubType": 25,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 4001891,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "能够使机甲的技能效果更加容易触发",
+        "Model": 0,
+        "Icon": "81000098",
+        "Icon_Large": "81000098",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 1,
+        "PropertyPara1": "",
+        "PropertyPara2": [],
+        "SuitType": 1,
+        "ID": 2401052,
+        "Name": "功能辅助系统"
     }
 ]

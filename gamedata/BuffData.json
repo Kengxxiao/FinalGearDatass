@@ -24146,7 +24146,7 @@
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 3000,
+        "BuffDuration": 5000,
         "BuffIcon": "61000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
@@ -24160,11 +24160,11 @@
             68.0,
             0.1
         ],
-        "SameBuffType": 1,
-        "OverlayLimit": 3,
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 400016911,
-        "Name": "提升减伤"
+        "Name": "弱点遮蔽"
     },
     {
         "BuffEffectType": 2,
@@ -24279,6 +24279,30 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
+        "BuffIcon": "60000023",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 5,
+        "BuffEndParam": [
+            1.0
+        ],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            68.0,
+            0.1
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": false,
+        "ID": 400017611,
+        "Name": "异常防护"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
         "BuffIcon": "61000014",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
@@ -24301,7 +24325,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 0,
-        "BuffIcon": "",
+        "BuffIcon": "61000009",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -24312,13 +24336,13 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             92.0,
-            2.0
+            1.0
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": false,
         "ID": 400017911,
-        "Name": "提升持续伤害系数"
+        "Name": "侵蚀"
     },
     {
         "BuffEffectType": 2,
@@ -24366,7 +24390,7 @@
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 6000,
+        "BuffDuration": 5000,
         "BuffIcon": "61000006",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
@@ -24378,15 +24402,13 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
-            0.05,
-            75.0,
-            0.05
+            0.1
         ],
-        "SameBuffType": 1,
-        "OverlayLimit": 3,
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 400018511,
-        "Name": "提升基础攻击，移动"
+        "Name": "狂热"
     },
     {
         "BuffEffectType": 2,
@@ -24409,6 +24431,28 @@
         "IfDispel": false,
         "ID": 400018811,
         "Name": "提升破甲"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "61000011",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            80.0,
+            0.1
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": false,
+        "ID": 400018911,
+        "Name": "功能辅助"
     },
     {
         "BuffEffectType": 1,
@@ -25504,30 +25548,6 @@
         "IfDispel": true,
         "ID": 905510501,
         "Name": "辐射"
-    },
-    {
-        "BuffEffectType": 2,
-        "BuffDuration": 0,
-        "BuffIcon": "60000023",
-        "BuffArtEffect": "",
-        "BuffArtEffectID": 0,
-        "BuffEndType": 5,
-        "BuffEndParam": [
-            1.0
-        ],
-        "BuffState": 1,
-        "BuffGap": 0,
-        "HaloRange": -1.0,
-        "BuffPropertySource": 0,
-        "BuffEffectPara": [
-            68.0,
-            0.1
-        ],
-        "SameBuffType": 0,
-        "OverlayLimit": 1,
-        "IfDispel": false,
-        "ID": 400017611,
-        "Name": "提升减伤"
     },
     {
         "BuffEffectType": 2,

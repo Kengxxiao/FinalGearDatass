@@ -96503,12 +96503,8 @@
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                78
-            ],
-            "values": [
-                100.0
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -96522,7 +96518,7 @@
         "TrunkSkillIcon": "",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "机甲受到暴击时，有30%的概率自身免伤加成10%，持续3秒",
+        "TrunkSkillDesc": "机甲受到暴击时，有50%的概率使自己在接下来的5秒内，受到的伤害降低10%，此效果不可叠加",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -96531,12 +96527,8 @@
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                78
-            ],
-            "values": [
-                100.0
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": true,
@@ -96718,7 +96710,7 @@
         "TrunkSkillIcon": "",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "机甲处于减益状态时，自身减伤加成10%",
+        "TrunkSkillDesc": "机甲处于减益状态时，自身受到的伤害降低10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -96727,12 +96719,8 @@
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                78
-            ],
-            "values": [
-                100.0
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": true,
@@ -96802,7 +96790,7 @@
         "TrunkSkillIcon": "",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "使自身所造成的持续伤害效果加成200%",
+        "TrunkSkillDesc": "使自身所造成的持续伤害效果加成100%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -96811,12 +96799,8 @@
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                78
-            ],
-            "values": [
-                100.0
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": true,
@@ -96970,7 +96954,7 @@
         "TrunkSkillIcon": "",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "机甲造成暴击时，有30%概率自身基础攻击加成5%，移动速度加成5%，持续6秒，最多可叠加3层",
+        "TrunkSkillDesc": "攻击命中目标时，10%的概率使自己在接下来的5秒内，攻击提高10%",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
@@ -96979,12 +96963,8 @@
         ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                78
-            ],
-            "values": [
-                100.0
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": true,
@@ -97073,6 +97053,30 @@
         },
         "IfForbidden": true,
         "ID": 4001881,
+        "Name": null
+    },
+    {
+        "CharacterName": "功能辅助系统",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "战斗时，机甲的效果命中概率增加10%",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            40001891
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 4001891,
         "Name": null
     }
 ]

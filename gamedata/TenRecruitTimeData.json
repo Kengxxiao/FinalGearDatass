@@ -108,6 +108,18 @@
         "Name": "辛西娅"
     },
     {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2019/11/21 14:30:00",
+        "IosCloseTime": "2019/12/5 13:59:59",
+        "AndOpenTime": "2019/11/21 14:30:00",
+        "AndCloseTime": "2019/12/5 13:59:59",
+        "ResourceName": "84,limitRecruitRight12,RecruitRight12,SquareHead_Pilot_000840",
+        "ListOrder": 1,
+        "LibraryID": 10,
+        "ID": 10010,
+        "Name": "帕蒂"
+    },
+    {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/7/16 00:00:00",
         "IosCloseTime": "2019/7/30 13:59:59",
@@ -214,5 +226,17 @@
         "LibraryID": 20015,
         "ID": 20009,
         "Name": "妮娅"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2019/11/21 14:30:00",
+        "IosCloseTime": "2019/12/5 13:59:59",
+        "AndOpenTime": "2019/11/21 14:30:00",
+        "AndCloseTime": "2019/12/5 13:59:59",
+        "ResourceName": "81,limitDevelopRight10,DevelopRight10,SquareHead_Pilot_000810",
+        "ListOrder": 1,
+        "LibraryID": 20016,
+        "ID": 20010,
+        "Name": "阿拉密斯"
     }
 ]

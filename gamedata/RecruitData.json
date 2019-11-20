@@ -118,12 +118,11 @@
             100
         ],
         "RecruitPrew": [
-            43,
-            32
+            59
         ],
         "ProbabilityPrew": "SSR机师,5%;SR机师,10%;R机师,47.5%;N机师,37.5%",
         "GirlList": "2,24,35,36,37,43,52,55,59,64,70,81,92,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,79,82,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "43,1.11%;32,2.4%",
+        "UpGirl": "59,1.11%",
         "ID": 10005,
         "Name": null
     },
@@ -319,6 +318,39 @@
         "GirlList": "",
         "UpGirl": "",
         "ID": 20006,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 1,
+        "RecruitOrder": 8,
+        "RecruitName": "普通研发室",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10800002,
+                10
+            ],
+            [
+                10800008,
+                1
+            ],
+            [
+                10100001,
+                300
+            ]
+        ],
+        "NormalRandom": 20106,
+        "FullValueRandom": 920106,
+        "RecruitPoint": [
+            1,
+            100
+        ],
+        "RecruitPrew": [],
+        "ProbabilityPrew": "普通部件产出概率:100%。\n（<color=#35CE31>N</color>:50%,<color=#00ABFF>R</color>:47.5%,<color=#D100FF>SR</color>:2.5%)",
+        "GirlList": "",
+        "UpGirl": "",
+        "ID": 21001,
         "Name": null
     },
     {
@@ -572,6 +604,33 @@
         "GirlList": "304301,0.1;300801,0.025;301301,0.025",
         "UpGirl": "304301,300801,301301",
         "ID": 20015,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "限时开发-阿拉密斯",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20210,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2308113,
+            2308121,
+            2308131,
+            2308141
+        ],
+        "ProbabilityPrew": "<size=15>普通部件：产出概率,85%,\n其中：<color=#00ABFF>R</color>,90%;<color=#D100FF>SR</color>,10%</size><size=15>\n一体机部件：产出概率,15%,\n其中：<color=#D100FF>SR</color>,100%</size>",
+        "GirlList": "308101,0.1;300801,0.025;305501,0.025",
+        "UpGirl": "308101,300801,305501",
+        "ID": 20016,
         "Name": null
     }
 ]
