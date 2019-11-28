@@ -24146,7 +24146,7 @@
     },
     {
         "BuffEffectType": 2,
-        "BuffDuration": 5000,
+        "BuffDuration": 10000,
         "BuffIcon": "61000010",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
@@ -24158,7 +24158,7 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             68.0,
-            0.1
+            0.2
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -24292,7 +24292,7 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             68.0,
-            0.1
+            0.2
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
@@ -24402,7 +24402,7 @@
         "BuffPropertySource": 0,
         "BuffEffectPara": [
             27.0,
-            0.1
+            0.2
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,

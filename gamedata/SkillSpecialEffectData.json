@@ -12674,7 +12674,7 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
+        "EffectTargetType": 2,
         "EffectTargetParam": [
             0
         ],
@@ -12695,7 +12695,7 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
+        "EffectTargetType": 2,
         "EffectTargetParam": [
             0
         ],
@@ -12716,7 +12716,7 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
+        "EffectTargetType": 2,
         "EffectTargetParam": [
             0
         ],
@@ -12737,7 +12737,7 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
+        "EffectTargetType": 2,
         "EffectTargetParam": [
             0
         ],
@@ -12758,7 +12758,7 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
+        "EffectTargetType": 2,
         "EffectTargetParam": [
             0
         ],
@@ -23595,11 +23595,13 @@
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 4,
+        "EffectTriggerEvent": 5,
         "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": true,
+        "SkillTriggerrPara": [
+            15000.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],

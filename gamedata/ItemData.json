@@ -3302,7 +3302,7 @@
         "Name": "芯片设计图"
     },
     {
-        "Description": "绘制了新型顶尖芯片设计方案的电子蓝图，可用于制造新型芯片。\n<color=yellow>功能：在开发时限定部件类型为芯片</color>",
+        "Description": "包含了新型芯片设计方案的电子蓝图，有几率制造出新型芯片。\n<color=yellow>功能：在开发时限定部件类型为芯片</color>",
         "Icon": "82020149",
         "Background": "",
         "ItemClassify": 3,
@@ -11362,7 +11362,7 @@
         "UsedGetPara": [
             11600060,
             2,
-            10400010,
+            10400000,
             500000
         ],
         "IfCanSall": false,
@@ -11375,6 +11375,33 @@
         "ShopID": [],
         "ID": 11600061,
         "Name": "新型芯片大礼包"
+    },
+    {
+        "Description": "购买后可以获得誓约戒指*2",
+        "Icon": "82020019",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 6,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 2,
+        "UsedGetPara": [
+            15000001,
+            2
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 11600062,
+        "Name": "心中有你感恩礼包"
     },
     {
         "Description": "参与<color=yellow>夏日回忆第一期水枪战争</color>可获得的珍贵点数；胜利之后才想到了最佳战术，是不是晚了点！<color=yellow>\n功能：夏日回忆活动期间，可在活动商店里兑换丰厚奖励。</color>",
