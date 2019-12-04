@@ -184,12 +184,12 @@
     {
         "ActivityID": 10,
         "CorberoDailyMissionType": 17,
-        "DailyMissionPara": "2",
-        "DailyMissionName": "完成任意等级赏金任务2次",
-        "DailyMissionDesc": "完成任意等级赏金任务2次",
+        "DailyMissionPara": "5",
+        "DailyMissionName": "完成任意等级赏金任务5次",
+        "DailyMissionDesc": "完成任意等级赏金任务5次",
         "ItemReward": [
-            11400011,
-            30
+            11400012,
+            120
         ],
         "ID": 15,
         "Name": null
@@ -201,8 +201,8 @@
         "DailyMissionName": "在赏金任务内击败40名敌人",
         "DailyMissionDesc": "在赏金任务内击败40名敌人",
         "ItemReward": [
-            11400010,
-            50
+            11400012,
+            100
         ],
         "ID": 16,
         "Name": null
@@ -214,8 +214,8 @@
         "DailyMissionName": "进行3次机师招募",
         "DailyMissionDesc": "进行3次机师招募",
         "ItemReward": [
-            11400010,
-            100
+            11400012,
+            50
         ],
         "ID": 17,
         "Name": null
@@ -227,8 +227,8 @@
         "DailyMissionName": "进行5次部件研发",
         "DailyMissionDesc": "进行5次部件研发",
         "ItemReward": [
-            11400010,
-            100
+            11400012,
+            50
         ],
         "ID": 18,
         "Name": null
@@ -240,8 +240,8 @@
         "DailyMissionName": "完成1次远征",
         "DailyMissionDesc": "完成1次远征",
         "ItemReward": [
-            11400010,
-            150
+            11400012,
+            80
         ],
         "ID": 19,
         "Name": null
@@ -250,11 +250,11 @@
         "ActivityID": 10,
         "CorberoDailyMissionType": 15,
         "DailyMissionPara": "100",
-        "DailyMissionName": "累计获得100个万圣节糖果",
-        "DailyMissionDesc": "累计获得100个万圣节糖果",
+        "DailyMissionName": "累计获得100个爱塔专用机体废料",
+        "DailyMissionDesc": "累计获得100个爱塔专用机体废料",
         "ItemReward": [
-            11400011,
-            40
+            11400012,
+            80
         ],
         "ID": 20,
         "Name": null
@@ -266,8 +266,8 @@
         "DailyMissionName": "完成所有委托任务",
         "DailyMissionDesc": "完成所有委托任务",
         "ItemReward": [
-            11400011,
-            70
+            11400012,
+            200
         ],
         "ID": 21,
         "Name": null

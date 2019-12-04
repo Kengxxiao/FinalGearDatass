@@ -25218,5 +25218,477 @@
         "SuitType": 1,
         "ID": 2401052,
         "Name": "功能辅助系统"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1332,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.96,
+        "Trigger": 0.51,
+        "BulletlAggRatio": [
+            1.08
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "第二次帝国侵略战争时期的功臣，是原帝国将领格蕾芙用帝国研究所偷来的设计图而制作的机体。\n目前已经得到了量产。",
+        "Model": 21000142,
+        "Icon": "Parts_Arm_000142",
+        "Icon_Large": "L_Arm_000142",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                640.0
+            ],
+            [
+                44.0,
+                1000.0
+            ],
+            [
+                27.0,
+                0.12
+            ],
+            [
+                65.0,
+                0.08
+            ]
+        ],
+        "SuitType": 2,
+        "ID": 210081301,
+        "Name": "冰鸟双刃"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "第二次帝国侵略战争时期的功臣，是原帝国将领格蕾芙用帝国研究所偷来的设计图而制作的机体。\n目前已经得到了量产。",
+        "Model": 24000141,
+        "Icon": "Parts_Body_000141",
+        "Icon_Large": "L_Body_000141",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                5000.0
+            ],
+            [
+                32.0,
+                1000.0
+            ],
+            [
+                23.0,
+                0.12
+            ],
+            [
+                68.0,
+                0.08
+            ]
+        ],
+        "SuitType": 2,
+        "ID": 210082201,
+        "Name": "冰鸟座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "第二次帝国侵略战争时期的功臣，是原帝国将领格蕾芙用帝国研究所偷来的设计图而制作的机体。\n目前已经得到了量产。",
+        "Model": 23000141,
+        "Icon": "Parts_Leg_000141",
+        "Icon_Large": "L_Leg_000141",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                5000.0
+            ],
+            [
+                32.0,
+                1000.0
+            ],
+            [
+                23.0,
+                0.12
+            ],
+            [
+                52.0,
+                0.08
+            ]
+        ],
+        "SuitType": 2,
+        "ID": 210083201,
+        "Name": "冰鸟机械足"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "第二次帝国侵略战争时期的功臣，是原帝国将领格蕾芙用帝国研究所偷来的设计图而制作的机体。\n目前已经得到了量产。",
+        "Model": 22000141,
+        "Icon": "Parts_Bag_000141",
+        "Icon_Large": "L_Bag_000141",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                640.0
+            ],
+            [
+                44.0,
+                1000.0
+            ],
+            [
+                27.0,
+                0.12
+            ],
+            [
+                65.0,
+                0.08
+            ]
+        ],
+        "SuitType": 2,
+        "ID": 210084201,
+        "Name": "冰鸟挂载"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 2,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 303101,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1666,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.67,
+        "Trigger": 1.49,
+        "BulletlAggRatio": [
+            0.5
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "作为反抗第二次帝国侵略战争的功臣，雨燕在战后成为了爱蕾塔的标志性机甲之一。",
+        "Model": 21000240,
+        "Icon": "Parts_Arm_000240",
+        "Icon_Large": "L_Arm_000240",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                640.0
+            ],
+            [
+                44.0,
+                1000.0
+            ],
+            [
+                27.0,
+                0.12
+            ],
+            [
+                65.0,
+                0.08
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230311801,
+        "Name": "雨燕电磁炮"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 2,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 303101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "当雨燕刚刚问世的时候，所有人都认为这是一项跨越时代的发明。",
+        "Model": 24000240,
+        "Icon": "Parts_Body_000240",
+        "Icon_Large": "L_Body_000240",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                5000.0
+            ],
+            [
+                32.0,
+                1000.0
+            ],
+            [
+                23.0,
+                0.12
+            ],
+            [
+                68.0,
+                0.08
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230312201,
+        "Name": "雨燕座舱"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 2,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 303101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "在那个只有帝国才具备悬浮技术的时代，雨燕的存在具有非常特殊的意义。",
+        "Model": 23000240,
+        "Icon": "Parts_Leg_000240",
+        "Icon_Large": "L_Leg_000240",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                5000.0
+            ],
+            [
+                32.0,
+                1000.0
+            ],
+            [
+                23.0,
+                0.12
+            ],
+            [
+                52.0,
+                0.08
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230313201,
+        "Name": "雨燕悬浮器"
+    },
+    {
+        "WidgetSN": "私人订制",
+        "WidgetCamp": 2,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 303101,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "即便从现在这个时代来看，雨燕的性能也领先于世界。",
+        "Model": 22000240,
+        "Icon": "Parts_Bag_000240",
+        "Icon_Large": "L_Bag_000240",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            3
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                640.0
+            ],
+            [
+                44.0,
+                1000.0
+            ],
+            [
+                27.0,
+                0.12
+            ],
+            [
+                65.0,
+                0.08
+            ]
+        ],
+        "SuitType": 3,
+        "ID": 230314201,
+        "Name": "雨燕挂载"
     }
 ]
