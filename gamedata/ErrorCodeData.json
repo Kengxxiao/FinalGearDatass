@@ -1,7 +1,7 @@
 [
     {
-        "Disc": "操作成功",
-        "Title": "系统提示",
+        "Disc": "1521",
+        "Title": "8620",
         "IsShow": false,
         "ParaName": "OK",
         "Memo": "",
@@ -9,8 +9,8 @@
         "Name": null
     },
     {
-        "Disc": "服务器不存在",
-        "Title": "系统提示",
+        "Disc": "1522",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NoSuchServer",
         "Memo": "",
@@ -18,8 +18,8 @@
         "Name": null
     },
     {
-        "Disc": "你的账号在另一地点登录，已被迫下线",
-        "Title": "系统提示",
+        "Disc": "1523",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "DupLogin",
         "Memo": "账号在其他地方登录",
@@ -27,8 +27,8 @@
         "Name": null
     },
     {
-        "Disc": "登录渠道不合法",
-        "Title": "系统提示",
+        "Disc": "1524",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NoSuchRetailType",
         "Memo": "",
@@ -36,8 +36,8 @@
         "Name": null
     },
     {
-        "Disc": "激活码无效",
-        "Title": "系统提示",
+        "Disc": "1525",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "InvaildActivationCode",
         "Memo": "",
@@ -45,8 +45,8 @@
         "Name": null
     },
     {
-        "Disc": "账户已被冻结",
-        "Title": "系统提示",
+        "Disc": "1526",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "AccountIsFrozen",
         "Memo": "",
@@ -54,8 +54,8 @@
         "Name": null
     },
     {
-        "Disc": "Session过期",
-        "Title": "系统提示",
+        "Disc": "1527",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SessionExpires",
         "Memo": "需要把玩家踢到主界面",
@@ -63,8 +63,8 @@
         "Name": null
     },
     {
-        "Disc": "登录失败",
-        "Title": "系统提示",
+        "Disc": "1528",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "LoginFail",
         "Memo": "获取UserId出错",
@@ -72,8 +72,8 @@
         "Name": null
     },
     {
-        "Disc": "服务器维护中",
-        "Title": "系统提示",
+        "Disc": "1529",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ServerMaintenance",
         "Memo": "需要把玩家踢到主界面",
@@ -81,8 +81,8 @@
         "Name": null
     },
     {
-        "Disc": "服务器爆满",
-        "Title": "系统提示",
+        "Disc": "1530",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ServerFull",
         "Memo": "需要把玩家踢到主界面",
@@ -90,8 +90,8 @@
         "Name": null
     },
     {
-        "Disc": "非法用户",
-        "Title": "系统提示",
+        "Disc": "1531",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "IllegalUser",
         "Memo": "",
@@ -99,8 +99,8 @@
         "Name": null
     },
     {
-        "Disc": "请求非法",
-        "Title": "系统提示",
+        "Disc": "1532",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TokenVerifyError",
         "Memo": "需要把玩家踢到主界面(token验证失败)",
@@ -108,8 +108,8 @@
         "Name": null
     },
     {
-        "Disc": "游戏资源已更新，请重新登录进行更新。\n因此给您带来的不便，敬请谅解。",
-        "Title": "系统提示",
+        "Disc": "1533",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ClientVerMismatch",
         "Memo": "需要把玩家踢到主界面",
@@ -117,8 +117,8 @@
         "Name": null
     },
     {
-        "Disc": "未知错误",
-        "Title": "系统提示",
+        "Disc": "1534",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "Unknown",
         "Memo": "请为网关预留[1,255]这些位的异常码",
@@ -126,8 +126,8 @@
         "Name": null
     },
     {
-        "Disc": "服务器内部错误",
-        "Title": "系统提示",
+        "Disc": "1535",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ServerError",
         "Memo": "",
@@ -135,8 +135,8 @@
         "Name": null
     },
     {
-        "Disc": "对象数据不存在",
-        "Title": "系统提示",
+        "Disc": "1536",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotExists",
         "Memo": "",
@@ -144,8 +144,8 @@
         "Name": null
     },
     {
-        "Disc": "参数错误",
-        "Title": "系统提示",
+        "Disc": "1537",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ParamError",
         "Memo": "",
@@ -153,8 +153,8 @@
         "Name": null
     },
     {
-        "Disc": "配置错误",
-        "Title": "系统提示",
+        "Disc": "1538",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ConfigError",
         "Memo": "",
@@ -162,8 +162,8 @@
         "Name": null
     },
     {
-        "Disc": "晶石不足",
-        "Title": "系统提示",
+        "Disc": "1539",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CrystalNotEnough",
         "Memo": "",
@@ -171,8 +171,8 @@
         "Name": null
     },
     {
-        "Disc": "金币不足",
-        "Title": "系统提示",
+        "Disc": "1540",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CoinsNotEnough",
         "Memo": "",
@@ -180,8 +180,8 @@
         "Name": null
     },
     {
-        "Disc": "超出上限",
-        "Title": "系统提示",
+        "Disc": "1541",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "OverTheLimit",
         "Memo": "",
@@ -189,8 +189,8 @@
         "Name": null
     },
     {
-        "Disc": "部件素材不能被穿着",
-        "Title": "系统提示",
+        "Disc": "1542",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetMaterialNotDressed",
         "Memo": "",
@@ -198,8 +198,8 @@
         "Name": null
     },
     {
-        "Disc": "强化等级上限",
-        "Title": "系统提示",
+        "Disc": "1543",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "IntensifyLevelLimit",
         "Memo": "",
@@ -207,8 +207,8 @@
         "Name": null
     },
     {
-        "Disc": "最后一个机娘不能下阵",
-        "Title": "系统提示",
+        "Disc": "1544",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "LastGirlNotDown",
         "Memo": "",
@@ -216,8 +216,8 @@
         "Name": null
     },
     {
-        "Disc": "物品数量不足",
-        "Title": "系统提示",
+        "Disc": "1545",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemNumNotEnough",
         "Memo": "",
@@ -225,8 +225,8 @@
         "Name": null
     },
     {
-        "Disc": "道具类型错误",
-        "Title": "系统提示",
+        "Disc": "1546",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemTypeError",
         "Memo": "",
@@ -234,8 +234,8 @@
         "Name": null
     },
     {
-        "Disc": "道具未找到",
-        "Title": "系统提示",
+        "Disc": "1547",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemNotFound",
         "Memo": "",
@@ -243,8 +243,8 @@
         "Name": null
     },
     {
-        "Disc": "星级上限",
-        "Title": "系统提示",
+        "Disc": "1548",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "StarLevelLimit",
         "Memo": "",
@@ -252,8 +252,8 @@
         "Name": null
     },
     {
-        "Disc": "突破等级不足",
-        "Title": "系统提示",
+        "Disc": "1549",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BrekthoughLevelNotEnough",
         "Memo": "",
@@ -261,8 +261,8 @@
         "Name": null
     },
     {
-        "Disc": "背包不足",
-        "Title": "系统提示",
+        "Disc": "1550",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PackageNotEnough",
         "Memo": "",
@@ -270,8 +270,8 @@
         "Name": null
     },
     {
-        "Disc": "未在战斗中",
-        "Title": "系统提示",
+        "Disc": "1551",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotInBattle",
         "Memo": "",
@@ -279,8 +279,8 @@
         "Name": null
     },
     {
-        "Disc": "当前小队正在战斗中无法进行配置",
-        "Title": "系统提示",
+        "Disc": "1552",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BattleGroupInFighting",
         "Memo": "",
@@ -288,8 +288,8 @@
         "Name": null
     },
     {
-        "Disc": "关卡战斗中",
-        "Title": "系统提示",
+        "Disc": "1553",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "StageFighting",
         "Memo": "",
@@ -297,8 +297,8 @@
         "Name": null
     },
     {
-        "Disc": "任务未开放",
-        "Title": "系统提示",
+        "Disc": "1554",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MissionNotOpen",
         "Memo": "",
@@ -306,8 +306,8 @@
         "Name": null
     },
     {
-        "Disc": "前置关卡未完成",
-        "Title": "系统提示",
+        "Disc": "1555",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PreStageNotComplete",
         "Memo": "",
@@ -315,8 +315,8 @@
         "Name": null
     },
     {
-        "Disc": "电量不足",
-        "Title": "系统提示",
+        "Disc": "1556",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PowerNotEnough",
         "Memo": "",
@@ -324,8 +324,8 @@
         "Name": null
     },
     {
-        "Disc": "碎片不足",
-        "Title": "系统提示",
+        "Disc": "1557",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "FragmentNumNotEnough",
         "Memo": "",
@@ -333,8 +333,8 @@
         "Name": null
     },
     {
-        "Disc": "接取任务等级限制",
-        "Title": "系统提示",
+        "Disc": "1558",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MissionLevelLimit",
         "Memo": "",
@@ -342,8 +342,8 @@
         "Name": null
     },
     {
-        "Disc": "该道具不可出售",
-        "Title": "系统提示",
+        "Disc": "1559",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemNotSell",
         "Memo": "",
@@ -351,8 +351,8 @@
         "Name": null
     },
     {
-        "Disc": "该道具不可使用",
-        "Title": "系统提示",
+        "Disc": "1560",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemNotUse",
         "Memo": "",
@@ -360,8 +360,8 @@
         "Name": null
     },
     {
-        "Disc": "该邮件已领取",
-        "Title": "系统提示",
+        "Disc": "1561",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MailGeted",
         "Memo": "",
@@ -369,8 +369,8 @@
         "Name": null
     },
     {
-        "Disc": "装备组不可以激活",
-        "Title": "系统提示",
+        "Disc": "1562",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetGroupNotActivate",
         "Memo": "",
@@ -378,8 +378,8 @@
         "Name": null
     },
     {
-        "Disc": "装备不能分解",
-        "Title": "系统提示",
+        "Disc": "1563",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetNotResolve",
         "Memo": "",
@@ -387,8 +387,8 @@
         "Name": null
     },
     {
-        "Disc": "目标角色电量不足",
-        "Title": "系统提示",
+        "Disc": "1564",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TargetGirlPowerNotEnough",
         "Memo": "",
@@ -396,8 +396,8 @@
         "Name": null
     },
     {
-        "Disc": "招募队列已达上限",
-        "Title": "系统提示",
+        "Disc": "1565",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RecruitQueueLimit",
         "Memo": "",
@@ -405,8 +405,8 @@
         "Name": null
     },
     {
-        "Disc": "建造队列已达上限",
-        "Title": "系统提示",
+        "Disc": "1566",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BuildQueueLimit",
         "Memo": "",
@@ -414,8 +414,8 @@
         "Name": null
     },
     {
-        "Disc": "购买碎片时没有此机师",
-        "Title": "系统提示",
+        "Disc": "1567",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGirl",
         "Memo": "",
@@ -423,8 +423,8 @@
         "Name": null
     },
     {
-        "Disc": "性别输入错误",
-        "Title": "系统提示",
+        "Disc": "1568",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SexInputError",
         "Memo": "",
@@ -432,8 +432,8 @@
         "Name": null
     },
     {
-        "Disc": "不能装备相同的配件",
-        "Title": "系统提示",
+        "Disc": "1569",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotEquipedSamePart",
         "Memo": "",
@@ -441,8 +441,8 @@
         "Name": null
     },
     {
-        "Disc": "装备类型错误",
-        "Title": "系统提示",
+        "Disc": "1570",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetTypeError",
         "Memo": "",
@@ -450,8 +450,8 @@
         "Name": null
     },
     {
-        "Disc": "长度非法",
-        "Title": "系统提示",
+        "Disc": "1571",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "IllegalLength",
         "Memo": "",
@@ -459,8 +459,8 @@
         "Name": null
     },
     {
-        "Disc": "昵称已存在",
-        "Title": "系统提示",
+        "Disc": "1572",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NickNameExists",
         "Memo": "",
@@ -468,8 +468,8 @@
         "Name": null
     },
     {
-        "Disc": "非法字符",
-        "Title": "系统提示",
+        "Disc": "1573",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "IllegalCharacter",
         "Memo": "",
@@ -477,8 +477,8 @@
         "Name": null
     },
     {
-        "Disc": "生日格式错误",
-        "Title": "系统提示",
+        "Disc": "1574",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BirthdayError",
         "Memo": "",
@@ -486,8 +486,8 @@
         "Name": null
     },
     {
-        "Disc": "生日不能修改",
-        "Title": "系统提示",
+        "Disc": "1575",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BirthdayNotModify",
         "Memo": "",
@@ -495,8 +495,8 @@
         "Name": null
     },
     {
-        "Disc": "没有可以加速的队列",
-        "Title": "系统提示",
+        "Disc": "1576",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotNeedQuick",
         "Memo": "",
@@ -504,8 +504,8 @@
         "Name": null
     },
     {
-        "Disc": "计时未结束",
-        "Title": "系统提示",
+        "Disc": "1577",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TimeNotOver",
         "Memo": "",
@@ -513,8 +513,8 @@
         "Name": null
     },
     {
-        "Disc": "不能高于佣兵团等级",
-        "Title": "系统提示",
+        "Disc": "1578",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotMorePlayerLevel",
         "Memo": "",
@@ -522,8 +522,8 @@
         "Name": null
     },
     {
-        "Disc": "已经在小队中",
-        "Title": "系统提示",
+        "Disc": "1579",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "InBattleGroup",
         "Memo": "",
@@ -531,8 +531,8 @@
         "Name": null
     },
     {
-        "Disc": "未拥有该皮肤",
-        "Title": "系统提示",
+        "Disc": "1580",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotSkin",
         "Memo": "",
@@ -540,8 +540,8 @@
         "Name": null
     },
     {
-        "Disc": "当前成就未达成奖励不可领取",
-        "Title": "系统提示",
+        "Disc": "1581",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetAchiReward",
         "Memo": "",
@@ -549,8 +549,8 @@
         "Name": null
     },
     {
-        "Disc": "登录天数未达成奖励不可领取",
-        "Title": "系统提示",
+        "Disc": "1582",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetSevenLoginReward",
         "Memo": "",
@@ -558,8 +558,8 @@
         "Name": null
     },
     {
-        "Disc": "该商品已达购买次数限制",
-        "Title": "系统提示",
+        "Disc": "1583",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ShopItemBuyLimit",
         "Memo": "",
@@ -567,8 +567,8 @@
         "Name": null
     },
     {
-        "Disc": "技能等级已达上限",
-        "Title": "系统提示",
+        "Disc": "1584",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlSkillLevelLimit",
         "Memo": "",
@@ -576,8 +576,8 @@
         "Name": null
     },
     {
-        "Disc": "装备已锁定",
-        "Title": "系统提示",
+        "Disc": "1585",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetLocked",
         "Memo": "",
@@ -585,8 +585,8 @@
         "Name": null
     },
     {
-        "Disc": "克尔贝洛活动的点数不足",
-        "Title": "系统提示",
+        "Disc": "1586",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CorberoPointNotEnough",
         "Memo": "",
@@ -594,8 +594,8 @@
         "Name": null
     },
     {
-        "Disc": "克尔贝洛活动的奖励已领取",
-        "Title": "系统提示",
+        "Disc": "1587",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CorberoPointRewardGeted",
         "Memo": "",
@@ -603,8 +603,8 @@
         "Name": null
     },
     {
-        "Disc": "当前区域未开启",
-        "Title": "系统提示",
+        "Disc": "1588",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "AreaNotOpen",
         "Memo": "",
@@ -612,8 +612,8 @@
         "Name": null
     },
     {
-        "Disc": "奖池未空前不可重置",
-        "Title": "系统提示",
+        "Disc": "1589",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ActivityRewardPoolNotEmpty",
         "Memo": "",
@@ -621,8 +621,8 @@
         "Name": null
     },
     {
-        "Disc": "没有可兑换的道具",
-        "Title": "系统提示",
+        "Disc": "1590",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotExchangeableItem",
         "Memo": "",
@@ -630,8 +630,8 @@
         "Name": null
     },
     {
-        "Disc": "所有奖励已领完",
-        "Title": "系统提示",
+        "Disc": "1591",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "AllRewardGeted",
         "Memo": "",
@@ -639,8 +639,8 @@
         "Name": null
     },
     {
-        "Disc": "不可领取活动日常奖励",
-        "Title": "系统提示",
+        "Disc": "1592",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetActivityDailyReward",
         "Memo": "",
@@ -648,8 +648,8 @@
         "Name": null
     },
     {
-        "Disc": "不可领取活动成就奖励",
-        "Title": "系统提示",
+        "Disc": "1593",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetActivityAchiReward",
         "Memo": "",
@@ -657,8 +657,8 @@
         "Name": null
     },
     {
-        "Disc": "远征任务队列已达到上限",
-        "Title": "系统提示",
+        "Disc": "1594",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionMissionLimit",
         "Memo": "",
@@ -666,8 +666,8 @@
         "Name": null
     },
     {
-        "Disc": "当前出征人数不足",
-        "Title": "系统提示",
+        "Disc": "1595",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionRoleNumNotEnough",
         "Memo": "",
@@ -675,8 +675,8 @@
         "Name": null
     },
     {
-        "Disc": "出征队员职业不符合条件",
-        "Title": "系统提示",
+        "Disc": "1596",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionProfessionError",
         "Memo": "",
@@ -684,8 +684,8 @@
         "Name": null
     },
     {
-        "Disc": "远征任务回复类型错误",
-        "Title": "系统提示",
+        "Disc": "1597",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionMissionResponseTypeError",
         "Memo": "",
@@ -693,8 +693,8 @@
         "Name": null
     },
     {
-        "Disc": "活动未开放",
-        "Title": "系统提示",
+        "Disc": "1598",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ActivityNotOpen",
         "Memo": "",
@@ -702,8 +702,8 @@
         "Name": null
     },
     {
-        "Disc": "每日奖励尚不可领取",
-        "Title": "系统提示",
+        "Disc": "1599",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetDailyReward",
         "Memo": "",
@@ -711,8 +711,8 @@
         "Name": null
     },
     {
-        "Disc": "每周奖励尚不可领取",
-        "Title": "系统提示",
+        "Disc": "1600",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotGetWeeklyReward",
         "Memo": "",
@@ -720,8 +720,8 @@
         "Name": null
     },
     {
-        "Disc": "远征任务已经接受",
-        "Title": "系统提示",
+        "Disc": "1601",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionMissionAlreadyAccept",
         "Memo": "",
@@ -729,8 +729,8 @@
         "Name": null
     },
     {
-        "Disc": "所属章节未开启",
-        "Title": "系统提示",
+        "Disc": "1602",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ChapterNotOpen",
         "Memo": "",
@@ -738,8 +738,8 @@
         "Name": null
     },
     {
-        "Disc": "佣兵团等级限制",
-        "Title": "系统提示",
+        "Disc": "1603",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PlayerLevelLimit",
         "Memo": "",
@@ -747,8 +747,8 @@
         "Name": null
     },
     {
-        "Disc": "远征中不可更换",
-        "Title": "系统提示",
+        "Disc": "1604",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "Expeditioning",
         "Memo": "",
@@ -756,8 +756,8 @@
         "Name": null
     },
     {
-        "Disc": "未拥有此称号",
-        "Title": "系统提示",
+        "Disc": "1605",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotTitle",
         "Memo": "",
@@ -765,8 +765,8 @@
         "Name": null
     },
     {
-        "Disc": "挑战关卡限制",
-        "Title": "系统提示",
+        "Disc": "1606",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ChallengeStageLimit",
         "Memo": "",
@@ -774,8 +774,8 @@
         "Name": null
     },
     {
-        "Disc": "机师等级上限",
-        "Title": "系统提示",
+        "Disc": "1607",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlLevelLimit",
         "Memo": "",
@@ -783,8 +783,8 @@
         "Name": null
     },
     {
-        "Disc": "订单未找到",
-        "Title": "系统提示",
+        "Disc": "1608",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "OrderNotFound",
         "Memo": "",
@@ -792,8 +792,8 @@
         "Name": null
     },
     {
-        "Disc": "今日已经领取过累充奖励",
-        "Title": "系统提示",
+        "Disc": "1609",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TodayGetedTotalRechargeReward",
         "Memo": "",
@@ -801,8 +801,8 @@
         "Name": null
     },
     {
-        "Disc": "今日已经领取过月卡奖励",
-        "Title": "系统提示",
+        "Disc": "1610",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TodayGetedMonthCardReward",
         "Memo": "",
@@ -810,8 +810,8 @@
         "Name": null
     },
     {
-        "Disc": "月卡已过期",
-        "Title": "系统提示",
+        "Disc": "1611",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MonthCardTimeout",
         "Memo": "",
@@ -819,8 +819,8 @@
         "Name": null
     },
     {
-        "Disc": "贸易券不足",
-        "Title": "系统提示",
+        "Disc": "1612",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TicketNotEnough",
         "Memo": "",
@@ -828,8 +828,8 @@
         "Name": null
     },
     {
-        "Disc": "自动布阵阵型不能为空",
-        "Title": "系统提示",
+        "Disc": "1613",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "AutoDeployNotNull",
         "Memo": "",
@@ -837,8 +837,8 @@
         "Name": null
     },
     {
-        "Disc": "角色列传关卡未开放",
-        "Title": "系统提示",
+        "Disc": "1614",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RoleStageNotOpen",
         "Memo": "",
@@ -846,8 +846,8 @@
         "Name": null
     },
     {
-        "Disc": "角色列传挑战次数上限",
-        "Title": "系统提示",
+        "Disc": "1615",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PersonalStoryDailyCountLimit",
         "Memo": "",
@@ -855,8 +855,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码无效",
-        "Title": "系统提示",
+        "Disc": "1616",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeInvalid",
         "Memo": "",
@@ -864,8 +864,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码已被使用",
-        "Title": "系统提示",
+        "Disc": "1617",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeUsed",
         "Memo": "",
@@ -873,8 +873,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码未到领取时间",
-        "Title": "系统提示",
+        "Disc": "1618",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeTimeNotStart",
         "Memo": "",
@@ -882,8 +882,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码已过期",
-        "Title": "系统提示",
+        "Disc": "1619",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeExpire",
         "Memo": "",
@@ -891,8 +891,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码重复领取",
-        "Title": "系统提示",
+        "Disc": "1620",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeAgainGet",
         "Memo": "",
@@ -900,8 +900,8 @@
         "Name": null
     },
     {
-        "Disc": "礼包码领取失败",
-        "Title": "系统提示",
+        "Disc": "1621",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CodeGetFail",
         "Memo": "",
@@ -909,8 +909,8 @@
         "Name": null
     },
     {
-        "Disc": "远征任务未完成",
-        "Title": "系统提示",
+        "Disc": "1622",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionMissionNotComplete",
         "Memo": "",
@@ -918,8 +918,8 @@
         "Name": null
     },
     {
-        "Disc": "远征任务未接受",
-        "Title": "系统提示",
+        "Disc": "1623",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ExpeditionMissionNotAccept",
         "Memo": "",
@@ -927,8 +927,8 @@
         "Name": null
     },
     {
-        "Disc": "赏金值不足",
-        "Title": "系统提示",
+        "Disc": "1624",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BountyPointNotEnough",
         "Memo": "",
@@ -936,8 +936,8 @@
         "Name": null
     },
     {
-        "Disc": "冷却CD中",
-        "Title": "系统提示",
+        "Disc": "1625",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "Coolingdown",
         "Memo": "",
@@ -945,8 +945,8 @@
         "Name": null
     },
     {
-        "Disc": "挑战币不足",
-        "Title": "系统提示",
+        "Disc": "1626",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ChanllengeCoinNotEnough",
         "Memo": "",
@@ -954,8 +954,8 @@
         "Name": null
     },
     {
-        "Disc": "通用技能升级道具不足",
-        "Title": "系统提示",
+        "Disc": "1627",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CommonSkillItemNotEnough",
         "Memo": "",
@@ -963,8 +963,8 @@
         "Name": null
     },
     {
-        "Disc": "关卡未完成",
-        "Title": "系统提示",
+        "Disc": "1628",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "StageNotComplete",
         "Memo": "",
@@ -972,8 +972,8 @@
         "Name": null
     },
     {
-        "Disc": "奖励已领取",
-        "Title": "系统提示",
+        "Disc": "1629",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RewardGeted",
         "Memo": "",
@@ -981,8 +981,8 @@
         "Name": null
     },
     {
-        "Disc": "新手任务不存在",
-        "Title": "系统提示",
+        "Disc": "1630",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotExistsRookieTask",
         "Memo": "",
@@ -990,8 +990,8 @@
         "Name": null
     },
     {
-        "Disc": "新手任务未完成",
-        "Title": "系统提示",
+        "Disc": "1631",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RookieRewardNotComplete",
         "Memo": "",
@@ -999,8 +999,8 @@
         "Name": null
     },
     {
-        "Disc": "版本奖励不可领取",
-        "Title": "系统提示",
+        "Disc": "1632",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RookieTaskIdNotComplete",
         "Memo": "",
@@ -1008,8 +1008,8 @@
         "Name": null
     },
     {
-        "Disc": "任务不能接受",
-        "Title": "系统提示",
+        "Disc": "1633",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CanNotAcceptRookieTask",
         "Memo": "",
@@ -1017,8 +1017,8 @@
         "Name": null
     },
     {
-        "Disc": "任务已经全部完成",
-        "Title": "系统提示",
+        "Disc": "1634",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "AllRookieTaskDone",
         "Memo": "",
@@ -1026,8 +1026,8 @@
         "Name": null
     },
     {
-        "Disc": "不能重复点赞商店物品",
-        "Title": "系统提示",
+        "Disc": "1635",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CanNotRepeatLikeShopItem",
         "Memo": "",
@@ -1035,8 +1035,8 @@
         "Name": null
     },
     {
-        "Disc": "已强化到最高等级",
-        "Title": "系统提示",
+        "Disc": "1636",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "WidgetStrengMax",
         "Memo": "",
@@ -1044,8 +1044,8 @@
         "Name": null
     },
     {
-        "Disc": "不在活动时间范围内",
-        "Title": "系统提示",
+        "Disc": "1637",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NotInActivityTime",
         "Memo": "",
@@ -1053,8 +1053,8 @@
         "Name": null
     },
     {
-        "Disc": "可购买次数上限",
-        "Title": "系统提示",
+        "Disc": "1638",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MaxBuyTimesLimit",
         "Memo": "",
@@ -1062,8 +1062,8 @@
         "Name": null
     },
     {
-        "Disc": "已完成过",
-        "Title": "系统提示",
+        "Disc": "1639",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "StageCompleted",
         "Memo": "",
@@ -1071,8 +1071,8 @@
         "Name": null
     },
     {
-        "Disc": "领取机甲兑换奖励失败",
-        "Title": "系统提示",
+        "Disc": "1640",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GetWidgetExchangeAwardFailed",
         "Memo": "",
@@ -1080,8 +1080,8 @@
         "Name": null
     },
     {
-        "Disc": "未完成",
-        "Title": "系统提示",
+        "Disc": "1641",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "NoCompleted",
         "Memo": "",
@@ -1089,8 +1089,8 @@
         "Name": null
     },
     {
-        "Disc": "领过了",
-        "Title": "系统提示",
+        "Disc": "1642",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "Received",
         "Memo": "",
@@ -1098,8 +1098,8 @@
         "Name": null
     },
     {
-        "Disc": "战力不足",
-        "Title": "系统提示",
+        "Disc": "1643",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BattlePowerNotEnough",
         "Memo": "",
@@ -1107,8 +1107,8 @@
         "Name": null
     },
     {
-        "Disc": "领取皮肤返利失败",
-        "Title": "系统提示",
+        "Disc": "1644",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BigSaleAwardFailed",
         "Memo": "",
@@ -1116,8 +1116,8 @@
         "Name": null
     },
     {
-        "Disc": "可用挑战次数已到上限",
-        "Title": "系统提示",
+        "Disc": "1645",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "StageChallengeCountLimit",
         "Memo": "",
@@ -1125,8 +1125,8 @@
         "Name": null
     },
     {
-        "Disc": "周常副本消耗道具不足",
-        "Title": "系统提示",
+        "Disc": "1646",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ChallengeItemNotEnough",
         "Memo": "",
@@ -1134,8 +1134,8 @@
         "Name": null
     },
     {
-        "Disc": "点数兑换次数不足",
-        "Title": "系统提示",
+        "Disc": "1647",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PointConversionCountNotEnough",
         "Memo": "",
@@ -1143,8 +1143,8 @@
         "Name": null
     },
     {
-        "Disc": "点数兑换点数不足",
-        "Title": "系统提示",
+        "Disc": "1648",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PointConversionPointNotEnough",
         "Memo": "",
@@ -1152,8 +1152,8 @@
         "Name": null
     },
     {
-        "Disc": "奖池已空",
-        "Title": "系统提示",
+        "Disc": "1649",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "PoolEmpty",
         "Memo": "",
@@ -1161,8 +1161,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车等级上限",
-        "Title": "系统提示",
+        "Disc": "8929",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVLevelLimit",
         "Memo": "",
@@ -1170,8 +1170,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车房间等级上限",
-        "Title": "系统提示",
+        "Disc": "8930",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomLevelLimit",
         "Memo": "",
@@ -1179,8 +1179,8 @@
         "Name": null
     },
     {
-        "Disc": "当前非升级状态",
-        "Title": "系统提示",
+        "Disc": "8931",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CurStatusIsNotLevelUp",
         "Memo": "",
@@ -1188,8 +1188,8 @@
         "Name": null
     },
     {
-        "Disc": "当前状态不可执行当前操作",
-        "Title": "系统提示",
+        "Disc": "8932",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CurStatusCanNotAction",
         "Memo": "",
@@ -1197,8 +1197,8 @@
         "Name": null
     },
     {
-        "Disc": "基础房间不可以拆除",
-        "Title": "系统提示",
+        "Disc": "8933",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "CannotDestroyRoom",
         "Memo": "",
@@ -1206,8 +1206,8 @@
         "Name": null
     },
     {
-        "Disc": "机娘条件不满足",
-        "Title": "系统提示",
+        "Disc": "8934",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlCondNotOK",
         "Memo": "",
@@ -1215,8 +1215,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车条件不满足",
-        "Title": "系统提示",
+        "Disc": "8935",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVBaseCondNotOK",
         "Memo": "",
@@ -1224,8 +1224,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车房间条件不满足",
-        "Title": "系统提示",
+        "Disc": "8936",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomCondNotOK",
         "Memo": "",
@@ -1233,8 +1233,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车房间互斥，当前改造操作无法进行",
-        "Title": "系统提示",
+        "Disc": "8937",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomOppsite",
         "Memo": "",
@@ -1242,8 +1242,8 @@
         "Name": null
     },
     {
-        "Disc": "超过当前房间机娘最大派遣数量",
-        "Title": "系统提示",
+        "Disc": "8938",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomDispatchLimit",
         "Memo": "",
@@ -1251,8 +1251,8 @@
         "Name": null
     },
     {
-        "Disc": "当前房间没有此机娘的派遣信息",
-        "Title": "系统提示",
+        "Disc": "8939",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomDonotDispatchGirl",
         "Memo": "",
@@ -1260,8 +1260,8 @@
         "Name": null
     },
     {
-        "Disc": "可下订单已达上限",
-        "Title": "系统提示",
+        "Disc": "8940",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVOrderIsFull",
         "Memo": "",
@@ -1269,8 +1269,8 @@
         "Name": null
     },
     {
-        "Disc": "订单不属于当前房间订单组",
-        "Title": "系统提示",
+        "Disc": "8941",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVOrderIsNotBelong2Group",
         "Memo": "",
@@ -1278,8 +1278,8 @@
         "Name": null
     },
     {
-        "Disc": "当前房间不是订单类房间",
-        "Title": "系统提示",
+        "Disc": "8942",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVRoomIsNotOrderRoom",
         "Memo": "",
@@ -1287,8 +1287,8 @@
         "Name": null
     },
     {
-        "Disc": "订单不存在",
-        "Title": "系统提示",
+        "Disc": "8943",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVOrderIsNotExists",
         "Memo": "",
@@ -1296,8 +1296,8 @@
         "Name": null
     },
     {
-        "Disc": "不能改变完成状态的订单",
-        "Title": "系统提示",
+        "Disc": "8944",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVCannotChangeCompleteOrder",
         "Memo": "",
@@ -1305,8 +1305,8 @@
         "Name": null
     },
     {
-        "Disc": "订单未完成，不可收获",
-        "Title": "系统提示",
+        "Disc": "8945",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVOrderCannotGather",
         "Memo": "",
@@ -1314,8 +1314,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车当前状态不能执行升级操作",
-        "Title": "系统提示",
+        "Disc": "8946",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVBaseStatusCannotLvlUp",
         "Memo": "",
@@ -1323,8 +1323,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车已经是低功耗状态，不能重复进入低功耗",
-        "Title": "系统提示",
+        "Disc": "8947",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVCannotEnterLowCostStatus",
         "Memo": "",
@@ -1332,8 +1332,8 @@
         "Name": null
     },
     {
-        "Disc": "低功耗可用时长不足",
-        "Title": "系统提示",
+        "Disc": "8948",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVLowCostHourLeak",
         "Memo": "",
@@ -1341,8 +1341,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车当前不是低功耗状态，不能结束",
-        "Title": "系统提示",
+        "Disc": "8949",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVIsNotLowCostStatus",
         "Memo": "",
@@ -1350,8 +1350,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车低功耗奖励已经结算过了",
-        "Title": "系统提示",
+        "Disc": "8950",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVLowCostHaveCalced",
         "Memo": "",
@@ -1359,8 +1359,8 @@
         "Name": null
     },
     {
-        "Disc": "只能改变进行中的订单",
-        "Title": "系统提示",
+        "Disc": "8951",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVOrderIsNotProcess",
         "Memo": "",
@@ -1368,8 +1368,8 @@
         "Name": null
     },
     {
-        "Disc": "当前气泡进度不能执行随机气泡的操作",
-        "Title": "系统提示",
+        "Disc": "8952",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BubbleStatusCannotRandom",
         "Memo": "",
@@ -1377,8 +1377,8 @@
         "Name": null
     },
     {
-        "Disc": "超过随机气泡最大可刷新次数",
-        "Title": "系统提示",
+        "Disc": "8953",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BubbleRefreshNumLimit",
         "Memo": "",
@@ -1386,8 +1386,8 @@
         "Name": null
     },
     {
-        "Disc": "气泡列表处于未随机状态，不能选择气泡",
-        "Title": "系统提示",
+        "Disc": "8954",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BubbleNotAlreadyRandom",
         "Memo": "",
@@ -1395,8 +1395,8 @@
         "Name": null
     },
     {
-        "Disc": "当前气泡槽位没有气泡可以选择",
-        "Title": "系统提示",
+        "Disc": "8955",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SlotDonotHaveBubble",
         "Memo": "",
@@ -1404,8 +1404,8 @@
         "Name": null
     },
     {
-        "Disc": "当前气泡已经领取过奖励",
-        "Title": "系统提示",
+        "Disc": "8956",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BubbleHaveRecievedAward",
         "Memo": "",
@@ -1413,8 +1413,8 @@
         "Name": null
     },
     {
-        "Disc": "时间未到，不能领取奖励",
-        "Title": "系统提示",
+        "Disc": "8957",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "RecievedTimeIsNotOK",
         "Memo": "",
@@ -1422,8 +1422,8 @@
         "Name": null
     },
     {
-        "Disc": "机娘技能不存在",
-        "Title": "系统提示",
+        "Disc": "8958",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlMCVSkillNotExists",
         "Memo": "",
@@ -1431,8 +1431,8 @@
         "Name": null
     },
     {
-        "Disc": "只能切换到宿舍类的房间",
-        "Title": "系统提示",
+        "Disc": "8959",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SwitchGirlOnly2RestRoom",
         "Memo": "",
@@ -1440,8 +1440,8 @@
         "Name": null
     },
     {
-        "Disc": "当前状态不可执行当前操作",
-        "Title": "系统提示",
+        "Disc": "8932",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVPreTaskCurStatusCanNotAction",
         "Memo": "",
@@ -1449,8 +1449,8 @@
         "Name": null
     },
     {
-        "Disc": "机娘当前是远征状态,不能被派遣",
-        "Title": "系统提示",
+        "Disc": "8961",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlIsInExpeditionCannotDispatch",
         "Memo": "",
@@ -1458,8 +1458,8 @@
         "Name": null
     },
     {
-        "Disc": "编队状态不可以被派遣",
-        "Title": "系统提示",
+        "Disc": "8962",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlIsInBattleGroupCannotDispatch",
         "Memo": "",
@@ -1467,8 +1467,8 @@
         "Name": null
     },
     {
-        "Disc": "机娘已经被派遣去其他房间了",
-        "Title": "系统提示",
+        "Disc": "8963",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlHasDispatched",
         "Memo": "",
@@ -1476,8 +1476,8 @@
         "Name": null
     },
     {
-        "Disc": "当前科技树节点尚未解锁",
-        "Title": "系统提示",
+        "Disc": "8964",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TechTreeNodeUnlock",
         "Memo": "",
@@ -1485,8 +1485,8 @@
         "Name": null
     },
     {
-        "Disc": "科技树等级已达上限",
-        "Title": "系统提示",
+        "Disc": "8965",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "TechTreeNodeLevelLimit",
         "Memo": "",
@@ -1494,8 +1494,8 @@
         "Name": null
     },
     {
-        "Disc": "不是机师技能书道具",
-        "Title": "系统提示",
+        "Disc": "8966",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "ItemIsNotSkillType",
         "Memo": "",
@@ -1503,8 +1503,8 @@
         "Name": null
     },
     {
-        "Disc": "不能重复学习同一个技能",
-        "Title": "系统提示",
+        "Disc": "8967",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlSkillDuplicate",
         "Memo": "",
@@ -1512,8 +1512,8 @@
         "Name": null
     },
     {
-        "Disc": "机娘技能无变化，不用切换",
-        "Title": "系统提示",
+        "Disc": "8968",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SwitchSkillIsNotChange",
         "Memo": "",
@@ -1521,8 +1521,8 @@
         "Name": null
     },
     {
-        "Disc": "好感度等级不符合要求",
-        "Title": "系统提示",
+        "Disc": "8969",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GoodWillNotEnough",
         "Memo": "",
@@ -1530,8 +1530,8 @@
         "Name": null
     },
     {
-        "Disc": "生日送礼没有激活",
-        "Title": "系统提示",
+        "Disc": "8970",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BirthdayNotActive",
         "Memo": "",
@@ -1539,8 +1539,8 @@
         "Name": null
     },
     {
-        "Disc": "生日时间未到",
-        "Title": "系统提示",
+        "Disc": "8971",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "BirthdayNotTime",
         "Memo": "",
@@ -1548,8 +1548,8 @@
         "Name": null
     },
     {
-        "Disc": "只有科研室可以刷新订单配置",
-        "Title": "系统提示",
+        "Disc": "8972",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "OnlyTechRoomCanRefresh",
         "Memo": "",
@@ -1557,8 +1557,8 @@
         "Name": null
     },
     {
-        "Disc": "已达资源存储上限，无法收取资源",
-        "Title": "系统提示",
+        "Disc": "8973",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "SourceStoreLimit",
         "Memo": "",
@@ -1566,8 +1566,8 @@
         "Name": null
     },
     {
-        "Disc": "基地车当前不是资源紧缺状态",
-        "Title": "系统提示",
+        "Disc": "8974",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "MCVIsNotLeakSourceStatus",
         "Memo": "",
@@ -1575,8 +1575,8 @@
         "Name": null
     },
     {
-        "Disc": "机师已经学会了该技能！",
-        "Title": "系统提示",
+        "Disc": "8975",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlMCVSkillHaveLearned",
         "Memo": "",
@@ -1584,8 +1584,8 @@
         "Name": null
     },
     {
-        "Disc": "该机师已经学会了更强大的技能！",
-        "Title": "系统提示",
+        "Disc": "8976",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "GirlMCVHighSkillHaveLearned",
         "Memo": "",
@@ -1593,8 +1593,107 @@
         "Name": null
     },
     {
-        "Disc": "服务器不存在",
-        "Title": "系统提示",
+        "Disc": "12295",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveSignedToday",
+        "Memo": "",
+        "ID": 757,
+        "Name": null
+    },
+    {
+        "Disc": "12296",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveNoSignTimes",
+        "Memo": "",
+        "ID": 758,
+        "Name": null
+    },
+    {
+        "Disc": "12706",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PreEventNotCompleted",
+        "Memo": "上一个事件还未完成",
+        "ID": 759,
+        "Name": null
+    },
+    {
+        "Disc": "12297",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SignedLimitMonth",
+        "Memo": "",
+        "ID": 760,
+        "Name": null
+    },
+    {
+        "Disc": "12707",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TotalCellNumNotEnough",
+        "Memo": "格子数未达成",
+        "ID": 761,
+        "Name": null
+    },
+    {
+        "Disc": "12708",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointChallengeTimesLimit",
+        "Memo": "德洛莉丝-挑战次数达到上限了",
+        "ID": 762,
+        "Name": null
+    },
+    {
+        "Disc": "12709",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PlayTimesLimit",
+        "Memo": "可玩骰子次数不足,可用次数不足",
+        "ID": 763,
+        "Name": null
+    },
+    {
+        "Disc": "12710",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointHaveNoFreeReset",
+        "Memo": "德洛莉丝-没有免费重置次数",
+        "ID": 764,
+        "Name": null
+    },
+    {
+        "Disc": "12711",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointHaveNoChallengeTimes",
+        "Memo": "德洛莉丝-没有挑战次数",
+        "ID": 765,
+        "Name": null
+    },
+    {
+        "Disc": "12712",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointJackpotCreateFailed",
+        "Memo": "德洛莉丝-奖池创建失败",
+        "ID": 766,
+        "Name": null
+    },
+    {
+        "Disc": "12713",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetCriticalPointAchiReward",
+        "Memo": "未达到该成就领取标准，无法领取奖励",
+        "ID": 767,
+        "Name": null
+    },
+    {
+        "Disc": "1522",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100000",
         "Memo": "",
@@ -1602,8 +1701,8 @@
         "Name": null
     },
     {
-        "Disc": "账号在其他地方登录",
-        "Title": "系统提示",
+        "Disc": "1650",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100001",
         "Memo": "",
@@ -1611,8 +1710,8 @@
         "Name": null
     },
     {
-        "Disc": "登录渠道不合法",
-        "Title": "系统提示",
+        "Disc": "1524",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100002",
         "Memo": "",
@@ -1620,8 +1719,8 @@
         "Name": null
     },
     {
-        "Disc": "服务器无法登录",
-        "Title": "系统提示",
+        "Disc": "1651",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100003",
         "Memo": "",
@@ -1629,8 +1728,8 @@
         "Name": null
     },
     {
-        "Disc": "未知消息",
-        "Title": "系统提示",
+        "Disc": "1652",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100004",
         "Memo": "",
@@ -1638,8 +1737,8 @@
         "Name": null
     },
     {
-        "Disc": "消息格式不匹配",
-        "Title": "系统提示",
+        "Disc": "1653",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100005",
         "Memo": "",
@@ -1647,8 +1746,8 @@
         "Name": null
     },
     {
-        "Disc": "数据处理异常",
-        "Title": "系统提示",
+        "Disc": "1654",
+        "Title": "8620",
         "IsShow": true,
         "ParaName": "E_100006",
         "Memo": "",

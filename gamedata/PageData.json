@@ -1,0 +1,644 @@
+[
+    {
+        "PageName": "CurrencyExchangeAlert",
+        "PageType": "CurrencyExchangeAlert",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "PageName": "DownloadPage",
+        "PageType": "DownloadPage",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "PageName": "AwardAlertPage",
+        "PageType": "AwardAlertPage",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "PageName": "章节界面",
+        "PageType": "ChapterPage",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "PageName": "DialogPage",
+        "PageType": "DialogPage",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "PageName": "DropListPage",
+        "PageType": "DropListPage",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "PageName": "EquipPage",
+        "PageType": "EquipPage",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "PageName": "EquipTipsPage",
+        "PageType": "EquipTipsPage",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "PageName": "远征界面",
+        "PageType": "ExpeditionPage",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "PageName": "ExpeditionPage",
+        "PageType": "ExpeditionPage",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "PageName": "GeneralAlertPage",
+        "PageType": "GeneralAlertPage",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "PageName": "HelpAlertPage",
+        "PageType": "HelpAlertPage",
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "PageName": "ItemTipsPage",
+        "PageType": "ItemTipsPage",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "PageName": "ItemUseAlertPage",
+        "PageType": "ItemUseAlertPage",
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "PageName": "LeaderNameChangePage",
+        "PageType": "LeaderNameChangePage",
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "PageName": "LoginPage",
+        "PageType": "LoginPage",
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "PageName": "MainPage",
+        "PageType": "MainPage",
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "PageName": "MapAwardPage",
+        "PageType": "MapAwardPage",
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "PageName": "MapInfoPage",
+        "PageType": "MapInfoPage",
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "PageName": "MapPage",
+        "PageType": "MapPage",
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "PageName": "MCVroleAwardAlertPage",
+        "PageType": "MCVroleAwardAlertPage",
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "PageName": "ReadinessPage",
+        "PageType": "ReadinessPage",
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "PageName": "RechargeLoadingPage",
+        "PageType": "RechargeLoadingPage",
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "PageName": "ServerListPage",
+        "PageType": "ServerListPage",
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "PageName": "SortAlertPage",
+        "PageType": "SortAlertPage",
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "PageName": "MenuBar",
+        "PageType": "MenuBar",
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarTipAlertPage",
+        "PageType": "BaseCarTipAlertPage",
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "PageName": "BattleGameStopPage",
+        "PageType": "BattleGameStopPage",
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "PageName": "CharacterInfoAlertPage",
+        "PageType": "CharacterInfoAlertPage",
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "PageName": "CharacterMCVSkillAlert",
+        "PageType": "CharacterMCVSkillAlert",
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "PageName": "CharacterMCVSkillChangeAlertPage",
+        "PageType": "CharacterMCVSkillChangeAlertPage",
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "PageName": "CharactorFavorableUseItemPage",
+        "PageType": "CharactorFavorableUseItemPage",
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "PageName": "DevelopEquipPreviewPage",
+        "PageType": "DevelopEquipPreviewPage",
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "PageName": "LimitDevelopEquipPreviewPage",
+        "PageType": "LimitDevelopEquipPreviewPage",
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "PageName": "LimitRecruitInfoPage",
+        "PageType": "LimitRecruitInfoPage",
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "PageName": "SkillAlertPage",
+        "PageType": "SkillAlertPage",
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "PageName": "UserAgreementAlertPage",
+        "PageType": "UserAgreementAlertPage",
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "PageName": "AchievementPage",
+        "PageType": "AchievementPage",
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "PageName": "ActivityPage",
+        "PageType": "ActivityPage",
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "PageName": "SelectAwardLevelPage",
+        "PageType": "SelectAwardLevelPage",
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "PageName": "仓库界面",
+        "PageType": "BackpackPage",
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "PageName": "FenjieAlertAlertPage",
+        "PageType": "FenjieAlertAlertPage",
+        "ID": 42,
+        "Name": null
+    },
+    {
+        "PageName": "GetWayAlertPage",
+        "PageType": "GetWayAlertPage",
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "PageName": "SellAlertAlertPage",
+        "PageType": "SellAlertAlertPage",
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "PageName": "UseAlertAlertPage",
+        "PageType": "UseAlertAlertPage",
+        "ID": 45,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarBuffInfoPage",
+        "PageType": "BaseCarBuffInfoPage",
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarGirlsInfoPage",
+        "PageType": "BaseCarGirlsInfoPage",
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarLowEnergyPage",
+        "PageType": "BaseCarLowEnergyPage",
+        "ID": 48,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarOverLoadPage",
+        "PageType": "BaseCarOverLoadPage",
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarPage",
+        "PageType": "BaseCarPage",
+        "ID": 50,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarRebuildCompletePage",
+        "PageType": "BaseCarRebuildCompletePage",
+        "ID": 51,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarTipsPage",
+        "PageType": "BaseCarTipsPage",
+        "ID": 52,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarUpgradeCompletePage",
+        "PageType": "BaseCarUpgradeCompletePage",
+        "ID": 53,
+        "Name": null
+    },
+    {
+        "PageName": "MCVUpgradeCompletePage",
+        "PageType": "MCVUpgradeCompletePage",
+        "ID": 54,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarRepairPage",
+        "PageType": "BaseCarRepairPage",
+        "ID": 55,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarDevelopPage",
+        "PageType": "BaseCarDevelopPage",
+        "ID": 56,
+        "Name": null
+    },
+    {
+        "PageName": "BattleEndPage",
+        "PageType": "BattleEndPage",
+        "ID": 57,
+        "Name": null
+    },
+    {
+        "PageName": "TeamLevelUPPage",
+        "PageType": "TeamLevelUPPage",
+        "ID": 58,
+        "Name": null
+    },
+    {
+        "PageName": "BilibiliActivityPage",
+        "PageType": "BilibiliActivityPage",
+        "ID": 59,
+        "Name": null
+    },
+    {
+        "PageName": "ChangeBackgroundPage",
+        "PageType": "ChangeBackgroundPage",
+        "ID": 60,
+        "Name": null
+    },
+    {
+        "PageName": "CharacterGirlLogisticsSkillPage",
+        "PageType": "CharacterGirlLogisticsSkillPage",
+        "ID": 61,
+        "Name": null
+    },
+    {
+        "PageName": "角色界面",
+        "PageType": "CharacterPage",
+        "ID": 62,
+        "Name": null
+    },
+    {
+        "PageName": "SkillLvUpPage",
+        "PageType": "SkillLvUpPage",
+        "ID": 63,
+        "Name": null
+    },
+    {
+        "PageName": "ChristmasPage",
+        "PageType": "ChristmasPage",
+        "ID": 64,
+        "Name": null
+    },
+    {
+        "PageName": "CollectPage",
+        "PageType": "CollectPage",
+        "ID": 65,
+        "Name": null
+    },
+    {
+        "PageName": "CriticalPointAchiPage",
+        "PageType": "CriticalPointAchiPage",
+        "ID": 66,
+        "Name": null
+    },
+    {
+        "PageName": "CriticalPointActivityPage",
+        "PageType": "CriticalPointActivityPage",
+        "ID": 67,
+        "Name": null
+    },
+    {
+        "PageName": "CriticalPointEfficiencyPage",
+        "PageType": "CriticalPointEfficiencyPage",
+        "ID": 68,
+        "Name": null
+    },
+    {
+        "PageName": "CriticalPointLucklyDrowPage",
+        "PageType": "CriticalPointLucklyDrowPage",
+        "ID": 69,
+        "Name": null
+    },
+    {
+        "PageName": "DailyTaskPage",
+        "PageType": "DailyTaskPage",
+        "ID": 70,
+        "Name": null
+    },
+    {
+        "PageName": "ExChangeAlertPage",
+        "PageType": "ExChangeAlertPage",
+        "ID": 71,
+        "Name": null
+    },
+    {
+        "PageName": "FriendPage",
+        "PageType": "FriendPage",
+        "ID": 72,
+        "Name": null
+    },
+    {
+        "PageName": "机库界面",
+        "PageType": "GaragePage",
+        "ID": 73,
+        "Name": null
+    },
+    {
+        "PageName": "HalloweenPage",
+        "PageType": "HalloweenPage",
+        "ID": 74,
+        "Name": null
+    },
+    {
+        "PageName": "LoadingPage",
+        "PageType": "LoadingPage",
+        "ID": 75,
+        "Name": null
+    },
+    {
+        "PageName": "MailPage",
+        "PageType": "MailPage",
+        "ID": 76,
+        "Name": null
+    },
+    {
+        "PageName": "ChapterBuffPage",
+        "PageType": "ChapterBuffPage",
+        "ID": 77,
+        "Name": null
+    },
+    {
+        "PageName": "LevelInfoPage",
+        "PageType": "LevelInfoPage",
+        "ID": 78,
+        "Name": null
+    },
+    {
+        "PageName": "NoticePage",
+        "PageType": "NoticePage",
+        "ID": 79,
+        "Name": null
+    },
+    {
+        "PageName": "AppreciatePage",
+        "PageType": "AppreciatePage",
+        "ID": 80,
+        "Name": null
+    },
+    {
+        "PageName": "PersonalStoryDevelopAlertPage",
+        "PageType": "PersonalStoryDevelopAlertPage",
+        "ID": 81,
+        "Name": null
+    },
+    {
+        "PageName": "PersonalStoryPage",
+        "PageType": "PersonalStoryPage",
+        "ID": 82,
+        "Name": null
+    },
+    {
+        "PageName": "PlayerPropertyPage",
+        "PageType": "PlayerPropertyPage",
+        "ID": 83,
+        "Name": null
+    },
+    {
+        "PageName": "ChancePage",
+        "PageType": "ChancePage",
+        "ID": 84,
+        "Name": null
+    },
+    {
+        "PageName": "InputAwardCodeAlertPage",
+        "PageType": "InputAwardCodeAlertPage",
+        "ID": 85,
+        "Name": null
+    },
+    {
+        "PageName": "SelectPlayerTitlePage",
+        "PageType": "SelectPlayerTitlePage",
+        "ID": 86,
+        "Name": null
+    },
+    {
+        "PageName": "SuitAlertPage",
+        "PageType": "SuitAlertPage",
+        "ID": 87,
+        "Name": null
+    },
+    {
+        "PageName": "UseItemAlertPage",
+        "PageType": "UseItemAlertPage",
+        "ID": 88,
+        "Name": null
+    },
+    {
+        "PageName": "RankingPage",
+        "PageType": "RankingPage",
+        "ID": 89,
+        "Name": null
+    },
+    {
+        "PageName": "RechargeActivePage",
+        "PageType": "RechargeActivePage",
+        "ID": 90,
+        "Name": null
+    },
+    {
+        "PageName": "招募界面",
+        "PageType": "RecruitCharapterPage",
+        "ID": 91,
+        "Name": null
+    },
+    {
+        "PageName": "RecruitShowPage",
+        "PageType": "RecruitShowPage",
+        "ID": 92,
+        "Name": null
+    },
+    {
+        "PageName": "DevelopAlertPage",
+        "PageType": "DevelopAlertPage",
+        "ID": 93,
+        "Name": null
+    },
+    {
+        "PageName": "GetWidgetPanelPage",
+        "PageType": "GetWidgetPanelPage",
+        "ID": 94,
+        "Name": null
+    },
+    {
+        "PageName": "开发界面",
+        "PageType": "RecruitWidgetPage",
+        "ID": 95,
+        "Name": null
+    },
+    {
+        "PageName": "SettingPage",
+        "PageType": "SettingPage",
+        "ID": 96,
+        "Name": null
+    },
+    {
+        "PageName": "BuyFragmentAlertPage",
+        "PageType": "BuyFragmentAlertPage",
+        "ID": 97,
+        "Name": null
+    },
+    {
+        "PageName": "ShopPage",
+        "PageType": "ShopPage",
+        "ID": 98,
+        "Name": null
+    },
+    {
+        "PageName": "SummerShopPage",
+        "PageType": "SummerShopPage",
+        "ID": 99,
+        "Name": null
+    },
+    {
+        "PageName": "GacyaAlertPage",
+        "PageType": "GacyaAlertPage",
+        "ID": 100,
+        "Name": null
+    },
+    {
+        "PageName": "SummerActivityPage",
+        "PageType": "SummerActivityPage",
+        "ID": 101,
+        "Name": null
+    },
+    {
+        "PageName": "SummerGacyaPage",
+        "PageType": "SummerGacyaPage",
+        "ID": 102,
+        "Name": null
+    },
+    {
+        "PageName": "SummerOtherActivitiesPage",
+        "PageType": "SummerOtherActivitiesPage",
+        "ID": 103,
+        "Name": null
+    },
+    {
+        "PageName": "SummerQuestPage",
+        "PageType": "SummerQuestPage",
+        "ID": 104,
+        "Name": null
+    },
+    {
+        "PageName": "SummerVolleyBallPage",
+        "PageType": "SummerVolleyBallPage",
+        "ID": 105,
+        "Name": null
+    },
+    {
+        "PageName": "TaskAlertPage",
+        "PageType": "TaskAlertPage",
+        "ID": 106,
+        "Name": null
+    },
+    {
+        "PageName": "WeeklyPage",
+        "PageType": "WeeklyPage",
+        "ID": 107,
+        "Name": null
+    }
+]

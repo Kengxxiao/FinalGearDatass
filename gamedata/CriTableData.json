@@ -2896,6 +2896,17 @@
         "Description": "",
         "GroupTag": "技能/聚能",
         "CueSheet": "SP",
+        "CueName": "SP_Charge_Energy2",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400100015,
+        "Name": "聚能-能量2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/聚能",
+        "CueSheet": "SP",
         "CueName": "SP_Charge_Energy_H",
         "Loop": true,
         "Volume": 1.0,
@@ -2908,7 +2919,7 @@
         "GroupTag": "技能/聚能",
         "CueSheet": "SP",
         "CueName": "SP_Charge_Energy_Once",
-        "Loop": true,
+        "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 400110000,
@@ -2919,11 +2930,22 @@
         "GroupTag": "技能/聚能",
         "CueSheet": "SP",
         "CueName": "SP_Charge_Energy_Once_2",
-        "Loop": true,
+        "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
         "ID": 400110010,
         "Name": "聚能-能量-瞬发2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/聚能",
+        "CueSheet": "SP",
+        "CueName": "SP_Charge_Energy_Once_3",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400110020,
+        "Name": "聚能-能量-瞬发3"
     },
     {
         "Description": "",
@@ -3390,6 +3412,17 @@
     {
         "Description": "",
         "GroupTag": "技能/发动",
+        "CueSheet": "SP",
+        "CueName": "SP_Magic3",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400400145,
+        "Name": "施法-大3"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/发动",
         "CueSheet": "SK",
         "CueName": "atk_000060",
         "Loop": false,
@@ -3419,6 +3452,17 @@
         "Pitch": 0,
         "ID": 400400170,
         "Name": "投弹-炸弹-大"
+    },
+    {
+        "Description": "",
+        "GroupTag": "技能/发动",
+        "CueSheet": "SP",
+        "CueName": "SP_Slash_1s",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400400180,
+        "Name": "刀光乱舞_1秒"
     },
     {
         "Description": "",
@@ -7467,17 +7511,6 @@
         "Pitch": 0,
         "ID": 910080000,
         "Name": "战斗-PVP"
-    },
-    {
-        "Description": "",
-        "GroupTag": "BGM/战斗",
-        "CueSheet": "BGM_Halloween_Battle",
-        "CueName": "BGM_Halloween_Battle",
-        "Loop": true,
-        "Volume": 1.0,
-        "Pitch": 0,
-        "ID": 910090000,
-        "Name": "万圣节战斗"
     },
     {
         "Description": "",

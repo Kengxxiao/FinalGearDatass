@@ -360,7 +360,7 @@
                                     "asset": "04受击_防御",
                                     "scale": 1.0
                                 },
-                                "soundID": 550002501
+                                "soundID": 0
                             }
                         ],
                         "afterEffectDatas": [
@@ -402,6 +402,94 @@
             "currentStatus": 0
         },
         "ID": 36000250,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 1,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 1,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "01其他_圆盾",
+                                    "scale": 0.8
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36000251,
         "Name": null
     },
     {
@@ -1799,7 +1887,8 @@
         "stopUnitAction": false,
         "action": {
             "states": [
-                10007
+                10007,
+                10014
             ],
             "targetType": 1,
             "lifeTime": 0.0,

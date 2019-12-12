@@ -570,5 +570,71 @@
         "RegionMapLocation": [],
         "ID": 4012,
         "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 5,
+        "OpenNeedStage": 50201,
+        "MissionPoints": 2,
+        "MissinGroup": 501,
+        "MissionNum": 16,
+        "Asset": "city01",
+        "RegionMapLocation": [
+            500101,
+            500102,
+            500110,
+            500111,
+            500100
+        ],
+        "ID": 5001,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 5,
+        "OpenNeedStage": 50202,
+        "MissionPoints": 2,
+        "MissinGroup": 502,
+        "MissionNum": 16,
+        "Asset": "city02",
+        "RegionMapLocation": [
+            500201,
+            500202,
+            500200
+        ],
+        "ID": 5002,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 5,
+        "OpenNeedStage": 50203,
+        "MissionPoints": 2,
+        "MissinGroup": 503,
+        "MissionNum": 16,
+        "Asset": "city03",
+        "RegionMapLocation": [
+            500301,
+            500302,
+            500300
+        ],
+        "ID": 5003,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 5,
+        "OpenNeedStage": 50204,
+        "MissionPoints": 2,
+        "MissinGroup": 504,
+        "MissionNum": 16,
+        "Asset": "city04",
+        "RegionMapLocation": [
+            500401,
+            500402,
+            500400
+        ],
+        "ID": 5004,
+        "Name": null
     }
 ]

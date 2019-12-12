@@ -322,10 +322,24 @@
         "Name": null
     },
     {
+        "Remarks": "临界点",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "Remarks": "圣诞节",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 48,
+        "Name": null
+    },
+    {
         "Remarks": "万圣狂欢",
         "OpenCondition": 2,
         "Value": 10108,
-        "ID": 47,
+        "ID": 49,
         "Name": null
     }
 ]

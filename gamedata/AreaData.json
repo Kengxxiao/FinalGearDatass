@@ -1,6 +1,6 @@
 [
     {
-        "Desc": "奈布拉区域",
+        "Desc": "966",
         "RegionMap": "AERA_001",
         "BlockID": [
             1001,
@@ -17,10 +17,10 @@
         "ChapterScene": "Cab10_1高原",
         "CampIcon": "中立",
         "ID": 1,
-        "Name": "奈布拉区域"
+        "Name": "966"
     },
     {
-        "Desc": "克格亚区域",
+        "Desc": "967",
         "RegionMap": "AERA_002",
         "BlockID": [
             2001,
@@ -43,10 +43,10 @@
         "ChapterScene": "Cab2_1平原农场",
         "CampIcon": "帝国",
         "ID": 2,
-        "Name": "克格亚区域"
+        "Name": "967"
     },
     {
-        "Desc": "爱蕾塔区域",
+        "Desc": "968",
         "RegionMap": "AERA_003",
         "BlockID": [
             3001,
@@ -67,10 +67,10 @@
         "ChapterScene": "Cab3_2丛林",
         "CampIcon": "共和国",
         "ID": 3,
-        "Name": "爱蕾塔区域"
+        "Name": "968"
     },
     {
-        "Desc": "海克塞尔区域",
+        "Desc": "969",
         "RegionMap": "AERA_004",
         "BlockID": [
             4001,
@@ -88,12 +88,31 @@
         ],
         "OpenNeedStage": 30104,
         "PreRegion": 3,
-        "NextRegion": 0,
+        "NextRegion": 5,
         "ExpeditionQueue": 4,
         "BlockNum": 12,
         "ChapterScene": "Cab3_1沙漠",
         "CampIcon": "自由联邦",
         "ID": 4,
-        "Name": "海克塞尔区域"
+        "Name": "969"
+    },
+    {
+        "Desc": "12541",
+        "RegionMap": "AERA_005",
+        "BlockID": [
+            5001,
+            5002,
+            5003,
+            5004
+        ],
+        "OpenNeedStage": 40205,
+        "PreRegion": 4,
+        "NextRegion": 0,
+        "ExpeditionQueue": 4,
+        "BlockNum": 6,
+        "ChapterScene": "Cab2_1平原农场",
+        "CampIcon": "帝国",
+        "ID": 5,
+        "Name": "12541"
     }
 ]

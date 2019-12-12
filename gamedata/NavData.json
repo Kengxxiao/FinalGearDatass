@@ -20,6 +20,16 @@
         "Name": null
     },
     {
+        "prefabCheckerName": "_测试国战示例",
+        "strategyMapType": 0,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 198,
+        "Name": null
+    },
+    {
         "prefabCheckerName": "test biggest",
         "strategyMapType": 13,
         "beforeBattleDialog": 0,
@@ -970,7 +980,7 @@
         "Name": null
     },
     {
-        "prefabCheckerName": "3_empire_pic7_2_1",
+        "prefabCheckerName": "6_story_1",
         "strategyMapType": 8,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
@@ -980,8 +990,8 @@
         "Name": null
     },
     {
-        "prefabCheckerName": "3_empire_pic1_3_1",
-        "strategyMapType": 11,
+        "prefabCheckerName": "6_story_2",
+        "strategyMapType": 1,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
@@ -990,23 +1000,43 @@
         "Name": null
     },
     {
-        "prefabCheckerName": "3_empire_pic6_1_1",
+        "prefabCheckerName": "6_unlock_1",
         "strategyMapType": 1,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
         "afterBattleDialog": 0,
-        "ID": 6103,
+        "ID": 6301,
         "Name": null
     },
     {
-        "prefabCheckerName": "3_6301",
-        "strategyMapType": 2,
+        "prefabCheckerName": "6_unlock_2",
+        "strategyMapType": 3,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
         "afterBattleDialog": 0,
-        "ID": 6301,
+        "ID": 6302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_unlock_3",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6303,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_unlock_4",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6304,
         "Name": null
     },
     {
@@ -1220,11 +1250,21 @@
         "Name": null
     },
     {
-        "prefabCheckerName": "2_309901",
+        "prefabCheckerName": "3_6301",
         "strategyMapType": 2,
-        "beforeBattleDialog": 100004,
+        "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 306301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "2_309901",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 41001,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 42001,
         "afterBattleDialog": 0,
         "ID": 309901,
         "Name": null
@@ -1232,11 +1272,21 @@
     {
         "prefabCheckerName": "4_409901",
         "strategyMapType": 2,
-        "beforeBattleDialog": 100005,
+        "beforeBattleDialog": 51001,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 52001,
+        "afterBattleDialog": 51002,
+        "ID": 409901,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_Dungeon",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 61001,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
-        "afterBattleDialog": 0,
-        "ID": 409901,
+        "afterBattleDialog": 61002,
+        "ID": 509901,
         "Name": null
     },
     {
@@ -3277,6 +3327,456 @@
         "afterDeployDialog": 0,
         "afterBattleDialog": 0,
         "ID": 5060401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic1_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6000101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic4_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic6_1_1",
+        "strategyMapType": 2,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010102,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic7_1_1",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010201,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic9_1_1",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010202,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic8_1_1",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic4_3_1",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic1_4_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic1_4_2",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6010402,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic2_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic3_1_1",
+        "strategyMapType": 14,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020102,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic5_1_1",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020201,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic2_2_2",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020202,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic3_3_1",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic5_3_2",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic2_4_1",
+        "strategyMapType": 14,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic2_4_2",
+        "strategyMapType": 14,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6020402,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_1_2",
+        "strategyMapType": 3,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030102,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_2_1",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030201,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_2_2",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030202,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_3_1",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_3_2",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_4_1",
+        "strategyMapType": 13,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic17_4_2",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6030402,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_1_2",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040102,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_2_1",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040201,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_2_2",
+        "strategyMapType": 8,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040202,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_3_1",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040301,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_3_2",
+        "strategyMapType": 11,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040302,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_4_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040401,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic13_4_2",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6040402,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic10_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6100101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic11_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6110101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic12_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6120101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic14_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6140101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic15_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6150101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic16_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6160101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic18_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6180101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic19_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6190101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic20_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6200101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic21_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6210101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic22_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6220101,
+        "Name": null
+    },
+    {
+        "prefabCheckerName": "6_forest_pic31_1_1",
+        "strategyMapType": 1,
+        "beforeBattleDialog": 0,
+        "beforeDeployDialog": 0,
+        "afterDeployDialog": 0,
+        "afterBattleDialog": 0,
+        "ID": 6310102,
         "Name": null
     }
 ]

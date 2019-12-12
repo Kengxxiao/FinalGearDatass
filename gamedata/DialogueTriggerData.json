@@ -52,5 +52,23 @@
         "TriggerEvent3": 0,
         "ID": 6,
         "Name": null
+    },
+    {
+        "StageID": 7601,
+        "DialogueID": 9400001,
+        "TriggerEvent1": 1,
+        "TriggerEvent2": 0,
+        "TriggerEvent3": 0,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "StageID": 7604,
+        "DialogueID": 9400002,
+        "TriggerEvent1": 6,
+        "TriggerEvent2": 0,
+        "TriggerEvent3": 0,
+        "ID": 8,
+        "Name": null
     }
 ]

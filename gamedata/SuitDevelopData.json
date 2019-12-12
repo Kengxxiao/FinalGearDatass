@@ -1,7 +1,7 @@
 [
     {
         "GroupId": 1,
-        "RecruitName": "白鸦MKII-光剑",
+        "RecruitName": "8756",
         "RecruitNeed": [
             [
                 11410001,
@@ -22,7 +22,10 @@
         ],
         "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 200,
+        "AccelerateDiamond": [
+            60,
+            1
+        ],
         "NormalRandom": 7401,
         "RecruitPrew": 2307413,
         "SourceWidgetId": 2300113,
@@ -44,7 +47,7 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦MKII-座舱",
+        "RecruitName": "8757",
         "RecruitNeed": [
             [
                 11410001,
@@ -65,7 +68,10 @@
         ],
         "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 200,
+        "AccelerateDiamond": [
+            60,
+            1
+        ],
         "NormalRandom": 7402,
         "RecruitPrew": 2307421,
         "SourceWidgetId": 2300121,
@@ -87,7 +93,7 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦MKII-机械足",
+        "RecruitName": "8758",
         "RecruitNeed": [
             [
                 11410001,
@@ -108,7 +114,10 @@
         ],
         "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 200,
+        "AccelerateDiamond": [
+            60,
+            1
+        ],
         "NormalRandom": 7403,
         "RecruitPrew": 2307431,
         "SourceWidgetId": 2300131,
@@ -130,7 +139,7 @@
     },
     {
         "GroupId": 1,
-        "RecruitName": "白鸦MKII-挂载",
+        "RecruitName": "8759",
         "RecruitNeed": [
             [
                 11410001,
@@ -151,7 +160,10 @@
         ],
         "RecruitMoney": 50000,
         "RecruitCoolDown": 7200,
-        "AccelerateDiamond": 200,
+        "AccelerateDiamond": [
+            60,
+            1
+        ],
         "NormalRandom": 7404,
         "RecruitPrew": 2307441,
         "SourceWidgetId": 2300141,

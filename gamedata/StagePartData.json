@@ -1919,7 +1919,7 @@
                 "Desc": ""
             },
             {
-                "X": -10,
+                "X": 15,
                 "Y": 0,
                 "Enabled": true,
                 "Type": 7,
@@ -1957,6 +1957,85 @@
         ],
         "ID": 9996,
         "Name": "机体测试"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/1_3矿山",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 1,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": [
+            0
+        ],
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [],
+        "Nodes": [
+            {
+                "MusicId": 910050000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": 10,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 930000021,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 9997,
+        "Name": "PVP1号场景"
     },
     {
         "isTest": false,
@@ -11688,6 +11767,1427 @@
     },
     {
         "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 1,
+        "beforeBattleDialog": 9400001,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3201,
+            3202,
+            3203,
+            3303
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 14001,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891602,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891603,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891601,
+        "Name": "德洛丽丝_主线-1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 14002,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3205,
+            3301,
+            3303,
+            3402
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891612,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891613,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891611,
+        "Name": "德洛丽丝_主线-2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 1,
+        "beforeBattleDialog": 14003,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3203,
+            3202,
+            3401,
+            3402
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891622,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891623,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891624,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891621,
+        "Name": "德洛丽丝_主线-3"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 14004,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50005,
+            50010,
+            50011,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891632,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891633,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891634,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "invincible": true,
+                "Enabled": true,
+                "Type": 11,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 14005,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 10,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 14006,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            }
+        ],
+        "ID": 891631,
+        "Name": "德洛丽丝_主线-4"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3203,
+            3202,
+            3201,
+            3206
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891642,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891643,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891641,
+        "Name": "德洛丽丝_挑战-普通1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3203,
+            3205,
+            3302,
+            3403
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891652,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891653,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891654,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 891651,
+        "Name": "德洛丽丝_挑战-普通2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/2_1平原农场_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            3205,
+            3401,
+            3402,
+            3403
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891662,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891663,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891664,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891661,
+        "Name": "德洛丽丝_挑战-普通3"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50005,
+            50006,
+            50008,
+            50010
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891672,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891673,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891674,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891671,
+        "Name": "德洛丽丝_挑战-精英1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50006,
+            50007,
+            50010,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891682,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891683,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891684,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891681,
+        "Name": "德洛丽丝_挑战-精英2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50001,
+            50010,
+            50011,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891692,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891693,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891694,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891691,
+        "Name": "德洛丽丝_挑战-精英3"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50009,
+            50010,
+            50011,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -11,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891702,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891703,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891704,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891701,
+        "Name": "德洛丽丝_挑战-英雄1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50001,
+            50010,
+            50011,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": 45,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891713,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891714,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891711,
+        "Name": "德洛丽丝_挑战-英雄2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": false,
+        "scene": "正式场景/7_5平原感染_夜晚",
+        "icon": null,
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 60,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50006,
+            50010,
+            50011,
+            9910
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": 115,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 891724,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "isOr": true,
+                "Conds": [
+                    {
+                        "Num": 0,
+                        "Type": 0
+                    }
+                ],
+                "Enabled": true,
+                "Type": 19,
+                "Desc": ""
+            }
+        ],
+        "ID": 891721,
+        "Name": "德洛丽丝_挑战-英雄3"
+    },
+    {
+        "isTest": false,
         "useMapScene": true,
         "scene": "正式场景/1_3矿山",
         "icon": "万圣节棋子",
@@ -21242,6 +22742,18 @@
                 "Enabled": true,
                 "Type": 19,
                 "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 42002,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
             }
         ],
         "ID": 4000404,
@@ -21989,10 +23501,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            5101,
-            5201,
-            5204,
-            5206
+            50001,
+            50003,
+            50006,
+            50007
         ],
         "Nodes": [
             {
@@ -22081,10 +23593,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            5101,
-            5201,
-            5204,
-            5206
+            50005,
+            50006,
+            50008,
+            50007
         ],
         "Nodes": [
             {
@@ -22173,10 +23685,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            5101,
-            5201,
-            5204,
-            5206
+            50001,
+            50003,
+            50006,
+            50008
         ],
         "Nodes": [
             {
@@ -22265,10 +23777,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            5101,
-            5201,
-            5204,
-            5206
+            50001,
+            50003,
+            50008,
+            50007
         ],
         "Nodes": [
             {
@@ -22367,10 +23879,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            5101,
-            5201,
-            5204,
-            5206
+            50006,
+            50007,
+            50008,
+            50005
         ],
         "Nodes": [
             {
@@ -22652,6 +24164,118 @@
         ],
         "ID": 6000301,
         "Name": "傀儡-遭遇-BOSS"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/12_3_2森林感染",
+        "icon": "近战部队-炮灰",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            50006,
+            50007,
+            50008,
+            6401
+        ],
+        "Nodes": [
+            {
+                "MusicId": 910010000,
+                "Enabled": true,
+                "Type": 3,
+                "Desc": ""
+            },
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000402,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000403,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000404,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 6000405,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 6000401,
+        "Name": "伊丽莎白-BOSS"
     },
     {
         "isTest": false,
