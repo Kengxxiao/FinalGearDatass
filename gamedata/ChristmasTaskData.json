@@ -19,7 +19,7 @@
         "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "完成3次任意专用机副本",
         "ID": 2,
@@ -32,7 +32,7 @@
         "ExParam": 10,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "强化任意部件10次",
         "ID": 3,
@@ -45,9 +45,9 @@
         "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "任意技能升级3次",
+        "Description": "进行快速招募3次",
         "ID": 4,
         "Name": null
     },
@@ -71,7 +71,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "装备开发5次",
         "ID": 6,
@@ -97,7 +97,7 @@
         "ExParam": 500,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "击杀任意敌人数量500个",
         "ID": 8,
@@ -110,7 +110,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            6
+            5
         ],
         "Description": "完成1次紧急任务",
         "ID": 9,
@@ -123,9 +123,9 @@
         "ExParam": 1,
         "Award": [
             17000002,
-            3
+            5
         ],
-        "Description": "完成1次任意机师改造",
+        "Description": "成功完成任意1次远征任务",
         "ID": 10,
         "Name": null
     },
@@ -149,7 +149,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "完成1次任意专用机副本",
         "ID": 12,
@@ -162,7 +162,7 @@
         "ExParam": 10,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "强化任意部件10次",
         "ID": 13,
@@ -175,9 +175,9 @@
         "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "任意技能升级3次",
+        "Description": "进行快速招募3次",
         "ID": 14,
         "Name": null
     },
@@ -201,7 +201,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "装备开发5次",
         "ID": 16,
@@ -227,7 +227,7 @@
         "ExParam": 500,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "击杀任意敌人数量500个",
         "ID": 18,
@@ -240,7 +240,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            6
+            5
         ],
         "Description": "完成1次紧急任务",
         "ID": 19,
@@ -249,13 +249,13 @@
     {
         "ChristmasTaskType": 0,
         "TaskGroup": 2,
-        "Param": 10810002,
-        "ExParam": 5,
+        "Param": 0,
+        "ExParam": 1,
         "Award": [
             17000002,
-            3
+            5
         ],
-        "Description": "消耗5个精致机械零件",
+        "Description": "成功完成任意1次远征任务",
         "ID": 20,
         "Name": null
     },
@@ -279,7 +279,7 @@
         "ExParam": 2,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "完成2次任意专用机副本",
         "ID": 22,
@@ -292,7 +292,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "强化任意部件5次",
         "ID": 23,
@@ -302,12 +302,12 @@
         "ChristmasTaskType": 0,
         "TaskGroup": 3,
         "Param": 0,
-        "ExParam": 5,
+        "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "任意技能升级5次",
+        "Description": "进行快速招募3次",
         "ID": 24,
         "Name": null
     },
@@ -331,7 +331,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "装备开发5次",
         "ID": 26,
@@ -357,7 +357,7 @@
         "ExParam": 500,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "击杀任意敌人数量500个",
         "ID": 28,
@@ -370,7 +370,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            6
+            5
         ],
         "Description": "完成1次紧急任务",
         "ID": 29,
@@ -383,7 +383,7 @@
         "ExParam": 5,
         "Award": [
             17000002,
-            3
+            5
         ],
         "Description": "进行快速招募5次",
         "ID": 30,
@@ -393,12 +393,12 @@
         "ChristmasTaskType": 0,
         "TaskGroup": 4,
         "Param": 0,
-        "ExParam": 5,
+        "ExParam": 3,
         "Award": [
             17000001,
             3
         ],
-        "Description": "完成5次赏金任务",
+        "Description": "完成3次赏金任务",
         "ID": 31,
         "Name": null
     },
@@ -409,7 +409,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "完成1次任意专用机副本",
         "ID": 32,
@@ -422,7 +422,7 @@
         "ExParam": 8,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "强化任意部件8次",
         "ID": 33,
@@ -435,9 +435,9 @@
         "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "任意技能升级3次",
+        "Description": "进行快速招募3次",
         "ID": 34,
         "Name": null
     },
@@ -461,7 +461,7 @@
         "ExParam": 8,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "装备开发8次",
         "ID": 36,
@@ -487,7 +487,7 @@
         "ExParam": 400,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "击杀任意敌人数量400个",
         "ID": 38,
@@ -500,7 +500,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            6
+            5
         ],
         "Description": "完成1次紧急任务",
         "ID": 39,
@@ -513,7 +513,7 @@
         "ExParam": 5,
         "Award": [
             17000002,
-            3
+            5
         ],
         "Description": "进行快速开发5次",
         "ID": 40,
@@ -536,12 +536,12 @@
         "ChristmasTaskType": 0,
         "TaskGroup": 5,
         "Param": 0,
-        "ExParam": 5,
+        "ExParam": 3,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "完成5次任意专用机副本",
+        "Description": "完成3次任意专用机副本",
         "ID": 42,
         "Name": null
     },
@@ -552,7 +552,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "强化任意部件5次",
         "ID": 43,
@@ -565,9 +565,9 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
-        "Description": "任意技能升级5次",
+        "Description": "进行快速开发5次",
         "ID": 44,
         "Name": null
     },
@@ -591,7 +591,7 @@
         "ExParam": 5,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "装备开发5次",
         "ID": 46,
@@ -617,7 +617,7 @@
         "ExParam": 300,
         "Award": [
             17000001,
-            3
+            5
         ],
         "Description": "击杀任意敌人数量300个",
         "ID": 48,
@@ -630,7 +630,7 @@
         "ExParam": 1,
         "Award": [
             17000001,
-            6
+            5
         ],
         "Description": "完成1次紧急任务",
         "ID": 49,
@@ -639,13 +639,13 @@
     {
         "ChristmasTaskType": 0,
         "TaskGroup": 5,
-        "Param": 10810001,
-        "ExParam": 5,
+        "Param": 0,
+        "ExParam": 1,
         "Award": [
             17000002,
-            3
+            5
         ],
-        "Description": "消耗5个精英推荐信",
+        "Description": "成功完成任意2次远征任务",
         "ID": 50,
         "Name": null
     }

@@ -27642,5 +27642,995 @@
         "SuitType": 3,
         "ID": 230314201,
         "Name": "3171"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 0,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": [
+            0.59
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000270,
+        "Icon": "Parts_Arm_000270",
+        "Icon_Large": "L_Arm_000270",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131103,
+        "Name": "8059"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 1,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 2.11,
+        "Trigger": 0.47,
+        "BulletlAggRatio": [
+            0.38
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000271,
+        "Icon": "Parts_Arm_000271",
+        "Icon_Large": "L_Arm_000271",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131203,
+        "Name": "8060"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 2,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 4.02,
+        "Trigger": 0.33,
+        "BulletlAggRatio": [
+            0.33
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000272,
+        "Icon": "Parts_Arm_000272",
+        "Icon_Large": "L_Arm_000272",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131303,
+        "Name": "8061"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 3,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 1,
+        "Clip": 9999,
+        "ReloadType": 0,
+        "ReloadTime": 1000,
+        "ReloadRecover": 9999,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 1.0,
+        "Trigger": 1.0,
+        "BulletlAggRatio": [
+            0.56
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000273,
+        "Icon": "Parts_Arm_000273",
+        "Icon_Large": "L_Arm_000273",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131403,
+        "Name": "8062"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 4,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 200,
+        "ReloadType": 1,
+        "ReloadTime": 666,
+        "ReloadRecover": 200,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 14.15,
+        "Trigger": 0.07,
+        "BulletlAggRatio": [
+            0.08
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000274,
+        "Icon": "Parts_Arm_000274",
+        "Icon_Large": "L_Arm_000274",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131503,
+        "Name": "8063"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 5,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 30,
+        "ReloadType": 1,
+        "ReloadTime": 1833,
+        "ReloadRecover": 30,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 4.32,
+        "Trigger": 0.23,
+        "BulletlAggRatio": [
+            0.26
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000275,
+        "Icon": "Parts_Arm_000275",
+        "Icon_Large": "L_Arm_000275",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131603,
+        "Name": "8064"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 6,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1332,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 1000,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.38,
+        "Trigger": 2.63,
+        "BulletlAggRatio": [
+            1.27
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000276,
+        "Icon": "Parts_Arm_000276",
+        "Icon_Large": "L_Arm_000276",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131703,
+        "Name": "8065"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 7,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 2,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 2000,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 1000,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.27,
+        "Trigger": 3.7,
+        "BulletlAggRatio": [
+            1.62
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000277,
+        "Icon": "Parts_Arm_000277",
+        "Icon_Large": "L_Arm_000277",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131803,
+        "Name": "8066"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 0,
+        "EquipSubType": 8,
+        "SuitID": 0,
+        "WeightType": 0,
+        "FeatureSkill": 0,
+        "DistanceType": 3,
+        "Clip": 1,
+        "ReloadType": 1,
+        "ReloadTime": 1332,
+        "ReloadRecover": 1,
+        "AccumulatingTime": 1000,
+        "ShootInterval": 0,
+        "AttackSpeed": 1.0,
+        "WeaponSpeed": 0.33,
+        "Trigger": 3.03,
+        "BulletlAggRatio": [
+            1.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 21000278,
+        "Icon": "Parts_Arm_000278",
+        "Icon_Large": "L_Arm_000278",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210131903,
+        "Name": "8067"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 9,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 24000270,
+        "Icon": "Parts_Body_000270",
+        "Icon_Large": "L_Body_000270",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                32.0,
+                680.0
+            ],
+            [
+                68.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132103,
+        "Name": "8068"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 10,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 24000271,
+        "Icon": "Parts_Body_000271",
+        "Icon_Large": "L_Body_000271",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                32.0,
+                680.0
+            ],
+            [
+                68.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132203,
+        "Name": "8069"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 1,
+        "EquipSubType": 11,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 24000272,
+        "Icon": "Parts_Body_000272",
+        "Icon_Large": "L_Body_000272",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                32.0,
+                680.0
+            ],
+            [
+                68.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210132303,
+        "Name": "8070"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 14,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 23000270,
+        "Icon": "Parts_Leg_000270",
+        "Icon_Large": "L_Leg_000270",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                40.0,
+                680.0
+            ],
+            [
+                52.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133103,
+        "Name": "8071"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 15,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 23000271,
+        "Icon": "Parts_Leg_000271",
+        "Icon_Large": "L_Leg_000271",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                40.0,
+                680.0
+            ],
+            [
+                52.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133203,
+        "Name": "8072"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 2,
+        "EquipSubType": 16,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 23000272,
+        "Icon": "Parts_Leg_000272",
+        "Icon_Large": "L_Leg_000272",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                24.0,
+                3600.0
+            ],
+            [
+                40.0,
+                680.0
+            ],
+            [
+                52.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210133303,
+        "Name": "8073"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 19,
+        "SuitID": 0,
+        "WeightType": 1,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 22000270,
+        "Icon": "Parts_Bag_000270",
+        "Icon_Large": "L_Bag_000270",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134103,
+        "Name": "8074"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 20,
+        "SuitID": 0,
+        "WeightType": 2,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 22000271,
+        "Icon": "Parts_Bag_000271",
+        "Icon_Large": "L_Bag_000271",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134203,
+        "Name": "8075"
+    },
+    {
+        "WidgetSN": "4367",
+        "WidgetCamp": 8,
+        "EquipType": 3,
+        "EquipSubType": 21,
+        "SuitID": 0,
+        "WeightType": 3,
+        "FeatureSkill": 0,
+        "DistanceType": 0,
+        "Clip": 0,
+        "ReloadType": 0,
+        "ReloadTime": 0,
+        "ReloadRecover": 0,
+        "AccumulatingTime": 0,
+        "ShootInterval": 0,
+        "AttackSpeed": 0.0,
+        "WeaponSpeed": 0.0,
+        "Trigger": 0.0,
+        "BulletlAggRatio": [
+            0.0
+        ],
+        "BulletAggValue": 0,
+        "InjuryAddEffectType": 0,
+        "InjuryAddEffectPara": [],
+        "Disc": "8329",
+        "Model": 22000272,
+        "Icon": "Parts_Bag_000272",
+        "Icon_Large": "L_Bag_000272",
+        "Background": "ItemBack",
+        "DropMonsterID": [
+            0
+        ],
+        "WidgetArea": [
+            0
+        ],
+        "PropertyType": 2,
+        "PropertyPara1": "60,1,SR",
+        "PropertyPara2": [
+            [
+                28.0,
+                450.0
+            ],
+            [
+                44.0,
+                680.0
+            ],
+            [
+                54.0,
+                0.06
+            ]
+        ],
+        "SuitType": 1,
+        "ID": 210134303,
+        "Name": "8076"
     }
 ]
