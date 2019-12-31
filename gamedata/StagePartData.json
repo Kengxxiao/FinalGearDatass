@@ -11767,6 +11767,294 @@
     },
     {
         "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "近战部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6204,
+            6303,
+            6302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882002,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882003,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882004,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 882001,
+        "Name": "病伊活动普通1"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "远程部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6201,
+            6202,
+            6205,
+            6301
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882012,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882013,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882014,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 882011,
+        "Name": "病伊活动普通2"
+    },
+    {
+        "isTest": false,
+        "useMapScene": true,
+        "scene": "正式场景/Story000010_03电子世界回廊",
+        "icon": "混编部队-普通",
+        "backGroundIcon": null,
+        "titleIcon": null,
+        "sceneWidth": 50.0,
+        "playWinAction": true,
+        "killAllMonstersWhenWin": true,
+        "isShowLevelState": false,
+        "unitOnLevelBarIndexs": [
+            0
+        ],
+        "winCond": 1,
+        "failedCond": 3,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 0,
+        "UseKillNum": false,
+        "KillNum": 0,
+        "KillIndex": 0,
+        "targetRoleId": 0,
+        "arriveTarget": null,
+        "defendMonsterNum": 0,
+        "defendTargets": null,
+        "ProtectIndexs": null,
+        "PlayerBuffs": [],
+        "EnemyBuffs": [],
+        "FallNodes": [],
+        "PreviewMonsterIDs": [
+            6203,
+            6204,
+            6301,
+            6302
+        ],
+        "Nodes": [
+            {
+                "X": -5,
+                "Y": 0,
+                "Enabled": true,
+                "Type": 7,
+                "Desc": ""
+            },
+            {
+                "Left": 0,
+                "Right": 320,
+                "fixAction": 0,
+                "fixActionAniamtionTime": 0.8,
+                "Enabled": false,
+                "Type": 6,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 2,
+                "Desc": ""
+            },
+            {
+                "Enabled": true,
+                "Type": 9,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882022,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882023,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            },
+            {
+                "pos": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "ChuguaiID": 882024,
+                "Enabled": true,
+                "Type": 13,
+                "Desc": ""
+            }
+        ],
+        "ID": 882021,
+        "Name": "病伊活动普通3"
+    },
+    {
+        "isTest": false,
         "useMapScene": false,
         "scene": "正式场景/2_1平原农场_夜晚",
         "icon": null,
