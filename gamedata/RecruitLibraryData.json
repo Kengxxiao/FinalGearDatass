@@ -75437,5 +75437,69 @@
         ],
         "ID": 4016,
         "Name": null
+    },
+    {
+        "RandomLibraryID": 30101,
+        "StuffID": 10500090,
+        "StuffType": 0,
+        "RecruitTime": 240,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 4017,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 30102,
+        "StuffID": 10500090,
+        "StuffType": 0,
+        "RecruitTime": 240,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 4018,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 30104,
+        "StuffID": 10500090,
+        "StuffType": 0,
+        "RecruitTime": 240,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 4019,
+        "Name": null
+    },
+    {
+        "RandomLibraryID": 30103,
+        "StuffID": 10500090,
+        "StuffType": 0,
+        "RecruitTime": 240,
+        "Acceleration": [
+            10900001,
+            1
+        ],
+        "RecruitTask": 0,
+        "TaskEffect": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": [],
+        "ID": 4020,
+        "Name": null
     }
 ]
