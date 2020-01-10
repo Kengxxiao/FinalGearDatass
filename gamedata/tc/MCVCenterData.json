@@ -1,0 +1,392 @@
+[
+    {
+        "MCVLevel": 1,
+        "UnlockRoom": [
+            1006,
+            1007,
+            1008,
+            1009
+        ],
+        "ItemCost": [
+            [
+                0
+            ]
+        ],
+        "UnlockCond": -1,
+        "TimeCostId": 0,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 10000,
+        "FoodLimit": 10000,
+        "PowerLimit": 10000,
+        "FunctionUnlock": "9281",
+        "CostSource": [
+            [
+                10100012,
+                50
+            ],
+            [
+                10100013,
+                50
+            ],
+            [
+                10100014,
+                50
+            ]
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "MCVLevel": 2,
+        "UnlockRoom": [
+            1003,
+            1005,
+            1010,
+            1011,
+            1012,
+            1013,
+            1001,
+            1002,
+            1004
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                1
+            ]
+        ],
+        "UnlockCond": 10,
+        "TimeCostId": 0,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 20000,
+        "FoodLimit": 20000,
+        "PowerLimit": 20000,
+        "FunctionUnlock": "9281",
+        "CostSource": [
+            [
+                10100012,
+                100
+            ],
+            [
+                10100013,
+                100
+            ],
+            [
+                10100014,
+                100
+            ]
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "MCVLevel": 3,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                3
+            ]
+        ],
+        "UnlockCond": 11,
+        "TimeCostId": 22,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 30000,
+        "FoodLimit": 30000,
+        "PowerLimit": 30000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                150
+            ],
+            [
+                10100013,
+                150
+            ],
+            [
+                10100014,
+                150
+            ]
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "MCVLevel": 4,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                8
+            ]
+        ],
+        "UnlockCond": 12,
+        "TimeCostId": 63,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 40000,
+        "FoodLimit": 40000,
+        "PowerLimit": 40000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                200
+            ],
+            [
+                10100013,
+                200
+            ],
+            [
+                10100014,
+                200
+            ]
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "MCVLevel": 5,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                17
+            ]
+        ],
+        "UnlockCond": 13,
+        "TimeCostId": 138,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 50000,
+        "FoodLimit": 50000,
+        "PowerLimit": 50000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                250
+            ],
+            [
+                10100013,
+                250
+            ],
+            [
+                10100014,
+                250
+            ]
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "MCVLevel": 6,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                31
+            ]
+        ],
+        "UnlockCond": 14,
+        "TimeCostId": 260,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 60000,
+        "FoodLimit": 60000,
+        "PowerLimit": 60000,
+        "FunctionUnlock": "9286",
+        "CostSource": [
+            [
+                10100012,
+                300
+            ],
+            [
+                10100013,
+                300
+            ],
+            [
+                10100014,
+                300
+            ]
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "MCVLevel": 7,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                52
+            ]
+        ],
+        "UnlockCond": 15,
+        "TimeCostId": 439,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 70000,
+        "FoodLimit": 70000,
+        "PowerLimit": 70000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                350
+            ],
+            [
+                10100013,
+                350
+            ],
+            [
+                10100014,
+                350
+            ]
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "MCVLevel": 8,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                80
+            ]
+        ],
+        "UnlockCond": 16,
+        "TimeCostId": 686,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 80000,
+        "FoodLimit": 80000,
+        "PowerLimit": 80000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                400
+            ],
+            [
+                10100013,
+                400
+            ],
+            [
+                10100014,
+                400
+            ]
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "MCVLevel": 9,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                118
+            ]
+        ],
+        "UnlockCond": 17,
+        "TimeCostId": 1011,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 90000,
+        "FoodLimit": 90000,
+        "PowerLimit": 90000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                450
+            ],
+            [
+                10100013,
+                450
+            ],
+            [
+                10100014,
+                450
+            ]
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "MCVLevel": 10,
+        "UnlockRoom": [
+            -1
+        ],
+        "ItemCost": [
+            [
+                14106001,
+                167
+            ]
+        ],
+        "UnlockCond": 18,
+        "TimeCostId": 1427,
+        "LowCostPercent": 80,
+        "LowPerducePercent": 80,
+        "ItemNum": 3,
+        "ChipStrogeLimit": 18,
+        "WaterLimit": 100000,
+        "FoodLimit": 100000,
+        "PowerLimit": 100000,
+        "FunctionUnlock": "9283",
+        "CostSource": [
+            [
+                10100012,
+                500
+            ],
+            [
+                10100013,
+                500
+            ],
+            [
+                10100014,
+                500
+            ]
+        ],
+        "ID": 10,
+        "Name": null
+    }
+]

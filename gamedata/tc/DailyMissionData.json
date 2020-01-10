@@ -1,0 +1,121 @@
+[
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 1,
+        "DailyMissionType": 2,
+        "DailyMissionPara": "紧急",
+        "DailyMissionValue": 1,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1491",
+        "DailyMissionDesc": "1501",
+        "DailyMissionReward": [
+            10810002,
+            5
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 2,
+        "DailyMissionType": 4,
+        "DailyMissionPara": "日常",
+        "DailyMissionValue": 1,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1493",
+        "DailyMissionDesc": "1503",
+        "DailyMissionReward": [
+            10800001,
+            5
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 3,
+        "DailyMissionType": 5,
+        "DailyMissionPara": "招募",
+        "DailyMissionValue": 1,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1495",
+        "DailyMissionDesc": "1505",
+        "DailyMissionReward": [
+            10900001,
+            2
+        ],
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 4,
+        "DailyMissionType": 6,
+        "DailyMissionPara": "开发",
+        "DailyMissionValue": 5,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1496",
+        "DailyMissionDesc": "1506",
+        "DailyMissionReward": [
+            10900002,
+            5
+        ],
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 5,
+        "DailyMissionType": 7,
+        "DailyMissionPara": "远征",
+        "DailyMissionValue": 1,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1497",
+        "DailyMissionDesc": "1507",
+        "DailyMissionReward": [
+            10200003,
+            40
+        ],
+        "ID": 50,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 6,
+        "DailyMissionType": 9,
+        "DailyMissionPara": "强化",
+        "DailyMissionValue": 1,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1498",
+        "DailyMissionDesc": "1508",
+        "DailyMissionReward": [
+            10400000,
+            30000
+        ],
+        "ID": 60,
+        "Name": null
+    },
+    {
+        "AreaID": 0,
+        "DailyMissionArray": 99,
+        "DailyMissionType": 8,
+        "DailyMissionPara": "其他",
+        "DailyMissionValue": 6,
+        "DailyMissionRole": "",
+        "Weight": 1,
+        "DailyMissionName": "1499",
+        "DailyMissionDesc": "1509",
+        "DailyMissionReward": [
+            11600049,
+            1
+        ],
+        "ID": 99,
+        "Name": null
+    }
+]

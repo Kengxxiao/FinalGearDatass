@@ -1,0 +1,86 @@
+[
+    {
+        "SkillName": "3888",
+        "SkillDescribe": "3895",
+        "SkillIcon": "轰炸",
+        "SkillBeforTime": 2,
+        "SkillKeepTime": 0,
+        "SkillEffect": 10,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "SkillName": "3889",
+        "SkillDescribe": "3896",
+        "SkillIcon": "急速",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "SkillName": "3890",
+        "SkillDescribe": "3897",
+        "SkillIcon": "潜行",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 0,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "SkillName": "3891",
+        "SkillDescribe": "3898",
+        "SkillIcon": "烟幕",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "SkillName": "3892",
+        "SkillDescribe": "3899",
+        "SkillIcon": "电磁手雷",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 5,
+        "SkillEffect": 0,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "SkillName": "3893",
+        "SkillDescribe": "3900",
+        "SkillIcon": "补给",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 0,
+        "SkillEffect": 1,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "SkillName": "3894",
+        "SkillDescribe": "3901",
+        "SkillIcon": "医疗补给",
+        "SkillBeforTime": 0,
+        "SkillKeepTime": 0,
+        "SkillEffect": 50,
+        "SkillCoolDown": 30,
+        "Skill": 0.0,
+        "ID": 7,
+        "Name": null
+    }
+]

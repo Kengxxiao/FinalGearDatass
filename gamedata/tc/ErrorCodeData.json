@@ -1,0 +1,1658 @@
+[
+    {
+        "Disc": "1521",
+        "Title": "8620",
+        "IsShow": false,
+        "ParaName": "OK",
+        "Memo": "",
+        "ID": 0,
+        "Name": null
+    },
+    {
+        "Disc": "1522",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NoSuchServer",
+        "Memo": "",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Disc": "1523",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "DupLogin",
+        "Memo": "账号在其他地方登录",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Disc": "1524",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NoSuchRetailType",
+        "Memo": "",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Disc": "1525",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "InvaildActivationCode",
+        "Memo": "",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Disc": "1526",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "AccountIsFrozen",
+        "Memo": "",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Disc": "1527",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SessionExpires",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Disc": "1528",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "LoginFail",
+        "Memo": "获取UserId出错",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Disc": "1529",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ServerMaintenance",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Disc": "1530",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ServerFull",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Disc": "1531",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "IllegalUser",
+        "Memo": "",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Disc": "1532",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TokenVerifyError",
+        "Memo": "需要把玩家踢到主界面(token验证失败)",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Disc": "1533",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ClientVerMismatch",
+        "Memo": "需要把玩家踢到主界面",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "Disc": "1534",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "Unknown",
+        "Memo": "请为网关预留[1,255]这些位的异常码",
+        "ID": 255,
+        "Name": null
+    },
+    {
+        "Disc": "1535",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ServerError",
+        "Memo": "",
+        "ID": 500,
+        "Name": null
+    },
+    {
+        "Disc": "1536",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotExists",
+        "Memo": "",
+        "ID": 501,
+        "Name": null
+    },
+    {
+        "Disc": "1537",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ParamError",
+        "Memo": "",
+        "ID": 502,
+        "Name": null
+    },
+    {
+        "Disc": "1538",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ConfigError",
+        "Memo": "",
+        "ID": 503,
+        "Name": null
+    },
+    {
+        "Disc": "1539",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CrystalNotEnough",
+        "Memo": "",
+        "ID": 511,
+        "Name": null
+    },
+    {
+        "Disc": "1540",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CoinsNotEnough",
+        "Memo": "",
+        "ID": 512,
+        "Name": null
+    },
+    {
+        "Disc": "1541",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "OverTheLimit",
+        "Memo": "",
+        "ID": 520,
+        "Name": null
+    },
+    {
+        "Disc": "1542",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetMaterialNotDressed",
+        "Memo": "",
+        "ID": 601,
+        "Name": null
+    },
+    {
+        "Disc": "1543",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "IntensifyLevelLimit",
+        "Memo": "",
+        "ID": 602,
+        "Name": null
+    },
+    {
+        "Disc": "1544",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "LastGirlNotDown",
+        "Memo": "",
+        "ID": 603,
+        "Name": null
+    },
+    {
+        "Disc": "1545",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemNumNotEnough",
+        "Memo": "",
+        "ID": 604,
+        "Name": null
+    },
+    {
+        "Disc": "1546",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemTypeError",
+        "Memo": "",
+        "ID": 605,
+        "Name": null
+    },
+    {
+        "Disc": "1547",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemNotFound",
+        "Memo": "",
+        "ID": 606,
+        "Name": null
+    },
+    {
+        "Disc": "1548",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StarLevelLimit",
+        "Memo": "",
+        "ID": 607,
+        "Name": null
+    },
+    {
+        "Disc": "1549",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BrekthoughLevelNotEnough",
+        "Memo": "",
+        "ID": 608,
+        "Name": null
+    },
+    {
+        "Disc": "1550",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PackageNotEnough",
+        "Memo": "",
+        "ID": 609,
+        "Name": null
+    },
+    {
+        "Disc": "1551",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotInBattle",
+        "Memo": "",
+        "ID": 610,
+        "Name": null
+    },
+    {
+        "Disc": "1552",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BattleGroupInFighting",
+        "Memo": "",
+        "ID": 611,
+        "Name": null
+    },
+    {
+        "Disc": "1553",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageFighting",
+        "Memo": "",
+        "ID": 612,
+        "Name": null
+    },
+    {
+        "Disc": "1554",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MissionNotOpen",
+        "Memo": "",
+        "ID": 613,
+        "Name": null
+    },
+    {
+        "Disc": "1555",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PreStageNotComplete",
+        "Memo": "",
+        "ID": 614,
+        "Name": null
+    },
+    {
+        "Disc": "1556",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PowerNotEnough",
+        "Memo": "",
+        "ID": 615,
+        "Name": null
+    },
+    {
+        "Disc": "1557",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "FragmentNumNotEnough",
+        "Memo": "",
+        "ID": 616,
+        "Name": null
+    },
+    {
+        "Disc": "1558",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MissionLevelLimit",
+        "Memo": "",
+        "ID": 617,
+        "Name": null
+    },
+    {
+        "Disc": "1559",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemNotSell",
+        "Memo": "",
+        "ID": 618,
+        "Name": null
+    },
+    {
+        "Disc": "1560",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemNotUse",
+        "Memo": "",
+        "ID": 619,
+        "Name": null
+    },
+    {
+        "Disc": "1561",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MailGeted",
+        "Memo": "",
+        "ID": 620,
+        "Name": null
+    },
+    {
+        "Disc": "1562",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetGroupNotActivate",
+        "Memo": "",
+        "ID": 621,
+        "Name": null
+    },
+    {
+        "Disc": "1563",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetNotResolve",
+        "Memo": "",
+        "ID": 622,
+        "Name": null
+    },
+    {
+        "Disc": "1564",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TargetGirlPowerNotEnough",
+        "Memo": "",
+        "ID": 623,
+        "Name": null
+    },
+    {
+        "Disc": "1565",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RecruitQueueLimit",
+        "Memo": "",
+        "ID": 624,
+        "Name": null
+    },
+    {
+        "Disc": "1566",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BuildQueueLimit",
+        "Memo": "",
+        "ID": 625,
+        "Name": null
+    },
+    {
+        "Disc": "1567",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGirl",
+        "Memo": "",
+        "ID": 626,
+        "Name": null
+    },
+    {
+        "Disc": "1568",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SexInputError",
+        "Memo": "",
+        "ID": 627,
+        "Name": null
+    },
+    {
+        "Disc": "1569",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotEquipedSamePart",
+        "Memo": "",
+        "ID": 628,
+        "Name": null
+    },
+    {
+        "Disc": "1570",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetTypeError",
+        "Memo": "",
+        "ID": 629,
+        "Name": null
+    },
+    {
+        "Disc": "1571",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "IllegalLength",
+        "Memo": "",
+        "ID": 630,
+        "Name": null
+    },
+    {
+        "Disc": "1572",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NickNameExists",
+        "Memo": "",
+        "ID": 631,
+        "Name": null
+    },
+    {
+        "Disc": "1573",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "IllegalCharacter",
+        "Memo": "",
+        "ID": 632,
+        "Name": null
+    },
+    {
+        "Disc": "1574",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BirthdayError",
+        "Memo": "",
+        "ID": 633,
+        "Name": null
+    },
+    {
+        "Disc": "1575",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BirthdayNotModify",
+        "Memo": "",
+        "ID": 634,
+        "Name": null
+    },
+    {
+        "Disc": "1576",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotNeedQuick",
+        "Memo": "",
+        "ID": 635,
+        "Name": null
+    },
+    {
+        "Disc": "1577",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TimeNotOver",
+        "Memo": "",
+        "ID": 636,
+        "Name": null
+    },
+    {
+        "Disc": "1578",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotMorePlayerLevel",
+        "Memo": "",
+        "ID": 637,
+        "Name": null
+    },
+    {
+        "Disc": "1579",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "InBattleGroup",
+        "Memo": "",
+        "ID": 638,
+        "Name": null
+    },
+    {
+        "Disc": "1580",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotSkin",
+        "Memo": "",
+        "ID": 639,
+        "Name": null
+    },
+    {
+        "Disc": "1581",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetAchiReward",
+        "Memo": "",
+        "ID": 640,
+        "Name": null
+    },
+    {
+        "Disc": "1582",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetSevenLoginReward",
+        "Memo": "",
+        "ID": 641,
+        "Name": null
+    },
+    {
+        "Disc": "1583",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ShopItemBuyLimit",
+        "Memo": "",
+        "ID": 642,
+        "Name": null
+    },
+    {
+        "Disc": "1584",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlSkillLevelLimit",
+        "Memo": "",
+        "ID": 643,
+        "Name": null
+    },
+    {
+        "Disc": "1585",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetLocked",
+        "Memo": "",
+        "ID": 644,
+        "Name": null
+    },
+    {
+        "Disc": "1586",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CorberoPointNotEnough",
+        "Memo": "",
+        "ID": 645,
+        "Name": null
+    },
+    {
+        "Disc": "1587",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CorberoPointRewardGeted",
+        "Memo": "",
+        "ID": 646,
+        "Name": null
+    },
+    {
+        "Disc": "1588",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "AreaNotOpen",
+        "Memo": "",
+        "ID": 647,
+        "Name": null
+    },
+    {
+        "Disc": "1589",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ActivityRewardPoolNotEmpty",
+        "Memo": "",
+        "ID": 648,
+        "Name": null
+    },
+    {
+        "Disc": "1590",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotExchangeableItem",
+        "Memo": "",
+        "ID": 649,
+        "Name": null
+    },
+    {
+        "Disc": "1591",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "AllRewardGeted",
+        "Memo": "",
+        "ID": 650,
+        "Name": null
+    },
+    {
+        "Disc": "1592",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetActivityDailyReward",
+        "Memo": "",
+        "ID": 651,
+        "Name": null
+    },
+    {
+        "Disc": "1593",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetActivityAchiReward",
+        "Memo": "",
+        "ID": 652,
+        "Name": null
+    },
+    {
+        "Disc": "1594",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionLimit",
+        "Memo": "",
+        "ID": 653,
+        "Name": null
+    },
+    {
+        "Disc": "1595",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionRoleNumNotEnough",
+        "Memo": "",
+        "ID": 654,
+        "Name": null
+    },
+    {
+        "Disc": "1596",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionProfessionError",
+        "Memo": "",
+        "ID": 655,
+        "Name": null
+    },
+    {
+        "Disc": "1597",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionResponseTypeError",
+        "Memo": "",
+        "ID": 656,
+        "Name": null
+    },
+    {
+        "Disc": "1598",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ActivityNotOpen",
+        "Memo": "",
+        "ID": 657,
+        "Name": null
+    },
+    {
+        "Disc": "1599",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetDailyReward",
+        "Memo": "",
+        "ID": 658,
+        "Name": null
+    },
+    {
+        "Disc": "1600",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetWeeklyReward",
+        "Memo": "",
+        "ID": 659,
+        "Name": null
+    },
+    {
+        "Disc": "1601",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionAlreadyAccept",
+        "Memo": "",
+        "ID": 660,
+        "Name": null
+    },
+    {
+        "Disc": "1602",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChapterNotOpen",
+        "Memo": "",
+        "ID": 661,
+        "Name": null
+    },
+    {
+        "Disc": "1603",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PlayerLevelLimit",
+        "Memo": "",
+        "ID": 662,
+        "Name": null
+    },
+    {
+        "Disc": "1604",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "Expeditioning",
+        "Memo": "",
+        "ID": 663,
+        "Name": null
+    },
+    {
+        "Disc": "1605",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotTitle",
+        "Memo": "",
+        "ID": 664,
+        "Name": null
+    },
+    {
+        "Disc": "1606",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChallengeStageLimit",
+        "Memo": "",
+        "ID": 665,
+        "Name": null
+    },
+    {
+        "Disc": "1607",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlLevelLimit",
+        "Memo": "",
+        "ID": 666,
+        "Name": null
+    },
+    {
+        "Disc": "1608",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "OrderNotFound",
+        "Memo": "",
+        "ID": 667,
+        "Name": null
+    },
+    {
+        "Disc": "1609",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TodayGetedTotalRechargeReward",
+        "Memo": "",
+        "ID": 668,
+        "Name": null
+    },
+    {
+        "Disc": "1610",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TodayGetedMonthCardReward",
+        "Memo": "",
+        "ID": 669,
+        "Name": null
+    },
+    {
+        "Disc": "1611",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MonthCardTimeout",
+        "Memo": "",
+        "ID": 670,
+        "Name": null
+    },
+    {
+        "Disc": "1612",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TicketNotEnough",
+        "Memo": "",
+        "ID": 671,
+        "Name": null
+    },
+    {
+        "Disc": "1613",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "AutoDeployNotNull",
+        "Memo": "",
+        "ID": 672,
+        "Name": null
+    },
+    {
+        "Disc": "1614",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RoleStageNotOpen",
+        "Memo": "",
+        "ID": 673,
+        "Name": null
+    },
+    {
+        "Disc": "1615",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PersonalStoryDailyCountLimit",
+        "Memo": "",
+        "ID": 674,
+        "Name": null
+    },
+    {
+        "Disc": "1616",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeInvalid",
+        "Memo": "",
+        "ID": 675,
+        "Name": null
+    },
+    {
+        "Disc": "1617",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeUsed",
+        "Memo": "",
+        "ID": 676,
+        "Name": null
+    },
+    {
+        "Disc": "1618",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeTimeNotStart",
+        "Memo": "",
+        "ID": 677,
+        "Name": null
+    },
+    {
+        "Disc": "1619",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeExpire",
+        "Memo": "",
+        "ID": 678,
+        "Name": null
+    },
+    {
+        "Disc": "1620",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeAgainGet",
+        "Memo": "",
+        "ID": 679,
+        "Name": null
+    },
+    {
+        "Disc": "1621",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CodeGetFail",
+        "Memo": "",
+        "ID": 680,
+        "Name": null
+    },
+    {
+        "Disc": "1622",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionNotComplete",
+        "Memo": "",
+        "ID": 681,
+        "Name": null
+    },
+    {
+        "Disc": "1623",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ExpeditionMissionNotAccept",
+        "Memo": "",
+        "ID": 682,
+        "Name": null
+    },
+    {
+        "Disc": "1624",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BountyPointNotEnough",
+        "Memo": "",
+        "ID": 683,
+        "Name": null
+    },
+    {
+        "Disc": "1625",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "Coolingdown",
+        "Memo": "",
+        "ID": 684,
+        "Name": null
+    },
+    {
+        "Disc": "1626",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChanllengeCoinNotEnough",
+        "Memo": "",
+        "ID": 685,
+        "Name": null
+    },
+    {
+        "Disc": "1627",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CommonSkillItemNotEnough",
+        "Memo": "",
+        "ID": 686,
+        "Name": null
+    },
+    {
+        "Disc": "1628",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageNotComplete",
+        "Memo": "",
+        "ID": 687,
+        "Name": null
+    },
+    {
+        "Disc": "1629",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RewardGeted",
+        "Memo": "",
+        "ID": 688,
+        "Name": null
+    },
+    {
+        "Disc": "1630",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotExistsRookieTask",
+        "Memo": "",
+        "ID": 689,
+        "Name": null
+    },
+    {
+        "Disc": "1631",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RookieRewardNotComplete",
+        "Memo": "",
+        "ID": 690,
+        "Name": null
+    },
+    {
+        "Disc": "1632",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RookieTaskIdNotComplete",
+        "Memo": "",
+        "ID": 691,
+        "Name": null
+    },
+    {
+        "Disc": "1633",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CanNotAcceptRookieTask",
+        "Memo": "",
+        "ID": 692,
+        "Name": null
+    },
+    {
+        "Disc": "1634",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "AllRookieTaskDone",
+        "Memo": "",
+        "ID": 693,
+        "Name": null
+    },
+    {
+        "Disc": "1635",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CanNotRepeatLikeShopItem",
+        "Memo": "",
+        "ID": 694,
+        "Name": null
+    },
+    {
+        "Disc": "1636",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetStrengMax",
+        "Memo": "",
+        "ID": 695,
+        "Name": null
+    },
+    {
+        "Disc": "1637",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotInActivityTime",
+        "Memo": "",
+        "ID": 696,
+        "Name": null
+    },
+    {
+        "Disc": "1638",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MaxBuyTimesLimit",
+        "Memo": "",
+        "ID": 697,
+        "Name": null
+    },
+    {
+        "Disc": "1639",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageCompleted",
+        "Memo": "",
+        "ID": 698,
+        "Name": null
+    },
+    {
+        "Disc": "1640",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GetWidgetExchangeAwardFailed",
+        "Memo": "",
+        "ID": 699,
+        "Name": null
+    },
+    {
+        "Disc": "1641",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NoCompleted",
+        "Memo": "",
+        "ID": 700,
+        "Name": null
+    },
+    {
+        "Disc": "1642",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "Received",
+        "Memo": "",
+        "ID": 701,
+        "Name": null
+    },
+    {
+        "Disc": "1643",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BattlePowerNotEnough",
+        "Memo": "",
+        "ID": 702,
+        "Name": null
+    },
+    {
+        "Disc": "1644",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BigSaleAwardFailed",
+        "Memo": "",
+        "ID": 703,
+        "Name": null
+    },
+    {
+        "Disc": "1645",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageChallengeCountLimit",
+        "Memo": "",
+        "ID": 704,
+        "Name": null
+    },
+    {
+        "Disc": "1646",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChallengeItemNotEnough",
+        "Memo": "",
+        "ID": 705,
+        "Name": null
+    },
+    {
+        "Disc": "1647",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PointConversionCountNotEnough",
+        "Memo": "",
+        "ID": 706,
+        "Name": null
+    },
+    {
+        "Disc": "1648",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PointConversionPointNotEnough",
+        "Memo": "",
+        "ID": 707,
+        "Name": null
+    },
+    {
+        "Disc": "1649",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PoolEmpty",
+        "Memo": "",
+        "ID": 708,
+        "Name": null
+    },
+    {
+        "Disc": "8929",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVLevelLimit",
+        "Memo": "",
+        "ID": 709,
+        "Name": null
+    },
+    {
+        "Disc": "8930",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomLevelLimit",
+        "Memo": "",
+        "ID": 710,
+        "Name": null
+    },
+    {
+        "Disc": "8931",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CurStatusIsNotLevelUp",
+        "Memo": "",
+        "ID": 711,
+        "Name": null
+    },
+    {
+        "Disc": "8932",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CurStatusCanNotAction",
+        "Memo": "",
+        "ID": 712,
+        "Name": null
+    },
+    {
+        "Disc": "8933",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotDestroyRoom",
+        "Memo": "",
+        "ID": 713,
+        "Name": null
+    },
+    {
+        "Disc": "8934",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlCondNotOK",
+        "Memo": "",
+        "ID": 714,
+        "Name": null
+    },
+    {
+        "Disc": "8935",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVBaseCondNotOK",
+        "Memo": "",
+        "ID": 715,
+        "Name": null
+    },
+    {
+        "Disc": "8936",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomCondNotOK",
+        "Memo": "",
+        "ID": 716,
+        "Name": null
+    },
+    {
+        "Disc": "8937",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomOppsite",
+        "Memo": "",
+        "ID": 717,
+        "Name": null
+    },
+    {
+        "Disc": "8938",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomDispatchLimit",
+        "Memo": "",
+        "ID": 718,
+        "Name": null
+    },
+    {
+        "Disc": "8939",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomDonotDispatchGirl",
+        "Memo": "",
+        "ID": 719,
+        "Name": null
+    },
+    {
+        "Disc": "8940",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsFull",
+        "Memo": "",
+        "ID": 720,
+        "Name": null
+    },
+    {
+        "Disc": "8941",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotBelong2Group",
+        "Memo": "",
+        "ID": 721,
+        "Name": null
+    },
+    {
+        "Disc": "8942",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVRoomIsNotOrderRoom",
+        "Memo": "",
+        "ID": 722,
+        "Name": null
+    },
+    {
+        "Disc": "8943",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotExists",
+        "Memo": "",
+        "ID": 723,
+        "Name": null
+    },
+    {
+        "Disc": "8944",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVCannotChangeCompleteOrder",
+        "Memo": "",
+        "ID": 724,
+        "Name": null
+    },
+    {
+        "Disc": "8945",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVOrderCannotGather",
+        "Memo": "",
+        "ID": 725,
+        "Name": null
+    },
+    {
+        "Disc": "8946",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVBaseStatusCannotLvlUp",
+        "Memo": "",
+        "ID": 726,
+        "Name": null
+    },
+    {
+        "Disc": "8947",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVCannotEnterLowCostStatus",
+        "Memo": "",
+        "ID": 727,
+        "Name": null
+    },
+    {
+        "Disc": "8948",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVLowCostHourLeak",
+        "Memo": "",
+        "ID": 728,
+        "Name": null
+    },
+    {
+        "Disc": "8949",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVIsNotLowCostStatus",
+        "Memo": "",
+        "ID": 729,
+        "Name": null
+    },
+    {
+        "Disc": "8950",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVLowCostHaveCalced",
+        "Memo": "",
+        "ID": 730,
+        "Name": null
+    },
+    {
+        "Disc": "8951",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVOrderIsNotProcess",
+        "Memo": "",
+        "ID": 731,
+        "Name": null
+    },
+    {
+        "Disc": "8952",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BubbleStatusCannotRandom",
+        "Memo": "",
+        "ID": 732,
+        "Name": null
+    },
+    {
+        "Disc": "8953",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BubbleRefreshNumLimit",
+        "Memo": "",
+        "ID": 733,
+        "Name": null
+    },
+    {
+        "Disc": "8954",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BubbleNotAlreadyRandom",
+        "Memo": "",
+        "ID": 734,
+        "Name": null
+    },
+    {
+        "Disc": "8955",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SlotDonotHaveBubble",
+        "Memo": "",
+        "ID": 735,
+        "Name": null
+    },
+    {
+        "Disc": "8956",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BubbleHaveRecievedAward",
+        "Memo": "",
+        "ID": 736,
+        "Name": null
+    },
+    {
+        "Disc": "8957",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RecievedTimeIsNotOK",
+        "Memo": "",
+        "ID": 737,
+        "Name": null
+    },
+    {
+        "Disc": "8958",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlMCVSkillNotExists",
+        "Memo": "",
+        "ID": 738,
+        "Name": null
+    },
+    {
+        "Disc": "8959",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SwitchGirlOnly2RestRoom",
+        "Memo": "",
+        "ID": 739,
+        "Name": null
+    },
+    {
+        "Disc": "8932",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVPreTaskCurStatusCanNotAction",
+        "Memo": "",
+        "ID": 740,
+        "Name": null
+    },
+    {
+        "Disc": "8961",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlIsInExpeditionCannotDispatch",
+        "Memo": "",
+        "ID": 741,
+        "Name": null
+    },
+    {
+        "Disc": "8962",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlIsInBattleGroupCannotDispatch",
+        "Memo": "",
+        "ID": 742,
+        "Name": null
+    },
+    {
+        "Disc": "8963",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlHasDispatched",
+        "Memo": "",
+        "ID": 743,
+        "Name": null
+    },
+    {
+        "Disc": "8964",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TechTreeNodeUnlock",
+        "Memo": "",
+        "ID": 744,
+        "Name": null
+    },
+    {
+        "Disc": "8965",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TechTreeNodeLevelLimit",
+        "Memo": "",
+        "ID": 745,
+        "Name": null
+    },
+    {
+        "Disc": "8966",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ItemIsNotSkillType",
+        "Memo": "",
+        "ID": 746,
+        "Name": null
+    },
+    {
+        "Disc": "8967",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlSkillDuplicate",
+        "Memo": "",
+        "ID": 747,
+        "Name": null
+    },
+    {
+        "Disc": "8968",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SwitchSkillIsNotChange",
+        "Memo": "",
+        "ID": 748,
+        "Name": null
+    },
+    {
+        "Disc": "8969",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GoodWillNotEnough",
+        "Memo": "",
+        "ID": 749,
+        "Name": null
+    },
+    {
+        "Disc": "8970",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BirthdayNotActive",
+        "Memo": "",
+        "ID": 750,
+        "Name": null
+    },
+    {
+        "Disc": "8971",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BirthdayNotTime",
+        "Memo": "",
+        "ID": 751,
+        "Name": null
+    },
+    {
+        "Disc": "8972",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "OnlyTechRoomCanRefresh",
+        "Memo": "",
+        "ID": 752,
+        "Name": null
+    },
+    {
+        "Disc": "8973",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SourceStoreLimit",
+        "Memo": "",
+        "ID": 753,
+        "Name": null
+    },
+    {
+        "Disc": "8974",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MCVIsNotLeakSourceStatus",
+        "Memo": "",
+        "ID": 754,
+        "Name": null
+    },
+    {
+        "Disc": "8975",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlMCVSkillHaveLearned",
+        "Memo": "",
+        "ID": 755,
+        "Name": null
+    },
+    {
+        "Disc": "8976",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlMCVHighSkillHaveLearned",
+        "Memo": "",
+        "ID": 756,
+        "Name": null
+    },
+    {
+        "Disc": "1522",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100000",
+        "Memo": "",
+        "ID": 100000,
+        "Name": null
+    },
+    {
+        "Disc": "1650",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100001",
+        "Memo": "",
+        "ID": 100001,
+        "Name": null
+    },
+    {
+        "Disc": "1524",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100002",
+        "Memo": "",
+        "ID": 100002,
+        "Name": null
+    },
+    {
+        "Disc": "1651",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100003",
+        "Memo": "",
+        "ID": 100003,
+        "Name": null
+    },
+    {
+        "Disc": "1652",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100004",
+        "Memo": "",
+        "ID": 100004,
+        "Name": null
+    },
+    {
+        "Disc": "1653",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100005",
+        "Memo": "",
+        "ID": 100005,
+        "Name": null
+    },
+    {
+        "Disc": "1654",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "E_100006",
+        "Memo": "",
+        "ID": 100006,
+        "Name": null
+    }
+]

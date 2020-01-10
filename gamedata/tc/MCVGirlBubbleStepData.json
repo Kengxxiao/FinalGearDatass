@@ -1,0 +1,72 @@
+[
+    {
+        "StepID": 1,
+        "EnergyCostCond": 100,
+        "ExpeditionCond": -1,
+        "BubbleGroupID": 1,
+        "RefreshCost": [
+            [
+                14100001,
+                1
+            ]
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "StepID": 2,
+        "EnergyCostCond": 300,
+        "ExpeditionCond": -1,
+        "BubbleGroupID": 1,
+        "RefreshCost": [
+            [
+                14100001,
+                1
+            ]
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "StepID": 3,
+        "EnergyCostCond": 500,
+        "ExpeditionCond": -1,
+        "BubbleGroupID": 1,
+        "RefreshCost": [
+            [
+                14100001,
+                1
+            ]
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "StepID": 4,
+        "EnergyCostCond": 800,
+        "ExpeditionCond": -1,
+        "BubbleGroupID": 1,
+        "RefreshCost": [
+            [
+                14100001,
+                1
+            ]
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "StepID": 5,
+        "EnergyCostCond": 1000,
+        "ExpeditionCond": -1,
+        "BubbleGroupID": 1,
+        "RefreshCost": [
+            [
+                14100001,
+                1
+            ]
+        ],
+        "ID": 5,
+        "Name": null
+    }
+]

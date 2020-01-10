@@ -1,0 +1,1363 @@
+[
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                0
+            ]
+        ],
+        "Icon": "85000020",
+        "ID": 1001,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1001,
+                1
+            ]
+        ],
+        "Icon": "85000031",
+        "ID": 1002,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1002,
+                1
+            ]
+        ],
+        "Icon": "85000046",
+        "ID": 1003,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1003,
+                1
+            ]
+        ],
+        "Icon": "85000038",
+        "ID": 1004,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1003,
+                1
+            ]
+        ],
+        "Icon": "85000040",
+        "ID": 1005,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1003,
+                1
+            ]
+        ],
+        "Icon": "85000041",
+        "ID": 1006,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1003,
+                1
+            ]
+        ],
+        "Icon": "85000039",
+        "ID": 1007,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1009,
+                1
+            ]
+        ],
+        "Icon": "85000107",
+        "ID": 1008,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1004,
+                1
+            ],
+            [
+                1007,
+                1
+            ]
+        ],
+        "Icon": "85000105",
+        "ID": 1009,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1008,
+                1
+            ]
+        ],
+        "Icon": "85000100",
+        "ID": 1010,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1010,
+                1
+            ]
+        ],
+        "Icon": "85000043",
+        "ID": 1011,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1010,
+                1
+            ]
+        ],
+        "Icon": "85000042",
+        "ID": 1012,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1012,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 1013,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1015,
+                1
+            ]
+        ],
+        "Icon": "85000034",
+        "ID": 1014,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1013,
+                1
+            ]
+        ],
+        "Icon": "85000036",
+        "ID": 1015,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1013,
+                1
+            ]
+        ],
+        "Icon": "85000041",
+        "ID": 1016,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1016,
+                1
+            ]
+        ],
+        "Icon": "85000039",
+        "ID": 1017,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1015,
+                1
+            ],
+            [
+                1016,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 1018,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1020,
+                1
+            ]
+        ],
+        "Icon": "85000106",
+        "ID": 1019,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1018,
+                1
+            ]
+        ],
+        "Icon": "85000108",
+        "ID": 1020,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1022,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 1021,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1019,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 1022,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1022,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 1023,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1022,
+                1
+            ]
+        ],
+        "Icon": "85000017",
+        "ID": 1024,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1022,
+                1
+            ]
+        ],
+        "Icon": "85000018",
+        "ID": 1025,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1022,
+                1
+            ]
+        ],
+        "Icon": "85000019",
+        "ID": 1026,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1025,
+                1
+            ]
+        ],
+        "Icon": "85000056",
+        "ID": 1027,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1027,
+                1
+            ]
+        ],
+        "Icon": "85000055",
+        "ID": 1028,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1028,
+                1
+            ]
+        ],
+        "Icon": "85000058",
+        "ID": 1029,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1029,
+                1
+            ]
+        ],
+        "Icon": "85000071",
+        "ID": 1030,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1029,
+                1
+            ]
+        ],
+        "Icon": "85000062",
+        "ID": 1031,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1030,
+                1
+            ]
+        ],
+        "Icon": "85000070",
+        "ID": 1032,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1031,
+                1
+            ]
+        ],
+        "Icon": "85000061",
+        "ID": 1033,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1032,
+                1
+            ]
+        ],
+        "Icon": "85000069",
+        "ID": 1034,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1033,
+                1
+            ]
+        ],
+        "Icon": "85000060",
+        "ID": 1035,
+        "Name": null
+    },
+    {
+        "TechType": 1,
+        "PreTech": [
+            [
+                1034,
+                1
+            ],
+            [
+                1035,
+                1
+            ]
+        ],
+        "Icon": "85000097",
+        "ID": 1036,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                0
+            ]
+        ],
+        "Icon": "85000021",
+        "ID": 2001,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2001,
+                1
+            ]
+        ],
+        "Icon": "85000028",
+        "ID": 2002,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2001,
+                1
+            ]
+        ],
+        "Icon": "85000029",
+        "ID": 2003,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2002,
+                1
+            ],
+            [
+                2003,
+                1
+            ]
+        ],
+        "Icon": "85000049",
+        "ID": 2004,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2004,
+                1
+            ]
+        ],
+        "Icon": "85000080",
+        "ID": 2005,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2004,
+                1
+            ]
+        ],
+        "Icon": "85000077",
+        "ID": 2006,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2008,
+                1
+            ]
+        ],
+        "Icon": "85000081",
+        "ID": 2007,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2005,
+                1
+            ]
+        ],
+        "Icon": "85000082",
+        "ID": 2008,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2006,
+                1
+            ]
+        ],
+        "Icon": "85000079",
+        "ID": 2009,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2009,
+                1
+            ]
+        ],
+        "Icon": "85000078",
+        "ID": 2010,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2008,
+                1
+            ],
+            [
+                2009,
+                1
+            ]
+        ],
+        "Icon": "85000090",
+        "ID": 2011,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2013,
+                1
+            ]
+        ],
+        "Icon": "85000099",
+        "ID": 2012,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2011,
+                1
+            ]
+        ],
+        "Icon": "85000049",
+        "ID": 2013,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2012,
+                1
+            ],
+            [
+                2015,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 2014,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2013,
+                1
+            ]
+        ],
+        "Icon": "85000027",
+        "ID": 2015,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2015,
+                1
+            ]
+        ],
+        "Icon": "85000030",
+        "ID": 2016,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2016,
+                1
+            ]
+        ],
+        "Icon": "85000085",
+        "ID": 2017,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2016,
+                1
+            ]
+        ],
+        "Icon": "85000084",
+        "ID": 2018,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2016,
+                1
+            ]
+        ],
+        "Icon": "85000083",
+        "ID": 2019,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2019,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 2020,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2020,
+                1
+            ]
+        ],
+        "Icon": "85000096",
+        "ID": 2021,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2021,
+                1
+            ]
+        ],
+        "Icon": "85000088",
+        "ID": 2022,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2021,
+                1
+            ]
+        ],
+        "Icon": "85000087",
+        "ID": 2023,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2021,
+                1
+            ]
+        ],
+        "Icon": "85000086",
+        "ID": 2024,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2026,
+                1
+            ]
+        ],
+        "Icon": "85000089",
+        "ID": 2025,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2024,
+                1
+            ]
+        ],
+        "Icon": "85000091",
+        "ID": 2026,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2026,
+                1
+            ]
+        ],
+        "Icon": "85000054",
+        "ID": 2027,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2027,
+                1
+            ]
+        ],
+        "Icon": "85000093",
+        "ID": 2028,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2028,
+                1
+            ]
+        ],
+        "Icon": "85000072",
+        "ID": 2029,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2028,
+                1
+            ]
+        ],
+        "Icon": "85000063",
+        "ID": 2030,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2029,
+                1
+            ]
+        ],
+        "Icon": "85000074",
+        "ID": 2031,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2030,
+                1
+            ]
+        ],
+        "Icon": "85000065",
+        "ID": 2032,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2031,
+                1
+            ]
+        ],
+        "Icon": "85000075",
+        "ID": 2033,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2032,
+                1
+            ]
+        ],
+        "Icon": "85000066",
+        "ID": 2034,
+        "Name": null
+    },
+    {
+        "TechType": 2,
+        "PreTech": [
+            [
+                2033,
+                1
+            ],
+            [
+                2034,
+                1
+            ]
+        ],
+        "Icon": "85000093",
+        "ID": 2035,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                0
+            ]
+        ],
+        "Icon": "85000022",
+        "ID": 3001,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3001,
+                1
+            ]
+        ],
+        "Icon": "85000006",
+        "ID": 3002,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3001,
+                1
+            ]
+        ],
+        "Icon": "85000005",
+        "ID": 3003,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3001,
+                1
+            ]
+        ],
+        "Icon": "85000004",
+        "ID": 3004,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3003,
+                1
+            ]
+        ],
+        "Icon": "85000048",
+        "ID": 3005,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3003,
+                1
+            ]
+        ],
+        "Icon": "85000047",
+        "ID": 3006,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3005,
+                1
+            ]
+        ],
+        "Icon": "85000103",
+        "ID": 3007,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3009,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 3008,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3007,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 3009,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3009,
+                1
+            ]
+        ],
+        "Icon": "85000109",
+        "ID": 3010,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3009,
+                1
+            ]
+        ],
+        "Icon": "85000100",
+        "ID": 3011,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3011,
+                1
+            ]
+        ],
+        "Icon": "85000108",
+        "ID": 3012,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3011,
+                1
+            ]
+        ],
+        "Icon": "85000044",
+        "ID": 3013,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3012,
+                1
+            ]
+        ],
+        "Icon": "85000106",
+        "ID": 3014,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3013,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 3015,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3017,
+                1
+            ]
+        ],
+        "Icon": "85000009",
+        "ID": 3016,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3014,
+                1
+            ],
+            [
+                3015,
+                1
+            ]
+        ],
+        "Icon": "85000007",
+        "ID": 3017,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3017,
+                1
+            ]
+        ],
+        "Icon": "85000008",
+        "ID": 3018,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3018,
+                1
+            ]
+        ],
+        "Icon": "85000053",
+        "ID": 3019,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3021,
+                1
+            ]
+        ],
+        "Icon": "85000111",
+        "ID": 3020,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3019,
+                1
+            ]
+        ],
+        "Icon": "85000016",
+        "ID": 3021,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3023,
+                1
+            ]
+        ],
+        "Icon": "85000050",
+        "ID": 3022,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3021,
+                1
+            ]
+        ],
+        "Icon": "85000052",
+        "ID": 3023,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3025,
+                1
+            ]
+        ],
+        "Icon": "85000010",
+        "ID": 3024,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3023,
+                1
+            ]
+        ],
+        "Icon": "85000011",
+        "ID": 3025,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3025,
+                1
+            ]
+        ],
+        "Icon": "85000012",
+        "ID": 3026,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3025,
+                1
+            ]
+        ],
+        "Icon": "85000051",
+        "ID": 3027,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3025,
+                1
+            ]
+        ],
+        "Icon": "85000013",
+        "ID": 3028,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3027,
+                1
+            ]
+        ],
+        "Icon": "85000023",
+        "ID": 3029,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3028,
+                1
+            ]
+        ],
+        "Icon": "85000024",
+        "ID": 3030,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3029,
+                1
+            ]
+        ],
+        "Icon": "85000009",
+        "ID": 3031,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3029,
+                1
+            ]
+        ],
+        "Icon": "85000007",
+        "ID": 3032,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3029,
+                1
+            ]
+        ],
+        "Icon": "85000008",
+        "ID": 3033,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3035,
+                1
+            ]
+        ],
+        "Icon": "85000064",
+        "ID": 3034,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3033,
+                1
+            ]
+        ],
+        "Icon": "85000073",
+        "ID": 3035,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3034,
+                1
+            ]
+        ],
+        "Icon": "85000067",
+        "ID": 3036,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3034,
+                1
+            ]
+        ],
+        "Icon": "85000076",
+        "ID": 3037,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3036,
+                1
+            ]
+        ],
+        "Icon": "85000059",
+        "ID": 3038,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3037,
+                1
+            ]
+        ],
+        "Icon": "85000068",
+        "ID": 3039,
+        "Name": null
+    },
+    {
+        "TechType": 3,
+        "PreTech": [
+            [
+                3039,
+                1
+            ]
+        ],
+        "Icon": "85000057",
+        "ID": 3040,
+        "Name": null
+    }
+]

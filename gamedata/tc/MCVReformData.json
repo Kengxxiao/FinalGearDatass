@@ -1,0 +1,254 @@
+[
+    {
+        "SrcRoom": 1001,
+        "DesRoom": 2001,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 19,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10012001,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1002,
+        "DesRoom": 2002,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 20,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10022002,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1003,
+        "DesRoom": 2003,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 21,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10032003,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1004,
+        "DesRoom": 2004,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 22,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10042004,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1005,
+        "DesRoom": 2005,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 23,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10052005,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1006,
+        "DesRoom": 2006,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 24,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11123",
+        "ID": 10062006,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1007,
+        "DesRoom": 2007,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 25,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 14,
+        "FeatureUnlock": "11124",
+        "ID": 10072007,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1008,
+        "DesRoom": 2008,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 26,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10082008,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1009,
+        "DesRoom": 2009,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 27,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10092009,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1010,
+        "DesRoom": 2010,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 28,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10102010,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1011,
+        "DesRoom": 2011,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 29,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10112011,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1012,
+        "DesRoom": 2012,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 30,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10122012,
+        "Name": null
+    },
+    {
+        "SrcRoom": 1013,
+        "DesRoom": 2013,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 31,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 10132013,
+        "Name": null
+    },
+    {
+        "SrcRoom": 2007,
+        "DesRoom": 3007,
+        "ItemCost": [
+            [
+                14106002,
+                1
+            ]
+        ],
+        "UnlockCond": 32,
+        "OppsiteRoom": [
+            -1
+        ],
+        "TimeCostId": 600,
+        "FeatureUnlock": "11124",
+        "ID": 20073007,
+        "Name": null
+    }
+]

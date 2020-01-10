@@ -1,0 +1,119 @@
+[
+    {
+        "camp": 1,
+        "layerIndex": 8,
+        "bulletLayerIndex": 18,
+        "opponents": [
+            3,
+            5,
+            4,
+            6,
+            7
+        ],
+        "allys": [
+            1,
+            2
+        ],
+        "ID": 730100001,
+        "Name": null
+    },
+    {
+        "camp": 3,
+        "layerIndex": 9,
+        "bulletLayerIndex": 19,
+        "opponents": [
+            1,
+            2,
+            6,
+            7
+        ],
+        "allys": [
+            3,
+            4
+        ],
+        "ID": 730100002,
+        "Name": null
+    },
+    {
+        "camp": 2,
+        "layerIndex": 10,
+        "bulletLayerIndex": 20,
+        "opponents": [
+            3,
+            5,
+            6
+        ],
+        "allys": [
+            1,
+            2
+        ],
+        "ID": 730100003,
+        "Name": null
+    },
+    {
+        "camp": 4,
+        "layerIndex": 10,
+        "bulletLayerIndex": 20,
+        "opponents": [
+            1,
+            2,
+            6,
+            7
+        ],
+        "allys": [
+            4,
+            3
+        ],
+        "ID": 730100004,
+        "Name": null
+    },
+    {
+        "camp": 5,
+        "layerIndex": 0,
+        "bulletLayerIndex": 0,
+        "opponents": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "allys": [],
+        "ID": 730100005,
+        "Name": null
+    },
+    {
+        "camp": 0,
+        "layerIndex": 25,
+        "bulletLayerIndex": 0,
+        "opponents": [],
+        "allys": [],
+        "ID": 730100006,
+        "Name": null
+    },
+    {
+        "camp": 6,
+        "layerIndex": 0,
+        "bulletLayerIndex": 0,
+        "opponents": [],
+        "allys": [],
+        "ID": 730100007,
+        "Name": null
+    },
+    {
+        "camp": 7,
+        "layerIndex": 9,
+        "bulletLayerIndex": 19,
+        "opponents": [
+            1,
+            5
+        ],
+        "allys": [
+            3,
+            4
+        ],
+        "ID": 730100008,
+        "Name": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "MapID": 101,
+        "ChessName": "Enermy",
+        "ChessNumber": 1,
+        "ChessBattleType": "普通怪物",
+        "DifficultLevel": 3,
+        "ChessType": "移动，慢速",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "MapID": 101,
+        "ChessName": "Enermy(1)",
+        "ChessNumber": 2,
+        "ChessBattleType": "精英怪物",
+        "DifficultLevel": 4,
+        "ChessType": "移动，慢速",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "MapID": 101,
+        "ChessName": "Boss",
+        "ChessNumber": 3,
+        "ChessBattleType": "BOSS",
+        "DifficultLevel": 5,
+        "ChessType": "固定BOSS，角色名",
+        "ID": 3,
+        "Name": null
+    }
+]

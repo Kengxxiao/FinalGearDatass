@@ -1,0 +1,142 @@
+[
+    {
+        "type": 9,
+        "parentType": 0,
+        "parentBoneName": "",
+        "sortingOrder": -6,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100001,
+        "Name": null
+    },
+    {
+        "type": 8,
+        "parentType": 9,
+        "parentBoneName": "root",
+        "sortingOrder": 10,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100002,
+        "Name": null
+    },
+    {
+        "type": 2,
+        "parentType": 9,
+        "parentBoneName": "leg",
+        "sortingOrder": 2,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100003,
+        "Name": null
+    },
+    {
+        "type": 7,
+        "parentType": 2,
+        "parentBoneName": "bag",
+        "sortingOrder": -4,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100005,
+        "Name": null
+    },
+    {
+        "type": 5,
+        "parentType": 2,
+        "parentBoneName": "armout",
+        "sortingOrder": 12,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100006,
+        "Name": null
+    },
+    {
+        "type": 6,
+        "parentType": 2,
+        "parentBoneName": "armin",
+        "sortingOrder": -8,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100007,
+        "Name": null
+    },
+    {
+        "type": 3,
+        "parentType": 9,
+        "parentBoneName": "leg",
+        "sortingOrder": -2,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100008,
+        "Name": null
+    },
+    {
+        "type": 4,
+        "parentType": 2,
+        "parentBoneName": "pilot",
+        "sortingOrder": 0,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100009,
+        "Name": null
+    },
+    {
+        "type": 10,
+        "parentType": 6,
+        "parentBoneName": "armin_2",
+        "sortingOrder": 8,
+        "visible": true,
+        "alwaysFollowParent": true,
+        "ID": 890100010,
+        "Name": null
+    },
+    {
+        "type": 11,
+        "parentType": 7,
+        "parentBoneName": "bag_2",
+        "sortingOrder": 6,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100011,
+        "Name": null
+    },
+    {
+        "type": 7,
+        "parentType": 2,
+        "parentBoneName": "bag",
+        "sortingOrder": -10,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100012,
+        "Name": null
+    },
+    {
+        "type": 11,
+        "parentType": 7,
+        "parentBoneName": "bag_2",
+        "sortingOrder": 20,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100013,
+        "Name": null
+    },
+    {
+        "type": 12,
+        "parentType": 4,
+        "parentBoneName": "Pilot_2",
+        "sortingOrder": 15,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100014,
+        "Name": null
+    },
+    {
+        "type": 12,
+        "parentType": 4,
+        "parentBoneName": "Pilot_2",
+        "sortingOrder": -1,
+        "visible": true,
+        "alwaysFollowParent": false,
+        "ID": 890100015,
+        "Name": null
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 0,
+        "BuyUpper": 1,
+        "PriceGrowPara": 1.0,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 2,
+        "BuyUpper": 2,
+        "PriceGrowPara": 2.0,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 3,
+        "BuyUpper": 5,
+        "PriceGrowPara": 4.0,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 6,
+        "BuyUpper": 10,
+        "PriceGrowPara": 8.0,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 11,
+        "BuyUpper": 20,
+        "PriceGrowPara": 16.0,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 101,
+        "BuyLower": 21,
+        "BuyUpper": 999999999,
+        "PriceGrowPara": 16.0,
+        "ID": 6,
+        "Name": null
+    }
+]
