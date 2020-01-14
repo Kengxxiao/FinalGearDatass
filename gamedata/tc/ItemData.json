@@ -3853,6 +3853,33 @@
         "Name": "2809"
     },
     {
+        "Description": "1043",
+        "Icon": "84000011",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 11,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 13,
+        "UsedGetPara": [
+            20001,
+            10
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 15,
+        "ShopID": [],
+        "ID": 11100001,
+        "Name": "1015"
+    },
+    {
         "Description": "3476",
         "Icon": "81000120",
         "Background": "",

@@ -3714,5 +3714,47 @@
         ],
         "ID": 4104,
         "Name": null
+    },
+    {
+        "GirlId": 1,
+        "Skin": 2,
+        "SkinName": "1015",
+        "SkillArray": [
+            [
+                10201,
+                1
+            ],
+            [
+                10202,
+                3
+            ],
+            [
+                10203,
+                4
+            ],
+            [
+                10204,
+                5
+            ]
+        ],
+        "ModelID": 25000011,
+        "MapHeadIcon": "MapHead_Pilot_000011",
+        "StageHeadIcon": "StageHead_Pilot_000011",
+        "HeadIcon": "Head_Pilot_000011",
+        "HeadIcon_square": "SquareHead_Pilot_000011",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000011",
+        "Image": "Image_Pilot_000011",
+        "Cartoon": "spine_Pilot_000011",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000011",
+        "GirlVoice": "Evelynn",
+        "RoleVoice": 1000011,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010011,
+            23010011
+        ],
+        "ID": 102,
+        "Name": null
     }
 ]
