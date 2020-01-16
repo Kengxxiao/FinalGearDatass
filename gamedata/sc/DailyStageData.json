@@ -1,0 +1,184 @@
+[
+    {
+        "OpenTime": 1,
+        "StageID": [
+            7701,
+            7702,
+            7703,
+            7704,
+            7705
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            1
+        ],
+        "StageName": "武器突破",
+        "StageDesc": "获得<color=#FCC538>武器</color>突破道具",
+        "StageIcon": [
+            82020163,
+            82020164,
+            82020165,
+            82020166,
+            82020167
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "OpenTime": 2,
+        "StageID": [
+            7711,
+            7712,
+            7713,
+            7714,
+            7715
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            2
+        ],
+        "StageName": "胸甲突破",
+        "StageDesc": "获得<color=#FCC538>胸甲</color>突破道具",
+        "StageIcon": [
+            82020168,
+            82020169,
+            82020170,
+            82020171,
+            82020172
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "OpenTime": 3,
+        "StageID": [
+            7721,
+            7722,
+            7723,
+            7724,
+            7725
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            3
+        ],
+        "StageName": "腿甲突破",
+        "StageDesc": "获得<color=#FCC538>腿甲</color>突破道具",
+        "StageIcon": [
+            82020173,
+            82020174,
+            82020175,
+            82020176,
+            82020177
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "OpenTime": 4,
+        "StageID": [
+            7731,
+            7732,
+            7733,
+            7734,
+            7735
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            4
+        ],
+        "StageName": "挂载突破",
+        "StageDesc": "获得<color=#FCC538>挂载</color>突破道具",
+        "StageIcon": [
+            82020178,
+            82020179,
+            82020180,
+            82020181,
+            82020182
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "OpenTime": 5,
+        "StageID": [
+            7741,
+            7742,
+            7743,
+            7744,
+            7745
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            5
+        ],
+        "StageName": "芯片突破",
+        "StageDesc": "获得<color=#FCC538>芯片</color>突破道具",
+        "StageIcon": [
+            82020183,
+            82020184,
+            82020185,
+            82020186,
+            82020187
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "OpenTime": 6,
+        "StageID": [
+            7751,
+            7752,
+            7753,
+            7754,
+            7755
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            6
+        ],
+        "StageName": "全副武装",
+        "StageDesc": "获得<color=#FCC538>全类型</color>突破道具",
+        "StageIcon": [
+            82020218,
+            82020219,
+            82020220,
+            82020221,
+            82020222
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "OpenTime": 0,
+        "StageID": [
+            7751,
+            7752,
+            7753,
+            7754,
+            7755
+        ],
+        "DailyChallenge": 3,
+        "DailyChallengeMax": 5,
+        "IntoTime": [
+            0
+        ],
+        "StageName": "全副武装",
+        "StageDesc": "获得<color=#FCC538>全类型</color>突破道具",
+        "StageIcon": [
+            82020218,
+            82020219,
+            82020220,
+            82020221,
+            82020222
+        ],
+        "ID": 7,
+        "Name": null
+    }
+]

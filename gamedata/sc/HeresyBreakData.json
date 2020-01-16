@@ -1,0 +1,1467 @@
+[
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 0,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200200,
+                100
+            ],
+            [
+                10800003,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 0,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            20.0
+        ],
+        "BreakDesc": "14079",
+        "BreakItem": [
+            [
+                13200200,
+                75
+            ],
+            [
+                13200201,
+                75
+            ],
+            [
+                10800003,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 0,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            20.0
+        ],
+        "BreakDesc": "14080",
+        "BreakItem": [
+            [
+                13200201,
+                50
+            ],
+            [
+                13200202,
+                50
+            ],
+            [
+                10800003,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 0,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            44.0,
+            20.0
+        ],
+        "BreakDesc": "14081",
+        "BreakItem": [
+            [
+                13200202,
+                30
+            ],
+            [
+                13200203,
+                30
+            ],
+            [
+                10800003,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 0,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13866",
+        "BreakItem": [
+            [
+                13200203,
+                15
+            ],
+            [
+                13200204,
+                15
+            ],
+            [
+                10800003,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 1,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200205,
+                100
+            ],
+            [
+                10800004,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 1,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            20.0
+        ],
+        "BreakDesc": "14079",
+        "BreakItem": [
+            [
+                13200205,
+                75
+            ],
+            [
+                13200206,
+                75
+            ],
+            [
+                10800004,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 1,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            20.0
+        ],
+        "BreakDesc": "14080",
+        "BreakItem": [
+            [
+                13200206,
+                50
+            ],
+            [
+                13200207,
+                50
+            ],
+            [
+                10800004,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 1,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            44.0,
+            20.0
+        ],
+        "BreakDesc": "14081",
+        "BreakItem": [
+            [
+                13200207,
+                30
+            ],
+            [
+                13200208,
+                30
+            ],
+            [
+                10800004,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 1,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13866",
+        "BreakItem": [
+            [
+                13200208,
+                15
+            ],
+            [
+                13200209,
+                15
+            ],
+            [
+                10800004,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 2,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200210,
+                100
+            ],
+            [
+                10800005,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 2,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            20.0
+        ],
+        "BreakDesc": "14079",
+        "BreakItem": [
+            [
+                13200210,
+                75
+            ],
+            [
+                13200211,
+                75
+            ],
+            [
+                10800005,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 2,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            20.0
+        ],
+        "BreakDesc": "14080",
+        "BreakItem": [
+            [
+                13200211,
+                50
+            ],
+            [
+                13200212,
+                50
+            ],
+            [
+                10800005,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 2,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            44.0,
+            20.0
+        ],
+        "BreakDesc": "14081",
+        "BreakItem": [
+            [
+                13200212,
+                30
+            ],
+            [
+                13200213,
+                30
+            ],
+            [
+                10800005,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 2,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13866",
+        "BreakItem": [
+            [
+                13200213,
+                15
+            ],
+            [
+                13200214,
+                15
+            ],
+            [
+                10800005,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 3,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200215,
+                100
+            ],
+            [
+                10800006,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 3,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            20.0
+        ],
+        "BreakDesc": "14079",
+        "BreakItem": [
+            [
+                13200215,
+                75
+            ],
+            [
+                13200216,
+                75
+            ],
+            [
+                10800006,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 3,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            20.0
+        ],
+        "BreakDesc": "14080",
+        "BreakItem": [
+            [
+                13200216,
+                50
+            ],
+            [
+                13200217,
+                50
+            ],
+            [
+                10800006,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 3,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            44.0,
+            20.0
+        ],
+        "BreakDesc": "14081",
+        "BreakItem": [
+            [
+                13200217,
+                30
+            ],
+            [
+                13200218,
+                30
+            ],
+            [
+                10800006,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 3,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13866",
+        "BreakItem": [
+            [
+                13200218,
+                15
+            ],
+            [
+                13200219,
+                15
+            ],
+            [
+                10800006,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 4,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200220,
+                100
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 4,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            20.0
+        ],
+        "BreakDesc": "14079",
+        "BreakItem": [
+            [
+                13200220,
+                75
+            ],
+            [
+                13200221,
+                75
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 4,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            20.0
+        ],
+        "BreakDesc": "14080",
+        "BreakItem": [
+            [
+                13200221,
+                50
+            ],
+            [
+                13200222,
+                50
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 4,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            44.0,
+            20.0
+        ],
+        "BreakDesc": "14081",
+        "BreakItem": [
+            [
+                13200222,
+                30
+            ],
+            [
+                13200223,
+                30
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 1,
+        "EquipType": 4,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13866",
+        "BreakItem": [
+            [
+                13200223,
+                15
+            ],
+            [
+                13200220,
+                15
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 0,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200200,
+                216
+            ],
+            [
+                10800003,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 0,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            30.0
+        ],
+        "BreakDesc": "14082",
+        "BreakItem": [
+            [
+                13200200,
+                180
+            ],
+            [
+                13200201,
+                180
+            ],
+            [
+                10800003,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 0,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200201,
+                144
+            ],
+            [
+                13200202,
+                144
+            ],
+            [
+                10800003,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 0,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            30.0
+        ],
+        "BreakDesc": "14083",
+        "BreakItem": [
+            [
+                13200202,
+                108
+            ],
+            [
+                13200203,
+                108
+            ],
+            [
+                10800003,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 0,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13867",
+        "BreakItem": [
+            [
+                13200203,
+                84
+            ],
+            [
+                13200204,
+                84
+            ],
+            [
+                10800003,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 1,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200205,
+                216
+            ],
+            [
+                10800004,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 1,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            30.0
+        ],
+        "BreakDesc": "14082",
+        "BreakItem": [
+            [
+                13200205,
+                180
+            ],
+            [
+                13200206,
+                180
+            ],
+            [
+                10800004,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 1,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200206,
+                144
+            ],
+            [
+                13200207,
+                144
+            ],
+            [
+                10800004,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 1,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            30.0
+        ],
+        "BreakDesc": "14083",
+        "BreakItem": [
+            [
+                13200207,
+                108
+            ],
+            [
+                13200208,
+                108
+            ],
+            [
+                10800004,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 1,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13867",
+        "BreakItem": [
+            [
+                13200208,
+                84
+            ],
+            [
+                13200209,
+                84
+            ],
+            [
+                10800004,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 2,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200210,
+                216
+            ],
+            [
+                10800005,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 2,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            30.0
+        ],
+        "BreakDesc": "14082",
+        "BreakItem": [
+            [
+                13200210,
+                180
+            ],
+            [
+                13200211,
+                180
+            ],
+            [
+                10800005,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 2,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200211,
+                144
+            ],
+            [
+                13200212,
+                144
+            ],
+            [
+                10800005,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 45,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 2,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            30.0
+        ],
+        "BreakDesc": "14083",
+        "BreakItem": [
+            [
+                13200212,
+                108
+            ],
+            [
+                13200213,
+                108
+            ],
+            [
+                10800005,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 2,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13867",
+        "BreakItem": [
+            [
+                13200213,
+                84
+            ],
+            [
+                13200214,
+                84
+            ],
+            [
+                10800005,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 3,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200215,
+                216
+            ],
+            [
+                10800006,
+                1
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 3,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            30.0
+        ],
+        "BreakDesc": "14082",
+        "BreakItem": [
+            [
+                13200215,
+                180
+            ],
+            [
+                13200216,
+                180
+            ],
+            [
+                10800006,
+                2
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 50,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 3,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200216,
+                144
+            ],
+            [
+                13200217,
+                144
+            ],
+            [
+                10800006,
+                3
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 51,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 3,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            30.0
+        ],
+        "BreakDesc": "14083",
+        "BreakItem": [
+            [
+                13200217,
+                108
+            ],
+            [
+                13200218,
+                108
+            ],
+            [
+                10800006,
+                4
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 52,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 3,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13867",
+        "BreakItem": [
+            [
+                13200218,
+                84
+            ],
+            [
+                13200219,
+                84
+            ],
+            [
+                10800006,
+                5
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 53,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 4,
+        "ModeType": 1,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200220,
+                108
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 55,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 4,
+        "ModeType": 2,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            28.0,
+            30.0
+        ],
+        "BreakDesc": "14082",
+        "BreakItem": [
+            [
+                13200220,
+                90
+            ],
+            [
+                13200221,
+                90
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 56,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 4,
+        "ModeType": 3,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [],
+        "BreakDesc": "13865",
+        "BreakItem": [
+            [
+                13200221,
+                72
+            ],
+            [
+                13200222,
+                72
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 57,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 4,
+        "ModeType": 4,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            32.0,
+            30.0
+        ],
+        "BreakDesc": "14083",
+        "BreakItem": [
+            [
+                13200222,
+                54
+            ],
+            [
+                13200223,
+                54
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 58,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 2,
+        "EquipType": 4,
+        "ModeType": 5,
+        "BreakProperty": 0,
+        "BreakPropertyValue": [
+            0.0
+        ],
+        "BreakDesc": "13867",
+        "BreakItem": [
+            [
+                13200223,
+                42
+            ],
+            [
+                13200220,
+                42
+            ]
+        ],
+        "LevelChange": true,
+        "BreakItemDouble": [
+            10,
+            1
+        ],
+        "ID": 59,
+        "Name": null
+    }
+]

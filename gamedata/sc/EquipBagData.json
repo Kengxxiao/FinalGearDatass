@@ -4262,5 +4262,161 @@
         "type": 0,
         "ID": 22000500,
         "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000510_Bag",
+        "previewBounds": {
+            "x": -1.18171,
+            "y": 0.1786063,
+            "z": 5.01015,
+            "w": 4.690001
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000510",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 22000510,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000520_Bag",
+        "previewBounds": {
+            "x": -0.8523762,
+            "y": 0.6686319,
+            "z": 3.036858,
+            "w": 2.889919
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000520",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 22000520,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000530_Bag",
+        "previewBounds": {
+            "x": -0.9232905,
+            "y": 0.3594244,
+            "z": 6.319582,
+            "w": 5.200001
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000530",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 22000530,
+        "Name": null
     }
 ]

@@ -3,16 +3,16 @@
         "RecruitType": 0,
         "RecruitSubType": 0,
         "RecruitOrder": 1,
-        "RecruitName": "966",
+        "RecruitName": "12579",
         "RecruitImage": "",
         "RecruitNeed": [
             [
                 10800001,
-                1
+                2
             ],
             [
                 10100001,
-                1000
+                2000
             ]
         ],
         "NormalRandom": 30101,
@@ -22,12 +22,11 @@
             100
         ],
         "RecruitPrew": [
-            2,
-            38
+            52
         ],
-        "ProbabilityPrew": "11151",
+        "ProbabilityPrew": "5047",
         "GirlList": "2,24,35,36,37,43,47,52,55,59,64,70,81,92,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,76,79,82,90,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "2,0.45%",
+        "UpGirl": "52,1.11%",
         "ID": 10001,
         "Name": null
     },
@@ -87,7 +86,7 @@
         ],
         "RecruitPrew": [
             36,
-            27
+            17
         ],
         "ProbabilityPrew": "11151",
         "GirlList": "2,24,35,36,37,43,47,52,55,59,64,70,81,92,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,76,79,82,90,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
@@ -99,16 +98,16 @@
         "RecruitType": 0,
         "RecruitSubType": 0,
         "RecruitOrder": 4,
-        "RecruitName": "11148",
+        "RecruitName": "12580",
         "RecruitImage": "",
         "RecruitNeed": [
             [
                 10800001,
-                2
+                1
             ],
             [
                 10100001,
-                2000
+                1000
             ]
         ],
         "NormalRandom": 30103,
@@ -118,11 +117,12 @@
             100
         ],
         "RecruitPrew": [
-            59
+            43,
+            3
         ],
-        "ProbabilityPrew": "5047",
+        "ProbabilityPrew": "11151",
         "GirlList": "2,24,35,36,37,43,47,52,55,59,64,70,81,92,1,3,9,11,17,21,22,27,29,30,32,38,39,41,46,48,49,53,61,66,68,73,76,79,82,90,12,13,15,19,23,25,26,28,40,44,50,67,69,71,77,78,4,5,6,7,8,10,14,16,18,42,57,58,62",
-        "UpGirl": "59,1.11%",
+        "UpGirl": "43,0.45%",
         "ID": 10005,
         "Name": null
     },
@@ -664,7 +664,7 @@
         "RecruitType": 1,
         "RecruitSubType": 5,
         "RecruitOrder": 0,
-        "RecruitName": "11810",
+        "RecruitName": "12796",
         "RecruitImage": "",
         "RecruitNeed": [
             [
@@ -712,6 +712,60 @@
         "GirlList": "309201,0.1;303901,0.025;305501,0.025",
         "UpGirl": "309201,303901,305501",
         "ID": 20019,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "13504",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20214,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2310519,
+            2310523,
+            2310533,
+            2310543
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "310501,0.1;301101,0.025;305501,0.025",
+        "UpGirl": "310501,301101,305501",
+        "ID": 20020,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "13505",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 20215,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2304514,
+            2304523,
+            2304533,
+            2304543
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "304501,0.1;303901,0.025;300801,0.025",
+        "UpGirl": "304501,303901,300801",
+        "ID": 20021,
         "Name": null
     }
 ]

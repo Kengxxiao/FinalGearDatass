@@ -700,5 +700,71 @@
         "UiDesc": "11147",
         "ID": 117,
         "Name": "等级系数"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13868",
+        "ID": 118,
+        "Name": "格挡值"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13869",
+        "ID": 119,
+        "Name": "格挡率"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13870",
+        "ID": 120,
+        "Name": "自我修复"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13871",
+        "ID": 121,
+        "Name": "硬直抗性提高"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13872",
+        "ID": 122,
+        "Name": "减少武器蓄能时间"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13873",
+        "ID": 123,
+        "Name": "击退能力提高"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13874",
+        "ID": 124,
+        "Name": "减少换弹时间"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13875",
+        "ID": 125,
+        "Name": "降低大招能量消耗"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "13876",
+        "ID": 126,
+        "Name": "能量自我恢复"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 127,
+        "Name": "致命一击几率"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 128,
+        "Name": "致命一击伤害倍率"
     }
 ]

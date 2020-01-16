@@ -4262,5 +4262,161 @@
         "type": 0,
         "ID": 24000500,
         "Name": null
+    },
+    {
+        "bulletResistance": 0.6,
+        "preview1": "Preview_Body_000510_Body",
+        "previewBounds1": {
+            "x": -0.02580678,
+            "y": 0.7852662,
+            "z": 2.38049,
+            "w": 2.489943
+        },
+        "preview2": "Preview_Body_000510_BodyBack",
+        "previewBounds2": {
+            "x": 0.1341645,
+            "y": 1.265385,
+            "z": 1.967978,
+            "w": 1.599752
+        },
+        "armPosition1": {
+            "x": 0.9111899,
+            "y": 1.43922
+        },
+        "armPosition2": {
+            "x": -0.8754551,
+            "y": 1.437453
+        },
+        "bagPosition": {
+            "x": -0.001239944,
+            "y": 1.64629
+        },
+        "pilotPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Body_000510",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003,
+            890100008
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 24000510,
+        "Name": null
+    },
+    {
+        "bulletResistance": 1.0,
+        "preview1": "Preview_Body_000520_Body",
+        "previewBounds1": {
+            "x": -0.04230821,
+            "y": 0.9469594,
+            "z": 3.930331,
+            "w": 3.210347
+        },
+        "preview2": "Preview_Body_000520_BodyBack",
+        "previewBounds2": {
+            "x": -0.1617434,
+            "y": 1.566981,
+            "z": 3.010293,
+            "w": 2.21034
+        },
+        "armPosition1": {
+            "x": 0.9582828,
+            "y": 1.903828
+        },
+        "armPosition2": {
+            "x": -1.473766,
+            "y": 1.856117
+        },
+        "bagPosition": {
+            "x": -0.5216659,
+            "y": 2.050028
+        },
+        "pilotPosition": {
+            "x": 1.194455E-07,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Body_000520",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003,
+            890100008
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 24000520,
+        "Name": null
+    },
+    {
+        "bulletResistance": 1.4,
+        "preview1": "Preview_Body_000530_Body",
+        "previewBounds1": {
+            "x": 0.1438919,
+            "y": 0.6885514,
+            "z": 2.617622,
+            "w": 2.382718
+        },
+        "preview2": "Preview_Body_000530_BodyBack",
+        "previewBounds2": {
+            "x": 0.1406707,
+            "y": 1.283136,
+            "z": 1.931049,
+            "w": 1.553682
+        },
+        "armPosition1": {
+            "x": 0.9133487,
+            "y": 1.441647
+        },
+        "armPosition2": {
+            "x": -0.8728139,
+            "y": 1.439756
+        },
+        "bagPosition": {
+            "x": 0.0008593758,
+            "y": 1.647203
+        },
+        "pilotPosition": {
+            "x": -7.409901E-08,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Body_000530",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003,
+            890100008
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 24000530,
+        "Name": null
     }
 ]

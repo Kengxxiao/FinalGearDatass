@@ -858,6 +858,19 @@
         "Name": null
     },
     {
+        "dialogRoleName": "100165",
+        "roleImgPath": "spine_Pilot_000990",
+        "roleSpinePath": "spine_Pilot_000990",
+        "headImgPath": "Head_Pilot_000990",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 99,
+        "Name": null
+    },
+    {
         "dialogRoleName": "艾格尼丝",
         "roleImgPath": "spine_Pilot_001000",
         "roleSpinePath": "spine_Pilot_001000",
@@ -868,6 +881,45 @@
         "sortingOrder": 0,
         "offse_pos_y": 0.0,
         "ID": 100,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "13128",
+        "roleImgPath": "spine_Pilot_001010",
+        "roleSpinePath": "spine_Pilot_001010",
+        "headImgPath": "Head_Pilot_001010",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 101,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "13129",
+        "roleImgPath": "spine_Pilot_001020",
+        "roleSpinePath": "spine_Pilot_001020",
+        "headImgPath": "Head_Pilot_001020",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 102,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "13132",
+        "roleImgPath": "spine_Pilot_001050",
+        "roleSpinePath": "spine_Pilot_001050",
+        "headImgPath": "Head_Pilot_001050",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 105,
         "Name": null
     },
     {
@@ -1076,6 +1128,19 @@
         "sortingOrder": 0,
         "offse_pos_y": 0.0,
         "ID": 100014,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "14136",
+        "roleImgPath": "spine_enemy_902030",
+        "roleSpinePath": "spine_enemy_902030",
+        "headImgPath": "Head_enemy_902030",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 902030,
         "Name": null
     }
 ]

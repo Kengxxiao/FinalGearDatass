@@ -90,13 +90,13 @@
         "Name": null
     },
     {
-        "PageName": "LoginPage",
+        "PageName": "登录界面",
         "PageType": "LoginPage",
         "ID": 16,
         "Name": null
     },
     {
-        "PageName": "MainPage",
+        "PageName": "主界面",
         "PageType": "MainPage",
         "ID": 17,
         "Name": null
@@ -639,6 +639,12 @@
         "PageName": "WeeklyPage",
         "PageType": "WeeklyPage",
         "ID": 107,
+        "Name": null
+    },
+    {
+        "PageName": "春节活动",
+        "PageType": "SpringFestivalPage",
+        "ID": 108,
         "Name": null
     }
 ]

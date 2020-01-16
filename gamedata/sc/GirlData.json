@@ -6780,7 +6780,7 @@
                 80
             ]
         ],
-        "SuitID": 0,
+        "SuitID": 307001,
         "BaseEquip1": [
             2100118,
             1,
@@ -8292,104 +8292,6 @@
         "Name": "8978"
     },
     {
-        "BasicSkin": 4501,
-        "BasicStarLevel": 3,
-        "GirlQualityType": 2,
-        "ProfessionType": 1,
-        "RepeatTransform": [
-            [
-                11200003,
-                5
-            ],
-            [
-                10600000,
-                25
-            ]
-        ],
-        "SuitID": 304501,
-        "BaseEquip1": [
-            2100114,
-            1,
-            1,
-            0
-        ],
-        "BaseEquip2": [
-            2100123,
-            1,
-            1,
-            0
-        ],
-        "BaseEquip3": [
-            2100133,
-            1,
-            1,
-            0
-        ],
-        "BaseEquip4": [
-            2100143,
-            1,
-            1,
-            0
-        ],
-        "FiveDimenJR": 0.4471,
-        "FiveDimenBL": 0.4667,
-        "FiveDimenRN": 0.8793,
-        "FiveDimenFY": 0.808,
-        "FiveDimenXY": 0.8392,
-        "Birthday": "5.8",
-        "Constellation": "2321",
-        "BloodType": "AB",
-        "Hobby": "8984",
-        "BirthLocal": "1430",
-        "OwnStory": "8989",
-        "EnglishName": "PN72Yogui",
-        "GirlCamp": 1,
-        "GirlCampIcon": "Paranoid",
-        "GirlHeight": "160cm",
-        "LikeThing": "8994",
-        "GirlHate": "8999",
-        "GoodwillSkill": [],
-        "WeaponRecommend": 3,
-        "ChestRecommend": 11,
-        "LegRecommend": 16,
-        "BagRecommend": 21,
-        "BigTech": [
-            1,
-            3,
-            2,
-            4
-        ],
-        "BigGev": -5,
-        "ExpertSkillWeapeon": 2045010,
-        "ExpertSkillEquip": 2045020,
-        "GirlGood": "强袭武器专精；重型部件专精",
-        "GirlChangePara": {
-            "keys": [
-                83,
-                84,
-                85,
-                86,
-                87
-            ],
-            "values": [
-                22.1021,
-                2.6316,
-                1.6505,
-                1.6505,
-                1.6279
-            ],
-            "propertys": null
-        },
-        "GirlJob": "9004",
-        "ItemID": 10500045,
-        "Age": 20,
-        "Gender": "2690",
-        "CV": "9008",
-        "Autobiography": "9013",
-        "ID": 45,
-        "Name": "8979"
-    },
-    {
         "BasicSkin": 4701,
         "BasicStarLevel": 3,
         "GirlQualityType": 3,
@@ -8675,5 +8577,673 @@
         "Autobiography": "11741",
         "ID": 90,
         "Name": "11714"
+    },
+    {
+        "BasicSkin": 4501,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 304501,
+        "BaseEquip1": [
+            2100114,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6744,
+        "FiveDimenBL": 0.7178,
+        "FiveDimenRN": 0.8358,
+        "FiveDimenFY": 0.7488,
+        "FiveDimenXY": 0.5385,
+        "Birthday": "5.8",
+        "Constellation": "13133",
+        "BloodType": "AB",
+        "Hobby": "13140",
+        "BirthLocal": "13147",
+        "OwnStory": "13154",
+        "EnglishName": "PN72Yogui",
+        "GirlCamp": 1,
+        "GirlCampIcon": "Paranoid",
+        "GirlHeight": "160cm",
+        "LikeThing": "13161",
+        "GirlHate": "13168",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 3,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            1,
+            3,
+            2,
+            4
+        ],
+        "BigGev": -5,
+        "ExpertSkillWeapeon": 2045010,
+        "ExpertSkillEquip": 2045020,
+        "GirlGood": "强袭武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13175",
+        "ItemID": 10500045,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13182",
+        "Autobiography": "13189",
+        "ID": 45,
+        "Name": "13126"
+    },
+    {
+        "BasicSkin": 6001,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 306001,
+        "BaseEquip1": [
+            2100113,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6948,
+        "FiveDimenBL": 0.7024,
+        "FiveDimenRN": 0.7515,
+        "FiveDimenFY": 0.6893,
+        "FiveDimenXY": 0.6841,
+        "Birthday": "4.24",
+        "Constellation": "13134",
+        "BloodType": "O",
+        "Hobby": "13141",
+        "BirthLocal": "13148",
+        "OwnStory": "13155",
+        "EnglishName": "Flavia",
+        "GirlCamp": 2,
+        "GirlCampIcon": "HHED",
+        "GirlHeight": "170cm",
+        "LikeThing": "13162",
+        "GirlHate": "13169",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 2,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2060010,
+        "ExpertSkillEquip": 2060020,
+        "GirlGood": "突击武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                1.6505,
+                2.3711,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13176",
+        "ItemID": 10500060,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13183",
+        "Autobiography": "13190",
+        "ID": 60,
+        "Name": "13127"
+    },
+    {
+        "BasicSkin": 10101,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 2,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200003,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100113,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.4512,
+        "FiveDimenBL": 0.4903,
+        "FiveDimenRN": 0.739,
+        "FiveDimenFY": 0.8552,
+        "FiveDimenXY": 0.5988,
+        "Birthday": "1.13",
+        "Constellation": "13135",
+        "BloodType": "A",
+        "Hobby": "13142",
+        "BirthLocal": "13149",
+        "OwnStory": "13156",
+        "EnglishName": "Qiao",
+        "GirlCamp": 6,
+        "GirlCampIcon": "NoGenera",
+        "GirlHeight": "165cm",
+        "LikeThing": "13163",
+        "GirlHate": "13170",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 2,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2101010,
+        "ExpertSkillEquip": 2101020,
+        "GirlGood": "突击武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                1.6505,
+                2.3711,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13177",
+        "ItemID": 10500101,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13184",
+        "Autobiography": "13191",
+        "ID": 101,
+        "Name": "13128"
+    },
+    {
+        "BasicSkin": 10201,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 4,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100117,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.7375,
+        "FiveDimenBL": 0.7098,
+        "FiveDimenRN": 0.5834,
+        "FiveDimenFY": 0.5957,
+        "FiveDimenXY": 0.609,
+        "Birthday": "10.15",
+        "Constellation": "13136",
+        "BloodType": "O",
+        "Hobby": "13143",
+        "BirthLocal": "13150",
+        "OwnStory": "13157",
+        "EnglishName": "Rosa",
+        "GirlCamp": 6,
+        "GirlCampIcon": "NoGenera",
+        "GirlHeight": "162cm",
+        "LikeThing": "13164",
+        "GirlHate": "13171",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 6,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2102010,
+        "ExpertSkillEquip": 2102020,
+        "GirlGood": "狙击武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.6316,
+                1.6505,
+                2.3711,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13178",
+        "ItemID": 10500102,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13185",
+        "Autobiography": "13192",
+        "ID": 102,
+        "Name": "13129"
+    },
+    {
+        "BasicSkin": 10301,
+        "BasicStarLevel": 2,
+        "GirlQualityType": 1,
+        "ProfessionType": 0,
+        "RepeatTransform": [
+            [
+                11200002,
+                5
+            ],
+            [
+                10600000,
+                10
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100111,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.3173,
+        "FiveDimenBL": 0.3081,
+        "FiveDimenRN": 0.5317,
+        "FiveDimenFY": 0.7995,
+        "FiveDimenXY": 0.747,
+        "Birthday": "7.5",
+        "Constellation": "13137",
+        "BloodType": "A",
+        "Hobby": "13144",
+        "BirthLocal": "13151",
+        "OwnStory": "13158",
+        "EnglishName": "Brittany",
+        "GirlCamp": 5,
+        "GirlCampIcon": "Kegha",
+        "GirlHeight": "159cm",
+        "LikeThing": "13165",
+        "GirlHate": "13172",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 0,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2103010,
+        "ExpertSkillEquip": 2103020,
+        "GirlGood": "壁垒武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13179",
+        "ItemID": 10500103,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13186",
+        "Autobiography": "13193",
+        "ID": 103,
+        "Name": "13130"
+    },
+    {
+        "BasicSkin": 10401,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 3,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 310401,
+        "BaseEquip1": [
+            2100118,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.7182,
+        "FiveDimenBL": 0.6937,
+        "FiveDimenRN": 0.6538,
+        "FiveDimenFY": 0.6359,
+        "FiveDimenXY": 0.7421,
+        "Birthday": "6.6",
+        "Constellation": "13138",
+        "BloodType": "AB",
+        "Hobby": "13145",
+        "BirthLocal": "13152",
+        "OwnStory": "13159",
+        "EnglishName": "Krista",
+        "GirlCamp": 5,
+        "GirlCampIcon": "Kegha",
+        "GirlHeight": "140cm",
+        "LikeThing": "13166",
+        "GirlHate": "13173",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 7,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2104010,
+        "ExpertSkillEquip": 2104020,
+        "GirlGood": "火炮武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                2.3711,
+                1.6505,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13180",
+        "ItemID": 10500104,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13187",
+        "Autobiography": "13194",
+        "ID": 104,
+        "Name": "13131"
+    },
+    {
+        "BasicSkin": 10501,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 5,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 310501,
+        "BaseEquip1": [
+            2100119,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.718,
+        "FiveDimenBL": 0.7176,
+        "FiveDimenRN": 0.6168,
+        "FiveDimenFY": 0.6579,
+        "FiveDimenXY": 0.5737,
+        "Birthday": "12.1",
+        "Constellation": "13139",
+        "BloodType": "O",
+        "Hobby": "13146",
+        "BirthLocal": "13153",
+        "OwnStory": "13160",
+        "EnglishName": "Serika Amane",
+        "GirlCamp": 6,
+        "GirlCampIcon": "NoGenera",
+        "GirlHeight": "154cm",
+        "LikeThing": "13167",
+        "GirlHate": "13174",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 8,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2105010,
+        "ExpertSkillEquip": 2105020,
+        "GirlGood": "投射武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.5,
+                1.6505,
+                1.6505,
+                2.5
+            ],
+            "propertys": null
+        },
+        "GirlJob": "13181",
+        "ItemID": 10500105,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "13188",
+        "Autobiography": "13195",
+        "ID": 105,
+        "Name": "13132"
     }
 ]

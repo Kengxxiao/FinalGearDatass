@@ -3235,6 +3235,17 @@
     },
     {
         "Description": "",
+        "GroupTag": "技能/效果",
+        "CueSheet": "SP",
+        "CueName": "SP_Boomerang",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 400300030,
+        "Name": "回旋飞镖"
+    },
+    {
+        "Description": "",
         "GroupTag": "技能/发动",
         "CueSheet": "WP",
         "CueName": "WP_Shoot_SpniperRifle_Energy",
@@ -5113,6 +5124,72 @@
         "Pitch": 0,
         "ID": 550008030,
         "Name": "变异仆从-登场"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Sonic1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008040,
+        "Name": "技能-天音塞莉卡"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Sonic2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008050,
+        "Name": "技能-天音塞莉卡一体机"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_SpinSlash",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008060,
+        "Name": "技能-弗莱维娅"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Note_Brittany",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008070,
+        "Name": "技能-布里特妮"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Firecracker",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008080,
+        "Name": "技能-鞭炮爆炸"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_MissileGroup",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008090,
+        "Name": "技能-导弹连续发射"
     },
     {
         "Description": "瞬闪-出现",

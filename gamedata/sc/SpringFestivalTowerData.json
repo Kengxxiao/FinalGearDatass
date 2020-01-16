@@ -1,0 +1,536 @@
+[
+    {
+        "ActivityType": 13,
+        "Tier": 1,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8101,
+            8181,
+            8191
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 2,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8104,
+            8182,
+            8192
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 3,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8102,
+            8183,
+            8193
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 4,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8103,
+            8184,
+            8194
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 5,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8105,
+            8185,
+            8195
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 6,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8106,
+            8186,
+            8196
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 7,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8107,
+            8187,
+            8197
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 8,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8108,
+            8188,
+            8189
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 9,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8109,
+            8180,
+            8190
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 10,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8128
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 11,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8110,
+            8199,
+            8209
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 12,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8111,
+            8200,
+            8210
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 13,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8112,
+            8201,
+            8211
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 14,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8113,
+            8202,
+            8212
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 15,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8114,
+            8203,
+            8213
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 16,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8115,
+            8204,
+            8214
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 17,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8116,
+            8205,
+            8215
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 18,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8117,
+            8206,
+            8207
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 19,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8118,
+            8198,
+            8208
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 20,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8129
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 21,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8119,
+            8217,
+            8227
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 22,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8120,
+            8218,
+            8228
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 23,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8121,
+            8219,
+            8229
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 24,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8122,
+            8220,
+            8230
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 25,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8123,
+            8221,
+            8231
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 26,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8124,
+            8222,
+            8232
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 27,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8125,
+            8223,
+            8233
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 28,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8126,
+            8224,
+            8225
+        ],
+        "ExtraStageIds": [],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 29,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8127,
+            8216,
+            8226
+        ],
+        "ExtraStageIds": [
+            8141,
+            8142
+        ],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 30,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8130
+        ],
+        "ExtraStageIds": [
+            8143
+        ],
+        "IsCanSweep": true,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 0,
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "ActivityType": 13,
+        "Tier": 31,
+        "SpringFestivalTierStageType": 0,
+        "StageIds": [
+            8132,
+            8133,
+            8134,
+            8135,
+            8136,
+            8137,
+            8138,
+            8139,
+            8140
+        ],
+        "ExtraStageIds": [
+            8131
+        ],
+        "IsCanSweep": false,
+        "SweepCycle": 15,
+        "NormalEnergyCost": 6,
+        "EXEnergyCost": 6,
+        "ID": 31,
+        "Name": null
+    }
+]

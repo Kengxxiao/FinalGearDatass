@@ -30013,6 +30013,596 @@
         "bulletResistance": 0.0,
         "showBulletBar": true,
         "rangeData": {
+            "rangeX": 8.0,
+            "rangeZ": 1.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 1.0,
+            "avoidDistanceMax": 1.5,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_突击",
+        "preview1": "Preview_Arm_000510_OutArm",
+        "previewBounds1": {
+            "x": -0.8819175,
+            "y": 0.6319423,
+            "z": 2.92904,
+            "w": 6.421219
+        },
+        "preview2": "Preview_Arm_000510_InArm",
+        "previewBounds2": {
+            "x": 1.368429,
+            "y": 0.5863373,
+            "z": 3.590379,
+            "w": 5.799293
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Arm_000510",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100007,
+            890100006
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 200,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": [
+                    0.2,
+                    0.2,
+                    0.2,
+                    0.4
+                ],
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000460,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "armB",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_黑鹰普攻1",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "armA",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_黑鹰普攻2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "armA",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_黑鹰普攻3",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21000510,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.5,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": false,
+        "rangeData": {
+            "rangeX": 20.0,
+            "rangeZ": 2.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 10.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 3,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_火炮",
+        "preview1": "Preview_Arm_000520_OutArm",
+        "previewBounds1": {
+            "x": -0.7071934,
+            "y": -1.161279,
+            "z": 2.529341,
+            "w": 4.197374
+        },
+        "preview2": "Preview_Arm_000520_InArm",
+        "previewBounds2": {
+            "x": 0.8230404,
+            "y": 0.07532823,
+            "z": 3.658327,
+            "w": 2.944471
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Arm_000520",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100007,
+            890100006
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 250,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000461,
+                            "isFake": false,
+                            "range": 24.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": true,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "01枪口_大帝国号炮弹",
+                                    "scale": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 10,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [],
+        "skills": [
+            33000012
+        ],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21000520,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 30.0,
+            "rangeZ": 1.5,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 15.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": true,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_冲锋",
+        "preview1": "Preview_Arm_000530_OutArm",
+        "previewBounds1": {
+            "x": -0.7320435,
+            "y": -1.613503,
+            "z": 2.149765,
+            "w": 4.620944
+        },
+        "preview2": "Preview_Arm_000530_InArm",
+        "previewBounds2": {
+            "x": 1.248982,
+            "y": -1.311164,
+            "z": 2.911201,
+            "w": 3.850066
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Arm_000530",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100007,
+            890100006
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 100,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.3,
+                "RandomRotate": 5.5,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 60,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000472,
+                            "isFake": false,
+                            "range": 30.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        },
+                        {
+                            "ID": 20000473,
+                            "isFake": false,
+                            "range": 30.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        },
+                        {
+                            "ID": 20000474,
+                            "isFake": false,
+                            "range": 30.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "armB",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_MOTS.77挥动1",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "armA",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_MOTS.77挥动2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "armB",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_MOTS.77挥动3",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [
+            33000012
+        ],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21000530,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
             "rangeX": 5.0,
             "rangeZ": 1.0,
             "minRangeX": -2.0,
@@ -33044,6 +33634,337 @@
         "passiveSkillIDs": [],
         "type": 0,
         "ID": 21010033,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 8.0,
+            "rangeZ": 2.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 1.0,
+            "avoidDistanceMax": 2.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 3,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_强袭",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 350,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": [
+                    0.3,
+                    0.3,
+                    0.4
+                ],
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000106,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 1,
+                            "attackInterval": 0.1,
+                            "attackDuration": 0.83,
+                            "explodeOnGroundData": {
+                                "segmentNumber": 1,
+                                "attackInterval": 0.1,
+                                "attackDuration": 0.83
+                            },
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        },
+                        {
+                            "ID": 20000337,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 1,
+                            "attackInterval": 0.1,
+                            "attackDuration": 0.83,
+                            "explodeOnGroundData": {
+                                "segmentNumber": 1,
+                                "attackInterval": 0.1,
+                                "attackDuration": 0.83
+                            },
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        },
+                        {
+                            "ID": 20000338,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 1,
+                            "attackInterval": 0.1,
+                            "attackDuration": 0.83,
+                            "explodeOnGroundData": {
+                                "segmentNumber": 1,
+                                "attackInterval": 0.1,
+                                "attackDuration": 0.83
+                            },
+                            "followBone": false,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "foot_out2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440020000
+                                    }
+                                ]
+                            },
+                            {
+                                "positionBone": "foot_in2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ],
+                        "skill_3_3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 550002401
+                                    }
+                                ]
+                            }
+                        ],
+                        "attack3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200700600
+                                    }
+                                ]
+                            }
+                        ],
+                        "attack4": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200700600
+                                    }
+                                ]
+                            }
+                        ],
+                        "attack5": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.3,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200700700
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 550002400
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000030",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": -100,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_流浪武士刀4",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010034,
         "Name": null
     },
     {
@@ -42055,6 +42976,304 @@
         "Name": null
     },
     {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 10.0,
+            "rangeZ": 3.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 1.0,
+            "avoidDistanceMax": 1.5,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_突击",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 250,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000411,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": true,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "foot_out2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440020000
+                                    }
+                                ]
+                            },
+                            {
+                                "positionBone": "foot_in2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000250",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_彼岸花普攻1",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000250",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_彼岸花普攻2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent3",
+                "boneName": "a_Armor_000250",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_彼岸花普攻3",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent4",
+                "boneName": "a_Armor_000250",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_彼岸花普攻4",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000250_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": -10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_彼岸花半圆烟",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000250_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_彼岸花冲刺一闪",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent3",
+                "boneName": "a_Armor_000250_2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_彼岸花冲刺一闪(跟随）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010251,
+        "Name": null
+    },
+    {
         "reloadTimeRatio": 2.0,
         "dumbFireTime": 0.0,
         "bulletResistance": 0.0,
@@ -42716,8 +43935,8 @@
                 "expressionType": 1,
                 "PowerLevel": 200,
                 "AntitankPower": 1,
-                "BulletRandomY": 0.0,
-                "RandomRotate": 0.0,
+                "BulletRandomY": 0.8,
+                "RandomRotate": 10.0,
                 "BulletFollowBoneRotate": true,
                 "BulletNum": 2147483647,
                 "powerRatioList": null,
@@ -42754,53 +43973,10 @@
                             "attackDuration": 0.0,
                             "explodeOnGroundData": null,
                             "followBone": false,
-                            "effectFollowBone": true,
-                            "effectFollowBoneRotation": true,
-                            "extraSortingOrder": 30,
-                            "fireEffectIDs": [
-                                {
-                                    "asset": "01枪口_赤色天灾枪口",
-                                    "scale": 1.0
-                                }
-                            ]
-                        },
-                        {
-                            "ID": 20000407,
-                            "isFake": false,
-                            "range": 40.0,
-                            "segmentNumber": 0,
-                            "attackInterval": 0.0,
-                            "attackDuration": 0.0,
-                            "explodeOnGroundData": null,
-                            "followBone": false,
-                            "effectFollowBone": true,
-                            "effectFollowBoneRotation": true,
-                            "extraSortingOrder": 30,
-                            "fireEffectIDs": [
-                                {
-                                    "asset": "01枪口_赤色天灾枪口",
-                                    "scale": 1.0
-                                }
-                            ]
-                        },
-                        {
-                            "ID": 20000407,
-                            "isFake": false,
-                            "range": 40.0,
-                            "segmentNumber": 0,
-                            "attackInterval": 0.0,
-                            "attackDuration": 0.0,
-                            "explodeOnGroundData": null,
-                            "followBone": false,
-                            "effectFollowBone": true,
-                            "effectFollowBoneRotation": true,
-                            "extraSortingOrder": 30,
-                            "fireEffectIDs": [
-                                {
-                                    "asset": "01枪口_赤色天灾枪口",
-                                    "scale": 1.0
-                                }
-                            ]
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
                         }
                     ],
                     "FirstBulletID": 0
@@ -42940,7 +44116,56 @@
                 "type": 0
             }
         ],
-        "eventEffectDatas": [],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000280_3",
+                "followBone": true,
+                "followBoneRotation": true,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "GunFire/01枪口_赤色天灾枪口",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000280_4",
+                "followBone": true,
+                "followBoneRotation": true,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "GunFire/01枪口_赤色天灾枪口",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000280_5",
+                "followBone": true,
+                "followBoneRotation": true,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "GunFire/01枪口_赤色天灾枪口",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
         "skills": [],
         "passiveSkillIDs": [],
         "type": 0,
@@ -43528,7 +44753,7 @@
         "Name": null
     },
     {
-        "reloadTimeRatio": 2.0,
+        "reloadTimeRatio": 0.5,
         "dumbFireTime": 0.0,
         "bulletResistance": 0.0,
         "showBulletBar": true,
@@ -43685,6 +44910,57 @@
                                     }
                                 ]
                             }
+                        ],
+                        "skill_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 400500010
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200040220
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3_4": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200040220
+                                    }
+                                ]
+                            }
                         ]
                     }
                 },
@@ -43714,6 +44990,934 @@
         "passiveSkillIDs": [],
         "type": 0,
         "ID": 21010320,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 10.0,
+            "rangeZ": 3.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 1.0,
+            "avoidDistanceMax": 1.5,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_突击",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 250,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000464,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": true,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "skill_3_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200701300
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3_3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.5,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 550007090
+                                    },
+                                    {
+                                        "delayTime": 2.14,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200420040
+                                    },
+                                    {
+                                        "delayTime": 0.1,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 400300020
+                                    }
+                                ]
+                            }
+                        ],
+                        "start": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.33,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 400500052
+                                    },
+                                    {
+                                        "delayTime": 1.05,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200420030
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000330",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_黑鹰消失",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000330",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_黑鹰技能",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010330,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 2.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 30.0,
+            "rangeZ": 2.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 12.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 3,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_火炮",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 250,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000446,
+                            "isFake": false,
+                            "range": 32.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": true,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "01枪口_大帝国号炮弹",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000446,
+                            "isFake": false,
+                            "range": 24.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": true,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "01枪口_大帝国号炮弹",
+                                    "scale": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "",
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440140000
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_3": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.33,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 200060300
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟L",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "foot_out4",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟L",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent4",
+                "boneName": "foot_out2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟R",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent5",
+                "boneName": "foot_out4",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟R",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent3",
+                "boneName": "foot_in2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟L",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent6",
+                "boneName": "foot_in2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_滚轮烟R",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000340",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_大帝国号子母弹炮口",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000340_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_大帝国号子母弹炮口",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010340,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 60.0,
+            "rangeZ": 100.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 22.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.01,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 10.0,
+            "bombZ": 10.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_投射",
+        "preview1": "Preview_Armor_000350_Armor_000350",
+        "previewBounds1": {
+            "x": -0.9211011,
+            "y": 5.432135,
+            "z": 8.243296,
+            "w": 10.49552
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 300,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000467,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000469,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000467,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000469,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000468,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000470,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000468,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "ID": 20000470,
+                            "isFake": false,
+                            "range": 250.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "02枪口_水树奈奈一体机投射",
+                                    "scale": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "",
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440070000
+                                    }
+                                ]
+                            }
+                        ],
+                        "skill_1": [
+                            {
+                                "positionBone": null,
+                                "extraSotingOrder": 0,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": null,
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": false,
+                                        "soundID": 550008050
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000350",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_水树奈奈一体机音乐崩圈",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010350,
         "Name": null
     }
 ]

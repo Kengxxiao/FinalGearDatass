@@ -6025,7 +6025,7 @@
     {
         "Icon": "",
         "Disc": "4123",
-        "ModelID": 43100007,
+        "ModelID": 43000001,
         "MonsterType": 2,
         "MonsterProperty": {
             "keys": [
@@ -6045,7 +6045,7 @@
             "propertys": null
         },
         "MonsterSkillID": [
-            3144740,
+            3052110,
             3144960
         ],
         "ImmuneState": [
@@ -6054,12 +6054,12 @@
         "GroupTag": "00 特殊",
         "BodySize": 10,
         "ID": 60020,
-        "Name": "4075"
+        "Name": "3990"
     },
     {
         "Icon": "",
         "Disc": "4123",
-        "ModelID": 43100007,
+        "ModelID": 43000001,
         "MonsterType": 2,
         "MonsterProperty": {
             "keys": [
@@ -6079,7 +6079,7 @@
             "propertys": null
         },
         "MonsterSkillID": [
-            3144740
+            3052110
         ],
         "ImmuneState": [
             0
@@ -6087,10 +6087,10 @@
         "GroupTag": "00 特殊",
         "BodySize": 10,
         "ID": 60021,
-        "Name": "4075"
+        "Name": "3990"
     },
     {
-        "Icon": "",
+        "Icon": "B_Head_Pilot_100007",
         "Disc": "4102",
         "ModelID": 42000033,
         "MonsterType": 4,
@@ -6551,7 +6551,7 @@
         "Name": "10939"
     },
     {
-        "Icon": "",
+        "Icon": "B_Head_Pilot_100006",
         "Disc": "4102",
         "ModelID": 42000034,
         "MonsterType": 4,
@@ -6757,5 +6757,961 @@
         "BodySize": 10,
         "ID": 9912,
         "Name": "10931"
+    },
+    {
+        "Icon": "",
+        "Disc": "4123",
+        "ModelID": 43000012,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3068110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9913,
+        "Name": "4007"
+    },
+    {
+        "Icon": "",
+        "Disc": "4123",
+        "ModelID": 43000013,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3105210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9914,
+        "Name": "10941"
+    },
+    {
+        "Icon": "B_Head_Pilot_000290",
+        "Disc": "4102",
+        "ModelID": 44000070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                273000.0,
+                21500.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3143010,
+            3143110,
+            3143210,
+            3143310,
+            3143410,
+            3143510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 20,
+        "ID": 60100,
+        "Name": "13963"
+    },
+    {
+        "Icon": "B_Head_Pilot_100006",
+        "Disc": "4102",
+        "ModelID": 42000034,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3208110,
+            3208210,
+            3208310,
+            3208410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 30,
+        "ID": 60101,
+        "Name": "13964"
+    },
+    {
+        "Icon": "B_Head_Pilot_100002",
+        "Disc": "4102",
+        "ModelID": 42000002,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                320000.0,
+                21500.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3088110,
+            3088210,
+            3088310,
+            3088410,
+            3088510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 30,
+        "ID": 60102,
+        "Name": "13965"
+    },
+    {
+        "Icon": "B_Head_Pilot_000520",
+        "Disc": "4102",
+        "ModelID": 44000160,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                273000.0,
+                21500.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3110110,
+            3110210,
+            3110310,
+            3110410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 30,
+        "ID": 60103,
+        "Name": "13966"
+    },
+    {
+        "Icon": "B_Head_Pilot_000550",
+        "Disc": "4102",
+        "ModelID": 44000100,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                323000.0,
+                21500.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3067110,
+            3067210,
+            3067310,
+            3067410,
+            3067511,
+            3000104,
+            3000101
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 30,
+        "ID": 60104,
+        "Name": "13967"
+    },
+    {
+        "Icon": "B_Head_Pilot_000130",
+        "Disc": "4102",
+        "ModelID": 44000050,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                235000.0,
+                21500.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3041110,
+            3041210,
+            3041310,
+            3000103,
+            3000111,
+            3000110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_日曜副本",
+        "BodySize": 20,
+        "ID": 60105,
+        "Name": "13968"
+    },
+    {
+        "Icon": "B_Head_Pilot_100004",
+        "Disc": "4102",
+        "ModelID": 42000003,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3099110,
+            3099210,
+            3099310,
+            3099410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 30,
+        "ID": 60110,
+        "Name": "4036"
+    },
+    {
+        "Icon": "B_Head_Pilot_000310",
+        "Disc": "4102",
+        "ModelID": 44000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3051110,
+            3051210,
+            3051310,
+            3051410,
+            3051510,
+            3000103
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60111,
+        "Name": "3989"
+    },
+    {
+        "Icon": "B_Head_Pilot_000200",
+        "Disc": "4102",
+        "ModelID": 44000020,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3027110,
+            3027210,
+            3027310,
+            3027410,
+            3027510,
+            3027610,
+            3000100,
+            3000112
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60112,
+        "Name": "3940"
+    },
+    {
+        "Icon": "B_Head_Pilot_000080",
+        "Disc": "4102",
+        "ModelID": 42000000,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145010,
+            3145020,
+            3145030,
+            3145040,
+            3000104,
+            3000102
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 30,
+        "ID": 60113,
+        "Name": "3937"
+    },
+    {
+        "Icon": "B_Head_Pilot_000040",
+        "Disc": "4102",
+        "ModelID": 44000040,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145110,
+            3145120,
+            3145131,
+            3145140,
+            3000107,
+            3000108
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 30,
+        "ID": 60114,
+        "Name": "3958"
+    },
+    {
+        "Icon": "B_Head_Pilot_000550",
+        "Disc": "4102",
+        "ModelID": 44000100,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3067110,
+            3067210,
+            3067310,
+            3067410,
+            3067511,
+            3067610
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 30,
+        "ID": 60115,
+        "Name": "4005"
+    },
+    {
+        "Icon": "B_Head_Pilot_000130",
+        "Disc": "4102",
+        "ModelID": 44000050,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3041110,
+            3041210,
+            3041310,
+            3041410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60116,
+        "Name": "3975"
+    },
+    {
+        "Icon": "B_Head_Pilot_100006",
+        "Disc": "4102",
+        "ModelID": 42000034,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3208110,
+            3208210,
+            3208310,
+            3208410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 30,
+        "ID": 60117,
+        "Name": "10940"
+    },
+    {
+        "Icon": "B_Head_Pilot_100007",
+        "Disc": "4102",
+        "ModelID": 42000033,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3104110,
+            3104210,
+            3104310,
+            3104410,
+            3104510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60118,
+        "Name": "1178"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 42000050,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3147010,
+            3147020,
+            3147030,
+            3147031,
+            3147110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60119,
+        "Name": "13969"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 42000051,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3147040,
+            3147050,
+            3147120,
+            3147051
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60120,
+        "Name": "14032"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 42000052,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                420000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3147060,
+            3147070,
+            3147061,
+            3147080,
+            3147090,
+            3147100
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新年活动",
+        "BodySize": 20,
+        "ID": 60121,
+        "Name": "14033"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41004050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                80000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3046110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 60122,
+        "Name": "3982"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41102081,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                80000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3086110,
+            3086210,
+            3086310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 60123,
+        "Name": "1126"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41003050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                80000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3035110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 20,
+        "ID": 60124,
+        "Name": "3967"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41006080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                14000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3139010,
+            3139110,
+            3139210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 30,
+        "ID": 60125,
+        "Name": "4062"
+    },
+    {
+        "Icon": "",
+        "Disc": "4116",
+        "ModelID": 41006090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                14000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3140010,
+            3140110,
+            3140210,
+            3146810
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 30,
+        "ID": 60126,
+        "Name": "4063"
     }
 ]
