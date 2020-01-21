@@ -36832,6 +36832,27 @@
         "Name": "1338"
     },
     {
+        "BuffEffectType": 3,
+        "BuffDuration": 6000,
+        "BuffIcon": "60000005",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 36010005,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 7,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            0.0
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 30001186,
+        "Name": "1338"
+    },
+    {
         "BuffEffectType": 1,
         "BuffDuration": 0,
         "BuffIcon": "82020202",
