@@ -7413,7 +7413,7 @@
         "EquipSubType": 19,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.02
@@ -7436,7 +7436,7 @@
         "EquipSubType": 19,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.04
@@ -7459,7 +7459,7 @@
         "EquipSubType": 19,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.06
@@ -7482,7 +7482,7 @@
         "EquipSubType": 19,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.08
@@ -7505,7 +7505,7 @@
         "EquipSubType": 19,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.1
@@ -7528,7 +7528,7 @@
         "EquipSubType": 20,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.02
@@ -7551,7 +7551,7 @@
         "EquipSubType": 20,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.04
@@ -7574,7 +7574,7 @@
         "EquipSubType": 20,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.06
@@ -7597,7 +7597,7 @@
         "EquipSubType": 20,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.08
@@ -7620,7 +7620,7 @@
         "EquipSubType": 20,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.1
@@ -7643,7 +7643,7 @@
         "EquipSubType": 21,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.02
@@ -7666,7 +7666,7 @@
         "EquipSubType": 21,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.04
@@ -7689,7 +7689,7 @@
         "EquipSubType": 21,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.06
@@ -7712,7 +7712,7 @@
         "EquipSubType": 21,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.08
@@ -7735,7 +7735,7 @@
         "EquipSubType": 21,
         "GirlProperty": {
             "keys": [
-                23
+                27
             ],
             "values": [
                 0.1
@@ -18747,7 +18747,7 @@
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
-        "RoomTypeCond": 0,
+        "RoomTypeCond": 8,
         "OrderTypeCond": 0,
         "EquipSubType": 26,
         "GirlProperty": {
@@ -18766,7 +18766,7 @@
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
-        "RoomTypeCond": 0,
+        "RoomTypeCond": 8,
         "OrderTypeCond": 0,
         "EquipSubType": 26,
         "GirlProperty": {
@@ -18785,7 +18785,7 @@
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
-        "RoomTypeCond": 0,
+        "RoomTypeCond": 8,
         "OrderTypeCond": 0,
         "EquipSubType": 26,
         "GirlProperty": {
@@ -18804,7 +18804,7 @@
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
-        "RoomTypeCond": 0,
+        "RoomTypeCond": 8,
         "OrderTypeCond": 0,
         "EquipSubType": 26,
         "GirlProperty": {
@@ -18823,7 +18823,7 @@
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
-        "RoomTypeCond": 0,
+        "RoomTypeCond": 8,
         "OrderTypeCond": 0,
         "EquipSubType": 26,
         "GirlProperty": {
@@ -18837,7 +18837,7 @@
     },
     {
         "EffectDesc": "10725",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10400000,
         "Param2": 2,
         "Param3": 0,
@@ -18856,7 +18856,7 @@
     },
     {
         "EffectDesc": "10726",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10400000,
         "Param2": 4,
         "Param3": 0,
@@ -18875,7 +18875,7 @@
     },
     {
         "EffectDesc": "10727",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10400000,
         "Param2": 6,
         "Param3": 0,
@@ -18894,7 +18894,7 @@
     },
     {
         "EffectDesc": "10728",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10400000,
         "Param2": 8,
         "Param3": 0,
@@ -18913,7 +18913,7 @@
     },
     {
         "EffectDesc": "10729",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10400000,
         "Param2": 10,
         "Param3": 0,
@@ -18932,7 +18932,7 @@
     },
     {
         "EffectDesc": "9755",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10100002,
         "Param2": 2,
         "Param3": 0,
@@ -18951,7 +18951,7 @@
     },
     {
         "EffectDesc": "9756",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10100002,
         "Param2": 4,
         "Param3": 0,
@@ -18970,7 +18970,7 @@
     },
     {
         "EffectDesc": "9757",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10100002,
         "Param2": 6,
         "Param3": 0,
@@ -18989,7 +18989,7 @@
     },
     {
         "EffectDesc": "9758",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10100002,
         "Param2": 8,
         "Param3": 0,
@@ -19008,7 +19008,7 @@
     },
     {
         "EffectDesc": "9759",
-        "EffectType": 0,
+        "EffectType": 3,
         "Param1": 10100002,
         "Param2": 10,
         "Param3": 0,
@@ -20738,7 +20738,7 @@
     {
         "EffectDesc": "9710",
         "EffectType": 2,
-        "Param1": 5,
+        "Param1": 2,
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
@@ -20757,7 +20757,7 @@
     {
         "EffectDesc": "9711",
         "EffectType": 2,
-        "Param1": 10,
+        "Param1": 4,
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
@@ -20776,7 +20776,7 @@
     {
         "EffectDesc": "9712",
         "EffectType": 2,
-        "Param1": 15,
+        "Param1": 6,
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
@@ -20795,7 +20795,7 @@
     {
         "EffectDesc": "9713",
         "EffectType": 2,
-        "Param1": 20,
+        "Param1": 8,
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,
@@ -20814,7 +20814,7 @@
     {
         "EffectDesc": "9714",
         "EffectType": 2,
-        "Param1": 25,
+        "Param1": 10,
         "Param2": 0,
         "Param3": 0,
         "Param4": 0,

@@ -5,4 +5,6 @@
 Data files in mobile game **FinalGear**.<br/>
 Principally they're used for Aceship's toolbox: https://github.com/Aceship/FinalGearToolbox.
 
-在贴吧或bigfun上发布本解包内容时，请注明出处
+在各论坛本解包内容时，请注明出处
+<br/>
+2020.1.23:因程式漏洞導致繁中伺服器數據未能同步，已修正

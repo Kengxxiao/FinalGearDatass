@@ -1,0 +1,122 @@
+[
+    {
+        "PageName": "登录界面",
+        "CueSheet": "BGM_UI_Login",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "PageName": "主界面",
+        "CueSheet": "BGM_UI_Lobby",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarPage",
+        "CueSheet": "BGM_UI_Base",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "PageName": "BaseCarRepairPage",
+        "CueSheet": "BGM_UI_Base",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "PageName": "角色界面",
+        "CueSheet": "BGM_UI_Pilot",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "PageName": "机库界面",
+        "CueSheet": "BGM_UI_Garage",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "PageName": "仓库界面",
+        "CueSheet": "BGM_UI_Garage",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "PageName": "招募界面",
+        "CueSheet": "BGM_UI_Summon",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "PageName": "开发界面",
+        "CueSheet": "BGM_UI_Develop",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "PageName": "CollectPage",
+        "CueSheet": "BGM_UI_Gallery",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "PageName": "AchievementPage",
+        "CueSheet": "BGM_UI_Gallery",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "PageName": "ShopPage",
+        "CueSheet": "BGM_UI_Shop",
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "PageName": "ChapterPage",
+        "CueSheet": "BGM_Battle_Prepare_2",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "PageName": "ActivityPage",
+        "CueSheet": "BGM_Battle_Prepare_2",
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "PageName": "DailyTaskPage",
+        "CueSheet": "BGM_Battle_Prepare_2",
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "PageName": "SummerActivityPage",
+        "CueSheet": "BGM_Summer_Entrance",
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "PageName": "BilibiliActivityPage",
+        "CueSheet": "BGM_Bili_BTogether",
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "PageName": "HalloweenPage",
+        "CueSheet": "BGM_Halloween_Scene",
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "PageName": "CriticalPointActivityPage",
+        "CueSheet": "BGM_Battle_5",
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "PageName": "春节活动",
+        "CueSheet": "BGM_EV_Spring",
+        "ID": 20,
+        "Name": null
+    }
+]

@@ -97,24 +97,22 @@
         "Name": "969"
     },
     {
-        "Desc": "969",
+        "Desc": "12541",
         "RegionMap": "AERA_005",
         "BlockID": [
             5001,
             5002,
             5003,
-            5004,
-            5005,
-            5006
+            5004
         ],
-        "OpenNeedStage": 50201,
+        "OpenNeedStage": 40205,
         "PreRegion": 4,
         "NextRegion": 0,
         "ExpeditionQueue": 4,
         "BlockNum": 6,
         "ChapterScene": "Cab2_1平原农场",
-        "CampIcon": "共和国",
+        "CampIcon": "帝国",
         "ID": 5,
-        "Name": "969"
+        "Name": "12541"
     }
 ]

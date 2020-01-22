@@ -1,0 +1,652 @@
+[
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成1次赏金任务",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成3次任意专用机副本",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "强化任意部件10次",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "进行快速招募3次",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "任意装备分解10次",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "装备开发5次",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "机师招募3次",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 500,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "击杀任意敌人数量500个",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次紧急任务",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 1,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000002,
+            5
+        ],
+        "Description": "成功完成任意1次远征任务",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成3次赏金任务",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次任意专用机副本",
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "强化任意部件10次",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "进行快速招募3次",
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "任意装备分解10次",
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "装备开发5次",
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "机师招募3次",
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 500,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "击杀任意敌人数量500个",
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次紧急任务",
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 2,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000002,
+            5
+        ],
+        "Description": "成功完成任意1次远征任务",
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 2,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成2次赏金任务",
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 2,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成2次任意专用机副本",
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "强化任意部件5次",
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "进行快速招募3次",
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "任意装备分解10次",
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "装备开发5次",
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 2,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "成功完成任意2次远征任务",
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 500,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "击杀任意敌人数量500个",
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次紧急任务",
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 3,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000002,
+            5
+        ],
+        "Description": "进行快速招募5次",
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成3次赏金任务",
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次任意专用机副本",
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 8,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "强化任意部件8次",
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "进行快速招募3次",
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 8,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "任意装备分解8次",
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 8,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "装备开发8次",
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "机师招募3次",
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 400,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "击杀任意敌人数量400个",
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次紧急任务",
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 4,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000002,
+            5
+        ],
+        "Description": "进行快速开发5次",
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成1次赏金任务",
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成3次任意专用机副本",
+        "ID": 42,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "强化任意部件5次",
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "进行快速开发5次",
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 10,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "任意装备分解10次",
+        "ID": 45,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 5,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "装备开发5次",
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 3,
+        "Award": [
+            17000001,
+            3
+        ],
+        "Description": "完成任意3次远征任务",
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 300,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "击杀任意敌人数量300个",
+        "ID": 48,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000001,
+            5
+        ],
+        "Description": "完成1次紧急任务",
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "ChristmasTaskType": 0,
+        "TaskGroup": 5,
+        "Param": 0,
+        "ExParam": 1,
+        "Award": [
+            17000002,
+            5
+        ],
+        "Description": "成功完成任意2次远征任务",
+        "ID": 50,
+        "Name": null
+    }
+]

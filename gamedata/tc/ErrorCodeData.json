@@ -1593,6 +1593,132 @@
         "Name": null
     },
     {
+        "Disc": "12295",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveSignedToday",
+        "Memo": "",
+        "ID": 757,
+        "Name": null
+    },
+    {
+        "Disc": "12296",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveNoSignTimes",
+        "Memo": "",
+        "ID": 758,
+        "Name": null
+    },
+    {
+        "Disc": "12706",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PreEventNotCompleted",
+        "Memo": "上一个事件还未完成",
+        "ID": 759,
+        "Name": null
+    },
+    {
+        "Disc": "12297",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SignedLimitMonth",
+        "Memo": "",
+        "ID": 760,
+        "Name": null
+    },
+    {
+        "Disc": "12707",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TotalCellNumNotEnough",
+        "Memo": "格子数未达成",
+        "ID": 761,
+        "Name": null
+    },
+    {
+        "Disc": "12708",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointChallengeTimesLimit",
+        "Memo": "德洛莉丝-挑战次数达到上限了",
+        "ID": 762,
+        "Name": null
+    },
+    {
+        "Disc": "12709",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PlayTimesLimit",
+        "Memo": "可玩骰子次数不足,可用次数不足",
+        "ID": 763,
+        "Name": null
+    },
+    {
+        "Disc": "12710",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointHaveNoFreeReset",
+        "Memo": "德洛莉丝-没有免费重置次数",
+        "ID": 764,
+        "Name": null
+    },
+    {
+        "Disc": "12711",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointHaveNoChallengeTimes",
+        "Memo": "德洛莉丝-没有挑战次数",
+        "ID": 765,
+        "Name": null
+    },
+    {
+        "Disc": "12712",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CriticalPointJackpotCreateFailed",
+        "Memo": "德洛莉丝-奖池创建失败",
+        "ID": 766,
+        "Name": null
+    },
+    {
+        "Disc": "12713",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotGetCriticalPointAchiReward",
+        "Memo": "未达到该成就领取标准，无法领取奖励",
+        "ID": 767,
+        "Name": null
+    },
+    {
+        "Disc": "14120",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PropertyTypeLimit",
+        "Memo": "该属性不允许精制",
+        "ID": 778,
+        "Name": null
+    },
+    {
+        "Disc": "14015",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SpringFestivalAchievementNotExist",
+        "Memo": "不存在这个成就",
+        "ID": 784,
+        "Name": null
+    },
+    {
+        "Disc": "12713",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SpringFestivalAchievementCondLeak",
+        "Memo": "未达到该成就领取标准，无法领取奖励",
+        "ID": 785,
+        "Name": null
+    },
+    {
         "Disc": "1522",
         "Title": "8620",
         "IsShow": true,
@@ -1653,6 +1779,150 @@
         "ParaName": "E_100006",
         "Memo": "",
         "ID": 100006,
+        "Name": null
+    },
+    {
+        "Disc": "14140",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotComebackPlayer",
+        "Memo": "不是回流玩家",
+        "ID": 786,
+        "Name": null
+    },
+    {
+        "Disc": "14149",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MultiAwardTicketLimit",
+        "Memo": "奖励券使用上限",
+        "ID": 780,
+        "Name": null
+    },
+    {
+        "Disc": "14150",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TowerLayerAndStageNotMatch",
+        "Memo": "当前层不包含要挑战的关卡",
+        "ID": 781,
+        "Name": null
+    },
+    {
+        "Disc": "14151",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageAndBattleNotMatch",
+        "Memo": "当前关卡不包含要进行的战斗",
+        "ID": 782,
+        "Name": null
+    },
+    {
+        "Disc": "14152",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PreTowerLayerNotClear",
+        "Memo": "前置塔层未完成",
+        "ID": 783,
+        "Name": null
+    },
+    {
+        "Disc": "14153",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotSweepOutUnlockStage",
+        "Memo": "成就条件未达到，不能领取奖励",
+        "ID": 787,
+        "Name": null
+    },
+    {
+        "Disc": "14154",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TowerEnergyLeak",
+        "Memo": "爬塔体力不足",
+        "ID": 788,
+        "Name": null
+    },
+    {
+        "Disc": "14155",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SweepOutActionIsBusying",
+        "Memo": "已有正在扫荡的关卡了",
+        "ID": 789,
+        "Name": null
+    },
+    {
+        "Disc": "14156",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TowerLayerConfLeak",
+        "Memo": "没有当前塔层的配置",
+        "ID": 790,
+        "Name": null
+    },
+    {
+        "Disc": "14177",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "FinalBossCountLimit",
+        "Memo": "最终BOSS次数已达上限",
+        "ID": 791,
+        "Name": null
+    },
+    {
+        "Disc": "14178",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SweepOutNotComplete",
+        "Memo": "扫荡未完成",
+        "ID": 792,
+        "Name": null
+    },
+    {
+        "Disc": "14179",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SweepInfoNotExists",
+        "Memo": "扫荡信息不存在",
+        "ID": 793,
+        "Name": null
+    },
+    {
+        "Disc": "14180",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "StageCannotSweepOut",
+        "Memo": "当前层的关卡不可扫荡",
+        "ID": 794,
+        "Name": null
+    },
+    {
+        "Disc": "14181",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CurStageIsNotFinalStage",
+        "Memo": "当前关卡不是最终boss",
+        "ID": 795,
+        "Name": null
+    },
+    {
+        "Disc": "14182",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SpringFestivalAchievementIsClear",
+        "Memo": "成就奖励已领取",
+        "ID": 796,
+        "Name": null
+    },
+    {
+        "Disc": "14183",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SpringFestivalRefreshTimesLimit",
+        "Memo": "刷新次数已达上限",
+        "ID": 797,
         "Name": null
     }
 ]

@@ -1,0 +1,90 @@
+[
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000001,
+        "Icon": "82020202",
+        "BuffIllstration": "破甲",
+        "BuffValueIllstration": "-5%",
+        "BuffUnfoldIllstration": "玩家所有单位护甲减低5%",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 0,
+        "BuffIndex": 500000002,
+        "Icon": "82020203",
+        "BuffIllstration": "血量增加",
+        "BuffValueIllstration": "+10%",
+        "BuffUnfoldIllstration": "BOSS方所有单位耐久提高10%",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000003,
+        "Icon": "82020204",
+        "BuffIllstration": "血量降低",
+        "BuffValueIllstration": "-10%",
+        "BuffUnfoldIllstration": "玩家所有单位血量降低10%",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 0,
+        "BuffIndex": 500000004,
+        "Icon": "82020205",
+        "BuffIllstration": "伤害提升",
+        "BuffValueIllstration": "+10%",
+        "BuffUnfoldIllstration": "BOSS方所有单位伤害提高10%",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000005,
+        "Icon": "82020206",
+        "BuffIllstration": "伤害降低",
+        "BuffValueIllstration": "-5%",
+        "BuffUnfoldIllstration": "玩家所有单位伤害降低5%",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000006,
+        "Icon": "82020207",
+        "BuffIllstration": "命中降低",
+        "BuffValueIllstration": "-10%",
+        "BuffUnfoldIllstration": "玩家所有单位命中降低10%",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000007,
+        "Icon": "82020208",
+        "BuffIllstration": "获得能量降低",
+        "BuffValueIllstration": "-15%",
+        "BuffUnfoldIllstration": "玩家所有单位能量恢复速度降低15%",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "GroupIndex": 1,
+        "PlayerBuff": 1,
+        "BuffIndex": 500000008,
+        "Icon": "82020209",
+        "BuffIllstration": "回血效果降低",
+        "BuffValueIllstration": "-15%",
+        "BuffUnfoldIllstration": "玩家所有单位治疗效果降低15%",
+        "ID": 8,
+        "Name": null
+    }
+]

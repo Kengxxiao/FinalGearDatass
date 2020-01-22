@@ -13858,5 +13858,705 @@
         "RewardIcon": "0",
         "ID": 1089,
         "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 0,
+        "GoodwillPoints": 50,
+        "GoodwillRewardType": 0,
+        "GoodwillRewardPara": [],
+        "RewardIcon": "0",
+        "ID": 1090,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 1,
+        "GoodwillPoints": 100,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            10000
+        ],
+        "RewardIcon": "0",
+        "ID": 1091,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 2,
+        "GoodwillPoints": 200,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1092,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 3,
+        "GoodwillPoints": 300,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            20000
+        ],
+        "RewardIcon": "0",
+        "ID": 1093,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 4,
+        "GoodwillPoints": 500,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1094,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 5,
+        "GoodwillPoints": 800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100002,
+            200
+        ],
+        "RewardIcon": "0",
+        "ID": 1095,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 6,
+        "GoodwillPoints": 1250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            10
+        ],
+        "RewardIcon": "0",
+        "ID": 1096,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 7,
+        "GoodwillPoints": 1750,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810001,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1097,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 8,
+        "GoodwillPoints": 2250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1098,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 9,
+        "GoodwillPoints": 2800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            20
+        ],
+        "RewardIcon": "0",
+        "ID": 1099,
+        "Name": null
+    },
+    {
+        "GirlID": 101,
+        "GoodwillLevel": 10,
+        "GoodwillPoints": 0,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11200004,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1100,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 0,
+        "GoodwillPoints": 50,
+        "GoodwillRewardType": 0,
+        "GoodwillRewardPara": [],
+        "RewardIcon": "0",
+        "ID": 1101,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 1,
+        "GoodwillPoints": 100,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            10000
+        ],
+        "RewardIcon": "0",
+        "ID": 1102,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 2,
+        "GoodwillPoints": 200,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1103,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 3,
+        "GoodwillPoints": 300,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            20000
+        ],
+        "RewardIcon": "0",
+        "ID": 1104,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 4,
+        "GoodwillPoints": 500,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1105,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 5,
+        "GoodwillPoints": 800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100002,
+            200
+        ],
+        "RewardIcon": "0",
+        "ID": 1106,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 6,
+        "GoodwillPoints": 1250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            10
+        ],
+        "RewardIcon": "0",
+        "ID": 1107,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 7,
+        "GoodwillPoints": 1750,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810001,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1108,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 8,
+        "GoodwillPoints": 2250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1109,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 9,
+        "GoodwillPoints": 2800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            20
+        ],
+        "RewardIcon": "0",
+        "ID": 1110,
+        "Name": null
+    },
+    {
+        "GirlID": 102,
+        "GoodwillLevel": 10,
+        "GoodwillPoints": 0,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11200004,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1111,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 0,
+        "GoodwillPoints": 50,
+        "GoodwillRewardType": 0,
+        "GoodwillRewardPara": [],
+        "RewardIcon": "0",
+        "ID": 1112,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 1,
+        "GoodwillPoints": 100,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            10000
+        ],
+        "RewardIcon": "0",
+        "ID": 1113,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 2,
+        "GoodwillPoints": 200,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1114,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 3,
+        "GoodwillPoints": 300,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1115,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 4,
+        "GoodwillPoints": 500,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1116,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 5,
+        "GoodwillPoints": 800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100002,
+            200
+        ],
+        "RewardIcon": "0",
+        "ID": 1117,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 6,
+        "GoodwillPoints": 1250,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            3
+        ],
+        "RewardIcon": "0",
+        "ID": 1118,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 7,
+        "GoodwillPoints": 1750,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810001,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1119,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 8,
+        "GoodwillPoints": 2250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1120,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 9,
+        "GoodwillPoints": 2800,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            4
+        ],
+        "RewardIcon": "0",
+        "ID": 1121,
+        "Name": null
+    },
+    {
+        "GirlID": 103,
+        "GoodwillLevel": 10,
+        "GoodwillPoints": 0,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11200004,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1122,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 0,
+        "GoodwillPoints": 50,
+        "GoodwillRewardType": 0,
+        "GoodwillRewardPara": [],
+        "RewardIcon": "0",
+        "ID": 1123,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 1,
+        "GoodwillPoints": 100,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            10000
+        ],
+        "RewardIcon": "0",
+        "ID": 1124,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 2,
+        "GoodwillPoints": 200,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1125,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 3,
+        "GoodwillPoints": 300,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1126,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 4,
+        "GoodwillPoints": 500,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1127,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 5,
+        "GoodwillPoints": 800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100002,
+            200
+        ],
+        "RewardIcon": "0",
+        "ID": 1128,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 6,
+        "GoodwillPoints": 1250,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            3
+        ],
+        "RewardIcon": "0",
+        "ID": 1129,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 7,
+        "GoodwillPoints": 1750,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810001,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1130,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 8,
+        "GoodwillPoints": 2250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1131,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 9,
+        "GoodwillPoints": 2800,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            4
+        ],
+        "RewardIcon": "0",
+        "ID": 1132,
+        "Name": null
+    },
+    {
+        "GirlID": 104,
+        "GoodwillLevel": 10,
+        "GoodwillPoints": 0,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11200004,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1133,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 0,
+        "GoodwillPoints": 50,
+        "GoodwillRewardType": 0,
+        "GoodwillRewardPara": [],
+        "RewardIcon": "0",
+        "ID": 1134,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 1,
+        "GoodwillPoints": 100,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100001,
+            10000
+        ],
+        "RewardIcon": "0",
+        "ID": 1135,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 2,
+        "GoodwillPoints": 200,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10600000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1136,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 3,
+        "GoodwillPoints": 300,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1137,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 4,
+        "GoodwillPoints": 500,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11300000,
+            5
+        ],
+        "RewardIcon": "0",
+        "ID": 1138,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 5,
+        "GoodwillPoints": 800,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10100002,
+            200
+        ],
+        "RewardIcon": "0",
+        "ID": 1139,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 6,
+        "GoodwillPoints": 1250,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            3
+        ],
+        "RewardIcon": "0",
+        "ID": 1140,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 7,
+        "GoodwillPoints": 1750,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810001,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1141,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 8,
+        "GoodwillPoints": 2250,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            10810002,
+            2
+        ],
+        "RewardIcon": "0",
+        "ID": 1142,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 9,
+        "GoodwillPoints": 2800,
+        "GoodwillRewardType": 4,
+        "GoodwillRewardPara": [
+            15000002,
+            4
+        ],
+        "RewardIcon": "0",
+        "ID": 1143,
+        "Name": null
+    },
+    {
+        "GirlID": 105,
+        "GoodwillLevel": 10,
+        "GoodwillPoints": 0,
+        "GoodwillRewardType": 1,
+        "GoodwillRewardPara": [
+            11200004,
+            1
+        ],
+        "RewardIcon": "0",
+        "ID": 1144,
+        "Name": null
     }
 ]

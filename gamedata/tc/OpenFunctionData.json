@@ -43,8 +43,8 @@
     },
     {
         "Remarks": "基地",
-        "OpenCondition": 2,
-        "Value": 40104,
+        "OpenCondition": 1,
+        "Value": 40,
         "ID": 7,
         "Name": null
     },
@@ -317,8 +317,36 @@
     {
         "Remarks": "专用机改造",
         "OpenCondition": 2,
-        "Value": 900156,
+        "Value": 900113,
         "ID": 46,
+        "Name": null
+    },
+    {
+        "Remarks": "临界点",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "Remarks": "圣诞节",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 48,
+        "Name": null
+    },
+    {
+        "Remarks": "万圣狂欢",
+        "OpenCondition": 2,
+        "Value": 10108,
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "Remarks": "物资筹备",
+        "OpenCondition": 1,
+        "Value": 10,
+        "ID": 50,
         "Name": null
     }
 ]
