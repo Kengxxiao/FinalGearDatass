@@ -553,8 +553,8 @@
         "ExtraDes": "",
         "RechargeIcon": "RechargePackage15",
         "RechargeCostTest": 1.0,
-        "IfScreen": true,
-        "IfHot": true,
+        "IfScreen": false,
+        "IfHot": false,
         "Array": 15,
         "ID": 35,
         "Name": null
@@ -573,8 +573,8 @@
         "ExtraDes": "",
         "RechargeIcon": "RechargePackage16",
         "RechargeCostTest": 1.0,
-        "IfScreen": true,
-        "IfHot": true,
+        "IfScreen": false,
+        "IfHot": false,
         "Array": 16,
         "ID": 36,
         "Name": null
