@@ -435,6 +435,30 @@
         "Name": "14188"
     },
     {
+        "Description": "14192",
+        "Icon": "82020040",
+        "Background": "",
+        "ItemClassify": 0,
+        "ItemType": 0,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": false,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 0,
+        "UsedGetPara": [],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 2147483647,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 10100031,
+        "Name": "14191"
+    },
+    {
         "Description": "9149",
         "Icon": "80000001",
         "Background": "",
@@ -30828,5 +30852,32 @@
         "ShopID": [],
         "ID": 11600079,
         "Name": "14166"
+    },
+    {
+        "Description": "14195",
+        "Icon": "82020019",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 6,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 2,
+        "UsedGetPara": [
+            15000001,
+            2
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 11600080,
+        "Name": "14194"
     }
 ]
