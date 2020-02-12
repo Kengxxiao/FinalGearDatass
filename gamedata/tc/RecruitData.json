@@ -457,5 +457,32 @@
         "UpGirl": "304301,301101,303901",
         "ID": 20011,
         "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "3208",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70005,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2306412,
+            2306422,
+            2306432,
+            2306442
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "306401,0.1;300401,0.025;303101,0.025",
+        "UpGirl": "306401,300401,303101",
+        "ID": 20012,
+        "Name": null
     }
 ]
