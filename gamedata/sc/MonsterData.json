@@ -7713,5 +7713,2332 @@
         "BodySize": 30,
         "ID": 60126,
         "Name": "4063"
+    },
+    {
+        "Icon": "",
+        "Disc": "4099",
+        "ModelID": 41002010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3012110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 10,
+        "ID": 60130,
+        "Name": "3945"
+    },
+    {
+        "Icon": "",
+        "Disc": "4103",
+        "ModelID": 41002050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3014110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60131,
+        "Name": "3946"
+    },
+    {
+        "Icon": "",
+        "Disc": "4095",
+        "ModelID": 41002020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3020110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 10,
+        "ID": 60132,
+        "Name": "3947"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41002030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3013110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60133,
+        "Name": "3948"
+    },
+    {
+        "Icon": "",
+        "Disc": "4105",
+        "ModelID": 41002070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3016110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60134,
+        "Name": "3949"
+    },
+    {
+        "Icon": "",
+        "Disc": "4106",
+        "ModelID": 41002060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3015110,
+            3015210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60135,
+        "Name": "3950"
+    },
+    {
+        "Icon": "",
+        "Disc": "4107",
+        "ModelID": 41002040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3021110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60136,
+        "Name": "3951"
+    },
+    {
+        "Icon": "",
+        "Disc": "4108",
+        "ModelID": 41002100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3019110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60137,
+        "Name": "3952"
+    },
+    {
+        "Icon": "",
+        "Disc": "4109",
+        "ModelID": 41002080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3017110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60138,
+        "Name": "3953"
+    },
+    {
+        "Icon": "",
+        "Disc": "4096",
+        "ModelID": 41002081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3018110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60139,
+        "Name": "3954"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41002090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3022110,
+            3022210,
+            3022310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60140,
+        "Name": "3955"
+    },
+    {
+        "Icon": "",
+        "Disc": "4109",
+        "ModelID": 41002082,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3025110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60141,
+        "Name": "3956"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41002091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3026110,
+            3026210,
+            3026310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60142,
+        "Name": "3957"
+    },
+    {
+        "Icon": "",
+        "Disc": "4132",
+        "ModelID": 41002120,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3100110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 艾达强盗团（标准）",
+        "BodySize": 20,
+        "ID": 60143,
+        "Name": "4037"
+    },
+    {
+        "Icon": "B_Head_Pilot_000040",
+        "Disc": "4102",
+        "ModelID": 44000040,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3145110,
+            3145120,
+            3145131,
+            3145140,
+            3000107,
+            3000108
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 30,
+        "ID": 60144,
+        "Name": "3958"
+    },
+    {
+        "Icon": "",
+        "Disc": "4118",
+        "ModelID": 41004010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3042110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60150,
+        "Name": "3978"
+    },
+    {
+        "Icon": "",
+        "Disc": "4119",
+        "ModelID": 41004020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3043110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 10,
+        "ID": 60151,
+        "Name": "3979"
+    },
+    {
+        "Icon": "",
+        "Disc": "4120",
+        "ModelID": 41004030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3044110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60152,
+        "Name": "3980"
+    },
+    {
+        "Icon": "",
+        "Disc": "4121",
+        "ModelID": 41004040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3045110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60153,
+        "Name": "3981"
+    },
+    {
+        "Icon": "",
+        "Disc": "4095",
+        "ModelID": 41004050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3046110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60154,
+        "Name": "3982"
+    },
+    {
+        "Icon": "",
+        "Disc": "4112",
+        "ModelID": 41004060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3047110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60155,
+        "Name": "3983"
+    },
+    {
+        "Icon": "",
+        "Disc": "4096",
+        "ModelID": 41004070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3048110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60156,
+        "Name": "3984"
+    },
+    {
+        "Icon": "",
+        "Disc": "4098",
+        "ModelID": 41004080,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3049110,
+            3049210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60157,
+        "Name": "3985"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41004090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3050110,
+            3050210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60158,
+        "Name": "3986"
+    },
+    {
+        "Icon": "",
+        "Disc": "4122",
+        "ModelID": 41004081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3049110,
+            3049210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60159,
+        "Name": "3987"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41004091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3050110,
+            3050210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "04 联邦军（标准）",
+        "BodySize": 20,
+        "ID": 60160,
+        "Name": "3988"
+    },
+    {
+        "Icon": "B_Head_Pilot_000310",
+        "Disc": "4102",
+        "ModelID": 44000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3051110,
+            3051210,
+            3051310,
+            3051410,
+            3051510,
+            3000103
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 20,
+        "ID": 60161,
+        "Name": "3989"
+    },
+    {
+        "Icon": "",
+        "Disc": "4112",
+        "ModelID": 41003010,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3031110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 10,
+        "ID": 60170,
+        "Name": "3963"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41003020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3032110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 10,
+        "ID": 60171,
+        "Name": "3964"
+    },
+    {
+        "Icon": "",
+        "Disc": "4113",
+        "ModelID": 41003030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3033110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60172,
+        "Name": "3965"
+    },
+    {
+        "Icon": "",
+        "Disc": "4114",
+        "ModelID": 41003040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3034110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60173,
+        "Name": "3966"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41003050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3035110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60174,
+        "Name": "3967"
+    },
+    {
+        "Icon": "",
+        "Disc": "4095",
+        "ModelID": 41003060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3036110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60175,
+        "Name": "3968"
+    },
+    {
+        "Icon": "",
+        "Disc": "4115",
+        "ModelID": 41003070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3037110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60176,
+        "Name": "3969"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41003080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3038110,
+            3038210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60177,
+        "Name": "3970"
+    },
+    {
+        "Icon": "",
+        "Disc": "4116",
+        "ModelID": 41003090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3039110,
+            3039210,
+            3039310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60178,
+        "Name": "3971"
+    },
+    {
+        "Icon": "",
+        "Disc": "4109",
+        "ModelID": 41003100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3040110,
+            3040210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60179,
+        "Name": "3972"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41003081,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3038110,
+            3038210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60180,
+        "Name": "3973"
+    },
+    {
+        "Icon": "",
+        "Disc": "4116",
+        "ModelID": 41003091,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3039110,
+            3039210,
+            3039310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60181,
+        "Name": "3974"
+    },
+    {
+        "Icon": "",
+        "Disc": "4109",
+        "ModelID": 41003101,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3040110,
+            3040210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60182,
+        "Name": "3972"
+    },
+    {
+        "Icon": "",
+        "Disc": "4132",
+        "ModelID": 41003110,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3101110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 帝国地方军（标准）",
+        "BodySize": 20,
+        "ID": 60183,
+        "Name": "4038"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 41201090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3119010
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 夏日（标准）",
+        "BodySize": 20,
+        "ID": 60184,
+        "Name": "4049"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 41201100,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3120010
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 夏日（标准）",
+        "BodySize": 20,
+        "ID": 60185,
+        "Name": "4050"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 41201110,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3121010
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 夏日（标准）",
+        "BodySize": 20,
+        "ID": 60186,
+        "Name": "4051"
+    },
+    {
+        "Icon": "",
+        "Disc": "4102",
+        "ModelID": 41201120,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3122010
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01 夏日（标准）",
+        "BodySize": 20,
+        "ID": 60187,
+        "Name": "4052"
+    },
+    {
+        "Icon": "B_Head_Pilot_000521",
+        "Disc": "4102",
+        "ModelID": 41201030,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3113010,
+            3113110,
+            3113210,
+            3113310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 20,
+        "ID": 60188,
+        "Name": "4043"
+    },
+    {
+        "Icon": "B_Head_Pilot_000522",
+        "Disc": "4102",
+        "ModelID": 41201040,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3114010,
+            3114110,
+            3114210,
+            3114310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 20,
+        "ID": 60189,
+        "Name": "4044"
+    },
+    {
+        "Icon": "",
+        "Disc": "4134",
+        "ModelID": 41103010,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3089110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 10,
+        "ID": 60200,
+        "Name": "4026"
+    },
+    {
+        "Icon": "",
+        "Disc": "3845",
+        "ModelID": 41103020,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3090110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 20,
+        "ID": 60201,
+        "Name": "4027"
+    },
+    {
+        "Icon": "",
+        "Disc": "4135",
+        "ModelID": 41103030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3091110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 20,
+        "ID": 60202,
+        "Name": "4028"
+    },
+    {
+        "Icon": "",
+        "Disc": "4136",
+        "ModelID": 41103040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3092110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 20,
+        "ID": 60203,
+        "Name": "4029"
+    },
+    {
+        "Icon": "",
+        "Disc": "4137",
+        "ModelID": 41103050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3093110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 20,
+        "ID": 60204,
+        "Name": "4030"
+    },
+    {
+        "Icon": "",
+        "Disc": "4138",
+        "ModelID": 41103070,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3094110,
+            3094210,
+            3094310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 30,
+        "ID": 60205,
+        "Name": "4031"
+    },
+    {
+        "Icon": "",
+        "Disc": "4139",
+        "ModelID": 41103080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3095110,
+            3095210,
+            3095310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "03 电子信徒（标准）",
+        "BodySize": 30,
+        "ID": 60206,
+        "Name": "4032"
+    },
+    {
+        "Icon": "B_Head_Pilot_100002",
+        "Disc": "4102",
+        "ModelID": 42000002,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3088110,
+            3088210,
+            3088310,
+            3088410,
+            3088510
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 30,
+        "ID": 60207,
+        "Name": "1124"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41102020,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3079110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 10,
+        "ID": 60210,
+        "Name": "4017"
+    },
+    {
+        "Icon": "",
+        "Disc": "4095",
+        "ModelID": 41102021,
+        "MonsterType": 1,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3080110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 10,
+        "ID": 60211,
+        "Name": "4018"
+    },
+    {
+        "Icon": "",
+        "Disc": "4104",
+        "ModelID": 41102030,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3081110,
+            3081210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60212,
+        "Name": "4019"
+    },
+    {
+        "Icon": "",
+        "Disc": "4095",
+        "ModelID": 41102040,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3082110,
+            3082210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60213,
+        "Name": "4020"
+    },
+    {
+        "Icon": "",
+        "Disc": "4131",
+        "ModelID": 41102050,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3083110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60214,
+        "Name": "4021"
+    },
+    {
+        "Icon": "",
+        "Disc": "4107",
+        "ModelID": 41102060,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3084110,
+            3084210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60215,
+        "Name": "4022"
+    },
+    {
+        "Icon": "",
+        "Disc": "4132",
+        "ModelID": 41102070,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                50000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3085110,
+            3085210
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60216,
+        "Name": "4023"
+    },
+    {
+        "Icon": "",
+        "Disc": "4100",
+        "ModelID": 41102080,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3086110,
+            3086210,
+            3086310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60217,
+        "Name": "4024"
+    },
+    {
+        "Icon": "",
+        "Disc": "4133",
+        "ModelID": 41102090,
+        "MonsterType": 3,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                100000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3087110,
+            3087210,
+            3087310
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "02 电子世界（标准）",
+        "BodySize": 20,
+        "ID": 60218,
+        "Name": "4025"
+    },
+    {
+        "Icon": "B_Head_Pilot_000520",
+        "Disc": "4102",
+        "ModelID": 44000160,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                4200000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3110110,
+            3110210,
+            3110310,
+            3110410
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_新春嘉年华",
+        "BodySize": 30,
+        "ID": 60219,
+        "Name": "1127"
     }
 ]

@@ -65,7 +65,7 @@
         "Name": null
     },
     {
-        "ActivityType": 6,
+        "ActivityType": 11,
         "ActivityName": "12757",
         "ActivityEngName": "2233 Linkage",
         "ActivityDesc": "无",
@@ -192,6 +192,19 @@
         "ActivityOpenLimitType": 2,
         "ActivityOpenLimitPara": "20104",
         "ID": 16,
+        "Name": null
+    },
+    {
+        "ActivityType": 6,
+        "ActivityName": "14322",
+        "ActivityEngName": "Training for Evelynn",
+        "ActivityDesc": "无",
+        "ActivityOpenTime": "2020/2/20 14:30:00",
+        "ActivityCloseTime": "2020/3/5 14:30:00",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 2,
+        "ActivityOpenLimitPara": "20104",
+        "ID": 17,
         "Name": null
     }
 ]

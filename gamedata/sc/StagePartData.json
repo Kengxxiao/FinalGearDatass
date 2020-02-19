@@ -11768,7 +11768,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_1量子仿生研究所",
+        "scene": "正式场景/1_1荒原",
         "icon": "近战部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -11795,10 +11795,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            2203,
             2103,
-            2206,
-            2201
+            2203,
+            2201,
+            2206
         ],
         "Nodes": [
             {
@@ -11860,7 +11860,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_2量子仿生研究所_中层",
+        "scene": "正式场景/1_1荒原",
         "icon": "远程部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -11887,10 +11887,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
+            2101,
+            2203,
             2201,
-            2204,
-            2206,
-            2301
+            2204
         ],
         "Nodes": [
             {
@@ -11952,7 +11952,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/1_1荒原",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -11979,10 +11979,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            2203,
-            2205,
+            2101,
             2303,
-            2301
+            2201,
+            2206
         ],
         "Nodes": [
             {
@@ -12054,7 +12054,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/1_1荒原",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -12082,9 +12082,9 @@
         "FallNodes": [],
         "PreviewMonsterIDs": [
             2203,
-            2205,
-            2303,
-            2301
+            2301,
+            2201,
+            2206
         ],
         "Nodes": [
             {
@@ -12156,7 +12156,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/1_2山峰",
+        "scene": "正式场景/1_1荒原",
         "icon": "头目小队",
         "backGroundIcon": "boss背后圈",
         "titleIcon": "Title_Boss",
@@ -12169,7 +12169,7 @@
         ],
         "winCond": 1,
         "failedCond": 3,
-        "beforeBattleDialog": 0,
+        "beforeBattleDialog": 9000011,
         "afterBattleDialog": 0,
         "UseKillNum": false,
         "KillNum": 0,
@@ -12221,6 +12221,18 @@
                 "Desc": ""
             },
             {
+                "PlotDatas": [
+                    {
+                        "ID": 9000012,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
                 "pos": {
                     "X": 0,
                     "Y": 0
@@ -12238,11 +12250,6 @@
                 "ChuguaiID": 880043,
                 "Enabled": true,
                 "Type": 13,
-                "Desc": ""
-            },
-            {
-                "Enabled": true,
-                "Type": 25,
                 "Desc": ""
             },
             {
@@ -12280,7 +12287,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_1量子仿生研究所",
+        "scene": "正式场景/5_1城区联邦大会堂",
         "icon": "近战部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -12307,10 +12314,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
+            4202,
             4206,
-            4201,
-            4208,
-            4301
+            4203,
+            4208
         ],
         "Nodes": [
             {
@@ -12372,7 +12379,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_2量子仿生研究所_中层",
+        "scene": "正式场景/5_1城区联邦大会堂",
         "icon": "远程部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -12399,10 +12406,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
+            4202,
+            4205,
             4203,
-            4204,
-            4208,
-            4301
+            4208
         ],
         "Nodes": [
             {
@@ -12464,7 +12471,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/5_1城区联邦大会堂",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -12566,7 +12573,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/5_1城区联邦大会堂",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -12593,10 +12600,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
+            4204,
+            4206,
             4207,
-            4203,
-            4208,
-            4301
+            4201
         ],
         "Nodes": [
             {
@@ -12754,11 +12761,6 @@
                 "Desc": ""
             },
             {
-                "Enabled": true,
-                "Type": 25,
-                "Desc": ""
-            },
-            {
                 "pos": {
                     "X": 0,
                     "Y": 0
@@ -12820,8 +12822,8 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3202,
             3203,
+            3201,
             3206,
             3301
         ],
@@ -12856,18 +12858,6 @@
             {
                 "Enabled": true,
                 "Type": 9,
-                "Desc": ""
-            },
-            {
-                "PlotDatas": [
-                    {
-                        "ID": 12003,
-                        "Enabled": true,
-                        "PlotType": 1
-                    }
-                ],
-                "Enabled": true,
-                "Type": 12,
                 "Desc": ""
             },
             {
@@ -12924,10 +12914,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3202,
+            3102,
             3203,
-            3206,
-            3301
+            3201,
+            3302
         ],
         "Nodes": [
             {
@@ -13016,9 +13006,9 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3102,
-            3205,
-            3206,
+            3101,
+            3301,
+            3303,
             10009
         ],
         "Nodes": [
@@ -13118,9 +13108,9 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3102,
             3205,
-            3206,
+            3302,
+            3303,
             10009
         ],
         "Nodes": [
@@ -13340,10 +13330,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3202,
+            3301,
             3203,
-            3206,
-            3301
+            3201,
+            3206
         ],
         "Nodes": [
             {
@@ -13376,18 +13366,6 @@
             {
                 "Enabled": true,
                 "Type": 9,
-                "Desc": ""
-            },
-            {
-                "PlotDatas": [
-                    {
-                        "ID": 12004,
-                        "Enabled": true,
-                        "PlotType": 1
-                    }
-                ],
-                "Enabled": true,
-                "Type": 12,
                 "Desc": ""
             },
             {
@@ -13445,9 +13423,9 @@
         "FallNodes": [],
         "PreviewMonsterIDs": [
             3202,
-            3203,
-            3206,
-            3301
+            3301,
+            3302,
+            3303
         ],
         "Nodes": [
             {
@@ -13480,18 +13458,6 @@
             {
                 "Enabled": true,
                 "Type": 9,
-                "Desc": ""
-            },
-            {
-                "PlotDatas": [
-                    {
-                        "ID": 12005,
-                        "Enabled": true,
-                        "PlotType": 1
-                    }
-                ],
-                "Enabled": true,
-                "Type": 12,
                 "Desc": ""
             },
             {
@@ -13548,9 +13514,9 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3102,
-            3205,
+            3101,
             3301,
+            3303,
             10010
         ],
         "Nodes": [
@@ -13650,9 +13616,9 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            3102,
             3205,
-            3301,
+            3202,
+            3302,
             10010
         ],
         "Nodes": [
@@ -13845,7 +13811,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_1量子仿生研究所",
+        "scene": "正式场景/Story000010_04_2地下实验室",
         "icon": "远程部队-炮灰",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -13937,7 +13903,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_2量子仿生研究所_中层",
+        "scene": "正式场景/Story000010_04_2地下实验室",
         "icon": "近战部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14029,7 +13995,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/Story000010_04_2地下实验室",
         "icon": "远程部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14131,7 +14097,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/Story000010_04_2地下实验室",
         "icon": "远程部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14158,7 +14124,7 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            8202,
+            8201,
             8204,
             8203,
             8301
@@ -14347,7 +14313,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_1量子仿生研究所",
+        "scene": "正式场景/Story000010_06通往现实的走廊",
         "icon": "近战部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14374,10 +14340,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            6203,
-            6201,
-            6205,
-            6302
+            7102,
+            7101,
+            7202,
+            7205
         ],
         "Nodes": [
             {
@@ -14439,7 +14405,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_2量子仿生研究所_中层",
+        "scene": "正式场景/Story000010_06通往现实的走廊",
         "icon": "远程部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14466,10 +14432,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            6201,
-            6202,
-            6205,
-            6301
+            7203,
+            7101,
+            7202,
+            7205
         ],
         "Nodes": [
             {
@@ -14531,7 +14497,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/Story000010_06通往现实的走廊",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14558,10 +14524,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            6203,
-            6204,
-            6301,
-            6302
+            7102,
+            7202,
+            7201,
+            7302
         ],
         "Nodes": [
             {
@@ -14633,7 +14599,7 @@
     {
         "isTest": false,
         "useMapScene": true,
-        "scene": "正式场景/Event03_3量子仿生研究所_高层",
+        "scene": "正式场景/Story000010_06通往现实的走廊",
         "icon": "混编部队-普通",
         "backGroundIcon": null,
         "titleIcon": null,
@@ -14660,10 +14626,10 @@
         "EnemyBuffs": [],
         "FallNodes": [],
         "PreviewMonsterIDs": [
-            6203,
-            6204,
-            6301,
-            6302
+            7203,
+            7205,
+            7302,
+            7301
         ],
         "Nodes": [
             {
@@ -14749,7 +14715,7 @@
         "winCond": 1,
         "failedCond": 3,
         "beforeBattleDialog": 0,
-        "afterBattleDialog": 0,
+        "afterBattleDialog": 9000013,
         "UseKillNum": false,
         "KillNum": 0,
         "KillIndex": 0,
