@@ -69,7 +69,7 @@
         "BackGround": 0,
         "MachineArmor": "",
         "Recommendation": 3,
-        "IsOpen": false,
+        "IsOpen": true,
         "GetWay": "4457",
         "ID": 100005,
         "Name": null
@@ -84,7 +84,7 @@
         "BackGround": 0,
         "MachineArmor": "",
         "Recommendation": 4,
-        "IsOpen": false,
+        "IsOpen": true,
         "GetWay": "4457",
         "ID": 100006,
         "Name": null
@@ -327,6 +327,36 @@
         "IsOpen": false,
         "GetWay": "1072",
         "ID": 100022,
+        "Name": null
+    },
+    {
+        "ShopID": 20,
+        "SkinName": "2811",
+        "Price": 1,
+        "MoneyType": 2,
+        "Discount": "",
+        "CorrespondingRoles": 17,
+        "BackGround": 20051,
+        "MachineArmor": "",
+        "Recommendation": 13,
+        "IsOpen": false,
+        "GetWay": "4457",
+        "ID": 100023,
+        "Name": null
+    },
+    {
+        "ShopID": 20,
+        "SkinName": "11748",
+        "Price": 1,
+        "MoneyType": 2,
+        "Discount": "",
+        "CorrespondingRoles": 2,
+        "BackGround": 21002,
+        "MachineArmor": "",
+        "Recommendation": 6,
+        "IsOpen": false,
+        "GetWay": "4457",
+        "ID": 100024,
         "Name": null
     }
 ]
