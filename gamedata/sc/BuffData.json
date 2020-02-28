@@ -16571,7 +16571,7 @@
     {
         "BuffEffectType": 2,
         "BuffDuration": 10000,
-        "BuffIcon": "60000017",
+        "BuffIcon": "60000022",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -16581,19 +16581,21 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            50.0,
-            1.0
+            65.0,
+            0.05,
+            54.0,
+            0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10651110,
-        "Name": "1344"
+        "Name": "14397"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 10000,
-        "BuffIcon": "60000017",
+        "BuffIcon": "60000022",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -16603,19 +16605,21 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            50.0,
-            1.0
+            65.0,
+            0.05,
+            54.0,
+            0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10651120,
-        "Name": "1344"
+        "Name": "14397"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 10000,
-        "BuffIcon": "60000017",
+        "BuffIcon": "60000022",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -16625,19 +16629,21 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            50.0,
-            1.0
+            65.0,
+            0.05,
+            54.0,
+            0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10651130,
-        "Name": "1344"
+        "Name": "14397"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 10000,
-        "BuffIcon": "60000017",
+        "BuffIcon": "60000022",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -16647,19 +16653,21 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            50.0,
-            1.0
+            65.0,
+            0.05,
+            54.0,
+            0.05
         ],
-        "SameBuffType": 0,
+        "SameBuffType": 1,
         "OverlayLimit": 1,
         "IfDispel": true,
         "ID": 10651140,
-        "Name": "1344"
+        "Name": "14397"
     },
     {
         "BuffEffectType": 2,
         "BuffDuration": 10000,
-        "BuffIcon": "60000017",
+        "BuffIcon": "60000022",
         "BuffArtEffect": "",
         "BuffArtEffectID": 0,
         "BuffEndType": 0,
@@ -16669,14 +16677,246 @@
         "HaloRange": -1.0,
         "BuffPropertySource": 0,
         "BuffEffectPara": [
-            50.0,
-            1.0
+            65.0,
+            0.05,
+            54.0,
+            0.05
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651150,
+        "Name": "14397"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000022",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            65.0,
+            0.05,
+            54.0,
+            0.05
         ],
         "SameBuffType": 0,
         "OverlayLimit": 1,
         "IfDispel": true,
-        "ID": 10651150,
-        "Name": "1344"
+        "ID": 10651210,
+        "Name": "14398"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000022",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            65.0,
+            0.06,
+            54.0,
+            0.06
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651220,
+        "Name": "14398"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000022",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            65.0,
+            0.07,
+            54.0,
+            0.07
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651230,
+        "Name": "14398"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000022",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            65.0,
+            0.08,
+            54.0,
+            0.08
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651240,
+        "Name": "14398"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 0,
+        "BuffIcon": "60000022",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            65.0,
+            0.1,
+            54.0,
+            0.1
+        ],
+        "SameBuffType": 0,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651250,
+        "Name": "14398"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 15000,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.1
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651310,
+        "Name": "14399"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 15000,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.15
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651320,
+        "Name": "14399"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 15000,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.2
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651330,
+        "Name": "14399"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 15000,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.25
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651340,
+        "Name": "14399"
+    },
+    {
+        "BuffEffectType": 2,
+        "BuffDuration": 15000,
+        "BuffIcon": "61000016",
+        "BuffArtEffect": "",
+        "BuffArtEffectID": 0,
+        "BuffEndType": 0,
+        "BuffEndParam": [],
+        "BuffState": 1,
+        "BuffGap": 0,
+        "HaloRange": -1.0,
+        "BuffPropertySource": 0,
+        "BuffEffectPara": [
+            95.0,
+            0.35
+        ],
+        "SameBuffType": 1,
+        "OverlayLimit": 1,
+        "IfDispel": true,
+        "ID": 10651350,
+        "Name": "14399"
     },
     {
         "BuffEffectType": 2,

@@ -74337,11 +74337,11 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 30000650,
-        "TrunkSkillName": "5285",
+        "TrunkSkillName": "14397",
         "TrunkSkillIcon": "71000650",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "6451",
+        "TrunkSkillDesc": "14401",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             2.15
@@ -74363,11 +74363,11 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 30000650,
-        "TrunkSkillName": "5285",
+        "TrunkSkillName": "14397",
         "TrunkSkillIcon": "71000650",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "6452",
+        "TrunkSkillDesc": "14402",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             2.44
@@ -74389,11 +74389,11 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 30000650,
-        "TrunkSkillName": "5285",
+        "TrunkSkillName": "14397",
         "TrunkSkillIcon": "71000650",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "6453",
+        "TrunkSkillDesc": "14403",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             2.73
@@ -74415,11 +74415,11 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 30000650,
-        "TrunkSkillName": "5285",
+        "TrunkSkillName": "14397",
         "TrunkSkillIcon": "71000650",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "6454",
+        "TrunkSkillDesc": "14404",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             3.01
@@ -74441,11 +74441,11 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 30000650,
-        "TrunkSkillName": "5285",
+        "TrunkSkillName": "14397",
         "TrunkSkillIcon": "71000650",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 1,
-        "TrunkSkillDesc": "6455",
+        "TrunkSkillDesc": "14405",
         "PowerNeed": 5900,
         "SkillAggRatio": [
             3.59
@@ -74467,23 +74467,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5148",
+        "TrunkSkillName": "14398",
         "TrunkSkillIcon": "71000651",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5595",
+        "TrunkSkillDesc": "14406",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651210
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                27
-            ],
-            "values": [
-                0.095
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74493,23 +74491,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5148",
+        "TrunkSkillName": "14398",
         "TrunkSkillIcon": "71000651",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5596",
+        "TrunkSkillDesc": "14407",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651220
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                27
-            ],
-            "values": [
-                0.115
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74519,23 +74515,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5148",
+        "TrunkSkillName": "14398",
         "TrunkSkillIcon": "71000651",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5597",
+        "TrunkSkillDesc": "14408",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651230
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                27
-            ],
-            "values": [
-                0.135
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74545,23 +74539,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5148",
+        "TrunkSkillName": "14398",
         "TrunkSkillIcon": "71000651",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5598",
+        "TrunkSkillDesc": "14409",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651240
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                27
-            ],
-            "values": [
-                0.155
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74571,23 +74563,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5148",
+        "TrunkSkillName": "14398",
         "TrunkSkillIcon": "71000651",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5599",
+        "TrunkSkillDesc": "14410",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651250
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                27
-            ],
-            "values": [
-                0.195
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74597,23 +74587,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5286",
+        "TrunkSkillName": "14399",
         "TrunkSkillIcon": "71000652",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "6456",
+        "TrunkSkillDesc": "14411",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651310
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                72
-            ],
-            "values": [
-                0.1
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74623,23 +74611,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5286",
+        "TrunkSkillName": "14399",
         "TrunkSkillIcon": "71000652",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "6457",
+        "TrunkSkillDesc": "14412",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651320
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                72
-            ],
-            "values": [
-                0.12
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74649,23 +74635,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5286",
+        "TrunkSkillName": "14399",
         "TrunkSkillIcon": "71000652",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "6458",
+        "TrunkSkillDesc": "14413",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651330
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                72
-            ],
-            "values": [
-                0.14
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74675,23 +74659,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5286",
+        "TrunkSkillName": "14399",
         "TrunkSkillIcon": "71000652",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "6459",
+        "TrunkSkillDesc": "14414",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651340
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                72
-            ],
-            "values": [
-                0.16
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74701,23 +74683,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5286",
+        "TrunkSkillName": "14399",
         "TrunkSkillIcon": "71000652",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "6460",
+        "TrunkSkillDesc": "14415",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651350
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                72
-            ],
-            "values": [
-                0.2
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74727,23 +74707,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5142",
+        "TrunkSkillName": "14400",
         "TrunkSkillIcon": "71000653",
         "TrunkSkillLevel": 1,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5565",
+        "TrunkSkillDesc": "14416",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651410
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.08
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74753,23 +74731,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5142",
+        "TrunkSkillName": "14400",
         "TrunkSkillIcon": "71000653",
         "TrunkSkillLevel": 2,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5566",
+        "TrunkSkillDesc": "14417",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651420
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.095
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74779,23 +74755,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5142",
+        "TrunkSkillName": "14400",
         "TrunkSkillIcon": "71000653",
         "TrunkSkillLevel": 3,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5567",
+        "TrunkSkillDesc": "14418",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651430
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.11
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74805,23 +74779,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5142",
+        "TrunkSkillName": "14400",
         "TrunkSkillIcon": "71000653",
         "TrunkSkillLevel": 4,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5568",
+        "TrunkSkillDesc": "14419",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651440
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.125
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
@@ -74831,23 +74803,21 @@
     {
         "CharacterName": "赫普妮格",
         "SkillActionEffect": 0,
-        "TrunkSkillName": "5142",
+        "TrunkSkillName": "14400",
         "TrunkSkillIcon": "71000653",
         "TrunkSkillLevel": 5,
         "TrunkSkillType": 2,
-        "TrunkSkillDesc": "5569",
+        "TrunkSkillDesc": "14420",
         "PowerNeed": 0,
         "SkillAggRatio": [],
         "SkillAggValue": 0,
-        "SkillSpecialEffectID": [],
+        "SkillSpecialEffectID": [
+            10651450
+        ],
         "PanelSkillEffectID": [],
         "TrunkSkillPower": {
-            "keys": [
-                65
-            ],
-            "values": [
-                0.155
-            ],
+            "keys": null,
+            "values": null,
             "propertys": null
         },
         "IfForbidden": false,
