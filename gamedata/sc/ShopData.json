@@ -3415,6 +3415,32 @@
         "Name": null
     },
     {
+        "ShopID": 7,
+        "ItemID": 11100081,
+        "Icon": "",
+        "Count": 1,
+        "GoodsOpenType": 0,
+        "GoodsOpenPara": "",
+        "MoneyType": 4,
+        "PriceType": 2,
+        "PricePara": 0,
+        "Price": 178,
+        "BuyLimitType": 2,
+        "BuyLimitPara": "",
+        "BuyLimitNum": 1,
+        "MarkType": "",
+        "Array": 1,
+        "IfDisplay": true,
+        "IosOpenTime": "2020/3/5 14:00:00",
+        "IosCloseTime": "2020/3/19 13:59:59",
+        "AndOpenTime": "2020/3/5 14:00:00",
+        "AndCloseTime": "2020/3/19 13:59:59",
+        "GiftItem": [],
+        "GirlSkinShopID": 100039,
+        "ID": 70039,
+        "Name": null
+    },
+    {
         "ShopID": 3,
         "ItemID": 10400010,
         "Icon": "",
@@ -7665,6 +7691,37 @@
         "Name": null
     },
     {
+        "ShopID": 20,
+        "ItemID": 11100081,
+        "Icon": "",
+        "Count": 1,
+        "GoodsOpenType": 0,
+        "GoodsOpenPara": "",
+        "MoneyType": 4,
+        "PriceType": 2,
+        "PricePara": 0,
+        "Price": 178,
+        "BuyLimitType": 2,
+        "BuyLimitPara": "",
+        "BuyLimitNum": 1,
+        "MarkType": "",
+        "Array": 1,
+        "IfDisplay": true,
+        "IosOpenTime": "2020/3/5 14:30:00",
+        "IosCloseTime": "2020/3/19 13:59:59",
+        "AndOpenTime": "2020/3/5 14:30:00",
+        "AndCloseTime": "2020/3/19 13:59:59",
+        "GiftItem": [
+            [
+                10810001,
+                2
+            ]
+        ],
+        "GirlSkinShopID": 0,
+        "ID": 200019,
+        "Name": null
+    },
+    {
         "ShopID": 2001,
         "ItemID": 11700008,
         "Icon": "",
@@ -11826,7 +11883,7 @@
     },
     {
         "ShopID": 3001,
-        "ItemID": 13300065,
+        "ItemID": 13300081,
         "Icon": "",
         "Count": 1,
         "GoodsOpenType": 0,
@@ -11852,7 +11909,7 @@
     },
     {
         "ShopID": 3001,
-        "ItemID": 13300066,
+        "ItemID": 13300082,
         "Icon": "",
         "Count": 1,
         "GoodsOpenType": 0,
@@ -11878,7 +11935,7 @@
     },
     {
         "ShopID": 3001,
-        "ItemID": 13300067,
+        "ItemID": 13300083,
         "Icon": "",
         "Count": 1,
         "GoodsOpenType": 0,
@@ -11904,7 +11961,7 @@
     },
     {
         "ShopID": 3001,
-        "ItemID": 13300068,
+        "ItemID": 13300084,
         "Icon": "",
         "Count": 1,
         "GoodsOpenType": 0,

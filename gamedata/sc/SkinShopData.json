@@ -534,7 +534,7 @@
         "BackGround": 0,
         "MachineArmor": "",
         "Recommendation": 1,
-        "IsOpen": false,
+        "IsOpen": true,
         "GetWay": "4457",
         "ID": 100037,
         "Name": null
@@ -549,9 +549,24 @@
         "BackGround": 0,
         "MachineArmor": "",
         "Recommendation": 2,
-        "IsOpen": false,
+        "IsOpen": true,
         "GetWay": "4457",
         "ID": 100038,
+        "Name": null
+    },
+    {
+        "ShopID": 20,
+        "SkinName": "1028",
+        "Price": 1,
+        "MoneyType": 2,
+        "Discount": "",
+        "CorrespondingRoles": 81,
+        "BackGround": 20081,
+        "MachineArmor": "",
+        "Recommendation": 1,
+        "IsOpen": false,
+        "GetWay": "4457",
+        "ID": 100039,
         "Name": null
     }
 ]

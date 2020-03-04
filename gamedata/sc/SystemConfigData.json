@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200017,200018",
+        "Value": "200019",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,7 +1730,7 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100031",
+        "Value": "10100034",
         "Desc": "",
         "ID": 248,
         "Name": null
@@ -2472,7 +2472,7 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_13,SkinActive_14",
+        "Value": "SkinActive_3",
         "Desc": "",
         "ID": 354,
         "Name": null
@@ -2524,6 +2524,20 @@
         "Value": "10100002,50",
         "Desc": "",
         "ID": 361,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginBegin",
+        "Value": "2020/3/5 0:00:00",
+        "Desc": "用回流活动改的7日登陆-开始时间",
+        "ID": 362,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginEnd",
+        "Value": "2020/3/19 11:00:00",
+        "Desc": "用回流活动改的7日登陆-结束时间",
+        "ID": 363,
         "Name": null
     }
 ]
