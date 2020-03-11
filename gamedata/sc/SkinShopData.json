@@ -568,5 +568,35 @@
         "GetWay": "4457",
         "ID": 100039,
         "Name": null
+    },
+    {
+        "ShopID": 20,
+        "SkinName": "13197",
+        "Price": 1,
+        "MoneyType": 2,
+        "Discount": "",
+        "CorrespondingRoles": 79,
+        "BackGround": 0,
+        "MachineArmor": "",
+        "Recommendation": 2,
+        "IsOpen": false,
+        "GetWay": "4457",
+        "ID": 100040,
+        "Name": null
+    },
+    {
+        "ShopID": 20,
+        "SkinName": "13202",
+        "Price": 1,
+        "MoneyType": 2,
+        "Discount": "",
+        "CorrespondingRoles": 38,
+        "BackGround": 21038,
+        "MachineArmor": "",
+        "Recommendation": 1,
+        "IsOpen": false,
+        "GetWay": "4457",
+        "ID": 100041,
+        "Name": null
     }
 ]

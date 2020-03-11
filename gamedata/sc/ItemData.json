@@ -32039,5 +32039,31 @@
         "ShopID": [],
         "ID": 11600116,
         "Name": "14421"
+    },
+    {
+        "Description": "14973",
+        "Icon": "82020019",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 6,
+        "IsCountBag": true,
+        "ItemQualityType": 2,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 4,
+        "UsedGetPara": [
+            7140423
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 20,
+        "ShopID": [],
+        "ID": 11600117,
+        "Name": "14972"
     }
 ]
